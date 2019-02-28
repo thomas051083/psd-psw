@@ -1,0 +1,47 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: What is PSW
+  url: /what-is-psw/
+- title: Events
+  url: /events/learning-journeys/
+  sub-links:
+  - title: Learning Journeys
+    url: /events/learning-journeys/1-6-july/
+  - title: Istana Reception
+    url: /events/istana-reception/
+  - title: PST Awards
+    url: /events/pst-awards/
+  - title: PST Conference Exhibition
+    url: /events/pst-conference-exhibition/
+  - title: Sports and Family Day
+    url: /events/sports-and-family-day/
+- title: Exclusives
+  url: /exclusives/exclusive-1/
+  sub-links:
+  - title: Exclusive 1
+    url: /exclusives/exclusive-1/
+  - title: Exclusive 2
+    url: /exclusives/exclusive-2/
+  - title: Exclusive 3
+    url: /exclusives/exclusive-3/
+  - title: Exclusive 4
+    url: /exclusives/exclusive-4/
+  - title: Exclusive 5
+    url: /exclusives/exclusive-5/
+  - title: Exclusive 6
+    url: /exclusives/exclusive-6/
+- title: News
+  url: /news/
+  sub-links:
+  - title: All
+    url: /news/
+  - title: News
+    url: /news/news/
+  - title: Publications
+    url: /news/publications/
