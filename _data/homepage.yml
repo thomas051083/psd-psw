@@ -1,8 +1,9 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
+# Include '#' to switch code to comment
+# To link to internal pages 
+  # url: /page name/ --> internal hyperlink
+# To link to external pages 
+  # url: https://actual_website_to_hyperlink 
+  # include 'external: true' 
 
 # Favicon
 favicon: /images/favicon-isomer.ico
@@ -10,9 +11,9 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/PSW_Logo.png
 
-# Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+# Hero text
+hero-title: Public Service Week 2019
+hero-subtitle: Public Service Week is an annual event to create a greater appreciation for the work of the Public Service while inspiring public officers to live out her values and ethos.
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
