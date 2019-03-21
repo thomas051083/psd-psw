@@ -8,7 +8,7 @@ collection_name: events
 
 ### PST Awards Reception
 
-![Istana](/images/4.jpg)
+![Events](/images/6.jpg)
 
 **Time and Date:** 19 July 2019, 2:30pm - 6:00pm
 <br>
