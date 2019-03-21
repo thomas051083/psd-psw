@@ -7,7 +7,7 @@ collection_name: events
 ---
 ### Istana Reception
 
-![Istana](/images/file6x8uzzbsc4517q3cv37g.jpg)
+![Istana](/images/4.jpg)
 
 **Time and Date:** 16 July 2019, Late Afternoon onwards
 <br>
