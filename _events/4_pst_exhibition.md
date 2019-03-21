@@ -11,6 +11,7 @@ collection_name: events
 
 **Time and Date:** 17 & 18 July 2019, 9:00am - 6:00pm
 <br>**Venue:** Our Tampines Hub
+<br> *The PST Exhibition is open for both Public and Public Officers. No tickets or invitation is required for admission.*
 <br>
 <br>
 <b>An exhibition not to be missed </b> <br>
