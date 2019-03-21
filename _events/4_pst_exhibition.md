@@ -23,6 +23,7 @@ This year, the Public Service Transformation Exhibition shares answers to everyd
 <li> Preparing to Leave a Legacy – our lives, relationships and stories matter. Find out why and how one could begin planning for their legacy for loved ones, and ways to be remembered with those who matter </li>
 </ul>
 <br>
+<br>
 Plus, catch up with colleagues across agencies over a free cup (or two) of coffee and tea at our cosy coffee corner – don’t miss this one-stop opportunity to stay updated with the latest across the public service and to connect with old friends! <br>
 <br>
 <br>
