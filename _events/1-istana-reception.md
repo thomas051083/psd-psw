@@ -9,9 +9,13 @@ collection_name: events
 
 ![Istana](/images/file6x8uzzbsc4517q3cv37g.jpg)
 
-**Time and Date:** 2pm on 11 April 2019
-<br>**Venue:** Istana
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget orci sit amet nisl mattis mollis. Nullam finibus, sem at consequat feugiat, lorem diam consequat dolor, vehicula luctus lectus ante eget nisi. Proin sit amet convallis metus. Praesent nec nisi eu ipsum congue faucibus. Praesent eget augue ut neque auctor tincidunt id vel nisi.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget orci sit amet nisl mattis mollis. Nullam finibus, sem at consequat feugiat, lorem diam consequat dolor, vehicula luctus lectus ante eget nisi. Proin sit amet convallis metus. Praesent nec nisi eu ipsum congue faucibus. Praesent eget augue ut neque auctor tincidunt id vel nisi.
-<a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a>
+**Time and Date:** 16 July 2019, Late Afternoon onwards
+<br>
+**Venue:** Istana
+<br>
+*The Istana Reception is a closed door event meant for public officers with invites only.*
+<br>
+<br>
+The Istana Reception is an occasion to recognise and celebrate the achievements of the Public Service, and instil a sense of pride and belonging in public officers. Hosted by President Halimah Yacob, the reception will be attended by Mr Chan Chun Sing, Minister for Trade & Industry and Minister-in-charge of the Public Service, as well as approximately 600 public officers from across the Singapore Public Service. Among the attendees are recipients of the Long Service Award, National Day Award and officers who have made significant contributions to the Public Service. 
+<!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
+<!-- <a href="include link><img src="/include image" style="width:280px"/> </a> --> 
