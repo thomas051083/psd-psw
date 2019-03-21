@@ -36,6 +36,6 @@ i) Carnival Activities <br>
 j) Children’s activities <br>
 <br>
 <br>
-Click <a href="https://ldlkdkf">here</a> to sign up for any of these Activities today!
+Click <a href="https://ldlkdkf">here</a> to sign up for any of these activities today!
 <br>
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
