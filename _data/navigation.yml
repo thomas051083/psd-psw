@@ -1,15 +1,13 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Contact Us
-  url: /contact-us/
+# Top to Bottom --> Left to Right
+# Second tier for menu bar --> include 'sub-links:'
+  # Take note of indentations
+  
+ 
 - title: What is PSW
   url: /what-is-psw/
+
 - title: Events
-  url: /events/learning-journeys/
+  url: /events/learning-journeys/1-6-july/
   sub-links:
   - title: Learning Journeys
     url: /events/learning-journeys/1-6-july/
@@ -17,10 +15,13 @@
     url: /events/istana-reception/
   - title: PST Awards
     url: /events/pst-awards/
-  - title: PST Conference Exhibition
-    url: /events/pst-conference-exhibition/
+  - title: PST Conference
+    url: /events/pst-conference/
+  - title: PST Exhibition
+    url: /events/pst-exhibition/
   - title: Sports and Family Day
     url: /events/sports-and-family-day/
+
 - title: Exclusives
   url: /exclusives/exclusive-1/
   sub-links:
@@ -36,12 +37,16 @@
     url: /exclusives/exclusive-5/
   - title: Exclusive 6
     url: /exclusives/exclusive-6/
-- title: News
-  url: /news/
-  sub-links:
-  - title: All
-    url: /news/
-  - title: News
-    url: /news/news/
-  - title: Publications
-    url: /news/publications/
+
+#- title: News
+#  url: /news/
+#  sub-links:
+#  - title: All
+#    url: /news/
+#  - title: News
+#    url: /news/news/
+#  - title: Publications
+#    url: /news/publications/
+
+- title: Contact Us
+  url: /contact-us/
