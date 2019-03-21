@@ -6,7 +6,7 @@
   # include 'external: true' 
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/PSW_Logo.png
 
 # Agency logo
 agency-logo: /images/PSW_Logo.png
