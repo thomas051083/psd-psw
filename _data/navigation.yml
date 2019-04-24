@@ -23,10 +23,8 @@
     url: /events/sports-and-family-day/
 
 - title: Exclusives
-  url: /exclusives/exclusive-1/
-  sub-links:
-  - title: Exclusive 1
-    url: /exclusives/exclusive-treats/
+  url: /exclusives/exclusive-treats/
+
 
 #- title: News
 #  url: /news/
