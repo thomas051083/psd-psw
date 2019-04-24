@@ -10,8 +10,8 @@ second_nav_title: "PST Conference"
 ### Conference Speakers
 
 <br>
-<!-- Schedule --> 
-<table class="table-v">
+<!-- Speakers --> 
+<table>
   <tr>
     <td><a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a></td>
     <td>Lorem Ipsum</td>
@@ -28,7 +28,7 @@ second_nav_title: "PST Conference"
     </td>
   </tr>
   <tr>
-    <td>Image of Speaker2</td>
+    <td><a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a></td>
     <td>Lorem Ipsum</td>
   </tr>
 </table>
