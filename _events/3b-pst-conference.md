@@ -49,28 +49,10 @@ second_nav_title: "PST Conference"
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
     nisi ut aliquip exea commodo consequat.
     <br>
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   </tr>
 </table>
 
-
-<table>
-  <tr>
-    <td><a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a></td>
-    <td>Lorem Ipsum</td>
-  </tr>
-  <tr>
-    <td><a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a></td>
-    <td>
-    
-    </td>
-  </tr>
-  <tr>
-    <td><a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a></td>
-    <td>Lorem Ipsum</td>
-  </tr>
-</table>
 
 <br> 
 Please refer to our <a href="url">FAQ</a> for more information. <br>
