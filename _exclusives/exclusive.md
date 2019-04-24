@@ -34,9 +34,11 @@ breadcrumb: Exclusives Treats
     </td>
     <td>
       <b>Free Singapore Cable Car Ride* (worth up to $70) with sign up of Sentosa Islander Membership by 31st July 2019</b>
-      <br>Simply key in the promotion code at islander.com.sg <br>
-      Family ($50/yr): PSDFM3LW<br>
       <br>
+      <br>
+      Simply key in the promotion code at islander.com.sg <br>
+      <br>
+      Family ($50/yr): PSDFM3LW<br>
       Individual ($25/yr): PSD9B7MH<br>
       <br>
       <i>*1 ticket for Individual Membership & 2 tickets for Family Membership<br></i>
