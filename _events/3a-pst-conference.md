@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: PST Conference
+title: Introduction to PST Conference
 permalink: /events/pst-conference/
 breadcrumb: PST Conference
 collection_name: events
