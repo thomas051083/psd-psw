@@ -21,7 +21,6 @@ Join us at the PST conference to hear from local and international Service Desig
 <br>
 This year, there will also be related Service Design Learning Journeys, Workshops and Consultation Clinics happening in the afternoon to reinforce learnings from the conference with first-hand experiences. Participants may select their preferred activity for the afternoon session, subject to availability, during registration. The PST Conference is part of Public Service Week 2019. Find out more below. <br>
 <br>
-<br>
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
 
 <br>
