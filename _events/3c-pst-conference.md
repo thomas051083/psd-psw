@@ -19,9 +19,9 @@ second_nav_title: "PST Conference"
     <td>
       <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-    nisi ut aliquip exea commodo consequat.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
+    nisi ut aliquip exea commodo consequat. <br>
     <br>
     </td>
   </tr>
@@ -32,8 +32,8 @@ second_nav_title: "PST Conference"
     <td>
      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
     nisi ut aliquip exea commodo consequat.
     <br>
     </td>
@@ -45,9 +45,9 @@ second_nav_title: "PST Conference"
     <td>
       <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-    nisi ut aliquip exea commodo consequat.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
+    nisi ut aliquip exea commodo consequat. <br>
     <br>
     </td>
   </tr>
