@@ -9,7 +9,7 @@ breadcrumb: Exclusives Treats
 <table>
   <tr>
     <td>
-      <img src="/images/SP Logo.png" /> </a>
+      <img src="/images/SP Logo.png" />
     </td>
     <td>
       <b>Free General Eye Examination</b>
