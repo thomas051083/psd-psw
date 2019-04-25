@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: 28 - 31 July
-permalink: /events/learning-journeys/28-31-july
+permalink: /events/psw-learning-festival/28-31-july
 breadcrumb: 28 - 31 July
 collection_name: events
-second_nav_title: "Learning Journeys"
+second_nav_title: "PSW Learning Festival"
 ---
 ### Week of 28 - 31 July
 
