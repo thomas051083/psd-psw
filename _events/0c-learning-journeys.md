@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: 14 - 20 July
-permalink: /events/learning-journeys/14-20-july
+permalink: /events/psw-learning-festival/14-20-july
 breadcrumb: 14 - 20 July
 collection_name: events
-second_nav_title: "Learning Journeys"
+second_nav_title: "PSW Learning Festival"
 ---
 ### Week of 14 - 20 July
 
