@@ -6,8 +6,10 @@ breadcrumb: What is PSW?
 ---
 ### What is Public Service Week
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget orci sit amet nisl mattis mollis. Nullam finibus, sem at consequat feugiat, lorem diam consequat dolor, vehicula luctus lectus ante eget nisi. Proin sit amet convallis metus. Praesent nec nisi eu ipsum congue faucibus. Praesent eget augue ut neque auctor tincidunt id vel nisi.
+<b>Public Service Week was inaugurated in 2008 as an annual event for public officers to build pride and a sense of belonging to the Public Service core values and recognise the good work done by public officers and agencies. </b> The tagline of PSW. "Serving the Nation and Proud of it" is a strong commitment for us to continue to maintain our ethos of doing our best for Singapore. 
+<br>
+<br>
+Public Service Week 2019 is aligned with the next phase of Public Sector Transformation, which emphasises the need for deep transformation to the core, to build a Future Public Service capable of building our Future Singapore. 
+<br>
+<br>
 
-### Serving the nation and proud of it
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget orci sit amet nisl mattis mollis. Nullam finibus, sem at consequat feugiat, lorem diam consequat dolor, vehicula luctus lectus ante eget nisi. Proin sit amet convallis metus. Praesent nec nisi eu ipsum congue faucibus. Praesent eget augue ut neque auctor tincidunt id vel nisi.
