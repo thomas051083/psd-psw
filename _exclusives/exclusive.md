@@ -30,10 +30,10 @@ breadcrumb: Exclusives Treats
   </tr>
   <tr>
     <td>
-      <img src="/images/Sentosa-01.png" />
+      <img src="/images/sentosa-card-01.png" />
     </td>
     <td>
-      <b>Free Singapore Cable Car Ride* (worth up to $70) with sign up of Sentosa Islander Membership by 31st July 2019</b>
+      <b>Free Singapore Cable Car Tickets* (worth up to $70) with sign up of Sentosa Islander Membership by 31st July 2019</b>
       <br>
       <br>
       Simply key in the promotion code at islander.com.sg <br>
