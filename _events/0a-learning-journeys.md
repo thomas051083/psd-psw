@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: 1 - 6 July
-permalink: /events/learning-journeys/1-6-july
+permalink: /events/psw-learning-festival/1-6-july
 breadcrumb: 1 - 6 July
 collection_name: events
-second_nav_title: "Learning Journeys"
+second_nav_title: "PSW Learning Festival"
 ---
 ### Week of 1 - 6 July
 
