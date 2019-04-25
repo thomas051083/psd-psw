@@ -24,11 +24,12 @@ There will be four thematic activities namely competitions, healthy lifestyle ac
 The featured activities include the following:
 <br>
 
+<!-- [Healthy Lifestyle Walk](/documents/) -->
 a) Healthy Lifestyle Walk <br>
-b) Interactive Telematch <br>
-c) Dragon Boat Race <br>
-d) Amazing Race <br>
-e) CSC Cycle <br>
+b) [Interactive Telematch](/documents/Public Service Interactive Telematch 2019.pdf/) <br>
+c) [Dragon Boat Race](/documents/Dragon Boat Race 2019.pdf) <br>
+d) [Amazing Race](/documents/Public Service Amazing Race 2019.pdf) <br>
+e) [CSC Cycle](/documents/CSC Cycle 2019.pdf) <br>
 f) Sports Try-out <br> 
 g) Kayaking and Bell Boating Tryout <br>
 h) Family Treasure Hunt <br>
