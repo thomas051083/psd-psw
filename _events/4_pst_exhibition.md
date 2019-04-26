@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: PST Exhibition
-permalink: /events/pst_exhibition/
+permalink: /events/pst-exhibition/
 breadcrumb: PST Exhibition
 collection_name: events
 ---
