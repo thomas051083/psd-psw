@@ -13,13 +13,14 @@ second_nav_title: "PST Conference"
 <br>**Venue:** Festive Arts Theatre, Our Tampines Hub
 <br> *The PST Conference is open for Public Officers who have signed up for the event. A confirmation e-mail is required for admission.*
 <br>
-In line with Public Service Week 2019, the Public Sector Transformation Conference 2019 is themed Redesigning Public Service Delivery: The Service Journey Approach. It aims to inspire and encourage public officers, especially those in service design and implementation roles, to rethink service delivery from the citizens’ point of view. This involves empathetic understanding of their customer experience journeys and pain points, and aligning backend processes beyond your own team and agency to achieve anticipatory and citizen-centric service delivery effectively.
+This year’s Public Sector Transformation Conference 2019 is themed Redesigning Public Service Delivery: The Service Journey Approach. It aims to inspire and encourage public officers, especially those in service design and implementation roles, to rethink service delivery from the citizens’ point of view.
 <br>
-Join us in hearing from experts and practitioners helming service design projects and initiatives in both the public and private sector, and to gain insights about the trending developments in public service transformation efforts.
 <br>
-The conference topics will cover the challenges in redesigning services to cater to needs from the perspective of citizens and clients, addressing pertinent policy issues and gearing up capabilities for greater integration between business operations and technology.
+Join us in hearing from experts and practitioners helming service design projects and initiatives in both the public and private sector, and to gain insights about the trending developments in public service transformation efforts. 
 <br>
-As part of the programme, conference attendees will also be invited to sign up for on-site learning journeys at well-known companies that have adopted a Service Design approach to serve customers better, such as Grab and OCBC; and Service Journey foundation workshops. Upon conference registration, attendees may choose their preferred learning activity for the afternoon, subject to availability.
+<br>
+As part of the programme, conference attendees can also sign up for on-site learning journeys at companies that have adopted a Service Design approach, such as Grab and OCBC; and Service Journey foundation workshops. 
+<br>
 <br>
 More details on the conference and learning activities will be announced, so stay tuned!
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
