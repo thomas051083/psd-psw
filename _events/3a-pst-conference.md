@@ -8,9 +8,7 @@ second_nav_title: "PST Conference"
 ---
 
 ### PST Conference 
-
 ![PST Conference](/images/1.jpg)
-
 **Time and Date:** 18 July 2019
 <br>**Venue:** Festive Arts Theatre, Our Tampines Hub
 <br> *The PST Conference is open for Public Officers who have signed up for the event. A confirmation e-mail is required for admission.*
@@ -25,11 +23,11 @@ As part of the programme, conference attendees will also be invited to sign up f
 <br>
 More details on the conference and learning activities will be announced, so stay tuned!
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
+<br>
+<br>
 
-<br>
-<br>
+
 ### Conference Speakers
-<br>
 <!-- Schedule --> 
 <table class="table-v">
   <tr>
@@ -54,7 +52,6 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
 </table>
 <i>*More Details to come. Conference programme is subject to change </i>
-
 <br>
 <!-- Speakers --> 
 <table>
@@ -103,12 +100,10 @@ More details on the conference and learning activities will be announced, so sta
 <br> 
 Please refer to our <a href="url">FAQ</a> for more information. <br>
 For Further questions, you may contact <XXX@tech.gov.sg> <br>
+<br>
+<br>
 
-<br>
-<br>
 ### Learning Journey and Masterclass
-
-<br>
 <!-- Speakers --> 
 <table>
   <tr>
