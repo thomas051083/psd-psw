@@ -27,6 +27,9 @@ More details on the conference and learning activities will be announced, so sta
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
 
 <br>
+<br>
+### Conference Speakers
+<br>
 <!-- Schedule --> 
 <table class="table-v">
   <tr>
@@ -51,3 +54,100 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
 </table>
 <i>*More Details to come. Conference programme is subject to change </i>
+
+<br>
+<!-- Speakers --> 
+<table>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a>
+    </td>
+    <td>
+      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    nisi ut aliquip exea commodo consequat.
+    <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+     <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    nisi ut aliquip exea commodo consequat.
+    <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    nisi ut aliquip exea commodo consequat.
+    <br>
+    </td>
+  </tr>
+</table>
+
+
+<br> 
+Please refer to our <a href="url">FAQ</a> for more information. <br>
+For Further questions, you may contact <XXX@tech.gov.sg> <br>
+
+<br>
+<br>
+### Learning Journey and Masterclass
+
+<br>
+<!-- Speakers --> 
+<table>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a>
+    </td>
+    <td>
+      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
+    nisi ut aliquip exea commodo consequat. <br>
+    <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+     <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
+    nisi ut aliquip exea commodo consequat.
+    <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
+    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
+    nisi ut aliquip exea commodo consequat. <br>
+    <br>
+    </td>
+  </tr>
+</table>
