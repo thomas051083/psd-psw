@@ -12,5 +12,5 @@ What is Singapore's Education Story? Visit MOE's heritage Centre to understand t
 
 **Date and Time: 5 Jul 2019, 2.30pm to 4.30pm 
 **Location: MOE Heritage Centre, 402 Commonwealth Drive, S(149599) 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090482277)** 
 
