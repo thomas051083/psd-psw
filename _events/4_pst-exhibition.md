@@ -17,6 +17,9 @@ collection_name: events
 <b>An exhibition not to be missed </b> <br>
 As public service officers, our work impacts the everyday lives of Singaporeans – our family, friends, and not least ourselves. But how familiar are you with the various services available at each life stage? <br>
 This year, the Public Service Transformation Exhibition shares answers to everyday questions and issues across the minds of Singaporeans at four key moments in their life: <br> 
+
+<span id="dots">...</span><span id="more">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span>
+
 <br>
 <ul> 
 <li> Working Life – read lesser-known advice you wish you knew before your first job, to data and industry trends to help you stay ahead of your personal curve as work demands change </li>
