@@ -8,8 +8,8 @@ breadcrumb: Learning Festival
 ## Learning Journey 
 ### Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)
 
-Keen to experience the Home Team's tranformational journey in optimising . 
+Are you keen to experience the Home Team's tranformational journey in optimising its work processes, operational systems and the performance of Home Team Officers? Come and visit the Human Performance Centre, the first-of-its-kind high-tech facility to help analyse, plan test and evaluate new equipment, systems and work methods before they are deployed into the operational environment. You also get an insider's view of how virtual reality is supporting them in their journey of rapid prototyping and innovation.
 
-**Date and Time: Negotiable from Jul 2019 onwards and to be completed by Nov 2019** 
-**Location: TBC** 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+**Date and Time: 12 Jul 2019, 2.00pm to 5.00pm** 
+**Location: Home Team Academy
+**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090342860)** 
