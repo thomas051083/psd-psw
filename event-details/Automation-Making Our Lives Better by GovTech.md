@@ -8,10 +8,10 @@ breadcrumb: Learning Festival
 ## Learning Activity
 ### Automation - Making our Lives Better by GovTech 
 
-Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with indviduals, families and the community in the rehabilitation of persons who commit crime. This experience may include the opportunity to observe Court sessions, interviews with probationers and their families, programmes, etc. 
+Keen to learn basic web automation? Take this opportunity to learn about a basic web automation using Chrome browser extension - KANTU; which you can use to automate some of their daily repeatable tasks at work. 
 
-**Date and Time: Negotiable from Jul 2019 onwards and to be completed by Nov 2019** 
-**Location: TBC** 
+**Date and Time: 10 Jul 2019 or 17 Jul 2019, 12.00pm to 2.00pm** 
+**Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** 
 **Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
 
 
