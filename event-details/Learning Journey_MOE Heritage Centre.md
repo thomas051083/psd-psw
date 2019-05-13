@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/SIMS1
+permalink: /events/learning-journeys/event-details/LJ_MOEheritagecentre
 breadcrumb: Learning Festival
 ---
 
