@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_MHAHPC
+permalink: /events/learning-journeys/event-details/LJ_VMHC
 breadcrumb: Learning Journey
 ---
 
