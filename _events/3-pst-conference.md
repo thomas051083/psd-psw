@@ -124,7 +124,7 @@ More details on the conference and learning activities will be announced, so sta
 <!-- Learning Journey --> 
 <table>
   <tr>
-  WHAT TO EXPECT 
+    <td>WHAT TO EXPECT</td>
 </tr>
   <tr>
     <td>
@@ -207,7 +207,7 @@ More details on the conference and learning activities will be announced, so sta
 
 <br> 
 Please refer to our <a href="url">FAQ</a> for more information. <br>
-For Further questions, you may contact <XXX@tech.gov.sg> <br>
+For further enquiries, please call +65 69116733 (weekdays, 10am - 6pm) or email CMG_Events@tech.gov.sg <br>
 <br>
 <br>
 
