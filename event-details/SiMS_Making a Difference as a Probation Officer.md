@@ -2,10 +2,10 @@
 layout: simple-page
 title: Learning Festival 1-19 July 2019
 permalink: /events/learning-journeys/event-details/MaDaaPO
-breadcrumb: Learning Festival
+breadcrumb: Step into My Shoes
 ---
 
-## Step Into My Shoes 
+## Step into My Shoes 
 ### Making a Difference as a Probation Officer 
 
 Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with indviduals, families and the community in the rehabilitation of persons who commit crime. This experience may include the opportunity to observe Court sessions, interviews with probationers and their families, programmes, etc. 
