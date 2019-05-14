@@ -8,9 +8,7 @@ breadcrumb: Learning Journey
 ## Learning Journey
 ### Tiong Bahru Heritage Trail 
 
-
 This is a heritage trail through the historic Tiong Bharu area. 
-
 
 **Date and Time: TBC**
 
