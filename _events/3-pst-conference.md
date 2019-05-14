@@ -120,13 +120,11 @@ More details on the conference and learning activities will be announced, so sta
 <br>
 <br>
 <br>
+
 ### Learning Journey and Masterclass
+
 <!-- Learning Journey --> 
 <table>
-  <tr>
-    <td>WHAT TO EXPECT</td>
-</tr>
-  <tr>
     <td>
       Digital Transformation Journey Workshop by IRAS X Fjord <br>
     </td>
