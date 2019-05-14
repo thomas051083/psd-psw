@@ -2,11 +2,11 @@
 layout: simple-page
 title: Learning Festival 1-19 July 2019
 permalink: /events/learning-journeys/event-details/LC_TBHT
-breadcrumb: Learning Festival
+breadcrumb: Learning Journey
 ---
 
-## Tiong Bahru Heritage Trail
-### Learn about Singapore’s history and heritage. 
+## Learning Journey
+### Tiong Bahru Heritage Trail 
 
 
 This is a heritage trail through the historic Tiong Bharu area. 
