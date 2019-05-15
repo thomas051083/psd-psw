@@ -124,10 +124,11 @@ More details on the conference and learning activities will be announced, so sta
 
 <!-- Learning Journey --> 
 <table>
+   <tr>
     <td>
       Digital Transformation Journey Workshop by IRAS X Fjord <br>
     </td>
-    <td>
+   <td>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
