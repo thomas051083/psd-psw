@@ -4,7 +4,6 @@ title: Introduction to PST Conference
 permalink: /events/pst-conference/
 breadcrumb: PST Conference
 collection_name: events
-second_nav_title: "PST Conference"
 ---
 
 ### PST Conference 
