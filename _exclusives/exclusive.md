@@ -48,13 +48,71 @@ breadcrumb: Exclusives Treats
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <img src="/images/CSC@BukitBatok_MR.jpg" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>5 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Civil Service Clubhouses and Facilities</b>
+      <br>
+      <br>Enjoy <b>free</b> pool access and <b>members'</b> rate for booking all BBQ pits, </br>
+      and bowling lanes at CSC @ Tessensohn, CSC @ Changi and CSC @ Bukit Batok during the month of July <br>
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/CSC_Chalets.jpg"/>
+    </td>
+    <td>
+      <b>Civil Service Club Chalet Promotions</b><br>
+      <br>
+      Enjoy <b>members' rate</b> for booking of any CSC chalets for stay period in July only. <br>
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Superior_Suite.jpg"/>
+    </td>
+    <td>
+      <b>Civil Service Club Chalet Promotions</b><br>
+      <br>
+      Enjoy a <b>50% off</b> a second night stay when you book the Superior Suite at CSC @ Changi 1.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Love_Literate.jpg"/>
+    </td>
+    <td>
+      <b>Civil Service Club Social Activities</b>
+      <br>
+      <br>
+      <b>Love Literate Parent-Child Workshop with a Baking Class</b><br>
+      Sign up for this parent-child workshop to understand the primary or preferred communication style for<br>
+      receiving and expressing love. The workshop is based on Dr. Gary Chapman's international bestseller,<br>
+      "The Five Love Languages". End the session with a fun and interative hands-on baking activity.<br>
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Bicentennial_Tour.jpg"/>
+    </td>
+    <td>
+      <b>Civil Service Club Social Activities</b>
+      <br>
+      <br>
+      <b>A Bicentennial Special Civil District Walking Tour (By Jane's Tour) </b><br>
+      Come discover the story behind the founding of Singapore through Jane's Tour - Winner 2018 of the Singapore Tourism Award <br>
+      for the "Best Tour Experience". The tours are designed to satisfy the curiousity of adventure some people keen to learn about <br>
+      Singapore's history and heritage and dig deep to understand how Singapore's diverse and unique culture has contributed to its <br>
+      status as a small country packing a big punch in the world. <br>
+      <br>
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
 </table>
