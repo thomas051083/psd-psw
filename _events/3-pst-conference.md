@@ -26,7 +26,7 @@ More details on the conference and learning activities will be announced, so sta
 
 ### Conference Schedule
 <!-- Schedule --> 
-<table class="table-v">
+<table>
   <tr>
     <td>TIME</td>
     <td>PROGRAMME<br>
@@ -56,7 +56,8 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>11.05AM - 11.25AM</td>
-    <td><b>Transforming Service Delivery Model Effectively - How to Adopt Service Journey Practices Effectively?</b></td>
+    <td><b>Transforming Service Delivery Model Effectively - How to Adopt Service Journey Practices Effectively?</b><br>
+    Bojan Blecic, Senior VP, Head Experience Design, OCBC Bank</td>
   </tr>
   <tr>
     <td>11.25AM - 11.45AM</td>
