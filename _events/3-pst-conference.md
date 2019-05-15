@@ -8,7 +8,6 @@ collection_name: events
 
 ### PST Conference 
 ![PST Conference](/images/Conference_Banner.png)
-<br>
 This year’s Public Sector Transformation Conference 2019 is themed Redesigning Public Service Delivery: The Service Journey Approach. It aims to inspire and encourage public officers, especially those in service design and implementation roles, to rethink service delivery from the citizens’ point of view.
 <br>
 <br>
