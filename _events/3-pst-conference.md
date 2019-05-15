@@ -127,9 +127,7 @@ More details on the conference and learning activities will be announced, so sta
 <table>
    <tr>
     <td>
-      Digital Transformation Journey Workshop by IRAS X Fjord <br>
-    </td>
-   <td>
+      <b>Digital Transformation Journey Workshop by IRAS X Fjord</b> <br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -139,10 +137,7 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>
-     Learning Journey @ Grab <br>
-    </td>
-    <td>
-     <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+      <b>Learning Journey @ Grab</b><br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -152,10 +147,7 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>
-      Learning Journey @ OCBC Experience Lab <br>
-    </td>
-    <td>
-      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+      <b>Learning Journey @ OCBC Experience Lab <br></b>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -165,10 +157,7 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>
-      Learning Journey @ Singtel <br>
-    </td>
-    <td>
-      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+      <b>Learning Journey @ Singtel</b> <br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -178,10 +167,7 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>
-      Service Blueprinting Workshops by GovTech - Hive <br>
-    </td>
-    <td>
-      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+      <b>Service Blueprinting Workshops by GovTech - Hive</b><br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -191,10 +177,7 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>
-      Strategic Application of Service Journeys Workshop by PSD InnoLab<br>
-    </td>
-    <td>
-      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
+      <b>Strategic Application of Service Journeys Workshop by PSD InnoLab</b><br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
