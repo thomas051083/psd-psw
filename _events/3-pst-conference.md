@@ -1,31 +1,30 @@
 ---
 layout: leftnav-page-content
-title: PST Conference
+title: Introduction to PST Conference
 permalink: /events/pst-conference/
 breadcrumb: PST Conference
 collection_name: events
+second_nav_title: "PST Conference"
 ---
 
-### PST Conference 
+### PST Conference
 ![PST Conference](/images/Conference_Banner.png)
-This year’s Public Sector Transformation Conference 2019 is themed Redesigning Public Service Delivery: The Service Journey Approach. It aims to inspire and encourage public officers, especially those in service design and implementation roles, to rethink service delivery from the citizens’ point of view.
+<br>
+The theme for Public Sector Transformation Conference 2019 is <i><b>Redesigning Public Service Delivery: The Service Journey Approach</i></b>. It aims to inspire and encourage public officers, especially those in service design and implementation roles, to rethink service delivery from the citizens’ point of view.
 <br>
 <br>
-Join us in hearing from experts and practitioners helming service design projects and initiatives in both the public and private sector, and to gain insights about the trending developments in public service transformation efforts. 
+Hear from experts and practitioners helming service design projects and initiatives in the public and private sectors, and  gain insights about the trending developments in public service transformation efforts. 
 <br>
 <br>
-As part of the programme, conference attendees can also sign up for on-site learning journeys at companies that have adopted a Service Design approach, such as Grab and OCBC; and Service Journey foundation workshops. 
-<br>
-<br>
-More details on the conference and learning activities will be announced, so stay tuned!
-<!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
+<a href="URL HERE"><img src="/images/sign-up-btn.png" style="width:280px" />
+
 <br>
 <br>
 
 
-### Conference Schedule
+### Conference Programme
 <!-- Schedule --> 
-<table>
+<table class="table-v">
   <tr>
     <td>TIME</td>
     <td>PROGRAMME<br>
@@ -55,15 +54,14 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>11.05AM - 11.25AM</td>
-    <td><b>Transforming Service Delivery Model Effectively - How to Adopt Service Journey Practices Effectively?</b><br>
-    Bojan Blecic, Senior VP, Head Experience Design, OCBC Bank</td>
+    <td><b>Transforming Service Delivery Model Effectively - How to Adopt Service Journey Practices Effectively?</b></td>
   </tr>
   <tr>
     <td>11.25AM - 11.45AM</td>
     <td><b>Closing by Chief Executive, GovTech, Kok Ping Soon</b></td>
   </tr>
 </table>
-<i>*More Details to come. Conference programme is subject to change </i>
+<i>*More details to come. Conference programme is subject to change </i>
 <br>
 
 
@@ -80,9 +78,8 @@ More details on the conference and learning activities will be announced, so sta
     <br>
     Bojan is responsible for the design and improvemeny of all major touch points between OCBC and its customers. His current work focuses on delivering effortless banking experiences and spearheading change to create a more customer centric organisation. <br>
     <br>
-    He holds a degree in architecture from the Swiss Federal Institute of Technlogy in Zurich, specialising in industrial design and the theory of architecture. He worked as an architect in Switzerland and Germany before beginning his career in the financial services industry, first with Credit Suisse and then as an independent consultant on customer experience strategy. <br>
+    Bojan is also a Board member of GovTech, and has been invaluable in providing guidance to the organisation. 
     <br>
-    Bojan is also a Board member of GovTech, and his experience in design thinking and innovation has been invaluable in providing guidance to the organisation. <br>
     <br>
     </td>
   </tr>
@@ -96,7 +93,7 @@ More details on the conference and learning activities will be announced, so sta
     <br>
     Dominic is Director of Moments of Life at the Government Technology Agency of Singapore (GovTech). <br>
     <br>
-    Prior to joining the civil serice, Dominic was the Senior Vice President, Operations of PCI Limited, which is an electronics manufacturing service company headquartered in Singapore.
+    Prior to joining the civil serice, Dominic was the Senior Vice President, Operations of PCI Limited. 
     <br>
     </td>
   </tr>
@@ -106,12 +103,7 @@ More details on the conference and learning activities will be announced, so sta
        <b>Kok Ping Soon</b> | Chief Executive, GovTech<br>
     </td>
     <td>
-    Ping Soon is Chief Executive of the Government Technology Agency of Singapore (GovTech), the lead agency driving Singapore's Smart Nation initiative and public sector digital transformation. <br>
-    <br>
-    Prior to his current appointment, Ping Soon held various positions in the Ministry of Manpower, National Security Co-ordination Secretariat, Ministry of Trade & Industry, Singapore Tourism Board, Contact Singapore (CS) and Economic Development Board (EDB). <br>
-    <br>
-    He is also a District Councillor in the North West Community Development Council and a member of the WEF Global Futures Council on Behavioural Sciences. <br>
-    <br>
+    Ping Soon is Chief Executive of the GovTech, the lead agency driving Singapore's Smart Nation initiative and public sector digital transformation. <br>
     <br>
     </td>
   </tr>
@@ -119,24 +111,27 @@ More details on the conference and learning activities will be announced, so sta
 <br>
 <br>
 <br>
-
-### Learning Journey and Masterclass
-
+### Learning Journey & Masterclass
 <!-- Learning Journey --> 
 <table>
-   <tr>
+  <tr>
     <td>
-      <b>Digital Transformation Journey Workshop by IRAS X Fjord</b> <br>
-    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
-    nisi ut aliquip exea commodo consequat. <br>
+      <b>Learning Journey @ SingTel: OmniChannel Retail Experience & Design Philosophy</b><br>
+      <i>17 Jul, 9am - 12pm, Venue TBC</i>
+    </td>
+    <td>
+    Learn how SingTel does omni-channel type of service delivery (through online and offline). <br>
+    <u>Who should attend:</u> Project leads who are looking at integrating online and offline touchpoints for their services.
+<br>
     <br>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Learning Journey @ Grab</b><br>
+     <b>Service Journey Case Clinic by IRAS x Fjord</b><br>
+     <i>18 Jul, 2pm, Venue TBC</i>
+    </td>
+    <td>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -146,41 +141,47 @@ More details on the conference and learning activities will be announced, so sta
   </tr>
   <tr>
     <td>
-      <b>Learning Journey @ OCBC Experience Lab <br></b>
-    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
-    nisi ut aliquip exea commodo consequat. <br>
+      <b>Learning Journey @ Grab: Organisation Culture as Enabler for Service Innovation</b><br>
+      <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">Grab Office</a></i>
+    </td>
+    <td>
+    Learn about Grab’s innovation culture that led to the forming of multi-disciplinary team in delivering innovative services. <br>
+    <u>Who should attend:</u> Project leads involved in transforming teams for innovation led Service Delivery. <br>
     <br>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Learning Journey @ Singtel</b> <br>
-    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
-    nisi ut aliquip exea commodo consequat. <br>
+      <b>Learning Journey @ OCBC: Designing Transactional Services with Multidisciplinary Approach </b><br>
+      <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir/1.294336,103.8508032/The+Open+Vault+@OCBC,+53+New+Bridge+Rd,+%2301-00,+Singapore+059402/@1.291506,103.8467775,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da190a9270ab6f:0xb5e532e76465ecee!2m2!1d103.8469643!2d1.2880859">OCBC Experience Lab</a></i>
+    </td>
+    <td>
+      OCBC Bank is a forerunner in service delivery, constantly evolving to please consumers. Find out how they improve Service Delivery through experimentation and prototyping. <br>
+      <u>Who should attend:</u> Projects leads working to launching new products or services, or seeking to refresh existing products or services.
+      <br>
     <br>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Service Blueprinting Workshops by GovTech - Hive</b><br>
-    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
-    nisi ut aliquip exea commodo consequat. <br>
+      <b>Service Blueprinting Workshop by GovTech-GDS</b><br>
+      <i> 18 Jul, 2pm, Venue TBC</i>
+    </td>
+    <td>
+      Learn about Digital Projects Lifecycle and Service Blueprinting from GovTech’s Government Digital Services team, who will cover digital touchpoints to consider when designing and implementing a Service Journey, and synergetic design between operators and technologists (OpsTech) ).<br>
+      <u>Who should attend:</u> Suitable for officers interested in Service Journeys and Blueprinting.
     <br>
     </td>
   </tr>
   <tr>
     <td>
       <b>Strategic Application of Service Journeys Workshop by PSD InnoLab</b><br>
-    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
-    nisi ut aliquip exea commodo consequat. <br>
+      <i>18 Jul, 2pm, Venue TBC</i>
+    </td>
+    <td>
+      What’s the best practice to adopting Service Journeys? Try adopting a Systems view to achieve more forward-looking and holistic outcomes. <br>
+      <u>Who should attend:</u> Public service officers looking to grow the scale of their Service Journeys.
+<br>
     <br>
     </td>
   </tr>
@@ -188,7 +189,7 @@ More details on the conference and learning activities will be announced, so sta
 
 <br> 
 Please refer to our <a href="url">FAQ</a> for more information. <br>
-For further enquiries, please call +65 69116733 (weekdays, 10am - 6pm) or email CMG_Events@tech.gov.sg <br>
+For further enquiries, please call +65 6911 6733 (Weekdays, 10am-6pm) or email: <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a>.<br>
 <br>
 <br>
 
