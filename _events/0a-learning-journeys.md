@@ -7,11 +7,6 @@ collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
 ### Week of 1 - 6 July
-
-<table>
-  <tr>hi
-  </tr>
-  </table>
   
 <table>
   <tr>
@@ -35,6 +30,7 @@ second_nav_title: "PSW Learning Festival"
       <br>Come hear from MOM on how they have used analytics, design thinking and technology to improve and refine the way they serve customers at various touch points.
       <br>
     </td>
+    </tr>
   <tr>
     <td>
       <img src="/images/learning-journey-2.png" />
