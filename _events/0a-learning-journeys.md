@@ -14,10 +14,10 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a>
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>1 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Fireside Chat with PSD Loh Khum Yean</b>
+      <br>1 July, 3.30pm-5pm
+      <br>Have you noticed how work in the Singapore Public Service has evolved through the use of technology? Discuss and dialogue how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean.
+      <br>PS guides the Public Sector Transformation (PST) - Digital Committee on efforts to improve officers' productivity at the workplace and inter-agency operations through technology.
     </td>
   </tr>
   <tr>
