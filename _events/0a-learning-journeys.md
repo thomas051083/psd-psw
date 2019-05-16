@@ -11,7 +11,7 @@ second_nav_title: "PSW Learning Festival"
 <table>
   <tr>
     <td>
-      <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LC_FC_PSD <img src="/images/learning-journey-1.png" />
     </td>
     <td>
       <b>Fireside Chat with PSD Loh Khum Yean</b>
