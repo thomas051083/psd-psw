@@ -8,7 +8,7 @@ second_nav_title: "PSW Learning Festival"
 ---
 ### Week of 1 - 6 July
 
-</table>
+<table>
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a>
