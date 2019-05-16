@@ -14,10 +14,10 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>7 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Fireside Chat with PSD Loh Khum Yean</b>
+      <br>1 July, 3.30pm-5pm
+      <br>Discuss how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean.
+      <br>
     </td>
   </tr>
   <tr>
