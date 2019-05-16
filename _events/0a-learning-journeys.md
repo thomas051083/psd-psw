@@ -46,10 +46,10 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-3.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>5 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Learning Journey to MOE Heritage Centre</b>
+      <br>5 July, 2.30pm-4.00pm
+      <br>What is Singapore's Education Story? Visit the Ministry of Education (MOE)'s Heritage Center to understand the Singapore Education Story and its role in nation-building. 
+      <br>Through a guided tour, participants will visit every zone in the heritage gallery to explore a different era of education in Singapore.
     </td>
   </tr>
 </table>
