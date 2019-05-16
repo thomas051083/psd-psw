@@ -8,7 +8,7 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Transforming the Way We Plan and Build an Innovative Ops-Tech Culture 
 
-How much do you know about Singapore's physical transformation over the past 50 years? Learn how URA continues to shape a sustainable and liveable city through inoovative solutions that optimises our land use and bring Singapore into the future.
+How much do you know about Singapore's physical transformation over the past 50 years? Learn how URA continues to shape a sustainable and liveable city through innovative solutions that optimises our land use and bring Singapore into the future.
 
 **Date and Time: 15 Jul 2019, 3.00pm to 5.00pm** 
 
