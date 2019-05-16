@@ -137,6 +137,7 @@ Hear from experts and practitioners helming service design projects and initiati
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
     nisi ut aliquip exea commodo consequat.
     <br>
+    <br>
     </td>
   </tr>
   <tr>
@@ -170,6 +171,7 @@ Hear from experts and practitioners helming service design projects and initiati
      <br>
       Learn about Digital Projects Lifecycle and Service Blueprinting from GovTech’s Government Digital Services team, who will cover digital touchpoints to consider when designing and implementing a Service Journey, and synergetic design between operators and technologists (OpsTech) ).<br>
       <u>Who should attend:</u> Suitable for officers interested in Service Journeys and Blueprinting.
+    <br>
     <br>
     </td>
   </tr>
