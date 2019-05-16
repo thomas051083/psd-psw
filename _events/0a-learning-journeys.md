@@ -22,7 +22,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
       <b>A Statistical Journey, Capturing the Data of 2.5 Million Workers by MOM</b>
@@ -43,7 +43,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
