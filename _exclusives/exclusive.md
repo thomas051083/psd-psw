@@ -48,10 +48,10 @@ breadcrumb: Exclusives Treats
   </tr>
   <tr>
     <td>
-      <img src="/images/CSC@BukitBatok_MR.jpg" />
+      <img src="/images/Clubhouse.jpg" />
     </td>
     <td>
-      <b>Civil Service Clubhouses and Facilities</b>
+      <b>Civil Service Clubhouses Activites and Promotions</b>
       <br>
       <br>Enjoy <b>free</b> pool access and <b>members'</b> rate for booking all BBQ pits, </br>
       and bowling lanes at CSC @ Tessensohn, CSC @ Changi and CSC @ Bukit Batok during the month of July <br>
@@ -61,7 +61,7 @@ breadcrumb: Exclusives Treats
   </tr>
   <tr>
     <td>
-      <img src="/images/CSC_Chalets.jpg"/>
+      <img src="/images/Chalets1.jpg"/>
     </td>
     <td>
       <b>Civil Service Club Chalet Promotions</b><br>
@@ -73,7 +73,7 @@ breadcrumb: Exclusives Treats
   </tr>
   <tr>
     <td>
-      <img src="/images/Superior_Suite.jpg"/>
+      <img src="/images/Chalets2.png"/>
     </td>
     <td>
       <b>Civil Service Club Chalet Promotions</b><br>
@@ -81,36 +81,95 @@ breadcrumb: Exclusives Treats
       Enjoy a <b>50% off</b> a second night stay when you book the Superior Suite at CSC @ Changi 1.<br>
     </td>
   </tr>
+  
   <tr>
     <td>
-      <img src="/images/Love_Literate.jpg"/>
+      <img src="/images/Javanese_Spa.tif"/>
     </td>
     <td>
-      <b>Civil Service Club Social Activities</b>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
       <br>
       <br>
-      <b>Love Literate Parent-Child Workshop with a Baking Class</b><br>
-      Sign up for this parent-child workshop to understand the primary or preferred communication style for<br>
-      receiving and expressing love. The workshop is based on Dr. Gary Chapman's international bestseller,<br>
-      "The Five Love Languages". End the session with a fun and interative hands-on baking activity.<br>
+      Enjoy a <b>Javanese Body Massage or YR CEllular Revitalising Face Spa @ $38</b> at The Ultimate Spa, CSC @ Bukit Batok<br>
       <br>
       Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/images/Bicentennial_Tour.jpg"/>
+      <img src="/images/Ohana.jpg"/>
+    </td>
+    <td>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
+      <br>
+      <br>
+      <b>50% discount</b> on all watersports rentals, courses and expeditions conducted within Singapore at Ohana Beach House, CSC @ Loyang (Former Aloha Loyang)<br>
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+      <img src="/images/Love.jpg"/>
+    </td>
+    <td>
+      <b>Civil Service Club Social Activities</b>
+      <br>
+      <br>
+      <b>Love Literate Parent-Child Workshop with a Baking Class</b><br>
+      Sign up for this parent-child workshop to understand the primary or preferred communication style for
+      receiving and expressing love. The workshop is based on Dr. Gary Chapman's international bestseller,
+      "The Five Love Languages". End the session with a fun and interative hands-on baking activity.
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Tour.jpg"/>
     </td>
     <td>
       <b>Civil Service Club Social Activities</b>
       <br>
       <br>
       <b>A Bicentennial Special Civil District Walking Tour (By Jane's Tour) </b><br>
-      Come discover the story behind the founding of Singapore through Jane's Tour - Winner 2018 of the Singapore Tourism Award <br>
-      for the "Best Tour Experience". The tours are designed to satisfy the curiousity of adventure some people keen to learn about <br>
-      Singapore's history and heritage and dig deep to understand how Singapore's diverse and unique culture has contributed to its <br>
+      Come discover the story behind the founding of Singapore through Jane's Tour - Winner 2018 of the Singapore Tourism Award
+      for the "Best Tour Experience". The tours are designed to satisfy the curiousity of adventure some people keen to learn about 
+      Singapore's history and heritage and dig deep to understand how Singapore's diverse and unique culture has contributed to its
       status as a small country packing a big punch in the world. <br>
       <br>
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="/images/Sling.jpg"/>
+    </td>
+    <td>
+      <b>1-For-1</b> Singapore Sling Flight ticket
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/www.jpg"/>
+    </td>
+    <td>
+      <b>1-For-1</b> Wild Wild Wet Day Passes
+      <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Park.jpg"/>
+    </td>
+    <td>
+      <b>1-For-1</b> Entry Tickets to Butterfly Park  & Insect Kingdom
       <br>
       Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
