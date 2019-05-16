@@ -13,6 +13,8 @@ Have you heard about Sensors and IoT and what they can do to improve impact for 
 Come down to the Sensors and IoT (SIOT) Capability Center to learn how SIOT works and where it has been applied in the Public Service.
 
 **Date and Time: 5th July 2019, 3.00pm to 5.00pm** 
+
 **Location: GovTech** 
+
 **Indicate Your Interest [here]()** 
 To include registration link
