@@ -25,10 +25,10 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>3 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>A Statistical Journey, Capturing the Data of 2.5 Million Workers by MOM</b>
+      <br>3 July, 1 day@URA Building
+      <br>Ever wondered how to make full use of the potential of data to generate better insights and results?
+      <br>Come hear from MOM on how they have used analytics, design thinking and technology to improve and refine the way they serve customers at various touch points such as their website, Contact Centre and Service Centre.
     </td>
   </tr>
   <tr>
