@@ -8,8 +8,8 @@ second_nav_title: "PSW Learning Festival"
 ---
 ### Week of 1 - 6 July
   
-<!--<table>
-  <tr>-->
+<table>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" /> </a>
     </td>
@@ -52,5 +52,5 @@ second_nav_title: "PSW Learning Festival"
       <br>Through a guided tour, participants will visit every zone in the heritage gallery to explore a different era of education in Singapore.
       <br>
     </td>
- <!-- </tr>
-</table>-->
+  </tr>
+</table>
