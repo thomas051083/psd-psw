@@ -69,11 +69,10 @@ Hear from experts and practitioners helming service design projects and initiati
 <table>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/Bojan_Bleicic.jpg"/> </a>
+      <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/Bojan_Bleicic.jpg"/> </a><br>
+      <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
     </td>
     <td>
-    <b>Bojan Blecic</b> | Senior VP, Head Experience Design, OCBC Bank <br>
-    <br>
     <b> Tranforming Service Delivery Model Effectively - How to Adopt SJ Practices Effiectively</b><br>
     <br>
     Bojan is responsible for the design and improvemeny of all major touch points between OCBC and its customers. His current work focuses on delivering effortless banking experiences and spearheading change to create a more customer centric organisation. <br>
@@ -85,26 +84,24 @@ Hear from experts and practitioners helming service design projects and initiati
   </tr>
   <tr>
     <td>
-      <img src="/images/Dominic_Chan.jpg"/> 
+      <img src="/images/Dominic_Chan.jpg"/> <br>
+      <b>Dominic Chan</b> | Director, Moments of Life, GovTech <br>
     </td>
     <td>
-    <b>Dominic Chan</b> | Director, Moments of Life, GovTech <br>
-    <br>
     <b>The Value of Adopting the Service Journey Practice in Singapore - Why Service Journey for Singapore Government?</b><br>
     <br>
     Dominic is Director of Moments of Life at GovTech. <br>
     <br>
-    Prior to joining the civil serice, Dominic was the Senior Vice President, Operations of PCI Limited. 
+    Prior to joining the civil service, Dominic was the Senior Vice President, Operations of PCI Limited. 
     <br>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/images/Kok_Ping_Soon.jpg"/>
+      <img src="/images/Kok_Ping_Soon.jpg"/><br>
+      <b>Kok Ping Soon</b> | Chief Executive, GovTech<br>
     </td>
     <td>
-      <b>Kok Ping Soon</b> | Chief Executive, GovTech<br>
-      <br>
     Ping Soon is Chief Executive of the GovTech, the lead agency driving Singapore's Smart Nation initiative and public sector digital transformation. <br>
     <br>
     </td>
