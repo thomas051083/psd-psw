@@ -24,7 +24,7 @@ Hear from experts and practitioners helming service design projects and initiati
 
 ### Conference Programme
 <!-- Schedule --> 
-<table class="table-v">
+<table>
   <tr>
     <td>TIME</td>
     <td>PROGRAMME<br>
@@ -130,8 +130,7 @@ Hear from experts and practitioners helming service design projects and initiati
     <td>
      <b>Service Journey Case Clinic by IRAS x Fjord</b><br>
      <i>18 Jul, 2pm, Venue TBC</i>
-    </td>
-    <td>
+    <br>
     Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
@@ -143,8 +142,7 @@ Hear from experts and practitioners helming service design projects and initiati
     <td>
       <b>Learning Journey @ Grab: Organisation Culture as Enabler for Service Innovation</b><br>
       <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">Grab Office</a></i>
-    </td>
-    <td>
+    <br>
     Learn about Grab’s innovation culture that led to the forming of multi-disciplinary team in delivering innovative services. <br>
     <u>Who should attend:</u> Project leads involved in transforming teams for innovation led Service Delivery. <br>
     <br>
@@ -154,8 +152,7 @@ Hear from experts and practitioners helming service design projects and initiati
     <td>
       <b>Learning Journey @ OCBC: Designing Transactional Services with Multidisciplinary Approach </b><br>
       <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir/1.294336,103.8508032/The+Open+Vault+@OCBC,+53+New+Bridge+Rd,+%2301-00,+Singapore+059402/@1.291506,103.8467775,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da190a9270ab6f:0xb5e532e76465ecee!2m2!1d103.8469643!2d1.2880859">OCBC Experience Lab</a></i>
-    </td>
-    <td>
+    <br>
       OCBC Bank is a forerunner in service delivery, constantly evolving to please consumers. Find out how they improve Service Delivery through experimentation and prototyping. <br>
       <u>Who should attend:</u> Projects leads working to launching new products or services, or seeking to refresh existing products or services.
       <br>
@@ -166,8 +163,7 @@ Hear from experts and practitioners helming service design projects and initiati
     <td>
       <b>Service Blueprinting Workshop by GovTech-GDS</b><br>
       <i> 18 Jul, 2pm, Venue TBC</i>
-    </td>
-    <td>
+    <br>
       Learn about Digital Projects Lifecycle and Service Blueprinting from GovTech’s Government Digital Services team, who will cover digital touchpoints to consider when designing and implementing a Service Journey, and synergetic design between operators and technologists (OpsTech) ).<br>
       <u>Who should attend:</u> Suitable for officers interested in Service Journeys and Blueprinting.
     <br>
@@ -177,8 +173,7 @@ Hear from experts and practitioners helming service design projects and initiati
     <td>
       <b>Strategic Application of Service Journeys Workshop by PSD InnoLab</b><br>
       <i>18 Jul, 2pm, Venue TBC</i>
-    </td>
-    <td>
+    <br>
       What’s the best practice to adopting Service Journeys? Try adopting a Systems view to achieve more forward-looking and holistic outcomes. <br>
       <u>Who should attend:</u> Public service officers looking to grow the scale of their Service Journeys.
 <br>
