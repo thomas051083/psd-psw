@@ -13,6 +13,8 @@ This mean using data and technology to re-engineer business processes, and servi
 Join Ping Soon, deputy Chair of the Service Delivery Committee (SDC), in a conversation on how the SDC drives the transformation of service delivery across WOG through cross-agency collaborations on wrapping government services around citizens in this exciting journey of becoming a citizen-centric digital government.
 
 **Date and Time: 15 July 2019, 4pm - 5pm** 
+
 **Location: Civil Service College, Level 3 Seminar Room** 
+
 **Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
 
