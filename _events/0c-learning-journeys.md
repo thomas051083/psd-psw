@@ -37,7 +37,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Involving the Community in Shaping Our City Together</b>
       <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
-      <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore to optimise land use.?
+      <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore to optimise land use?
     </td>
   </tr>
   <tr>
@@ -48,8 +48,7 @@ second_nav_title: "PSW Learning Festival"
       <b>Citizen-centric Service at Our Tampines Hub (OTH)</b>
       <br>17 Jul, 2.30pm to 4.00pm, Our Tampines Hub 
       <br>Explore how multiple agencies offer comprehensive services to citizens in this community and lifestyle hub.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
-    </td>
+   </td>
   </tr>
   <tr>
      <td>
