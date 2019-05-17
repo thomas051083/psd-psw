@@ -17,7 +17,7 @@ second_nav_title: "PSW Learning Festival"
       <b>Fireside Chat with PSD Loh Khum Yean</b>
       <br>1 July, 3.30pm-5pm
       <br>Discuss how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean.
-      <br>
+      <br><a href="/events/learning-journeys/event-details/LC_FC_PSD">Click here to find out more.</a> 
     </td>
   </tr>
   <tr>
