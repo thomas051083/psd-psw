@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: PSTAR
+title: PST Awards Reception
 permalink: /events/pst-awards/
-breadcrumb: Pst Awards
+breadcrumb: PST Awards Reception
 collection_name: events
 ---
 
