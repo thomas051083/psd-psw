@@ -47,9 +47,9 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Involving the Community in Shaping Our City Together</b>
-      <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
-      <br>How much do you know about Singapore's physical transformation over the past 50 years?
+      <b>Citizen-centric Service at Our Tampines Hub (OTH)</b>
+      <br>17 Jul, 2.30pm to 4.00pm, Our Tampines Hub 
+      <br>Explore how multiple agencies offer comprehensive services to citizens in this community and lifestyle hub.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   </tr>
@@ -58,9 +58,9 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Involving the Community in Shaping Our City Together</b>
-      <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
-      <br>How much do you know about Singapore's physical transformation over the past 50 years?
+      <b>Automation - Making our Lives Better</b>
+      <br>17 Jul, 12.00pm to 2.00pm, Sandcrawler(1 Fusionpolis View) 
+      <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   <tr>
@@ -68,10 +68,10 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>16 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Fireside Chat with PS, MOE</b>
+      <br>18 Jul, 3.00pm to 4.30pm, CSC (Seminar Room 2)
+      <br>Are our policies and programmes still in touch with the needs of our citizens?
+      <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
     </td>
   </tr>
   <tr>
