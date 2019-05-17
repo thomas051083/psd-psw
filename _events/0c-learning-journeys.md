@@ -15,7 +15,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Fireside Chat with CE, GovTech</b>
-      <br>15 Jul, 4.00pm to 5.30pm
+      <br>15 Jul, 4.00pm to 5.30pm, CSC (Seminar Room 2)
       <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
@@ -25,7 +25,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Transforming the Way We Plan and Build an Innovative Ops-Tech Culture</b>
-      <br>15 Jul, 4.00pm to 5.30pm
+      <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
       <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
