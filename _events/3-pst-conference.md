@@ -45,7 +45,8 @@ Hear from experts and practitioners helming service design projects and initiati
   <tr>
     <td>10.25AM - 10.45AM</td>
     <td><b>The Value of Adopting Service Journey Practices in Singapore Public Sector – Why Service Journey for SG Government? </b><br>
-    Dominic Chan, Director, MOL, GovTech</td>
+    <!-- Dominic Chan, Director, MOL, GovTech -->
+</td>
   </tr>
   <tr>
     <td>10.45AM - 11.05AM</td>
@@ -65,6 +66,7 @@ Hear from experts and practitioners helming service design projects and initiati
 
 
 <!-- Speakers --> 
+<!--
 ### Conference Speakers
 <table>
   <tr>
@@ -109,7 +111,8 @@ Hear from experts and practitioners helming service design projects and initiati
 </table>
 <br>
 <br>
-<br>
+<br> -->
+
 ### Learning Journey & Masterclass
 <!-- Learning Journey --> 
 <table>
