@@ -6,7 +6,7 @@ url: "https://www.publicserviceweek.gov.sg" # the base hostname & protocol for y
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template:staging
 safe: false
 
 plugins:
