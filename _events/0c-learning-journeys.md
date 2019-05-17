@@ -18,11 +18,6 @@ second_nav_title: "PSW Learning Festival"
       <br>15 Jul, 4.00pm to 5.30pm
       <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
-      
-      <b>Fireside Chat with CE, GovTech</b>
-      <br>15 Jul, 4.00pm to 5.30pm
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   </tr>
   <tr>
