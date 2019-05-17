@@ -6,13 +6,13 @@ breadcrumb: 1 - 6 July
 collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
+
 ### Week of 1 - 6 July
 
 <table>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_PSD"> <img src="/images/learning-journey-1.png" />
-    </td>
+      <a href="/events/learning-journeys/event-details/LC_FC_PSD"> <img src="/images/learning-journey-1.png" /> </td>
     <td>
       <b>Fireside Chat with PSD Loh Khum Yean</b>
       <br>1 July, 3.30pm-5pm
