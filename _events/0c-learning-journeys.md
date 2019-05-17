@@ -41,7 +41,6 @@ second_nav_title: "PSW Learning Festival"
       <br>How much do you know about Singapore's physical transformation over the past 50 years?
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
-  <tr>
   </tr>
   <tr>
      <td>
@@ -64,6 +63,7 @@ second_nav_title: "PSW Learning Festival"
       <br>How much do you know about Singapore's physical transformation over the past 50 years?
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
+  <tr>
     <td>
       <img src="/images/learning-journey-2.png" />
     </td>
