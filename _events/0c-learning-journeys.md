@@ -67,7 +67,6 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Fireside Chat with PS, MOE</b>
       <br>18 Jul, 3.00pm to 4.30pm, CSC (Seminar Room 2)
-      <br>Are our policies and programmes still in touch with the needs of our citizens?
       <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
     </td>
   </tr>
@@ -76,10 +75,9 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-3.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>17 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Student Services & Visitors Centre Transformation Journey</b>
+      <br>18 Jul, 10.00am, Student Services & Visitors Centre, Ngee Ann Polytechnic
+      <br>Find out more about Ngee Ann Polytechnic's Student Services & Visitors Centre's transformation journey to bring about benefits and savings.
     </td>
   </tr>
 </table>
