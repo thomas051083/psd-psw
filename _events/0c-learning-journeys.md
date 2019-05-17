@@ -36,7 +36,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Involving the Community in Shaping Our City Together</b>
       <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
+      <br>How much do you know about Singapore's physical transformation over the past 50 years?
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   <tr>
