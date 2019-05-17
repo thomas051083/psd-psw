@@ -29,7 +29,7 @@ second_nav_title: "PSW Learning Festival"
       <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
-  /tr>
+  </tr>
      <td>
       <img src="/images/learning-journey-1.png" />
     </td>
