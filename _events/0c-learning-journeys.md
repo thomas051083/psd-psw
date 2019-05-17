@@ -14,7 +14,7 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
+      <b>Fireside Chat with CE, GovTech</b>
       <br>17 Jul
       <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
