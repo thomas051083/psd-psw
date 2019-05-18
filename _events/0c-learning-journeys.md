@@ -44,12 +44,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
      <td>
-      <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
       <b>Citizen-centric Service at Our Tampines Hub (OTH)</b>
       <br>17 Jul, 2.30pm to 4.00pm, Our Tampines Hub 
       <br>Explore how multiple agencies offer comprehensive services to citizens in this community and lifestyle hub.
+      <br><a href="/events/learning-journeys/event-details/LJ_CcSOTB">Click here to find out more.</a>
    </td>
   </tr>
   <tr>
