@@ -33,12 +33,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
      <td>
-      <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
       <b>Involving the Community in Shaping Our City Together</b>
       <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
       <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore to optimise land use?
+      <br><a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
