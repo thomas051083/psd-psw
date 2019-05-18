@@ -10,9 +10,9 @@ breadcrumb: Learning Festival
 
 Have you thought about how your immediate space has an effect on your learning? Explore how learning spaces affect learning impact and innovation. 
 
-**Date and Time: TBC** 
+**Date and Time: 17 Jul 2019, 10.00am to 12.00pm; 2.00pm to 4.00pm** 
 
-**Location: TBC** 
+**Location: 9 Jurong Town Hall, #03-19 S(609431)** 
 
 **Indicate Your Interest [here](https://www.eventbrite.sg/e/redefining-learning-experience-at-innxcsc-tickets-61979384006)** 
 
