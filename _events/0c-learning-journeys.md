@@ -11,7 +11,7 @@ second_nav_title: "PSW Learning Festival"
 <table>
   <tr>
     <td>
-      <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LA_FC_GovTech"> <img src="/images/learning-journey-1.png" /> </a>
     </td>
     <td>
       <b>Fireside Chat with CE, GovTech</b>
