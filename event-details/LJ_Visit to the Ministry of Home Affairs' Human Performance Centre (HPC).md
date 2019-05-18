@@ -14,4 +14,4 @@ Are you keen to experience the Home Team's tranformational journey in optimising
 
 **Location: Home Team Academy**
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090342860)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/visit-to-the-ministry-of-home-affairs-human-performance-centre-hpc-tickets-61090342860)** 
