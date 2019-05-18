@@ -14,5 +14,5 @@ Have you heard about Sensors and IoT and what they can do to improve impact for 
 
 **Location: GovTech, 10 Pasir Panjang Road, Mapletree Business City, Level 10 Village Square, S(117438)** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/leveraging-digital-technologies-such-as-sensors-and-internet-of things-iot-for-greater-impact-tickets-61990528339)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/leveraging-digital-technologies-such-as-sensors-and-internet-of-things-iot-for-greater-impact-tickets-61990528339)** 
 
