@@ -65,12 +65,13 @@ second_nav_title: "PSW Learning Festival"
     </td>
   <tr>
     <td>
-      <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
       <b>Fireside Chat with PS, MOE</b>
       <br>18 Jul, 3.00pm to 4.30pm, CSC (Seminar Room 2)
       <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
+      <br><a href="/events/learning-journeys/event-details/LC_FC_MOE">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
