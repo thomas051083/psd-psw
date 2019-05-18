@@ -16,5 +16,5 @@ Join Ping Soon, deputy Chair of the Service Delivery Committee (SDC), in a conve
 
 **Location: Civil Service College, Seminar Room 2 (Level 4)** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-kok-ping-soon-tickets-61285176613) ** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-kok-ping-soon-tickets-61285176613)** 
 
