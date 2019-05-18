@@ -14,6 +14,6 @@ Have you thought about how your immediate space has an effect on your learning? 
 
 **Location: TBC** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/redefining-learning-experience-at-innxcsc-tickets-61979384006)** 
 
 
