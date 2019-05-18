@@ -14,5 +14,5 @@ Shadow a Probation Officer and learn how the Probation and Community Rehabilitat
 
 **Location: Probation and Community Rehabilitation Service, 1 Kay Siang Road #01-10, S(248922)** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61082209533)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
 
