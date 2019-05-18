@@ -14,4 +14,4 @@ What is Singapore's Education Story? Visit the Ministry of Education (MOE)'s Her
 
 **Location: MOE Heritage Centre, 402 Commonwealth Dr, S149599 (nearest MRT station is Commonwealth)** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090482277)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/learning-journey-to-moe-heritage-centre-tickets-61090482277)** 
