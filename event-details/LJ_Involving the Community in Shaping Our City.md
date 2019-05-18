@@ -14,5 +14,5 @@ How much do you know about Singapore's physical transformation over the past 50 
 
 **Location: URA Centre, Singapore City Gallery** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090559508)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/involving-the-community-in-shaping-our-city-together-tickets-61090559508)** 
 
