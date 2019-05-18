@@ -14,9 +14,9 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>21 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
+      <b>Making a Difference as a Probation Officer</b>
+      <br>2-week attachment, 4 vaccancies available (From June to end Nov)
+      <br>Shadow a Probation Officer and experience how the Probation and Community Rehabilitation Service(PCR) works.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   </tr>
