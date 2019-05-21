@@ -2,6 +2,7 @@
 layout: simple-page
 title: Learning Festival
 permalink: /learning-festival/coming-soon
+collection_name: events
 breadcrumb: learning-festival
 ---
 
