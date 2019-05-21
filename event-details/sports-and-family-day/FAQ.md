@@ -73,7 +73,7 @@ breadcrumb: PST Conference
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
 	<b>Step 2:</b> Select Public Service Transformation Conference 2019 tickets <br>
 	<b>Step 3:</b> Select ‘Print Tickets’. <br>
-	Please take note that you will need to use the email address for signing up for an Eventbrite account to do so.<br>
+	Please take note that you will need to use the same email used to register for an Eventbrite account to do so.<br>
 	You will need to bring the confirmation ticket (softcopy or hardcopy) for entry to the conference. <br>
 </li>
 <br>
@@ -90,7 +90,7 @@ breadcrumb: PST Conference
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
 	<b>Step 2:</b> Select Public Service Transformation Conference 2019 tickets <br>
 	<b>Step 3:</b> Select ‘Print Tickets’. <br>
-	Please take note that you will need to use the email address for signing up for an Eventbrite account to do so. <br>
+	Please take note that you will need to use the same email used to register for an Eventbrite account to do so.<br>
 </li>
 <br>
 <li>
