@@ -8,7 +8,7 @@ breadcrumb: Learning Festival
 ## Learning Activity
 ### Improving Our Lives Through Automation by GovTech Singapore
 
-###### _#Digitalise #Adapt&SkillUp
+###### _#Digitalise #Adapt&SkillUp_
 
 Want to find out how you can free up time and spend it more meaningfully on productive work? 
 
@@ -16,12 +16,12 @@ Learn how to automate routine tasks, such as extracting data from a web page, fi
 
 Lunch will be provided. Bring along your personal internet-accessible laptop if possible. 
 
-<u><b>Session 1</u><br>
+<u><b>Session 1 </u><br>
 **Date and Time: 10 Jul 2019, 12.00pm to 2.00pm** <br>
 **Location: Sandcrawler, 1 Fusionopolis View #08-01 (S138577)** <br> 
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-tickets-61979425129)** <br>
 
-<u><b>Session 2</u><br>
+<u><b>Session 2 </u><br>
 **Date and Time: 17 Jul 2019, 12.00pm to 2.00pm** <br>
 **Location: Sandcrawler, 1 Fusionopolis View #08-01 (S138577)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-2nd-run-tickets-62076950831)** <br>
