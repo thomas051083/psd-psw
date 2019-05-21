@@ -6,7 +6,7 @@ breadcrumb: Learning Festival
 ---
 
 ## Learning Activity
-### Fireside Chat with Kok Ping Soon, Chief Executive (GovTech Agency)
+### Fireside Chat with Kok Ping Soon, Chief Executive (GovTech Singapore)
 
 Service Delivery is the window to the face of the government. Our vision is to be a Public Service that is Digital to the Core and Serves with Heart. This means using data and technology to re-engineer business processes, and serving citizens with a personal touch, in a way that enriches their experience. 
 
