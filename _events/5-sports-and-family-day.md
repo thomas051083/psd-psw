@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Sports and Family Day
-permalink: /events/sports-and-family-day/
+permalink: https://www.csc.sg/sportsday/Default.aspx
 breadcrumb: Sports and Family Day
 collection_name: events
 ---
