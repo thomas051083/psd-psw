@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Coming Soon
-permalink: /coming-soon
-breadcrumb: Coming Soon
+title: Learning Festival
+permalink: /learning-festival/coming-soon
+breadcrumb: learning-festival
 ---
 
 ### Watch this space for more information! 
