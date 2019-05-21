@@ -9,7 +9,7 @@ collection_name: events
 
 ![Istana](/images/PSW Microsite Pictures-02.png)
 
-**Time and Date:** 16 July 2019, Late Afternoon onwards
+**Time and Date:** 16 July 2019, Late afternoon onwards
 <br>
 **Venue:** Istana
 <br>
