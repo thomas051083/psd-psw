@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: leftnav-page-content
 title: Step Into My Shoes
 permalink: /events/psw-learning-festival/step-into-my-shoes
@@ -6,6 +6,7 @@ breadcrumb: Step Into My Shoes
 collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
+-->
 ### Step Into My Shoes
 
 <table>
