@@ -1,9 +1,9 @@
 ---
-layout: simple-page
-title: Learning Festival
-permalink: /learning-festival/coming-soon
+layout: leftnav-page-content
+title: Coming Soon
+permalink: /events/learning-festival/
+breadcrumb: Learning Festival
 collection_name: events
-breadcrumb: learning-festival
 ---
 
 ### Watch this space for more information! 
