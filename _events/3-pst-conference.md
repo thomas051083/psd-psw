@@ -35,7 +35,7 @@ Hear from experts and practitioners helming service design projects and initiati
   </tr>
   <tr>
     <td>9.30AM - 9.45AM</td>
-    <td><b>Opening: Delivery Citizen-Centric & Anticipatory Services </b><br>
+    <td><b>Opening: Delivering Citizen-Centric & Anticipatory Services </b><br>
       Leo Yip, Head of Civil Service</td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Hear from experts and practitioners helming service design projects and initiati
   </tr>
   <tr>
     <td>10.25AM - 10.45AM</td>
-    <td><b>The Value of Adopting Service Journey Practices in Singapore Public Sector – Why Service Journey for SG Government? </b><br>
+    <td><b>The Value of Adopting Service Journey Practices in Singapore's Public Sector – Why Service Journeys for SG Government? </b><br>
     <!-- Dominic Chan, Director, MOL, GovTech -->
 </td>
   </tr>
@@ -54,11 +54,12 @@ Hear from experts and practitioners helming service design projects and initiati
   </tr>
   <tr>
     <td>11.05AM - 11.25AM</td>
-    <td><b>Transforming Service Delivery Model Effectively - How to Adopt Service Journey Practices Effectively?</b></td>
+    <td><b>Transforming Service Delivery Model - How to Adopt Service Journey Practices Effectively?</b></td>
   </tr>
   <tr>
     <td>11.25AM - 11.45AM</td>
-    <td><b>Closing by Chief Executive, GovTech, Kok Ping Soon</b></td>
+    <td><b>Closing: The Journey Ahead</b><br>
+      Chief Executive, GovTech, Kok Ping Soon</td>
   </tr>
 </table>
 <i>*More details to come. Conference programme is subject to change </i>
@@ -119,7 +120,7 @@ Hear from experts and practitioners helming service design projects and initiati
   <tr>
     <td>
       <b>Learning Journey @ SingTel: OmniChannel Retail Experience & Design Philosophy</b><br>
-      <i>17 Jul, 9am - 12pm, Venue TBC</i>
+      <i><b>17 Jul</b>, 9am - 12pm, Venue TBC</i>
      <br>
      <br>
     Learn how SingTel does omni-channel type of service delivery (through online and offline). <br>
@@ -130,26 +131,12 @@ Hear from experts and practitioners helming service design projects and initiati
   </tr>
   <tr>
     <td>
-     <b>Service Journey Case Clinic by IRAS x Fjord</b><br>
-     <i>18 Jul, 2pm, Venue TBC</i>
-    <br>
-    <br>
-    Transforming Service Delivery Model Effectively – How to adopt SJ practice effectively <br>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br>
-    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br>
-    nisi ut aliquip exea commodo consequat.
-    <br>
-    <br>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <b>Learning Journey @ Grab: Organisation Culture as Enabler for Service Innovation</b><br>
       <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">Grab Office</a></i>
     <br>
     <br>
-    Learn about Grab’s innovation culture that led to the forming of multi-disciplinary team in delivering innovative services. <br>
-    <u>Who should attend:</u> Project leads involved in transforming teams for innovation led Service Delivery. <br>
+    Learn about Grab’s innovation culture that led to the forming of multi-disciplinary teams for delivering innovative services. <br>
+    <u>Who should attend:</u> Project leads involved in transforming teams for innovation-led Service Delivery. <br>
     <br>
     </td>
   </tr>
@@ -159,19 +146,30 @@ Hear from experts and practitioners helming service design projects and initiati
       <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir/1.294336,103.8508032/The+Open+Vault+@OCBC,+53+New+Bridge+Rd,+%2301-00,+Singapore+059402/@1.291506,103.8467775,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da190a9270ab6f:0xb5e532e76465ecee!2m2!1d103.8469643!2d1.2880859">OCBC Experience Lab</a></i>
     <br>
     <br>
-      OCBC Bank is a forerunner in service delivery, constantly evolving to please consumers. Find out how they improve Service Delivery through experimentation and prototyping. <br>
-      <u>Who should attend:</u> Projects leads working to launching new products or services, or seeking to refresh existing products or services.
+      OCBC Bank is a forerunner in Service Delivery, constantly evolving to please consumers. Find out how they improve Service Delivery through experimentation and prototyping. <br>
+      <u>Who should attend:</u> Projects leads working to launch new products or services, or seeking to refresh existing products or services.
       <br>
     <br>
     </td>
   </tr>
   <tr>
     <td>
+     <b>Service Journey Case Clinic by IRAS x Fjord</b><br>
+     <i>18 Jul, 2pm, Venue TBC</i>
+    <br>
+    <br>
+    More details to come.
+    <br>
+    <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b>Service Blueprinting Workshop by GovTech-GDS</b><br>
-      <i> 18 Jul, 2pm, Venue TBC</i>
+      <i> 18 Jul, 2pm, <a href="https://www.google.com/maps/dir//Our+Tampines+Hub,+1+Tampines+Walk,+Festive+Arts+Theatre,+Singapore+528523/@1.3520896,103.9382944,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x31da3d12568bcc27:0x22b395ce842fa5d8!2m2!1d103.9404831!2d1.3520896">Festival Arts Theatre, Our Tampines Hub</a></i>
     <br>
      <br>
-      Learn about Digital Projects Lifecycle and Service Blueprinting from GovTech’s Government Digital Services team, who will cover digital touchpoints to consider when designing and implementing a Service Journey, and synergetic design between operators and technologists (OpsTech) ).<br>
+      Learn about Digital Projects Lifecycle and Service Blueprinting from GovTech’s Government Digital Services team, who will cover digital touchpoints to consider when designing and implementing a Service Journey, and synergetic design between operators and technologists (OpsTech).<br>
       <u>Who should attend:</u> Suitable for officers interested in Service Journeys and Blueprinting.
     <br>
     <br>
