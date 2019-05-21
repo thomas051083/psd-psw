@@ -105,12 +105,12 @@ breadcrumb: PST Conference
 
 <li>
 	<b>What is the conference about?</b><br>
-	Details on the conference can be found here.
+	Details on the conference can be found [here](events/pst-conference).
 </li>
 <br>
 <li> 
 	<b>What time is the conference?</b><br>
-	The conference will be from 9.30am-12pm. This will be followed by Learning Journeys and Workshops in the afternoon. Full details can be found here.
+	The conference will be from 9.30am-12pm. This will be followed by Learning Journeys and Workshops in the afternoon. Full details can be found [here](events/pst-conference).
 </li>
 <br>
 <li>
