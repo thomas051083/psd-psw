@@ -17,7 +17,7 @@ Entry Fee Per Team : FREE <br>
 Open to all Public Officers! Form a team with your fellow colleagues and take part in the coming Telematch. <br>
 The Interactive Telematch shall comprise three telematch games. The points from the three telematch games will be aggregated to determine the top four teams.  <br>
 
-##Registration <br>
+## Registration <br>
 <br>
 
 <li>
