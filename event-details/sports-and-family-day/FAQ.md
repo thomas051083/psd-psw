@@ -84,7 +84,7 @@ breadcrumb: PST Conference
 <br>
 <li>
 	<b>How can I retrieve my confirmation slip?</b><br>
-	You can retrieve your confirmation slip <a href"https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. <br>
+	You can retrieve your confirmation slip <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. <br>
 	<br>
 	Please follow the steps below: <br>
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
