@@ -26,5 +26,5 @@ Lunch will be provided. Bring along your personal internet-accessible laptop if 
 
 **Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-2nd-run-tickets-62076950831)** 
 
