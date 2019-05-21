@@ -16,17 +16,13 @@ Lunch will be provided. Bring along your personal internet-accessible laptop if 
 
 <u><b>Session 1</b></u>
 
-**Date and Time: 10 Jul 2019, 12.00pm to 2.00pm** 
-
-**Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** 
-
-**Indicate Your Interest [Here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-tickets-61979425129)** 
+**Date and Time: 10 Jul 2019, 12.00pm to 2.00pm** <br>
+**Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** <br> 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-tickets-61979425129)** </br>
 
 <u><b>Session 2</b></u>
 
-**Date and Time: 17 Jul 2019, 12.00pm to 2.00pm** 
-
-**Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** 
-
-**Indicate Your Interest [Here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-2nd-run-tickets-62076950831)** 
+**Date and Time: 17 Jul 2019, 12.00pm to 2.00pm** <br>
+**Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-2nd-run-tickets-62076950831)** </br>
 
