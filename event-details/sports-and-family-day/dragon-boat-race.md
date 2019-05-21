@@ -7,8 +7,6 @@ breadcrumb: Sports and Family Day
 
 ## Public Service Sports and Family Day 2019
 ### Dragon Boat
-
-<br>
 <b>
 Date: Saturday, 20 July 2019 <br>
 Venue : Gardens by the Bay (Bay East Park - Marina Channel) <br>
@@ -18,8 +16,7 @@ Entry Fee Per Team : FREE <br>
 Open to all Public Officers! Form a team with your fellow colleagues and take part in the coming Telematch. <br>
 The Interactive Telematch shall comprise three telematch games. The points from the three telematch games will be aggregated to determine the top four teams.  <br>
 
-## Registration <br>
-
+#### Registration
 <li> 
 	Teams must register through the Sports Liaison Officers/Co-ordinator of their respective organisations. Only team registration shall be accepted. Individual entries will not be accepted.
 </li>
