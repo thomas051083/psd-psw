@@ -59,7 +59,7 @@ Hear from experts and practitioners helming service design projects and initiati
   <tr>
     <td>11.25AM - 11.45AM</td>
     <td><b>Closing: The Journey Ahead</b><br>
-      Chief Executive, GovTech, Kok Ping Soon</td>
+       Kok Ping Soon, Chief Executive, GovTech</td>
   </tr>
 </table>
 <i>*More details to come. Conference programme is subject to change </i>
