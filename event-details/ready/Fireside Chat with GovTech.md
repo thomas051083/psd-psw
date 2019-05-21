@@ -17,6 +17,6 @@ Join Ping Soon, deputy Chair of the Service Delivery Committee (SDC), in a conve
 <b><u>Details 
   
 **Date and Time: 15 July (Mon), 4.00pm - 5.30pm** <br>
-**Location: 31 North Buona Vista S275983, Civil Service College, Seminar Room 2 (Level 4)** <br>
+**Location: 31 North Buona Vista Road (S275983) Civil Service College, Seminar Room 2 (Level 4)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-kok-ping-soon-tickets-61285176613)** 
 
