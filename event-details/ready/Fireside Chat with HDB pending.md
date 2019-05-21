@@ -6,6 +6,6 @@ breadcrumb: Learning Festival
 ---
 
 ## Learning Activity
-### Fireside Chat with Dr Cheong Koon Hean, CEO, Housing Development Board
+### Fireside Chat with Dr Cheong Koon Hean, Chief Executive Officer (Housing & Development Board) 
 
 Watch this space closely for more details! 
