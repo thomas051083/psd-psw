@@ -13,8 +13,7 @@ Venue : Gardens by the Bay (Bay East Park) <br>
 Entry Fee Per Team : FREE <br>
 </b>
 
-Open to all Public Officers! Form a team with your fellow colleagues and take part in the coming Telematch. <br>
-The Interactive Telematch shall comprise three telematch games. The points from the three telematch games will be aggregated to determine the top four teams.  <br>
+Open to all Public Officers! Form a team with your fellow colleagues and take part in the coming Public Service Amazing Race.<br>
 
 #### Registration
 <li> 
