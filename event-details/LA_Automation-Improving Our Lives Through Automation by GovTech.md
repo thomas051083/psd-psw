@@ -14,14 +14,14 @@ Learn how to automate routine tasks, e.g., extracting data from a web page, fill
 
 Lunch will be provided. Bring along your personal internet-accessible laptop if possible. 
 
-_**Session 1**_
+__**Session 1**__
 **Date and Time: 10 Jul 2019, 12.00pm to 2.00pm** 
 
 **Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** 
 
 **Indicate Your Interest [here](https://www.eventbrite.sg/e/improving-our-lives-through-automation-by-govtech-tickets-61979425129)** 
 
-_**Session 2**_
+__**Session 2**__
 **Date and Time: 17 Jul 2019, 12.00pm to 2.00pm** 
 
 **Location: Sandcrawler, 1 Fusionopolis View #08-01, S(138577)** 
