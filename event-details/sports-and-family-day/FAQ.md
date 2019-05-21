@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 title: FAQ
-permalink: events/conference/faq
-breadcrumb: Conference
+permalink: events/pst-conference/faq
+breadcrumb: PST Conference
 ---
 
 ### Registration
