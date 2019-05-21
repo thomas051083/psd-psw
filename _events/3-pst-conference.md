@@ -192,7 +192,7 @@ Hear from experts and practitioners helming service design projects and initiati
 </table>
 
 <br> 
-Please refer to our <a href="url">FAQ</a> for more information. <br>
+Please refer to our [FAQ](events/conference/faq) for more information. <br>
 For further enquiries, please call +65 6911 6733 (Weekdays, 10am-6pm) or email: <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a>.<br>
 <br>
 <br>
