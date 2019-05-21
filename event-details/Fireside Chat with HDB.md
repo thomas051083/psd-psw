@@ -15,5 +15,5 @@ How might the future of Public Service be like, and how would it change the way 
 
 **Location: Civil Service College, Level 3 Seminar Room** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+**Indicate Your Interest [here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-cheong-koon-hean-tickets-61285310012)** 
 
