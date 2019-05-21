@@ -14,7 +14,7 @@ Learn how to automate routine tasks, e.g., extracting data from a web page, fill
 
 Lunch will be provided. Bring along your personal internet-accessible laptop if possible. 
 
-<u><b>Session 1,/b></u>
+<u><b>Session 1</b></u>
 
 **Date and Time: 10 Jul 2019, 12.00pm to 2.00pm** 
 
