@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: 21 - 27 July
@@ -6,6 +7,7 @@ breadcrumb: 21 - 27 July
 collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
+-->
 ### Week of 21 - 27 July
 
 <table>
