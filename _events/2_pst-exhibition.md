@@ -9,7 +9,7 @@ collection_name: events
 More coming your way soon, in the mean time check out the other things available on the [site](/)
 
 <!-- ### PST Exhibition -->
-![PST Exhibition](/images/1.jpg)
+<!-- ![PST Exhibition](/images/1.jpg) -->
 
 <!-- **Time and Date:** 17 & 18 July 2019, 9:00am - 6:00pm
 <br>**Venue:** Our Tampines Hub -->
