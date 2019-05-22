@@ -10,7 +10,7 @@ breadcrumb: Learning Journey
 
 ###### _#Innovate #Digitalise #Engage # Adapt&SkillUp #SPSPride_
 
-Ever wondered how to make full use of the potential of data to generate better insights and results?
+Ever wondered how to make fully leverage the potential of data to generate better insights and results?
 
 Come hear from the Ministry of Manpower (MOM) on how they have transformed the way they collect data over the years to improve on data management, analysis, and insights derived. Discover the kind of training they went through, their engagement and communication strategies, the processes and technology they used and more!
 
