@@ -10,10 +10,15 @@ breadcrumb: Learning Journey
 
 ###### _#Innovate_
 
-Do you want to know how to tap on the potential of those data? Discover how the Ministry of Manpower (MOM) has used analytics, Design Thinking and technology to enhance their service delivery through their website, Contact Centre and Services Centre.
+Interested in hearing from the Ministry of Manpower (MOM) on how they have used data analytics, design thinking, behavioural insights and technology to transform public service delivery? Come join us on this visit to find out more and experience MOM's service transformation journey!
 
-**Date and Time: 5th July 2019, 12th July 2019, 3.00pm to 5.00pm**
+<b><u>Session 1</u><br>
+**Date and Time: 5 July (Fri), 3.00pm - 5.30pm** <br>
+**Location: 1500 Bendemeer Road (S339946), Ministry of Manpower Services Centre** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/the-ministry-of-manpowers-mom-service-transformation-journey-tickets-62125493022)** 
 
-**Location: Ministry of Manpower Services Centre (MOMSC) 1500 Bendemeer Road Singapore 339946**
-
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+<b><u>Session 2</u><br>
+**Date and Time: 12 July (Fri), 3.00pm - 5.30pm** <br>
+**Location: 1500 Bendemeer Road (S339946), Ministry of Manpower Services Centre** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/the-ministry-of-manpowers-mom-service-transformation-journey-2nd-run-tickets-62125724715)** 
+  
