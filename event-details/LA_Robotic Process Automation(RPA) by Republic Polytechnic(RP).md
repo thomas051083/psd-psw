@@ -5,14 +5,16 @@ permalink: /events/learning-journeys/event-details/LA_RPAbyRP
 breadcrumb: Learning Activity
 ---
 
-## Learning Activity 
-### Robotic Process Automation(RPA) by Republic Polytechnic(RP) 
+## Learning Activity
+### Sharing on Robotic Process Automation (RPA) – by Republic Polytechnic (RP)
 
-How can Robotic Process Automation(RPA) simplify processes and enhance accuracy and efficiency? Find out how Republic Polytechnic saves time on processing some aspects of administrative work. 
+###### _#Digitalise #Adapt&SkillUp
 
-**Date and Time: Negotiable from Jul 2019 onwards and to be completed by Nov 2019** 
+How can Robotic Process Automation (RPA) simplify processes and enhance accuracy and efficiency? Find out how Republic Polytechnic saved 1,500 mins (i.e., 25 hrs) a year and improved other financial processes through using RPA developed by their finance team.
 
-**Location: TBC** 
+<b><u>Details</u><br>
+**Date and Time: 15 July 2019, 10.00am-11.30am** <br>
+**Location: Civil Service College** <br>
+**Indicate Your Interest [Here]()** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
 
