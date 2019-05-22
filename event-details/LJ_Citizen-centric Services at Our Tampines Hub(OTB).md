@@ -6,14 +6,13 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Citizen-centric Services at Our Tampines Hub(OTH)
+### Citizen-Centric Services at Our Tampines Hub (OTH)
 
 ###### _#Innovate #Digitalise_
 
-Do you love one-stop services centre? Join us to explore how multiple agencies offer comprehensive services to citizens in this community and lifestyle hub.
+Curious about how multiple agencies worked as one and engaged citizens to offer comprehensive facilities and services to Tampines Residents? Check out this visit to Our Tampines Hub (OTH), a first-of-its-kind community lifestyle hub, to find out more. 
 
-**Date and Time: 17 Jul 2019, 2.30pm to 4.00pm**
-
-**Location: Our Tampines Hub**
-
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090342860)** 
+<b><u>Details</u><br>
+**Date and Time: 17 July (Wed), 2.30pm - 4.30pm** <br>
+**Location: 1 Tampines Walk #04-01 (S528523), Our Tampines Hub** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/citizen-centric-services-at-our-tampines-hub-oth-tickets-62125959417)** 
