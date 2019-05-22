@@ -41,6 +41,17 @@ second_nav_title: "PSW Learning Festival"
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>URA’s Digitalisation Journey</b>
+      <br>11 July (Thur) , 2.30pmpm - 4.30pm  
+      <br>Find out how URA has strengthened the way it plans for Singapore with the use of data and technology
+      <br><a href="/events/learning-journeys/event-details/LJ_uradigital">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
      <td>
       <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" />
     </td>
