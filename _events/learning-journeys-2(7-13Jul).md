@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: learning festival
-permalink: /learning-festival/1-6-july
+permalink: /learning-festival/7-13-july
 breadcrumb: Learning Festival
 ---
 
