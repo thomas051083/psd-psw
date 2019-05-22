@@ -1,18 +1,21 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_TwwPBIO-TC
+permalink: /events/learning-journeys/event-details/LJ_URADigitalJourney
 breadcrumb: Learning Festival
 ---
 
 ## Learning Journey 
-### Transforming the Way We Plan and Build an Innovative Ops-Tech Culture 
+### URA’s Digitalisation Journey
 
-Do you want to learn more about the story of Singapore's remarkable physical transformation over the past 50 years? Learn how URA continues to Shape a sustainable and Liveable Singapore through innovative solutions that optimise our land use.
+###### _#Innovate #Digitalise #Adapt&SkillUp_
 
-**Date and Time: 11 Jul 2019, 2.30pm to 4.30pm** 
+What is the story of Singapore’s remarkable physical transformation over the past 50 years, and how has URA continued to shape a sustainable and liveable Singapore through innovative solutions that optimise our land use?
 
-**Location: URA Centre** 
+Find out how URA has strengthened the way it plans for Singapore with the use of data and technology, and how URA officers have grown in digital capabilities.
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+<b><u>Details</u><br>
+**Date and Time: 11 July (Thurs), 2.30pm - 4.30pm** <br>
+**Location: 45 Maxwell Road, The URA Centre (S069118)** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/uras-digitalisation-journey-tickets-61992700837)** 
 
