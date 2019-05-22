@@ -1,3 +1,9 @@
+---
+layout: simple-page
+title: learning festival
+permalink: /learning-festival/1-6-july
+breadcrumb: Learning Festival
+---
 
 <!-- 
 ---
@@ -9,13 +15,6 @@ collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
 -->
-
----
-layout: simple-page
-title: learning festival
-permalink: /learning-festival/1-6-july
-breadcrumb: Learning Festival
----
 
 ### Week of 1 - 6 July
 
