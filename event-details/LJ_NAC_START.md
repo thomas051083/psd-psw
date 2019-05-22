@@ -15,5 +15,5 @@ Curious about citizen engagement efforts in the Arts sector? Learn how the Natio
 <b><u>Details</u><br>
 **Date and Time: 18th July (Thurs), 3.00pm - 5.00pm** <br>
 **Location: 9 Lock Road (S108937) Gillman Barracks</i>** <br>
-**Indicate Your Interest [Here]()** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/start-at-gillman-barracks-tickets-62246338474)** 
 
