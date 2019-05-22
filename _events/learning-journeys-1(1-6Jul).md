@@ -25,7 +25,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Fireside Chat with PSD Loh Khum Yean</b>
-      <br>1 July, 3.30pm-5pm
+      <br>1 July (Mon) , 3.30pm - 5.00pm
       <br>Discuss how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean.
       <br><a href="/events/learning-journeys/event-details/LC_FC_PSD">Click here to find out more.</a> 
     </td>
@@ -36,7 +36,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
-      <br>3 July, 3pm-4.30pm
+      <br>3 July (Wed) , 3.00pm - 4.30pm
       <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
       <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
     </td>
@@ -47,7 +47,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Fireside Chat with Dr. Cheong Koon Hean, CEO, Housing Development Board</b>
-      <br>4 July, 3pm-4.30pm
+      <br>4 July (Thur) , 3.00pm - 4.30pm
       <br>Come hear from Dr Cheong how as public officers we should prepare for change and adapt to new ways of working
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
@@ -58,7 +58,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>SkillsFuture Advice Workshop for Public Officers</b>
-      <br>4 July, 9am-11am and 11am-1pm
+      <br>4 July (Thur) , 9.00am - 11.00am or 11.00am - 1.00pm
       <br>Discover initiatives that support your career planning and skills upgrading at the SkillsFuture Advice workshop. 
       <br><a href="/events/learning-journeys/event-details/LA_SFAWfPO">Click here to find out more.</a>
     </td>
@@ -69,7 +69,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
-      <br>5 July, 3pm-5pm
+      <br>5 July (Fri) , 3.00pm-5.00pm
       <br>Discover how Sensors and IoT (SIOT) Capability is applied in the public service 
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
@@ -80,7 +80,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
-      <br>5 July, 2.30pm-4pm
+      <br>5 July (Fri) , 2.30pm - 4.00pm
       <br>Relive and explore the different eras of Singapore's education at the MOE Heritage Center today.
       <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
     </td>
@@ -91,7 +91,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>BalikSG - Sharing Stories through Mixed Reality</b>
-      <br>5 July, 2.30pm
+      <br>5 July (Fri) , 2.30pm
       <br>Come find out how NLB has implemented mixed reality to help their casue and the journey they went through in achieving their goal.
       <br><a href="/events/learning-journeys/event-details/LA_baliksg">Click here to find out more.</a>
     </td>
