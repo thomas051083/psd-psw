@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Paying CPF through Paynow
+### Project INSPIRE - Integrating and Streamlining Processes for Voluntary Inflow and Refunds by the CPF Board
 
 ###### _#Innovate #SPSPride_
 
