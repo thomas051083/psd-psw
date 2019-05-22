@@ -5,14 +5,16 @@ permalink: /events/pst-exhibition/
 breadcrumb: PST Exhibition
 collection_name: events
 ---
+### Watch this space for more information! 
+More coming your way soon, in the mean time check out the other things available on the [site](/)
 
-### PST Exhibition
+<!-- ### PST Exhibition -->
 ![PST Exhibition](/images/1.jpg)
 
-**Time and Date:** 17 & 18 July 2019, 9:00am - 6:00pm
-<br>**Venue:** Our Tampines Hub
-<!-- <br> *The PST Exhibition is open for both Public and Public Officers. No tickets or invitation is required for admission.* -->
-<br>
+<!-- **Time and Date:** 17 & 18 July 2019, 9:00am - 6:00pm
+<br>**Venue:** Our Tampines Hub -->
+
+<!-- <br>
 <br>
 <b>An exhibition not to be missed </b> <br>
 As public service officers, our work impacts the everyday lives of Singaporeans – our family, friends, and not least ourselves. But how familiar are you with the various services available at each life stage? <br>
@@ -31,4 +33,6 @@ Plus, catch up with colleagues across agencies over a free cup (or two) of coffe
 <br>
 <br>
 <br>
+--> 
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
+
