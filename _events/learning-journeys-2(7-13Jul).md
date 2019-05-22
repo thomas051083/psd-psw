@@ -20,17 +20,6 @@ second_nav_title: "PSW Learning Festival"
 <table>
   <tr>
     <td>
-      <img src="/images/learning-journey-1.png" />
-    </td>
-    <td>
-      <b>Lorem Ipsum</b>
-      <br>7 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
