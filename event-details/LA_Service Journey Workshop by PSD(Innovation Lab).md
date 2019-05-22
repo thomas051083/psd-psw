@@ -8,7 +8,7 @@ breadcrumb: Learning Activity
 ## Learning Activity
 ### Service Journey Workshop by PSD (Innovation Lab)
 
-###### _#Adapt&SkillUp
+###### _#Adapt&SkillUp_
 
 Inno Lab will be conducting a Service Journey workshop for 60-100 pax. Likely during the 15 Jul week.
 
