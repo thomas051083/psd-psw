@@ -46,6 +46,17 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
+      <b>Digital Workplace (DWP) Induction Workshop</b>
+      <br>11 July (Thurs), 3.00pm - 5.00pm, The Treasury, Function Room (Level 1) [TBC]  
+      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. Be a proud pioneer of the Smart Nation Ambassadors after you complete this learning activity!
+      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" />
+    </td>
+    <td>
       <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
       <br>12 Jul, 2.00pm to 5.00pm, 501 Old Choa Chu Kang Rd (S698928), Home Team Academy
       <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
