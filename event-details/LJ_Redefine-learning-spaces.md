@@ -8,6 +8,8 @@ breadcrumb: Learning Festival
 ## Learning Journey 
 ### Redefining Learning Spaces @ INNxCSC by CSC 
 
+###### _#Adapt&SkillUp_
+
 Have you thought about how your immediate space has an effect on your learning? Explore how learning spaces affect learning impact and innovation. 
 
 **Date and Time: 17 Jul 2019, 10.00am to 12.00pm; 2.00pm to 4.00pm** 
