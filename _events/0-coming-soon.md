@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Coming Soon
+title: Learning Festival
 permalink: /events/learning-festival/
 breadcrumb: Learning Festival
 collection_name: events
