@@ -6,7 +6,9 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Citizen-centric Services at Our Tampines Hub(OTB)
+### Citizen-centric Services at Our Tampines Hub(OTH)
+
+###### _#Innovate #Digitalise_
 
 Do you love one-stop services centre? Join us to explore how multiple agencies offer comprehensive services to citizens in this community and lifestyle hub.
 
