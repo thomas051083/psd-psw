@@ -39,7 +39,7 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
+      <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
       <br>12 Jul, 2.00pm to 5.00pm, 501 Old Choa Chu Kang Rd (S698928), Home Team Academy
       <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
