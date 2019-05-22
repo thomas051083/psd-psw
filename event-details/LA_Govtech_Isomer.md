@@ -5,17 +5,15 @@ permalink: /events/learning-journeys/event-details/LA_Isomer
 breadcrumb: Learning Activity
 ---
 
-## Learning Activity 
-### Scaling From Prototyping to a Viable Product Using Isomer
+## Learning Activity
+### Scaling From Prototyping to a Viable Product Using Isomer by GovTech
 
-###### _#Digitalise #Innovate_
+###### _#Innovate #Digitalise_
 
 How do you make the leap from prototyping to implementation? Discover how services such as Isomer can help you improve user experiences, reduce cost of creating and maintaining informational service and reduce cost of compliance so that you can scale prototypes even more quickly. 
 
-**Date and Time: Negotiable from Jul 2019 onwards and to be completed by Nov 2019**
-
-**Location: Civil service College**
-
-**Indicate Your Interest  [here]()** 
-link required
+<b><u>Details</u><br>
+**Date and Time: TBC** <br>
+**Location: TBC** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-lai-chung-han-permanent-secretary-ministry-of-education-tickets-61278470555)** 
 
