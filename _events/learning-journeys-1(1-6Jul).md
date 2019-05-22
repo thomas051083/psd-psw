@@ -78,7 +78,14 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <img src="/images/learning-journey-3.png" />
     </td>
-    <tr>
+    <td>
+      <b>Learning Journey to MOE Heritage Centre</b>
+      <br>5 July, 2.30pm-4pm
+      <br>Relive and explore the different eras of Singapore's education at the MOE Heritage Center today.
+      <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
     <td>
       <img src="/images/learning-journey-3.png" />
     </td>
