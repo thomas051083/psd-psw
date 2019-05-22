@@ -15,7 +15,7 @@ Keen to experience the Home Team’s transformational journey in optimising work
 Learn how surveillance and analytics come together, and are viewed through a “humans-centred lens”, i.e., Human Factors Engineering, plus get an insider’s view of how virtual reality is supporting them in their journey of rapid prototyping and innovation.
 
 <b><u>Details</u><br>
-**Date and Time: 12 July (Fri), 2.00pm to 5.00pm** <br>
-**Location: 501 Old Choa Chu Kang Rd (S698928), Home Team Academy** <br>
+**Date and Time: 12 July (Fri), 2.00pm - 5.00pm** <br>
+**Location: 501 Old Choa Chu Kang Road (S698928), Home Team Academy** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/visit-to-the-ministry-of-home-affairs-human-performance-centre-hpc-tickets-61090342860)** 
   
