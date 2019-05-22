@@ -27,10 +27,10 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>9 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
+      <br>3 July, 3pm-4.30pm
+      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
+      <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -38,10 +38,10 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-3.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>12 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Fireside Chat with Dr. Cheong Koon Hean, CEO, Housing Development Board</b>
+      <br>4 July, 3pm-4.30pm
+      <br>Come hear from Dr Cheong how as public officers prepare for change and adapt to new ways of working
+      <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
 </table>
