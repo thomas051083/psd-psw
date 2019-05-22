@@ -8,11 +8,13 @@ breadcrumb: Learning Journey
 ## Learning Journey
 ### Dignity Kitchen
 
-???XXX???. 
+###### _#Engage_
 
-**Date and Time: TBC**
+Join us to experience the perspectives of differently abled persons and the elderly. 
 
-**Location: TBC** 
+**Date and Time: 11 July (Thur), 2.00pm - 5.15pm**
+
+**Location: Dignity Kitchen, Block 267 Serangoon Ave 3, #02-02 S(550267)** 
 
 **Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
 
