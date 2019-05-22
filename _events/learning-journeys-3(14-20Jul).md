@@ -1,3 +1,9 @@
+---
+layout: simple-page
+title: learning festival
+permalink: /learning-festival/14-20-july
+breadcrumb: Learning Festival
+---
 <!-- 
 ---
 layout: leftnav-page-content
