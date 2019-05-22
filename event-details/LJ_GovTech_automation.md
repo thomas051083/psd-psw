@@ -8,6 +8,8 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Improving Our Lives Through Automation
 
+###### _#Innovate #Digitalise_
+
 Want to find out how you can free up time and spend it more meaningfully on productive work? 
 
 **Date and Time: 10th July 2019, 19th July 2019, 12.00pm to 2.00pm**
