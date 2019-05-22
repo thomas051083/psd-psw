@@ -71,7 +71,6 @@ second_nav_title: "PSW Learning Festival"
       <b>Automation - Making our Lives Better</b>
       <br>17 July (Wed), 12.00pm - 2.00pm
       <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   <tr>
     <td>
@@ -91,7 +90,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Student Services & Visitors Centre Transformation Journey</b>
       <br>18 July (Thur), 10.00am - 11.30am
-      <br>Find out more about Ngee Ann Polytechnicon on how they have leveraged digital technologies to transform the students' and visitors' service experience.
+      <br>Find out more about Ngee Ann Polytechnic on on how they have leveraged digital technologies to transform the students' and visitors' service experience.
       <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
     </td>
   </tr>
