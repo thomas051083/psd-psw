@@ -8,7 +8,7 @@ breadcrumb: Learning Activity
 ## Learning Activity 
 ### SkillsFuture_Sharing by PS Award Nominees
 
-###### _#Adapt&Skillup_
+###### _#Adapt&SkillUp_
 
 Discover how fellow colleagues across Public Service have built up capabilities that prepare them for the future. 
 
