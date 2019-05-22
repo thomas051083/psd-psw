@@ -78,11 +78,15 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <img src="/images/learning-journey-3.png" />
     </td>
+    <tr>
     <td>
-      <b>Learning Journey to MOE Heritage Centre</b>
-      <br>5 July, 2.30pm-4pm
-      <br>Relive and explore the different era of Singapore's education at MOE Heritage Center. 
-      <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
+      <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>BalikSG - Sharing Stories through Mixed Reality</b>
+      <br>5 July, 2.30pm
+      <br>Come find out how NLB has implemented mixed reality to help their casue and the journey they went through in achieving their goal.
+      <br><a href="/events/learning-journeys/event-details/LA_baliksg">Click here to find out more.</a>
     </td>
   </tr>
 </table>
