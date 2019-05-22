@@ -31,7 +31,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
   </tr>
   <tr>
-     <<td>
+     <td>
       <a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
