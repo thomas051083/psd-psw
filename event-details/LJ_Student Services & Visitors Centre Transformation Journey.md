@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Our Journey on Transforming Student and Visitors’ Services
+### NP: Our Journey on Transforming Student and Visitors’ Services
 
 ###### _#Innovate #Digitalise #Engage_
 
