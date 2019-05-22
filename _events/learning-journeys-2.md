@@ -36,13 +36,14 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Lorem Ipsum</b>
       <br>12 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
+      <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <br><a href="/events/learning-journeys/event-details/LJ_MHAHPC">Click here to find out more.</a>
     </td>
   </tr>
 </table>
