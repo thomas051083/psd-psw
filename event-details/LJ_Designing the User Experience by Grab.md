@@ -8,6 +8,8 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Designing the User Experience by Grab
 
+###### _#Innovate #Digitalise_
+
 ???XXX???
 
 **Date and Time: 12 Jul 2019, 2.00pm to 5.00pm**
