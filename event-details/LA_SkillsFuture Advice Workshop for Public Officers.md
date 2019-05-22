@@ -8,17 +8,17 @@ breadcrumb: Learning Activity
 ## Learning Activity
 ### SkillsFuture Advice Workshop for Public Officers
 
-###### _#Adapt&SkillUp
+###### _#Adapt&SkillUp_
 
 Start Your SkillsFuture Journey Today! Discover initiatives that support your career planning and skills upgrading at the SkillsFuture Advice workshop. 
 
 <b><u>Session 1</u><br>
 **Date and Time: 4 July (Thurs), 9.00am to 11.00am** <br>
-**Location: Civil Service College ** <br> 
+  **Location: 31 North Buona Vista Road (S275983) Civil Service College <br> <i>Exact Room TBC</i>** <br>
 **Indicate Your Interest [Here]()** <br>
 
 <b><u>Session 2 </u><br>
 **Date and Time: 4 July (Thurs), 11.00am to 1.00pm** <br>
-**Location: Civil Service College** <br>
+  **Location: 31 North Buona Vista Road (S275983) Civil Service College <br> <i>Exact Room TBC</i>** <br>
 **Indicate Your Interest [Here]()** <br>
 
