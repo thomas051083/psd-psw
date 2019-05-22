@@ -6,14 +6,16 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### A Statistical Journey - Capturing the Data of 2.5 Million Workers
+### MOM: A Statistical Journey - Capturing the Data of 2.5 Million Workers
 
 ###### _#Innovate #Digitalise #Engage # Adapt&SkillUp #SPSPride_
 
-Are you keen to know how data collection over time can inform your agency's work? Discover how the evolution of Ministry of Manpower (MOM)’s data collection over the years has significantly affected data management, analysis and insights derived.
+Ever wondered how to make full use of the potential of data to generate better insights and results?
 
-**Date and Time: 3rd July 2019, TBC** 
+Come hear from MOM on how they have transformed the way they collect data over the years to improve on data management, analysis, and insights derived. Discover the kind of training they went through, their engagement and communication strategies, the processes and technology they used and more!
 
-**Location: URA Building** 
+<b><u>Details</u><br>
+**Date and Time: 3 July (Wed), 3.00pm - 4.30pm** <br>
+**Location: 45 Maxwell Road, The URA Centre (S069118)** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/a-statistical-journey-capturing-the-data-of-25-million-workers-by-the-ministry-of-manpower-mom-tickets-62246621320)** 
 
-**Indicate Your Interest [here TBC]()** 
