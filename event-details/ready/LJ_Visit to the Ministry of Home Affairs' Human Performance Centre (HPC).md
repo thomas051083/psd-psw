@@ -12,7 +12,7 @@ breadcrumb: Learning Journey
 
 Keen to experience the Home Team’s transformational journey in optimising work processes, operational systems, and the performance of Home Team officers? Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment. 
 
-Learn how surveillance and analytics come together, and are viewed through a “humans-centred lens”, i.e. Human Factors Engineering, plus get an insider’s view of how virtual reality is supporting them in their journey of rapid prototyping and innovation.
+Learn how surveillance and analytics come together, and are viewed through a “humans-centred lens”, i.e., Human Factors Engineering, plus get an insider’s view of how virtual reality is supporting them in their journey of rapid prototyping and innovation.
 
 <b><u>Details</u><br>
 **Date and Time: 12 July (Fri), 2.00pm to 5.00pm** <br>
