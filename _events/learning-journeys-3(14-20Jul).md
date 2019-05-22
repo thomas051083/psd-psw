@@ -37,7 +37,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Involving the Community in Shaping Our City Together</b>
       <br>15 July (Mon), 3.00pm - 5.00pm
-      <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore to optimise land use?
+      <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore.
       <br><a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC">Click here to find out more.</a>
     </td>
   </tr>
@@ -91,7 +91,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Student Services & Visitors Centre Transformation Journey</b>
       <br>18 July (Thur), 10.00am - 11.30am
-      <br>Find out more about Ngee Ann Polytechnicon how they have leveraged digital technologies to transform the students' and visitors' service experience.
+      <br>Find out more about Ngee Ann Polytechnicon on how they have leveraged digital technologies to transform the students' and visitors' service experience.
       <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
     </td>
   </tr>
