@@ -14,6 +14,6 @@ We aspire for the Public Service to not just ‘work for’ but also ‘work wit
 
 <b><u>Details</u><br>
 **Date and Time: 18 July (Thurs), 3.00pm – 4.30pm** <br>
-**Location: 31 North Buona Vista Road (S275983) Civil Service College <br> Seminar Room 2 (Level 4)** <br>
+**Location: 31 North Buona Vista Road (S275983) Civil Service College <br> Training Rooms 4.2 and 4.3 (Level 4)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-lai-chung-han-permanent-secretary-ministry-of-education-tickets-61278470555)** 
 
