@@ -10,7 +10,7 @@ breadcrumb: Step into My Shoes
 
 ##### _SPSPride_
 
-Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with indviduals, families and the community in the rehabilitation of persons who commit crime. This experience may include the opportunity to observe Court sessions, interviews with probationers and their families, programmes, etc. 
+Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with individuals, families and the community in the rehabilitation of persons who commit crime. This experience may include the opportunity to observe Court sessions, interviews with probationers and their families, programmes, etc. 
 
 This will be a 2-week attachment between June to end-Nov 2019. 
 
