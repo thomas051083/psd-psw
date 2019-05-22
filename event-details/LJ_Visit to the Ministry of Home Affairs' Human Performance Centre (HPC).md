@@ -8,10 +8,14 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)
 
-Are you keen to experience the Home Team's tranformational journey in optimising its work processes, operational systems and the performance of Home Team Officers? Come and visit the Human Performance Centre, the first-of-its-kind high-tech facility to help analyse, plan test and evaluate new equipment, systems and work methods before they are deployed into the operational environment. You also get an insider's view of how virtual reality is supporting them in their journey of rapid prototyping and innovation.
+###### _#Adapt&SkillUp #SPSPride_
 
-**Date and Time: 12 Jul 2019, 2.00pm to 5.00pm**
+Keen to experience the Home Team’s transformational journey in optimising work processes, operational systems, and the performance of Home Team officers? Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment. 
 
-**Location: Home Team Academy**
+Learn how surveillance and analytics come together, and are viewed through a “humans-centred lens”, i.e. Human Factors Engineering, plus get an insider’s view of how virtual reality is supporting them in their journey of rapid prototyping and innovation.
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/visit-to-the-ministry-of-home-affairs-human-performance-centre-hpc-tickets-61090342860)** 
+<b><u>Details</u><br>
+**Date and Time: 12 July (Fri), 2.00pm to 5.00pm** <br>
+**Location: 501 Old Choa Chu Kang Rd (S698928), Home Team Academy** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/visit-to-the-ministry-of-home-affairs-human-performance-centre-hpc-tickets-61090342860)** 
+  
