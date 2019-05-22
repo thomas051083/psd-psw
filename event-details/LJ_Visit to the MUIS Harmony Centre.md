@@ -8,10 +8,16 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Visit to the MUIS Harmony Centre
 
-How can we play a part in contributing towards a harmonious Singapore? Experience how the Harmony Centre has deepened the understanding of citizens' lived experience through exposure to racial and religious harmony issues.
+###### _#Engage_
 
-**Date and Time: 9 Jul 2019 or 11 Jul 2019, 11.00am to 1.00pm & 3.00pm to 5.00pm (2 runs/day)**
+How might we better see from others' perspectives? Experience how the Harmony Centre has deepened understanding of citizens' lived realities by exposing visitors to racial and religious harmony issues. 
 
-**Location: ???**
+<b><u>Session 1</u><br>
+**Date and Time: 9 July (Tues), 3.00pm - 5.00pm** <br>
+**Location: 9A Bishan Street 14 (S579786) <br>Harmony Centre @ An Nahdhah Mosque Theatrette (Level 2)** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-kok-ping-soon-tickets-61285176613)** 
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61090342860)** 
+<b><u>Session 2</u><br>
+**Date and Time: 11 July (Thurs), 3.00pm - 5.00pm** <br>
+**Location: 9A Bishan Street 14 (S579786) <br>Harmony Centre @ An Nahdhah Mosque Theatrette (Level 2)** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-kok-ping-soon-tickets-61285176613)** 
