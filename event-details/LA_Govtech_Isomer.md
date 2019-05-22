@@ -15,5 +15,5 @@ How do you make the leap from prototyping to implementation? Discover how servic
 <b><u>Details</u><br>
 **Date and Time: TBC** <br>
 **Location: TBC** <br>
-**Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-lai-chung-han-permanent-secretary-ministry-of-education-tickets-61278470555)** 
+**Indicate Your Interest [Here]()** 
 
