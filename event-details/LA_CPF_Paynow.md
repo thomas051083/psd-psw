@@ -8,7 +8,7 @@ breadcrumb: Learning Activity
 ## Learning Activity
 ### Paying CPF through Paynow
 
-###### _#Innovate 
+###### _#Innovate_ 
 
 Did you know that CPF has enabled employers to make payments by PayNow for CPF contributions? Come and hear the story of CPF's journey to utilise this simple tool to simplify, improve efficiency and ensure better tracking of payment for employers.
 
