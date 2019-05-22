@@ -8,11 +8,14 @@ breadcrumb: Learning Activity
 ## Learning Activity
 ### BalikSG - Sharing Stories through Mixed Reality
 
-TBC
+###### _#Innovate
 
-**Date and Time: 5th July 2019, 2.30pm to TBC** 
+Want to find out how NLB has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history?
 
-**Location: Civil Service College** 
+Come hear about their experience in developing NLB’s first mixed reality app, the challenges they faced in the process and how they overcame these challenges.
 
-**Indicate Your Interest [here TBC]()** 
+<b><u>Details</u><br>
+**Date and Time: 5 July 2019, 2.30pm** <br>
+**Location: Civil Service College** <br>
+**Indicate Your Interest [Here]()** 
 
