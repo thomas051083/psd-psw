@@ -12,7 +12,7 @@ breadcrumb: Learning Journey
 
 Interested in how ITE has transformed by envisioning the future and spotlighting changes in the industry? 
   
-Come learn about ITE’s ‘Hands-on, Minds-on, Hearts-on’™ holistic education approach. Witness how we have mimicked the real industry environments within our campuses, through high-tech and high-touch facilities such as the Internet of Things (IoT) Experiential Centre, Aerospace Hub, Smart Manufacturing lab, Immersive Technology Centre. Our facilities were developed in closed partnership with key industry players, to provide students with authentic learning experiences that will prepare them to be Career-Ready, Life-Ready & World Ready. 
+Come learn about ITE’s ‘Hands-on, Minds-on, Hearts-on’™ holistic education approach. Witness how we have mimicked real industry environments within our campuses through high-tech and high-touch facilities such as the Internet of Things (IoT) Experiential Centre, Aerospace Hub, Smart Manufacturing lab, and Immersive Technology Centre. Our facilities were developed in closed partnership with key industry players to provide students with authentic learning experiences that will prepare them to be Career-Ready, Life-Ready & World Ready. 
 
 <b><u>Details</u><br>
 **Date and Time: 17 July (Wed), 2.30pm - 4.30pm** <br>
