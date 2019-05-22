@@ -17,7 +17,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Fireside Chat with CE, GovTech</b>
-      <br>15 Jul, 4.00pm to 5.30pm, CSC (Seminar Room 2)
+      <br>15 Jul, 4.00pm to 5.30pm, CSC (Level 4, Seminar Room 2)
       <br>Join Ping Soon, deputy Chair of the Service Delivery Committee (SDC), in a conversation on how the SDC drives the transformation of service delivery.
       <br><a href="/events/learning-journeys/event-details/LA_FC_GovTech">Click here to find out more.</a>
     </td>
