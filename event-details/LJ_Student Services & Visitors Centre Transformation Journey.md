@@ -17,7 +17,7 @@ Find out about the behind-the-scenes thought processes and challenges and Ngee A
 <b><u>Session 1</u><br>
 **Date and Time: 3 July (Wed), 10.00am - 11.30am** <br>
 **Location: 535 Clementi Road (S599489), Ngee Ann Polytechnic <br>Student Services & Visitors Centre, Block 1 Level 1** <br>
-**Indicate Your Interest [Here]()** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/ngee-ann-polytechnics-journey-transforming-the-student-services-visitors-centre-3rd-run-tickets-62245081715)** 
 
 <b><u>Session 2</u><br>
 **Date and Time: 9 July (Tues), 10.00am - 11.30am** <br>
