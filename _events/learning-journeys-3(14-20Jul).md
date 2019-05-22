@@ -23,14 +23,14 @@ second_nav_title: "PSW Learning Festival"
     </td>
   </tr>
   <tr>
-     <td>
-      <img src="/images/learning-journey-1.png" />
+     <<td>
+      <a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Transforming the Way We Plan and Build an Innovative Ops-Tech Culture</b>
+      <b>Involving the Community in Shaping Our City Together</b>
       <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore to optimise land use?
+      <br><a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
