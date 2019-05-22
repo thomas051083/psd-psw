@@ -16,5 +16,5 @@ This will be a 2-week attachment between June to end-Nov 2019.
 
 <b><u>Details</u><br>
 **Date and Time: Between June to end-Nov 2019** <br>
-**Location: Probation and Community Rehabilitation Service, 1 Kay Siang Road #01-10 (S248922)** <br>
+**Location: 1 Kay Siang Road #01-10 (S248922) <br>Probation and Community Rehabilitation Service** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
