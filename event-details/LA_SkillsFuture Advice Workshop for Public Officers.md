@@ -15,10 +15,10 @@ Start Your SkillsFuture Journey Today! Discover initiatives that support your ca
 <b><u>Session 1</u><br>
 **Date and Time: 4 July (Thurs), 9.00am to 11.00am** <br>
   **Location: 31 North Buona Vista Road (S275983) Civil Service College <br> <i>Exact Room TBC</i>** <br>
-**Indicate Your Interest [Here]()** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/skillsfuture-advice-workshop-for-public-officers-tickets-62243131883)** <br>
 
 <b><u>Session 2 </u><br>
 **Date and Time: 4 July (Thurs), 11.00am to 1.00pm** <br>
   **Location: 31 North Buona Vista Road (S275983) Civil Service College <br> <i>Exact Room TBC</i>** <br>
-**Indicate Your Interest [Here]()** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/skillsfuture-advice-workshop-for-public-officers-2nd-run-tickets-62243260267)** <br>
 
