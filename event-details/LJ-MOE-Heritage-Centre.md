@@ -8,6 +8,8 @@ breadcrumb: Learning Festival
 ## Learning Journey 
 ### Learning Journey to MOE Heritage Centre
 
+###### _#SPSPride #Bicentennial_
+
 What is Singapore's Education Story? Visit the Ministry of Education (MOE)'s Heritage Center to understand the Singapore Education Story and its role in nation-building. Through a guided tour, participants will visit every zone in the heritage gallery to explore a different era of education in Singapore. 
 
 **Date and Time: 5th July 2019, 2.30pm to 4.00pm** 
