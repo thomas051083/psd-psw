@@ -44,4 +44,37 @@ second_nav_title: "PSW Learning Festival"
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>SkillsFuture Advice Workshop for Public Officers</b>
+      <br>4 July, 9am-11am and 11am-1pm
+      <br>Discover initiatives that support your career planning and skills upgrading at the SkillsFuture Advice workshop. 
+      <br><a href="/events/learning-journeys/event-details/LA_SFAWfPO">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
+      <br>5 July, 3pm-5pm
+      <br>Discover how Sensors and IoT (SIOT) Capability is applied in the public service 
+      <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>Learning Journey to MOE Heritage Centre</b>
+      <br>5 July, 2.30pm-4pm
+      <br>Relive and explore the different era of Singapore's education at MOE Heritage Center. 
+      <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
+    </td>
+  </tr>
 </table>
