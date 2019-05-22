@@ -23,7 +23,7 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Student Services & Visitors Centre Transformation Journey</b>
+      <b>Our Journey on Transforming Student and Visitors’ Services</b>
       <br>9 July (Tue) , 10.00am - 11.30am
       <br>Find out more about Ngee Ann Polytechnic on how they have leveraged digital technologies to transform the students' and visitors' service experience.
       <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
