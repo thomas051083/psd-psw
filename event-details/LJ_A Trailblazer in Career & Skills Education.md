@@ -6,15 +6,16 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### A Trailblazer in Career & Skills Education 
+### ITE: A Trailblazer in Career & Skills Education 
 
 ###### _#Adapt&SkillUp_
 
-Interested in how ITE has transformed by envisioning the future and spotlighting changes in the industry? Come and learn about ITE's 'Hands-on, Minds-on, Hearts-on' holistic education approach where close partnerships with key industry partners and real industry environments are simulated to provide students with authentic learning experiences that will prepare them to be career-Ready, Life-Ready & World-Ready. 
+Interested in how ITE has transformed by envisioning the future and spotlighting changes in the industry? 
+  
+Come learn about ITE’s ‘Hands-on, Minds-on, Hearts-on’™ holistic education approach. Witness how we have mimicked the real industry environments within our campuses, through high-tech and high-touch facilities such as the Internet of Things (IoT) Experiential Centre, Aerospace Hub, Smart Manufacturing lab, Immersive Technology Centre. Our facilities were developed in closed partnership with key industry players, to provide students with authentic learning experiences that will prepare them to be Career-Ready, Life-Ready & World Ready. 
 
-**Date and Time: Negotiable from Jul 2019 onwards and to be completed by Nov 2019** 
-
-**Location: TBC** 
-
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+<b><u>Details</u><br>
+**Date and Time: 17 July (Wed), 2.30pm - 4.30pm** <br>
+**Location: 2 Ang Mo Kio Drive (S567720), Institute of Technical Education** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/learning-journey-to-ite-a-trailblazer-in-career-skills-education-tickets-62125857111)** 
 
