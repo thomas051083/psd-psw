@@ -1,3 +1,9 @@
+---
+layout: simple-page
+title: learning festival
+permalink: /learning-festival/step-into-my-shoes
+breadcrumb: Learning Festival
+---
 <!-- ---
 layout: leftnav-page-content
 title: Step Into My Shoes
