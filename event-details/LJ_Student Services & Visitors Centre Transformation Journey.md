@@ -1,18 +1,31 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_NASS&VCTJ
+permalink: /events/learning-journeys/event-details/LJ_OJoTSaVS
 breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Student Services & Visitors Centre Transformation Journey 
+### Our Journey on Transforming Student and Visitors’ Services
 
-Are you curious about the transformation of a service centre? Find out more about Ngee Ann Polytechnic's Student Services & Visitors Centre transformation Journey - from the thought processes and challenges to the benefits and citizens' savings that came about from adopting innovative solutions e.g. Chatbots, Telemedicine and Self-Serve Kiosks. 
+###### _#Innovate #Digitalise #Engage_
 
-**Date and Time: 9 Jul 2019 or 18 Jul 2019, 10.00am** 
+Curious about the potential benefits, workplace and citizens’ savings that come about from adopting innovation solutions? Come hear from Ngee Ann Polytechnic on how they have leveraged digital technologies such as chatbots, telemedicine and self-serve kiosks to transform the students’ and visitors’ service experience. 
 
-**Location: Student Services & Visitors Centre, Block 1 Level 1, Ngee Ann Polytechnic** 
+Find out about the behind-the-scenes thought processes and challenges and Ngee Ann Polytechnic’s responses in embarking on this transformation journey to innovate service delivery.
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+<b><u>Session 1</u><br>
+**Date and Time: 3 July (Wed), 10.00am - 11.30am** <br>
+**Location: 535 Clementi Road (S599489), Ngee Ann Polytechnic <br>Student Services & Visitors Centre, Block 1 Level 1** <br>
+**Indicate Your Interest [Here]()** 
+
+<b><u>Session 2</u><br>
+**Date and Time: 9 July (Tues), 10.00am - 11.30am** <br>
+**Location: 535 Clementi Road (S599489), Ngee Ann Polytechnic <br>Student Services & Visitors Centre, Block 1 Level 1** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/ngee-ann-polytechnics-journey-transforming-the-student-services-visitors-centre-tickets-61979334859)** 
+  
+<b><u>Session 3</u><br>
+**Date and Time: 18 July (Thurs), 10.00am - 11.30am** <br>
+**Location: 535 Clementi Road (S599489), Ngee Ann Polytechnic <br>Student Services & Visitors Centre, Block 1 Level 1** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/ngee-ann-polytechnics-journey-transforming-the-student-services-visitors-centre-2nd-run-tickets-61979409081)** 
 
