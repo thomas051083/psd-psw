@@ -35,13 +35,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Involving the Community in Shaping Our City Together</b>
-      <br>15 Jul, 3.00pm to 5.00pm, URA Centre 
-      <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore to optimise land use?
-      <br><a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC">Click here to find out more.</a>
+      <b>Digital Workplace (DWP) Induction Workshop</b>
+      <br>16 July (Tues), 3.00pm - 5.00pm, The Treasury, Function Room (Level 1) [TBC]  
+      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. Be a proud pioneer of the Smart Nation Ambassadors after you complete this learning activity!
+      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
