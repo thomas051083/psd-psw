@@ -5,14 +5,15 @@ permalink: /events/learning-journeys/event-details/LA_SJWbPSDIL
 breadcrumb: Learning Activity
 ---
 
-## Learning Activity 
+## Learning Activity
 ### Service Journey Workshop by PSD (Innovation Lab)
 
-What is Service Journey? Come and experience what Service Journey is all about and learn how it can relate to your agencies' work.
+###### _#Adapt&SkillUp
 
-**Date and Time: Negotiable from Jul 2019 onwards and to be completed by Nov 2019** 
+Inno Lab will be conducting a Service Journey workshop for 60-100 pax. Likely during the 15 Jul week.
 
-**Location: TBC** 
-
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
+<b><u>Details</u><br>
+**Date and Time: TBC** <br>
+**Location: TBC** <br>
+**Indicate Your Interest [Here]()** 
 
