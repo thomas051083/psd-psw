@@ -27,9 +27,9 @@ second_nav_title: "PSW Learning Festival"
       <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
+      <b>Student Services & Visitors Centre Transformation Journey</b>
       <br>9 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
+      <br>Come hear from Ngee Ann Polytechnic on how they have leveraged digital technologies to transform the students' and visitors' service experience.
       <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
     </td>
   </tr>
