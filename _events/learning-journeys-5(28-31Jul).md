@@ -1,3 +1,9 @@
+---
+layout: simple-page
+title: learning festival
+permalink: /learning-festival/28-31-july
+breadcrumb: Learning Festival
+---
 <!--
 ---
 layout: leftnav-page-content
