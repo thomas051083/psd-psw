@@ -8,6 +8,8 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Ministry of Manpower's (MOM) Service Transformation Journey
 
+###### _#Innovate_
+
 Do you want to know how to tap on the potential of those data? Discover how the Ministry of Manpower (MOM) has used analytics, Design Thinking and technology to enhance their service delivery through their website, Contact Centre and Services Centre.
 
 **Date and Time: 5th July 2019, 12th July 2019, 3.00pm to 5.00pm**
