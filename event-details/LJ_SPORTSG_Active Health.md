@@ -8,6 +8,8 @@ breadcrumb: Learning Journey
 ## Learning Journey
 ### Active Health Learning Journey
 
+###### _#Innovate #Digitalise #Engage_
+
 TBC
 
 **Date and Time: 16th to 19th July 2019, 2.00pm to 5.00pm** 
