@@ -8,9 +8,9 @@ breadcrumb: Learning Activity
 ## Learning Activity
 ### BalikSG - Sharing Stories through Mixed Reality
 
-###### _#Innovate
+###### _#Innovate_
 
-Want to find out how NLB has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history?
+Want to find out how the National Library Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history?
 
 Come hear about their experience in developing NLB’s first mixed reality app, the challenges they faced in the process and how they overcame these challenges.
 
