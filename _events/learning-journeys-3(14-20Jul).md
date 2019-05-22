@@ -68,7 +68,7 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_gtautomation"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Automation - Making our Lives Better</b>
+      <b>Improving Our Lives Through Automation</b>
       <br>17 July (Wed), 12.00pm - 2.00pm
       <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
       <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
