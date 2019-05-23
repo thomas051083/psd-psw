@@ -43,6 +43,17 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
      <td>
+      <a href="/events/learning-journeys/event-details/LA_RPAbyRP"> <img src="/images/learning-journey-1.png" />
+    </td>
+    <td>
+      <b>Sharing on Robotic Process Automation (RPA)</b>
+      <br>15 July (Mon), 10.00am - 11.30am
+      <br>Come find out how RPA has helped Republic Polytechnic(RP) improve their efficiency and accuracy in their processes. 
+      <br><a href="/events/learning-journeys/event-details/LA_RPAbyRP">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+     <td>
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
@@ -73,6 +84,18 @@ second_nav_title: "PSW Learning Festival"
       <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
       <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
     </td>
+  </tr>
+  <tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_gtautomation"> <img src="/images/learning-journey-1.png" />
+    </td>
+    <td>
+      <b>Learning Journey to ITE – A Trailblazer in Career & Skills Education</b>
+      <br>17 July (Wed), 2.30pm - 4.30pm
+      <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
+      <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
