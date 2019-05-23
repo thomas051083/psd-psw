@@ -6,7 +6,7 @@ breadcrumb: Step into My Steps
 ---
 
 ## Step into My Shoes 
-### Step into My Shoes - Make a Mark, Create an IMPACT @ IRAS 
+### Make a Mark, Create an IMPACT @ IRAS 
 #### Senior Data Management Officer | Compliance Strategy & Insights Division
 
 ##### _#SPSPride_
