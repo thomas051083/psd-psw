@@ -36,7 +36,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Fireside Chat with Dr. Cheong Koon Hean, CEO, Housing Development Board</b>
       <br>4 July (Thur), 3.00pm - 4.30pm
-      <br>Come hear from Dr Cheong how as public officers we should prepare for change and adapt to new ways of working.
+      <br>Chat with Dr Cheong Koon Hean to find out what initiatives support future-ready officers and organisations, and how you can play a part in making life easier for our citizens and colleagues.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
@@ -47,7 +47,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>SkillsFuture Advice Workshop for Public Officers</b>
       <br>4 July (Thur), 9.00am - 11.00am or 11.00am - 1.00pm
-      <br>Discover how to plan your career and upgrade your skills as a Public Service officer at a specially curated SkillsFuture Advice workshop for you. 
+      <br>Discover how to plan your career and upgrade your skills as a Public Service officer at a specially curated SkillsFuture Advice workshop. 
       <br><a href="/events/learning-journeys/event-details/LA_SFAWfPO">Click here to find out more.</a>
     </td>
   </tr>
@@ -80,7 +80,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
       <br>5 July (Fri), 3.00pm-5.00pm
-      <br>Come find out from GovTech how new technologies such as Sensors, IoT and robotics are being applied in the Public Service.
+      <br>Come find out from GovTech how technologies such as Sensors, IoT and robotics are being applied in the Public Service.
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
   </tr>
@@ -91,7 +91,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
       <br>5 July (Fri), 2.30pm - 4.00pm
-      <br>Come find out more about the Singapore Education Story and its role in nation-building through this visit to the MOE Heritage Centre.
+      <br>Come find out more about the Singapore Education Story and its role in nation-building.
       <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
     </td>
   </tr>
@@ -102,7 +102,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>BalikSG - Sharing Stories through Mixed Reality</b>
       <br>5 July (Fri), 2.30pm
-      <br>Learn more about how the National Library Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history in this visit.
+      <br>Learn more about how the National Library Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history.
       <br><a href="/events/learning-journeys/event-details/LA_baliksg">Click here to find out more.</a>
     </td>
   </tr>
