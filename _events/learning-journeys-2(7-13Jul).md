@@ -112,7 +112,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
-      <br>12 Jul (Fri) , 2.00pm - 5.30pm
+      <br>12 Jul (Fri) , 3.00pm - 5.30pm
       <br>Come hear how MOM have used new digtial tools and methodology to improve in their customer service.
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
