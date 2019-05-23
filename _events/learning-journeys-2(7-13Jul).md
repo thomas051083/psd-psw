@@ -64,7 +64,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>Digital Workplace (DWP) Induction Workshop</b>
