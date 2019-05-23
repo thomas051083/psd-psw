@@ -120,13 +120,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LA_Isomer"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
       <b>Isomer (TBC)</b>
       <br>18 July (Thur), 2.00pm - 4.00pm
-      <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
-      <br><a href="/events/learning-journeys/event-details/LC_FC_MOE">Click here to find out more.</a>
+      <br> Discover how services such as Isomer can help you improve user experiences, reduce cost of creating and maintaining informational service and reduce cost of compliance so that you can scale prototypes even more quickly.
+      <br><a href="/events/learning-journeys/event-details/LA_Isomer">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -142,13 +142,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Student Services & Visitors Centre Transformation Journey (TBC)</b>
       <br>18 July (Thur), 10.00am - 11.30am
       <br>Find out more about Ngee Ann Polytechnic on on how they have leveraged digital technologies to transform the students' and visitors' service experience.
-      <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
