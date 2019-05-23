@@ -25,7 +25,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Learning Journey to the MUIS Harmony Centre</b>
       <br>9 July (Tue) & 11 July (Thur), 3.00pm - 5.00pm
-      <br>Find out what MUIS has done to deepen understanding on racial and religious issue
+      <br>Experience how the Harmony Centre has deepened understanding of citizens’ lived realities by exposing visitors to racial and religious harmony issues.
       <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
     </td>
   </tr>
