@@ -7,10 +7,10 @@ breadcrumb: Step into My Steps
 
 ## Step into My Shoes 
 ### Make a Mark, Create an IMPACT @ IRAS 
-Senior Data Management Officer | Compliance Strategy & Insights Division
 
 ##### _#SPSPride_
 
+<b>Senior Data Management Officer | Compliance Strategy & Insights Division</b>
 Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring in applying data technology and management to taxation. 
 
 <b><u>Details</u><br>
