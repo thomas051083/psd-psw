@@ -164,13 +164,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LA_cpfretire"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Retirment adequacy (TBC)</b>
-      <br>19 July (Fri) , 3.00pm - 4.30pm
-      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
-      <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
+      <b>CPF: Engaging Singaporeans on Retirement Adequacy</b>
+      <br>19 July (Fri), 3.00pm - 4.30pm
+      <br>Gain an appreciation of CPF as intended for retirement adequacy through case studies and discern facts from DRUMS (Disruption, Rumours, Untruths, Misinformation). 
+      <br><a href="/events/learning-journeys/event-details/LA_cpfretire">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
