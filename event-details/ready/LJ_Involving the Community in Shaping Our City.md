@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### URA: Involving the Community in Shaping Our City Together
+### Involving the Community in Shaping Our City Together
 
 ###### _#Engage_
 
