@@ -15,8 +15,8 @@ Be attached to the Compliance Strategy & Insights Division, and discover what IR
 
 <b><u>Details</u><br>
   
-<u>Scope of Attachment</u>
-a. Environmental scanning on emerging data technology and data management solutions, including their applications in other organisations and identify possible opportunity areas for IRAS 
+<u>Scope of Attachment</u><br>
+a. Environmental scanning on emerging data technology and data management solutions, including their applications in other organisations and identify possible opportunity areas for IRAS <br>
 b. Running a POC and/or pilot using the data management solution, in collaboration with other internal stakeholders
 
 <u>Duration</u>
