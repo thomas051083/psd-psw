@@ -32,17 +32,6 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
-    </td>
-    <td>
-      <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
-      <br>3 July (Wed) , 3.00pm - 4.30pm
-      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
-      <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
