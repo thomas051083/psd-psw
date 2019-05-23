@@ -32,7 +32,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
       <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
@@ -43,7 +43,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Fireside Chat with Dr. Cheong Koon Hean, CEO, Housing Development Board</b>
@@ -54,7 +54,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>SkillsFuture Advice Workshop for Public Officers</b>
@@ -65,7 +65,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
@@ -75,8 +75,8 @@ second_nav_title: "PSW Learning Festival"
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="/images/learning-journey-3.png" />
+    <td> 
+      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
@@ -87,7 +87,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_baliksg"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>BalikSG - Sharing Stories through Mixed Reality</b>
