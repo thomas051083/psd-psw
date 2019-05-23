@@ -123,7 +123,7 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LA_Isomer"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Isomer (TBC)</b>
+      <b>Scaling From Prototyping to a Viable Product Using Isomer</b>
       <br>18 July (Thur), 2.00pm - 4.00pm
       <br> Discover how services such as Isomer can help you improve user experiences, reduce cost of creating and maintaining informational service and reduce cost of compliance so that you can scale prototypes even more quickly.
       <br><a href="/events/learning-journeys/event-details/LA_Isomer">Click here to find out more.</a>
@@ -147,7 +147,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Student Services & Visitors Centre Transformation Journey (TBC)</b>
       <br>18 July (Thur), 10.00am - 11.30am
-      <br>Find out more about Ngee Ann Polytechnic on on how they have leveraged digital technologies to transform the students' and visitors' service experience.
+      <br>Find out more about Ngee Ann Polytechnic on how they have leveraged on digital technologies to transform the students' and visitors' service experience.
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>
