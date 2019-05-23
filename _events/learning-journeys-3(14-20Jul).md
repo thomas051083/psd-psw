@@ -15,7 +15,6 @@ collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
 -->
-
 ### Week of 14 - 20 July
 
 <table>
@@ -32,95 +31,95 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LJ_ItCiSOCT"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>Involving the Community in Shaping Our City Together</b>
       <br>15 July (Mon), 3.00pm - 5.00pm
       <br>Learn how URA, together with stakeholders and the community, continues to shape a sustainable and liveable Singapore.
-      <br><a href="/events/learning-journeys/event-details/LJ_TtWWPnBIOTC">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LJ_ItCiSOCT">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LA_RPAbyRP"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LA_RPAbyRP"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>Sharing on Robotic Process Automation (RPA)</b>
       <br>15 July (Mon), 10.00am - 11.30am
-      <br>Come find out how RPA has helped Republic Polytechnic(RP) improve their efficiency and accuracy in their processes. 
+      <br>Come find out how RPA has helped Republic Polytechnic(RP) simplify their Finance processes and enhance accuracy and efficiency in their work.
       <br><a href="/events/learning-journeys/event-details/LA_RPAbyRP">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>Digital Workplace (DWP) Induction Workshop</b>
       <br>16 July (Tue), 3.00pm - 5.00pm 
-      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. Be a proud pioneer of the Smart Nation Ambassadors after you complete this learning activity!
+      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>Citizen-centric Service at Our Tampines Hub (OTH)</b>
       <br>17 July (Wed), 2.30pm - 4.00pm 
-      <br>Explore how multiple agencies offer comprehensive services to citizens in this community and lifestyle hub.
+      <br>Experience how multiple agencies came together to offer comprehensive services to Tampines residents in this first-of-its-kind community and lifestyle hub.
       <br><a href="/events/learning-journeys/event-details/LJ_CcSOTB">Click here to find out more.</a>
    </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_gtautomation"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>Improving Our Lives Through Automation</b>
       <br>17 July (Wed), 12.00pm - 2.00pm
-      <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
-      <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
+      <br>Learn how to automate routine tasks, such as extracting data from a web page, to free up time and spend it more meaningfully on productive work. 
+      <br><a href="/events/learning-journeys/event-details/LA_IoLTAbGT">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_gtautomation"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/TCSE"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>Learning Journey to ITE – A Trailblazer in Career & Skills Education</b>
       <br>17 July (Wed), 2.30pm - 4.30pm
-      <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
-      <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
+      <br>Come find out how ITE has transformed by envisioning the future and spotlighting changes in the industry.
+      <br><a href="/events/learning-journeys/event-details/TCSE">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_gtautomation"> <img src="/images/learning-journey-1.png" />
+      <a href="TBC"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
-      <b>Redefining Learnning Experience  @ Inn (TBC)</b>
+      <b>Redefining Learning Experience  @ Inn (TBC)</b>
       <br>17 July (Wed), 2.30pm - 4.30pm
-      <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
-      <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
+      <br>TBC
+      <br><a href="TBC">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
+      <a href="TBC"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
-      <b>Fireside Chat with PS, SNDGO(TBC)</b>
+      <b>Fireside Chat with PS, SNDGO (TBC)</b>
       <br>17 July (Wed), 3.00pm - 4.30pm
-      <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
-      <br><a href="/events/learning-journeys/event-details/LC_FC_MOE">Click here to find out more.</a>
+      <br>TBC
+      <br><a href="TBC">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_Isomer"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LA_Isomer"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
       <b>Scaling From Prototyping to a Viable Product Using Isomer</b>
@@ -131,32 +130,32 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
-      <b>Fireside Chat with PS, MOE</b>
+      <b>Fireside Chat with Lai Chung Han, PS (MOE)</b>
       <br>18 July (Thur), 3.00pm - 4.30pm
-      <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
+      <br>Discover how we can stay connected to the lived realities of our fellow Singaporeans and foster a strong culture of citizen engagement across the Government in this cosy chat with PS Chung Han, who chairs the Public Sector Transformation - Committee for Citizen Engagement (CCE).
       <br><a href="/events/learning-journeys/event-details/LC_FC_MOE">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
-      <b>Student Services & Visitors Centre Transformation Journey (TBC)</b>
+      <b>Our Journey on Transforming Students’ and Visitors’ Services</b>
       <br>18 July (Thur), 10.00am - 11.30am
-      <br>Find out more about Ngee Ann Polytechnic on how they have leveraged on digital technologies to transform the students' and visitors' service experience.
+      <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_startatgb"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_startatgb"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
-      <b>NAC: START @ Gillman Barracks</b>
+      <b>START @ Gillman Barracks</b>
       <br>18 July (Thur), 3.00pm - 5.00pm
       <br>Learn how the National Arts Council (NAC) is exploring ways to encourage a greater interest in art collection and philantrophy through START, one of NAC's initiatives in transforming citizen engagement.
       <br><a href="/events/learning-journeys/event-details/LJ_startatgb">Click here to find out more.</a>
@@ -164,7 +163,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_cpfretire"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LA_cpfretire"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
       <b>CPF: Engaging Singaporeans on Retirement Adequacy</b>
@@ -175,24 +174,24 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
       <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
-      <br>19 July (Fri) , 3.00pm - 4.30pm
-      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
+      <br>19 July (Fri), 3.00pm - 4.30pm
+      <br>Come hear MOM’s transformation journey on the way they collect data to improve on data management, analysis, and insights derived. 
       <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
+      <a href="TBC"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
       <b>Active Health Learning Journey (TBC)</b>
-      <br>19 July (Fri) , 3.00pm - 4.30pm
-      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
-      <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
+      <br>19 July (Fri), 3.00pm - 4.30pm
+      <br>TBC
+      <br><a href="TBC">Click here to find out more.</a>
     </td>
   </tr>
 </table>
