@@ -17,5 +17,5 @@ Come hear about their experience in developing NLB’s first mixed reality app, 
 <b><u>Details</u><br>
 **Date and Time: 5 July 2019, 2.30pm** <br>
 **Location: Civil Service College** <br>
-**Indicate Your Interest [Here]()** 
-
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/the-ministry-of-manpowers-mom-service-transformation-journey-tickets-62125493022)** 
+  
