@@ -47,7 +47,7 @@ second_nav_title: "PSW Learning Festival"
     <td>
       <b>Sharing on Robotic Process Automation (RPA)</b>
       <br>15 July (Mon), 10.00am - 11.30am
-      <br>Come find out how RPA has helped Republic Polytechnic(RP) simplify their Finance processes and enhance accuracy and efficiency in their work.
+      <br>Come find out how RPA has helped Republic Polytechnic (RP) simplify their Finance processes and enhance accuracy and efficiency in their work.
       <br><a href="/events/learning-journeys/event-details/LA_RPAbyRP">Click here to find out more.</a>
     </td>
   </tr>
@@ -67,9 +67,9 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
-      <b>Citizen-centric Service at Our Tampines Hub (OTH)</b>
+      <b>Citizen-Centric Services at Our Tampines Hub (OTH)</b>
       <br>17 July (Wed), 2.30pm - 4.00pm 
-      <br>Experience how multiple agencies came together to offer comprehensive services to Tampines residents in this first-of-its-kind community and lifestyle hub.
+      <br>Experience how multiple agencies came together to engage and offer comprehensive services to Tampines residents in this first-of-its-kind community and lifestyle hub.
       <br><a href="/events/learning-journeys/event-details/LJ_CcSOTB">Click here to find out more.</a>
    </td>
   </tr>
