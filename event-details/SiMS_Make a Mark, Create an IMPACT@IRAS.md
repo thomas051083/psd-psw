@@ -11,7 +11,7 @@ breadcrumb: Step into My Steps
 
 ##### _#SPSPride_
 
-Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring when it comes to apply data technology and management to taxation. 
+Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring in applying data technology and management to taxation. 
 
 <b><u>Details</u><br>
   
