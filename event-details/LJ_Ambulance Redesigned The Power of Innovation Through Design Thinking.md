@@ -13,6 +13,6 @@ breadcrumb: Learning Journey
 Curious about how innovative design can make a difference to your work? Join the Singapore Civil Defence Force (SCDF) on a tour of the newly redesigned emergency ambulance, and discover how they have applied design thinking in this process. SCDF will also share about some of the challenges they encountered during the innovation process.
 
 <b><u>Details</u><br>
-**Date and Time: 9 July (Tues), 2.30pm - TBC** <br>
-**Location: 533 Yishun Industrial Park A (S768774)<br>SCDF 3rd CD Division @ Yishun Fire Station** <br>
+**Date and Time: 9 July (Tues), 2.30pm - 5.00 pm** <br>
+**Location: 533 Yishun Industrial Park A (S768774)<br>SCDF 3rd CD Division @ Yishun Fire Station _[TBC]_** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/ambulance-redesigned-the-power-of-innovation-through-design-thinking-tickets-62126227218)** 
