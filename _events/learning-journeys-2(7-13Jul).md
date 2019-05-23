@@ -18,6 +18,17 @@ second_nav_title: "PSW Learning Festival"
 ### Week of 7 - 13 July
 
 <table>
+   <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+      <b>Learning Journey to the MUIS Harmony Centre</b>
+      <br>9 July (Tue) & 11 July (Thur) , 11.00am - 1.00pm & 3.00pm - 5.00pm
+      <br>Find out what MUIS has done to deepen understanding on racial and religious issue
+      <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-2.png" />
@@ -82,6 +93,17 @@ second_nav_title: "PSW Learning Festival"
       <br>12 Jul (Fri) , 2.00pm - 5.00pm
       <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
       <br><a href="/events/learning-journeys/event-details/LJ_MHAHPC">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/learning-journey-1.png" />
+    </td>
+    <td>
+      <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
+      <br>12 Jul (Fri) , 2.00pm - 5.30pm
+      <br>Come hear how MOM have used new digtial tools and methodology to improve in their customer service.
+      <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
   </tr>
 </table>
