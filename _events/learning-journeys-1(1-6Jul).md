@@ -15,13 +15,12 @@ collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
 -->
-
 ### Week of 1 - 6 July
 
 <table>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-2.png" />
+      <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
       <b>Our Journey on Transforming Student and Visitors’ Services</b>
@@ -32,7 +31,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>Fireside Chat with Dr. Cheong Koon Hean, CEO, Housing Development Board</b>
@@ -43,7 +42,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>SkillsFuture Advice Workshop for Public Officers</b>
@@ -54,7 +53,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>Digital Workplace (DWP) Induction Workshop</b>
@@ -65,7 +64,7 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/learning-journey-1.png" /></a>
     </td>
     <td>
       <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
@@ -76,18 +75,18 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
       <br>5 July (Fri), 3.00pm-5.00pm
-      <br> Come find out from GovTech how new technologies such as Sensors, IoT and robotics are being applied in the Public Service.
+      <br>Come find out from GovTech how new technologies such as Sensors, IoT and robotics are being applied in the Public Service.
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td> 
-      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
@@ -98,11 +97,11 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_baliksg"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_baliksg"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
       <b>BalikSG - Sharing Stories through Mixed Reality</b>
-      <br>5 July (Fri) , 2.30pm
+      <br>5 July (Fri), 2.30pm
       <br>Learn more about how the National Library Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history in this visit.
       <br><a href="/events/learning-journeys/event-details/LA_baliksg">Click here to find out more.</a>
     </td>
