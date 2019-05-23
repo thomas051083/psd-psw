@@ -19,10 +19,10 @@ Be attached to the Compliance Strategy & Insights Division, and discover what IR
 a. Environmental scanning on emerging data technology and data management solutions, including their applications in other organisations and identify possible opportunity areas for IRAS <br>
 b. Running a POC and/or pilot using the data management solution, in collaboration with other internal stakeholders
 
-<u>Duration</u>
+<u>Duration</u><br>
 Part time basis (2-3 days a week) for 2-3 months after Jan 2020
 
-<u>Requirements</u>
+<u>Requirements</u><br>
 Preferably with background in data management, information systems or computer science
 
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/step-into-my-shoes-iras-short-term-attachment-opportunity-with-the-compliance-strategy-insights-registration-62029301310)** 
