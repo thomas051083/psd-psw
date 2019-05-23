@@ -97,6 +97,39 @@ second_nav_title: "PSW Learning Festival"
     </td>
   </tr>
   <tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_gtautomation"> <img src="/images/learning-journey-1.png" />
+    </td>
+    <td>
+      <b>Redefining Learnning Experience  @ Inn (TBC)</b>
+      <br>17 July (Wed), 2.30pm - 4.30pm
+      <br>Want to find out how you can free up time and spend it more fruitfully to attend to other work?
+      <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+      <b>Fireside Chat with PS, SNDGO(TBC)</b>
+      <br>17 July (Wed), 3.00pm - 4.30pm
+      <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
+      <br><a href="/events/learning-journeys/event-details/LC_FC_MOE">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+      <b>Isomer (TBC)</b>
+      <br>18 July (Thur), 2.00pm - 4.00pm
+      <br>Exchange views with PS Chung Han who chairs the Public-Sector Transformation (PST) - Committee for Citizen Engagement and find out how you can role-model the culture of care and contribution as an individual officer.
+      <br><a href="/events/learning-journeys/event-details/LC_FC_MOE">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_MOE"> <img src="/images/learning-journey-2.png" />
     </td>
@@ -112,7 +145,18 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
-      <b>Student Services & Visitors Centre Transformation Journey</b>
+      <b>Student Services & Visitors Centre Transformation Journey (TBC)</b>
+      <br>18 July (Thur), 10.00am - 11.30am
+      <br>Find out more about Ngee Ann Polytechnic on on how they have leveraged digital technologies to transform the students' and visitors' service experience.
+      <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>START @ Gillman Barracks (TBC)</b>
       <br>18 July (Thur), 10.00am - 11.30am
       <br>Find out more about Ngee Ann Polytechnic on on how they have leveraged digital technologies to transform the students' and visitors' service experience.
       <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
@@ -123,7 +167,29 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
+      <b>Retirment adequacy (TBC)</b>
+      <br>19 July (Fri) , 3.00pm - 4.30pm
+      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
+      <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
       <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
+      <br>19 July (Fri) , 3.00pm - 4.30pm
+      <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
+      <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+      <b>Active Health (TBC)</b>
       <br>19 July (Fri) , 3.00pm - 4.30pm
       <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
       <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
