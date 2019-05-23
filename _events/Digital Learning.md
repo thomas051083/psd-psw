@@ -1,20 +1,20 @@
 ---
 layout: simple-page
 title: learning festival
-permalink: /learning-festival/28-31-july
+permalink: /learning-festival/digital-learning
 breadcrumb: Learning Festival
 ---
 <!--
 ---
 layout: leftnav-page-content
 title: 28 - 31 July
-permalink: /events/psw-learning-festival/28-31-july
-breadcrumb: 28 - 31 July
+permalink: /events/psw-learning-festival/digital-learning
+breadcrumb: digital-learning
 collection_name: events
 second_nav_title: "PSW Learning Festival"
 ---
 -->
-### Week of 28 - 31 July
+### Digital Learning
 
 <table>
   <tr>
