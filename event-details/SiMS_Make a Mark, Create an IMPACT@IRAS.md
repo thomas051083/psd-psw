@@ -6,12 +6,23 @@ breadcrumb: Step into My Steps
 ---
 
 ## Step into My Shoes 
-### Make a Mark, Create an IMPACT@IRAS
+### Step into My Shoes - Make a Mark, Create an IMPACT @ IRAS 
+#### Senior Data Management Officer | Compliance Strategy & Insights Division
 
-????XXX???. 
+##### _#SPSPride_
 
-**Date and Time: 3-month attachment ** 
+Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring when it comes to apply data technology and management to taxation. 
 
-**Location: Revenue House** 
+<b><u>Details</u><br>
+  
+<u>Scope of Attachment</u>
+a. Environmental scanning on emerging data technology and data management solutions, including their applications in other organisations and identify possible opportunity areas for IRAS 
+b. Running a POC and/or pilot using the data management solution, in collaboration with other internal stakeholders
 
-**Indicate Your Interest [here](https://www.eventbrite.sg/myevent?eid=61082209533)** 
+<u>Duration</u>
+Part time basis (2-3 days a week) for 2-3 months after Jan 2020
+
+<u>Requirements</u>
+Preferably with background in data management, information systems or computer science
+
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/step-into-my-shoes-iras-short-term-attachment-opportunity-with-the-compliance-strategy-insights-registration-62029301310)** 
