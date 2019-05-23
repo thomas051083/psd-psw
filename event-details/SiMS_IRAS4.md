@@ -13,7 +13,7 @@ breadcrumb: Step into My Steps
 <u><b>Senior Tax Officer | Revenue & Corporate Services Division</b></u><br>
 Be attached to the Revenue & Corporate Services Division, and find out more about how IRAS is enhancing decision-making by leveraging technology.
 
-Requirements:
+Limited slots are available. 
 
 <u>Scope of Attachment</u><br>
  * Analysis of Wage Credit Scheme (WCS) contacts to introduce measures to cut down contacts, including ways to promote self-help
