@@ -10,10 +10,10 @@ breadcrumb: Step into My Steps
 
 ###### _#SPSPride_
 
-<b>Senior Data Management Officer | Compliance Strategy & Insights Division</b><br>
+<u><b>Senior Data Management Officer | Compliance Strategy & Insights Division</b></u><br>
 Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring in applying data technology and management to taxation. 
 
-<b><u>Details</u><br>
+Limited slots are available. 
   
 <u>Scope of Attachment</u><br>
  * Environmental scanning on emerging data technology and data management solutions, including their applications in other organisations and identify possible opportunity areas for IRAS <br>
