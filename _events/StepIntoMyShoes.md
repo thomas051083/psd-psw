@@ -18,7 +18,7 @@ second_nav_title: "PSW Learning Festival"
 <table>
   <tr>
     <td>
-      <img src="/images/learning-journey-1.png" />
+     <a href="/events/learning-journeys/event-details/event-a"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
       <b>Making a Difference as a Probation Officer</b>
