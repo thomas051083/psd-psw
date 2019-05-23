@@ -31,18 +31,29 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/learning-journey-2.png" />
+    </td>
+    <td>
+      <b>Ambulance Redesigned - The Power of Innovation Through Design Thinking</b>
+      <br>9 July (Tue) , 2.30pm - 4.30pm
+      <br>Join SCDF on a tour of the newly redesigned SCDF emergency ambulance, and discover how innovative design can make a difference to your work.
+      <br><a href="/events/learning-journeys/event-details/LJ_scdf">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Improving Our Lives Through Automation</b>
       <br>10 July (Wed) , 12.00pm - 2.00pm [TBC]  
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. Be a proud pioneer of the Smart Nation Ambassadors after you complete this learning activity!
-      <br><a href="/events/learning-journeys/event-details/LJ_gtautomation">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LA_IoLTAbGT">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>Digital Workplace (DWP) Induction Workshop</b>
@@ -53,18 +64,18 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
       <b>URA’s Digitalisation Journey</b>
       <br>11 July (Thur) , 2.30pmpm - 4.30pm  
       <br>Find out how URA has strengthened the way it plans for Singapore with the use of data and technology
-      <br><a href="/events/learning-journeys/event-details/LJ_uradigital">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LJ_URADigitalJourney">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_CcSOTB"> <img src="/images/learning-journey-1.png" />
+      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-1.png" />
     </td>
     <td>
       <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
