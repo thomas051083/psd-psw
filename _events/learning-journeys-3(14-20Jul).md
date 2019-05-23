@@ -153,13 +153,13 @@ second_nav_title: "PSW Learning Festival"
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-3.png" />
+      <a href="/events/learning-journeys/event-details/LJ_startatgb"> <img src="/images/learning-journey-3.png" />
     </td>
     <td>
-      <b>START @ Gillman Barracks (TBC)</b>
-      <br>18 July (Thur), 10.00am - 11.30am
-      <br>Find out more about Ngee Ann Polytechnic on on how they have leveraged digital technologies to transform the students' and visitors' service experience.
-      <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
+      <b>NAC: START @ Gillman Barracks</b>
+      <br>18 July (Thur), 3.00pm - 5.00pm
+      <br>Learn how the National Arts Council (NAC) is exploring ways to encourage a greater interest in art collection and philantrophy through START, one of NAC's initiatives in transforming citizen engagement.
+      <br><a href="/events/learning-journeys/event-details/LJ_startatgb">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -168,7 +168,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>CPF: Engaging Singaporeans on Retirement Adequacy</b>
-      <br>19 July (Fri), 3.00pm - 4.30pm
+      <br>19 July (Fri), 3.00pm - 5.00pm
       <br>Gain an appreciation of CPF as intended for retirement adequacy through case studies and discern facts from DRUMS (Disruption, Rumours, Untruths, Misinformation). 
       <br><a href="/events/learning-journeys/event-details/LA_cpfretire">Click here to find out more.</a>
     </td>
@@ -189,7 +189,7 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Active Health (TBC)</b>
+      <b>Active Health Learning Journey (TBC)</b>
       <br>19 July (Fri) , 3.00pm - 4.30pm
       <br>Come hear from MOM on how they have improved data management and analysis in their and their effortd in transforming them selves.
       <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
