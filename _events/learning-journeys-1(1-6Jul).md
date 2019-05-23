@@ -21,13 +21,13 @@ second_nav_title: "PSW Learning Festival"
 <table>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_PSD"> <img src="/images/learning-journey-1.png" /> </a>
+      <a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ"> <img src="/images/learning-journey-2.png" />
     </td>
     <td>
-      <b>Fireside Chat with PSD Loh Khum Yean</b>
-      <br>1 July (Mon) , 3.30pm - 5.00pm
-      <br>Discuss how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean.
-      <br><a href="/events/learning-journeys/event-details/LC_FC_PSD">Click here to find out more.</a> 
+      <b>Our Journey on Transforming Student and Visitors’ Services</b>
+      <br>3 July (Wed) , 10.00am - 11.30am
+      <br>Find out more about Ngee Ann Polytechnic on how they have leveraged digital technologies to transform the students' and visitors' service experience.
+      <br><a href="/events/learning-journeys/event-details/LJ_NASS&VCTJ">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -50,6 +50,28 @@ second_nav_title: "PSW Learning Festival"
       <br>4 July (Thur) , 9.00am - 11.00am or 11.00am - 1.00pm
       <br>Discover initiatives that support your career planning and skills upgrading at the SkillsFuture Advice workshop. 
       <br><a href="/events/learning-journeys/event-details/LA_SFAWfPO">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" />
+    </td>
+    <td>
+      <b>Digital Workplace (DWP) Induction Workshop</b>
+      <br>4 July (Thur) , 3.00pm - 5.00pm   
+      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. Be a proud pioneer of the Smart Nation Ambassadors after you complete this learning activity!
+      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/learning-journey-1.png" />
+    </td>
+    <td>
+      <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
+      <br>5 Jul (Fri) , 3.00pm - 5.30pm
+      <br>Come hear how MOM have used new digtial tools and methodology to improve in their customer service.
+      <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
