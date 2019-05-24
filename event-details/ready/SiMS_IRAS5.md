@@ -13,7 +13,7 @@ breadcrumb: Step into My Steps
 <u><b>Senior Finance Officer | Revenue & Corporate Services Division</b></u><br>
 Be attached to the Revenue & Corporate Services Division, and discover more about how IRAS is transforming internally to better serve the needs of citizens.
 
-Limited slots are available. 
+Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest.
 
 <u>Scope of Attachment</u><br>
  * Research on finance practices of other public agencies for benchmarking, process improvement and policy review, with primary focus on policies relating to Fixed Asset Capitalisation and Write-off
