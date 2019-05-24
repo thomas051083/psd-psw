@@ -4,7 +4,7 @@ title: Step Into My Shoes
 permalink: /events/psw-learning-festival/step-into-my-shoes
 breadcrumb: Step Into My Shoes
 collection_name: events
-second_nav_title: "PSW Learning Festival"
+second_nav_title: "Learning Festival"
 ---
 
 <!--
