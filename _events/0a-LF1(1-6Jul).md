@@ -31,7 +31,7 @@ breadcrumb: Learning Festival
   </tr>  
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
       <b>SkillsFuture Advice Workshop for Public Officers</b>
