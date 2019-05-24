@@ -101,7 +101,7 @@ second_nav_title: "PSW Learning Festival"
     </td>
     <td>
       <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
-      <br>5 July (Fri), 3.00pm-5.00pm
+      <br>5 July (Fri), 3.00pm - 5.00pm
       <br>Come find out from GovTech how technologies such as Sensors, IoT and robotics are being applied in the Public Service.
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
