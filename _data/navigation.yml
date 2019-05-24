@@ -7,10 +7,10 @@
   url: /what-is-psw/
 
 - title: Events
-  url: /events/learning-journeys/1-6-july/
+  url: /events/psw-learning-festival/7-13-july
   sub-links:
-  - title: Learning Journeys
-    url: /events/learning-journeys/1-6-july/
+  - title: Learning Festival
+    url: /events/psw-learning-festival/7-13-july
   - title: Istana Reception
     url: /events/istana-reception/
   - title: PST Awards
@@ -20,23 +20,11 @@
   - title: PST Exhibition
     url: /events/pst-exhibition/
   - title: Sports and Family Day
-    url: /events/sports-and-family-day/
+    url: "https://www.csc.sg/sportsday/Default.aspx"
 
-- title: Exclusives
-  url: /exclusives/exclusive-1/
-  sub-links:
-  - title: Exclusive 1
-    url: /exclusives/exclusive-1/
-  - title: Exclusive 2
-    url: /exclusives/exclusive-2/
-  - title: Exclusive 3
-    url: /exclusives/exclusive-3/
-  - title: Exclusive 4
-    url: /exclusives/exclusive-4/
-  - title: Exclusive 5
-    url: /exclusives/exclusive-5/
-  - title: Exclusive 6
-    url: /exclusives/exclusive-6/
+- title: Promotion
+  url: /Promotion/
+
 
 #- title: News
 #  url: /news/

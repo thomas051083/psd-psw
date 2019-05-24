@@ -1,0 +1,24 @@
+---
+layout: simple-page
+title: Learning Festival 1-19 July 2019
+permalink: /events/learning-journeys/event-details/LA_SFAWfPO
+breadcrumb: Learning Activity
+---
+
+## Learning Activity
+### SkillsFuture Advice Workshop for Public Officers
+
+###### _#Adapt&SkillUp_
+
+Start Your SkillsFuture Journey Today! Discover initiatives that support your career planning and skills upgrading at the SkillsFuture Advice workshop. 
+
+<b><u>Session 1</u><br>
+**Date and Time: 4 July (Thurs), 9.00am - 11.00am** <br>
+  **Location: 31 North Buona Vista Road (S275983) Civil Service College <br> <i>Exact Room TBC</i>** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/skillsfuture-advice-workshop-for-public-officers-tickets-62243131883)** <br>
+
+<b><u>Session 2 </u><br>
+**Date and Time: 4 July (Thurs), 11.00am - 1.00pm** <br>
+  **Location: 31 North Buona Vista Road (S275983) Civil Service College <br> <i>Exact Room TBC</i>** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/skillsfuture-advice-workshop-for-public-officers-2nd-run-tickets-62243260267)** <br>
+

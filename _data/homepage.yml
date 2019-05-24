@@ -13,28 +13,28 @@ agency-logo: /images/PSW_Logo.png
 
 # Hero text
 hero-title: Public Service Week 2019
-hero-subtitle: Public Service Week is an annual event to create a greater appreciation for the work of the Public Service while inspiring public officers to live out her values and ethos.
-hero-banner: /images/hero-banner.png
+hero-subtitle: Public Service Week is an annual event to create a greater appreciation for the work of the Public Service while inspiring public officers to live out her values and ethos. Public Service Week 2019 will run from 15 to 21 July 2019.
+hero-banner: /images/Collage PSW 3-01.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /what-is-psw/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Learning Festival
+    # description:   
+    url: /events/psw-learning-festival/7-13-july
+    # external: true
+  - title: Exhibition
+    # description: PST Exhibition
+    url: /events/pst-exhibition/
+    # external: true
+  - title: Conference
+    # description: Page A is important too
+    url: /events/pst-conference/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: news/
+#resources-title: Resources
+#resources-subtitle: Be in the know
+#resources-more-button: More Resources
+#resources-more-button-url: news/
