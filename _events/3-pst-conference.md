@@ -15,8 +15,7 @@ The theme for Public Sector Transformation Conference 2019 is <i><b>Redesigning 
 Hear from experts and practitioners helming service design projects and initiatives in the public and private sectors, and  gain insights about the trending developments in public service transformation efforts. 
 <br>
 <br>
-Sign-ups opening on 11 June!
-<!-- <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881"><img src="/images/sign-up-btn.png" style="width:280px" /> -->
+<a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881"><img src="/images/sign-up-btn.png" style="width:280px" />
 
 <br>
 <br>
