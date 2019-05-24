@@ -1,13 +1,9 @@
----
-
----
-
-<!-- 
 layout: simple-page
 title: learning festival
 permalink: /learning-festival/1-6-july
 breadcrumb: Learning Festival
----
+
+<!--
 layout: leftnav-page-content
 title: 1 - 6 July
 permalink: /events/psw-learning-festival/1-6-july
