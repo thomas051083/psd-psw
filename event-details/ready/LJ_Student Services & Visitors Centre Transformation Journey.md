@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### NP: Our Journey on Transforming Student and Visitors’ Services
+### Our Journey on Transforming Student and Visitors’ Services by Ngee Ann Polytechnic
 
 ###### _#Innovate #Digitalise #Engage_
 
