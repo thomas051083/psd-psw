@@ -4,7 +4,7 @@ title: 7 - 13 July
 permalink: /events/psw-learning-festival/7-13-july
 breadcrumb: 7 - 13 July
 collection_name: events
-second_nav_title: "PSW Learning Festival"
+second_nav_title: "Learning Festival"
 ---
 
 <!-- 
