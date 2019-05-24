@@ -22,7 +22,7 @@ breadcrumb: Learning Festival
 <table>
    <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
       <b>Our Journey on Transforming Students’ and Visitors’ Services</b>
@@ -33,7 +33,7 @@ breadcrumb: Learning Festival
   </tr>    
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
       <b>Ambulance Redesigned - The Power of Innovation Through Design Thinking</b>
@@ -44,7 +44,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
     <td>
       <b>Learning Journey to the MUIS Harmony Centre</b>
