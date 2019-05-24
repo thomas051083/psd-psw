@@ -6,17 +6,21 @@ breadcrumb: Step into My Shoes
 ---
 
 ## Step into My Shoes 
-### Making a Difference as a Probation Officer by Ministry of Social and Family Development
+### Making a Difference as a Probation Officer by the Ministry of Social and Family Development
 
 ##### _#SPSPride_
 
 Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with individuals, families and the community in the rehabilitation of persons who commit crime. This experience may include the opportunity to observe Court sessions, interviews with probationers and their families, programmes, etc. 
 
-The attachment period start date is negotiable from July onwards, but a duration of 2 weeks is recommended for a richer experience. All attachments should be completed by Nov 2019. 
+Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest.
 
-Note that very limited slots are available, so register your interest now if you are keen to step into another officers' shoes! 
+<u>Duration</u><br>
+Preferably at least 2 weeks between July to November 2019; Duration and start/end dates are negotiable. 
 
-<b><u>Details</u><br>
-**Date and Time: Between July to end-Nov 2019** <br>
-**Location: 1 Kay Siang Road #01-10 (S248922) <br>Probation and Community Rehabilitation Service** <br>
+<u>Requirements</u><br>
+N.A. 
+
+<u>Location</u><br>
+1 Kay Siang Road #01-10 (S248922), Probation and Community Rehabilitation Service
+
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
