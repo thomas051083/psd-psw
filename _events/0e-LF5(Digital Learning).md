@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: Digital Learning
@@ -6,17 +7,13 @@ breadcrumb: digital-learning
 collection_name: events
 second_nav_title: "Learning Festival"
 ---
-
-<!--
 ---
 layout: simple-page
 title: learning festival
 permalink: /learning-festival/digital-learning
 breadcrumb: Learning Festival
 ---
--->
 ### Digital Learning
-
 <table>
   <tr>
     <td>
@@ -52,3 +49,4 @@ breadcrumb: Learning Festival
     </td>
   </tr>
 </table>
+-->
