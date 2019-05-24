@@ -30,19 +30,7 @@ breadcrumb: Learning Festival
       <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
-  </tr>  
-  <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/learning-journey-2.png" /></a>
-    </td>
-    <td>
-      <b>Learning Journey to the MUIS Harmony Centre</b>
-      <br>9 July (Tue) & 11 July (Thur), 3.00pm - 5.00pm
-      <br>Experience how the Harmony Centre has deepened understanding of citizens’ lived realities by exposing visitors to racial and religious harmony issues.
-      <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
-    </td>
-  </tr>
-
+  </tr>    
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/learning-journey-2.png" /></a>
@@ -52,6 +40,17 @@ breadcrumb: Learning Festival
       <br>9 July (Tue), 2.30pm - 5.00pm
       <br>Join SCDF on a tour of the newly redesigned SCDF emergency ambulance, and discover how innovative design can make a difference to your work.
       <br><a href="/events/learning-journeys/event-details/LJ_scdf">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/learning-journey-2.png" /></a>
+    </td>
+    <td>
+      <b>Learning Journey to the MUIS Harmony Centre</b>
+      <br>9 July (Tue) & 11 July (Thur), 3.00pm - 5.00pm
+      <br>Experience how the Harmony Centre has deepened understanding of citizens’ lived realities by exposing visitors to racial and religious harmony issues.
+      <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -86,6 +85,17 @@ breadcrumb: Learning Festival
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
+  </tr>  
+  <tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-1.png" /></a>
+    </td>
+    <td>
+      <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
+      <br>12 Jul (Fri), 2.00pm - 5.00pm
+      <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
+      <br><a href="/events/learning-journeys/event-details/LJ_MHAHPC">Click here to find out more.</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -96,17 +106,6 @@ breadcrumb: Learning Festival
       <br>12 July (Fri), 3.00pm - 4.30pm
       <br>Come hear MOM’s transformation journey on the way they collect data to improve on data management, analysis, and insights derived. 
       <br><a href="/events/learning-journeys/event-details/LJ_momdata">Click here to find out more.</a>
-    </td>
-  </tr>
-  <tr>
-     <td>
-      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-1.png" /></a>
-    </td>
-    <td>
-      <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
-      <br>12 Jul (Fri), 2.00pm - 5.00pm
-      <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
-      <br><a href="/events/learning-journeys/event-details/LJ_MHAHPC">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
