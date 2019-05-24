@@ -22,6 +22,17 @@ breadcrumb: Learning Festival
 <table>
    <tr>
     <td>
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-2.png" /></a>
+    </td>
+    <td>
+      <b>Our Journey on Transforming Students’ and Visitors’ Services</b>
+      <br>9 July (Tue), 10.00am - 11.30am
+      <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
+      <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
+    </td>
+  </tr>  
+  <tr>
+    <td>
       <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/learning-journey-2.png" /></a>
     </td>
     <td>
@@ -31,17 +42,7 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-2.png" /></a>
-    </td>
-    <td>
-      <b>Our Journey on Transforming Students’ and Visitors’ Services</b>
-      <br>9 July (Tue), 10.00am - 11.30am
-      <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
-      <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
-    </td>
-  </tr>
+
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/learning-journey-2.png" /></a>
@@ -66,17 +67,6 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" /></a>
-    </td>
-    <td>
-      <b>Digital Workplace (DWP) Induction Workshop</b>
-      <br>11 July (Thur), 3.00pm - 5.00pm   
-      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
-      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
@@ -84,6 +74,17 @@ breadcrumb: Learning Festival
       <br>11 July (Thur), 2.30pm - 4.30pm  
       <br>Find out how URA has strengthened the way it plans for Singapore with the use of data and technology, and how URA officers have grown in digital capabilities.
       <br><a href="/events/learning-journeys/event-details/LJ_URADigitalJourney">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" /></a>
+    </td>
+    <td>
+      <b>Digital Workplace (DWP) Induction Workshop</b>
+      <br>11 July (Thur), 3.00pm - 5.00pm   
+      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
+      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
