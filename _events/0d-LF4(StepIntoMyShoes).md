@@ -26,6 +26,7 @@ breadcrumb: Learning Festival
       <b>Making a Difference as a Probation Officer by MSF</b>
       <br>2 week attachment from June to end Nov
       <br>Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with individuals, families and the community in the rehabilitation of persons who commit crime.
+       <br><a href="/events/learning-journeys/event-details/MaDaaPO">Click here to find out more.</a>
     </td>
   </tr>
  <tr>
@@ -37,6 +38,7 @@ breadcrumb: Learning Festival
       <br>Senior Data Management Officer | Compliance Strategy & Insights Division
       <br>Part time basis (2-3 days a week) for 2-3 months after Jan 2020
       <br>Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring in applying data technology and management to taxation.
+      <br><a href="/events/learning-journeys/event-details/IRAS1">Click here to find out more.</a>
     </td>
   </tr>
    <tr>
@@ -48,6 +50,7 @@ breadcrumb: Learning Festival
       <br>Senior Tax Officer | Goods & Services Tax Division
       <br>10 to 15 weeks between Jul to Nov 2019
       <br>Be attached to the Goods & Services Tax Division, and find out more about how IRAS is enhancing decision-making by leveraging technology.
+      <br><a href="/events/learning-journeys/event-details/IRAS2">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -59,6 +62,7 @@ breadcrumb: Learning Festival
       <br>Senior Admin & Building Officer | Revenue & Corporate Services Division
       <br>2 to 3 months between Jul to Oct 2019
       <br>Be attached to the Revenue & Corporate Services Division, and find out more about how IRAS is enhancing decision-making in building maintenance and facilities by leveraging technology.
+      <br><a href="/events/learning-journeys/event-details/IRAS3">Click here to find out more.</a>
     </td>
   </tr>
     <tr>
@@ -70,6 +74,7 @@ breadcrumb: Learning Festival
       <br>Senior Tax Officer | Revenue & Corporate Services Division
       <br>3 months between Jul to Oct 2019
       <br>Be attached to the Revenue & Corporate Services Division, and find out more about how IRAS is enhancing decision-making by leveraging technology.
+      <br><a href="/events/learning-journeys/event-details/IRAS4">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -81,6 +86,7 @@ breadcrumb: Learning Festival
       <br>Senior Finance Officer | Revenue & Corporate Services Division
       <br>1 month between Jul to Nov 2019
       <br>Be attached to the Revenue & Corporate Services Division, and discover more about how IRAS is transforming internally to better serve the needs of citizens.
+      <br><a href="/events/learning-journeys/event-details/IRAS5">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
@@ -92,6 +98,7 @@ breadcrumb: Learning Festival
       <br>Senior Procurement Officer | Revenue & Corporate Services Division
       <br>2 months between Jul to Nov 2019
       <br>Be attached to the Revenue & Corporate Services Division, and discover more about how IRAS is transforming internally to better serve the needs of citizens.
+      <br><a href="/events/learning-journeys/event-details/IRAS6">Click here to find out more.</a>
     </td>
   </tr>
 </table>
