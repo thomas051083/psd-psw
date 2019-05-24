@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### MOM: A Statistical Journey - Capturing the Data of 2.5 Million Workers
+### A Statistical Journey - Capturing the Data of 2.5 Million Workers
 
 ###### _#Innovate #Digitalise #Engage # Adapt&SkillUp #SPSPride_
 
