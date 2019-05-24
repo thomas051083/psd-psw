@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: 28 - 31 July
+title: Digital Learning
 permalink: /events/psw-learning-festival/digital-learning
 breadcrumb: digital-learning
 collection_name: events
