@@ -64,7 +64,7 @@ breadcrumb: Learning Festival
   </tr>  
   <tr>
     <td> 
-      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/Innovate1.jpg" /></a>
     </td>
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
