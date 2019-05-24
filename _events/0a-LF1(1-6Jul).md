@@ -20,7 +20,7 @@ breadcrumb: Learning Festival
 <table>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
     <td>
       <b>Our Journey on Transforming Student and Visitors’ Services</b>
