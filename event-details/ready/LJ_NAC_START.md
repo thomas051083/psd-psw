@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### NAC: START @ Gillman Barracks 
+### START @ Gillman Barracks 
 
 ###### _#Engage_
 
