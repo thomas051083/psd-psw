@@ -45,9 +45,9 @@ second_nav_title: "PSW Learning Festival"
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/learning-journey-3.png" /></a>
     </td>
     <td>
-      <b>Fireside Chat with Dr. Cheong Koon Hean, CEO, Housing Development Board</b>
+      <b>Fireside Chat with Dr. Cheong Koon Hean</b>
       <br>4 July (Thur), 3.00pm - 4.30pm
-      <br>Chat with Dr Cheong Koon Hean to find out what initiatives support future-ready officers and organisations, and how you can play a part in making life easier for our citizens and colleagues.
+      <br>Chat with Dr Cheong Koon Hean, deputy Chair of the Public Sector Transformation-People Committee, to find out what initiatives they have to support future-ready officers and organisations.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
