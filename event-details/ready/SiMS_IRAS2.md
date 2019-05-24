@@ -13,7 +13,7 @@ breadcrumb: Step into My Steps
 <u><b>Senior Tax Officer | Goods & Services Tax Division</b></u><br>
 Be attached to the Goods & Services Tax Division, and find out more about how IRAS is enhancing decision-making by leveraging technology.
 
-Limited slots are available. 
+Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest. 
 
 <u>Scope of Attachment</u><br>
  * Prototype and develop a browser-based end-user application that is able to process/combine accounting information, perform basic queries, automated checks on the data to assist in decision making.
