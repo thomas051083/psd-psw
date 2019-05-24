@@ -53,7 +53,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
       <b>Digital Workplace (DWP) Induction Workshop</b>
@@ -75,7 +75,7 @@ breadcrumb: Learning Festival
   </tr>  
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_baliksg"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LA_baliksg"> <img src="/images/Engage1.jpg" /></a>
     </td>
     <td>
       <b>BalikSG - Sharing Stories through Mixed Reality</b>
@@ -86,7 +86,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/learning-journey-1.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
       <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
@@ -97,7 +97,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/Digital2.jpg" /></a>
     </td>
     <td>
       <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
