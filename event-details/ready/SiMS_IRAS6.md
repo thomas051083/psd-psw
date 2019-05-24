@@ -13,7 +13,7 @@ breadcrumb: Step into My Steps
 <u><b>Senior Procurement Officer | Revenue & Corporate Services Division</b></u><br>
 Be attached to the Revenue & Corporate Services Division, and discover more about how IRAS is transforming internally to better serve the needs of citizens.
 
-Limited slots are available. 
+Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest.
 
 <u>Scope of Attachment</u><br>
  * Define strategic procurement for public sector
