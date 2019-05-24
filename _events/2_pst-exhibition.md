@@ -5,9 +5,6 @@ permalink: /events/pst-exhibition/
 breadcrumb: PST Exhibition
 collection_name: events
 ---
-### Watch this space for more information! 
-More coming your way soon, in the mean time check out the other things available on the [site](/)
-
 ### Public Sector Transformation Exhibition
 ![PST Exhibition](/images/1.jpg)
 
