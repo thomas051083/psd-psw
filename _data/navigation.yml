@@ -4,7 +4,6 @@
   
 - title: What is PSW
   url: /what-is-psw/
-
 - title: Events
   url: /events/psw-learning-festival/1-6-july
   sub-links:
@@ -20,9 +19,8 @@
     url: /events/pst-exhibition/
   - title: Sports and Family Day
     url: "https://www.csc.sg/sportsday/Default.aspx"
-
 - title: Promotion
- url: /Promotion/
+  url: /Promotion/
 
 
 #- title: News
