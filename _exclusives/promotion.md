@@ -53,7 +53,7 @@ breadcrumb: Promotions
     <td>
       <b>Civil Service Clubhouses Activites and Promotions</b>
       <br>
-      <br>Enjoy <b>free</b> pool access and <b>members'</b> rate for booking all BBQ pits, </br>
+      <br>Enjoy <b>free</b> pool access and <b>members'</b> rate for booking all BBQ pits, <br>
       and bowling lanes at CSC @ Tessensohn, CSC @ Changi and CSC @ Bukit Batok during the month of July <br>
       <br>
       Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
