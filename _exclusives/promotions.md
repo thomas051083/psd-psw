@@ -84,7 +84,7 @@ breadcrumb: Promotions
   
   <tr>
     <td>
-      <img src="/images/Javanese_Spa.tif"/>
+      <img src="/images/Javanese_Spa.png"/>
     </td>
     <td>
       <b>Clubhouse Tenants' Activities and Promotions</b>
