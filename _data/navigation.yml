@@ -8,19 +8,19 @@
 
 - title: Events
   url: /events/psw-learning-festival/1-6-july
-  sub-links:
-  - title: Learning Festival
-    url: /events/psw-learning-festival/1-6-july
-  - title: Istana Reception
-    url: /events/istana-reception/
-  - title: PST Awards
-    url: /events/pst-awards/
-  - title: PST Conference
-    url: /events/pst-conference/
-  - title: PST Exhibition
-    url: /events/pst-exhibition/
-  - title: Sports and Family Day
-    url: "https://www.csc.sg/sportsday/Default.aspx"
+   sub-links:
+    - title: Learning Festival
+      url: /events/psw-learning-festival/1-6-july
+    - title: Istana Reception
+      url: /events/istana-reception/
+    - title: PST Awards
+      url: /events/pst-awards/
+    - title: PST Conference
+      url: /events/pst-conference/
+    - title: PST Exhibition
+      url: /events/pst-exhibition/
+    - title: Sports and Family Day
+      url: "https://www.csc.sg/sportsday/Default.aspx"
 
 - title: Promotion
   url: /Promotion/
