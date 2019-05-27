@@ -51,7 +51,7 @@ Sign-ups opening on 11 June!
   </tr>
   <tr>
     <td>10.45AM - 11.05AM</td>
-    <td><b>Implementing Service Journey at work</b></td>
+    <td><b>Implementing Service Journey at Work</b></td>
   </tr>
   <tr>
     <td>11.05AM - 11.25AM</td>
@@ -124,7 +124,7 @@ Sign-ups opening on 11 June!
       <i><b>17 Jul</b>, 9am - 12pm, Venue TBC</i>
      <br>
      <br>
-    Learn how SingTel does omni-channel type of service delivery (through online and offline). <br>
+    Learn how SingTel does omni-channel type of Service Delivery (through online and offline). <br>
     <u>Who should attend:</u> Project leads who are looking at integrating online and offline touchpoints for their services.
 <br>
     <br>
@@ -182,7 +182,7 @@ Sign-ups opening on 11 June!
       <i>18 Jul, 2pm, Venue TBC</i>
     <br>
     <br>
-      What’s the best practice to adopting Service Journeys? Try adopting a Systems view to achieve more forward-looking and holistic outcomes. <br>
+      What’s the best practice to adopting Service Journeys? Try adopting a systems view to achieve more forward-looking and holistic outcomes. <br>
       <u>Who should attend:</u> Public service officers looking to grow the scale of their Service Journeys.
 <br>
     <br>
