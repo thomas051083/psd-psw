@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isomerpages/psd-psdweek/issues"
   },
-  "homepage": "https://github.com/isomerpages/psd-psdweek#readme"
+  "homepage": "https://github.com/isomerpages/psd-psdweek#readme",
+  "dependencies": {
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
+  }
 }
