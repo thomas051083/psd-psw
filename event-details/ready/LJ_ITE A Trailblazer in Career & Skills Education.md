@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### ITE: A Trailblazer in Career & Skills Education 
+### A Trailblazer in Career & Skills Education 
 
 ###### _#Adapt&SkillUp_
 

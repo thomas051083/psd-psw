@@ -13,7 +13,7 @@ breadcrumb: Step into My Steps
 <u><b>Senior Admin & Building Officer | Revenue & Corporate Services Division</b></u><br>
 Be attached to the Revenue & Corporate Services Division, and find out more about how IRAS is enhancing decision-making in building maintenance and facilities by leveraging technology.
 
-Limited slots are available. 
+Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest.
 
 <u>Scope of Attachment</u><br>
  * Analyse data relating to building maintenance & facilities and usage trend of facilities to carry out preventive maintenance as far as possible and to review policies relating to facilities usage.

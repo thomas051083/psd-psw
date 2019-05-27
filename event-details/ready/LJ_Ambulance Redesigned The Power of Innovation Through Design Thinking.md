@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### SCDF: Ambulance Redesigned - The Power of Innovation Through Design Thinking
+### Ambulance Redesigned - The Power of Innovation Through Design Thinking
 
 ###### _#Innovate_
 

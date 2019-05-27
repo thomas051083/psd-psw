@@ -13,15 +13,15 @@ collection_name: events
 <br>
 <br>
 <b>An exhibition not to be missed </b> <br>
-As public service officers, our work impacts the everyday lives of Singaporeans – our family, friends, and not least ourselves. Continuous innovation of our efforts over the past decades have also been pivotal to creating improved services for each generation of Singaporeans.<br>
+As public officers, our work impacts the everyday lives of Singaporeans – our family, friends, and not least ourselves. Continuous innovation of our efforts over the past decades have also been pivotal to creating improved services for each generation of Singaporeans.<br>
 <br>
 This year, a unique and different Public Sector Transformation Exhibition inspires you to imagine both ideal and potential services for Singaporeans by bringing you through everyday questions and issues across their minds at key moments in their lives.
 <br>
 <br>
-Don’t miss out on this opportunity to connect and create with old friends across agencies, meet energised and like-minded officers, as well as to stay updated with the latest mass initiatives from the public service!
+Don’t miss out on this opportunity to connect and create with old friends across agencies, meet energised and like-minded officers, as well as to stay updated with the latest mass initiatives from the Public Service!
 <br>
 <br>
 <br>
---> 
+
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
 

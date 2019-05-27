@@ -1,29 +1,26 @@
 # Top to Bottom --> Left to Right
 # Second tier for menu bar --> include 'sub-links:'
-  # Take note of indentations
+# Take note of indentations
   
- 
 - title: What is PSW
   url: /what-is-psw/
-
-#- title: Events
-# url: /events/psw-learning-festival/7-13-july
-# sub-links:
-# - title: Learning Festival
-#   url: /events/psw-learning-festival/7-13-july
-# - title: Istana Reception
-#   url: /events/istana-reception/
-# - title: PST Awards
-#   url: /events/pst-awards/
-# - title: PST Conference
-#   url: /events/pst-conference/
-# - title: PST Exhibition
-#   url: /events/pst-exhibition/
-# - title: Sports and Family Day
-#  url: "https://www.csc.sg/sportsday/Default.aspx"
-
-#- title: Promotion
-# url: /Promotion/
+- title: Events
+  url: /events/psw-learning-festival/1-6-july
+  sub-links:
+  - title: Learning Festival
+    url: /events/psw-learning-festival/1-6-july
+  - title: Istana Reception
+    url: /events/istana-reception/
+  - title: PST Awards
+    url: /events/pst-awards/
+  - title: PST Conference
+    url: /events/pst-conference/
+  - title: PST Exhibition
+    url: /events/pst-exhibition/
+  - title: Sports and Family Day
+    url: "https://www.csc.sg/sportsday/Default.aspx"
+- title: Promotions
+  url: /Promotions/
 
 
 #- title: News

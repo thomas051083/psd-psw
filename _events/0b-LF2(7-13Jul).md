@@ -22,7 +22,7 @@ breadcrumb: Learning Festival
 <table>
    <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
       <b>Our Journey on Transforming Students’ and Visitors’ Services</b>
@@ -33,7 +33,7 @@ breadcrumb: Learning Festival
   </tr>    
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
       <b>Ambulance Redesigned - The Power of Innovation Through Design Thinking</b>
@@ -44,7 +44,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
     <td>
       <b>Learning Journey to the MUIS Harmony Centre</b>
@@ -55,7 +55,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/Digital2.jpg" /></a>
     </td>
     <td>
       <b>Improving Our Lives Through Automation</b>
@@ -66,7 +66,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
       <b>URA’s Digitalisation Journey</b>
@@ -77,7 +77,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Serve1.jpg" /></a>
     </td>
     <td>
       <b>Digital Workplace (DWP) Induction Workshop</b>
@@ -88,7 +88,7 @@ breadcrumb: Learning Festival
   </tr>  
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/learning-journey-1.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/Innovate2.jpg" /></a>
     </td>
     <td>
       <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
@@ -99,7 +99,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/learning-journey-2.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/Engage%203.jpeg" /></a>
     </td>
     <td>
       <b>A Statistical Journey - Capturing the Data of 2.5 Million Workers</b>
@@ -110,7 +110,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/learning-journey-1.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/Serve3.jpg" /></a>
     </td>
     <td>
       <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>

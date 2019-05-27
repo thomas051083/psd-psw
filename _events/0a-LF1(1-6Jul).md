@@ -42,7 +42,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/HDB.jpg" /></a>
     </td>
     <td>
       <b>Fireside Chat with Dr. Cheong Koon Hean</b>
@@ -64,7 +64,7 @@ breadcrumb: Learning Festival
   </tr>  
   <tr>
     <td> 
-      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/learning-journey-3.png" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/Innovate1.jpg" /></a>
     </td>
     <td>
       <b>Learning Journey to MOE Heritage Centre</b>
