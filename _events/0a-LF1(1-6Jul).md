@@ -74,17 +74,6 @@ breadcrumb: Learning Festival
     </td>
   </tr>  
   <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LA_baliksg"> <img src="/images/Engage1.jpg" /></a>
-    </td>
-    <td>
-      <b>BalikSG - Sharing Stories through Mixed Reality</b>
-      <br>5 July (Fri), 2.30pm
-      <br>Learn more about how the National Library Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history.
-      <br><a href="/events/learning-journeys/event-details/LA_baliksg">Click here to find out more.</a>
-    </td>
-  </tr>
-  <tr>
      <td>
       <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/Engage2.jpeg" /></a>
     </td>
