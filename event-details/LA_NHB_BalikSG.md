@@ -10,12 +10,12 @@ breadcrumb: Learning Activity
 
 ###### _#Innovate_
 
-Want to find out how the National Library Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history?
+Want to find out how the National Heritage Board Singapore has innovatively leveraged technology to encourage citizens to rediscover Singapore’s history?
 
-Come hear about their experience in developing NLB’s first mixed reality app, the challenges they faced in the process and how they overcame these challenges.
+Come hear about their experience in developing NHB’s first mixed reality app, the challenges they faced in the process and how they overcame these challenges.
 
 <b><u>Details</u><br>
-**Date and Time: 5 July 2019, 2.30pm** <br>
-**Location: Civil Service College** <br>
-**Indicate Your Interest [Here](https://www.eventbrite.sg/e/the-ministry-of-manpowers-mom-service-transformation-journey-tickets-62125493022)** 
+**Date and Time: 18 July 2019, 2.30pm - 3.30pm** <br>
+**Location: 9 Jurong Town Hall (S609431) Level 3, INN X CSC** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/baliksg-sharing-stories-through-mixed-reality-tickets-62248926214)** 
   

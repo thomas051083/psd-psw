@@ -9,12 +9,12 @@ breadcrumb: PST Conference
 <ol type="1">
 <li> 
 	<b>Do I need to register for the event?</b><br>
-	Yes, registration is required as seating at the event venue is limited. You may register <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a> with your official Government email address. Registration is limited to 1 slot per person. 
+	Yes, registration is required as seating at the event venue is limited. <!-- You may register <a href="https://www.eventbrite.sg/e/public-sector-transformation-2019-tickets-61859650881">here</a> with your official Government email address. Registration is limited to 1 slot per person. --> 
 </li>
 <br>
 <li>
-	<b>Is this event only open to Public Service Officers?</b><br>
-	Yes, this event is only open to Public Service Officers. Registrations would need to use an official Government email address to be considered valid. 
+	<b>Is this event only open to Public Officers?</b><br>
+	Yes, this event is only open to Public Officers. Registrations would need to use an official Government email address to be considered valid. 
 </li>
 <br>
 <li>
@@ -23,7 +23,7 @@ breadcrumb: PST Conference
 	<br>
 	You may cancel your registration via Eventbrite. <br>
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
-	<b>Step 2:</b> Select ‘Public Service Transformation Conference 2019’ tickets. <br>
+	<b>Step 2:</b> Select ‘Public Sector Transformation Conference 2019’ tickets. <br>
 	<b>Step 3:</b> Select ‘Cancel Order’. <br>
 	<br>
 	If you have a replacement, please drop an email to <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a> with the following details (Name, Gov Email, Designation and Agency) of your replacement, and we will assist.
@@ -36,7 +36,7 @@ breadcrumb: PST Conference
 <br>
 <li>
 	<b>How much is the registration fee?</b><br>
-	The event is complimentary for all Public Service Officers.
+	The event is complimentary for all Public Officers.
 </li>
 <br>
 <li>
@@ -45,7 +45,7 @@ breadcrumb: PST Conference
 	<br>
 	Please follow the steps below: <br>
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
-	<b>Step 2:</b> Select ‘Public Service Transformation Conference 2019’ tickets. <br>
+	<b>Step 2:</b> Select ‘Public Sector Transformation Conference 2019’ tickets. <br>
 	<b>Step 3:</b> Edit your information. <br>
 	Please take note that you will need to use the same email used to register for an Eventbrite account to do so.
 </li>
@@ -71,7 +71,7 @@ breadcrumb: PST Conference
 	<br>
 	Alternately, you may retrieve your confirmation slip by following the steps below: <br>
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
-	<b>Step 2:</b> Select Public Service Transformation Conference 2019 tickets <br>
+	<b>Step 2:</b> Select Public Sector Transformation Conference 2019 tickets <br>
 	<b>Step 3:</b> Select ‘Print Tickets’. <br>
 	Please take note that you will need to use the same email used to register for an Eventbrite account to do so.<br>
 	You will need to bring the confirmation ticket (softcopy or hardcopy) for entry to the conference. <br>
@@ -84,11 +84,11 @@ breadcrumb: PST Conference
 <br>
 <li>
 	<b>How can I retrieve my confirmation slip?</b><br>
-	You can retrieve your confirmation slip <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. <br>
+	You can retrieve your confirmation slip <a href="https://www.eventbrite.sg/e/public-sector-transformation-2019-tickets-61859650881">here</a>. <br>
 	<br>
 	Please follow the steps below: <br>
 	<b>Step 1:</b> Sign in to your Eventbrite account. Select ‘Tickets’. <br>
-	<b>Step 2:</b> Select Public Service Transformation Conference 2019 tickets <br>
+	<b>Step 2:</b> Select Public Sector Transformation Conference 2019 tickets <br>
 	<b>Step 3:</b> Select ‘Print Tickets’. <br>
 	Please take note that you will need to use the same email used to register for an Eventbrite account to do so.<br>
 </li>
@@ -105,7 +105,7 @@ breadcrumb: PST Conference
 
 <li>
 	<b>What is the conference about?</b><br>
-	Details on the conference can be found [here](events/pst-conference).
+	Details on the conference can be found <a href="https://www.publicserviceweek.gov.sg/events/pst-conference/">here</a>.
 </li>
 <br>
 <li> 
@@ -129,6 +129,6 @@ breadcrumb: PST Conference
 <br>
 <li>
 	<b>Can I join a waitlist if a Learning Journey is full?</b><br>
-	Yes. Please register for the conference and Learning Journey via Eventbrite <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. If your choice of Learning Journey/Workshop is full, select the next available choice first, then drop us an email at <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a> to join the waitlist. 
+	Yes. <!-- Please register for the conference and Learning Journey via Eventbrite <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. -->If your choice of Learning Journey/Workshop is full, select the next available choice first, then drop us an email at <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a> to join the waitlist. 
 </li>
 </ol>
