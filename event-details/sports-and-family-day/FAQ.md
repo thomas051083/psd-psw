@@ -13,7 +13,7 @@ breadcrumb: PST Conference
 </li>
 <br>
 <li>
-	<b>Is this event only open to Public Service Officers?</b><br>
+	<b>Is this event only open to Public Officers?</b><br>
 	Yes, this event is only open to Public Service Officers. Registrations would need to use an official Government email address to be considered valid. 
 </li>
 <br>
