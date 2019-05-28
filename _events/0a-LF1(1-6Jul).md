@@ -42,7 +42,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/HDB.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/CEO HDB Dr Cheong Koon Hean.png" /></a>
     </td>
     <td>
       <b>Fireside Chat with Dr. Cheong Koon Hean</b>
