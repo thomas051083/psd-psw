@@ -16,6 +16,6 @@ Come hear about their experience in developing NHB’s first mixed reality app, 
 
 <b><u>Details</u><br>
 **Date and Time: 18 July 2019, 2.30pm - 3.30pm** <br>
-**Location: 9 Jurong Town Hall (S609431) Level 3, INN X CSC** <br>
+**Location: 9 Jurong Town Hall (S609431) INN X CSC (Level 3)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/baliksg-sharing-stories-through-mixed-reality-tickets-62248926214)** 
   
