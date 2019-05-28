@@ -110,7 +110,7 @@ breadcrumb: PST Conference
 <br>
 <li> 
 	<b>What time is the conference?</b><br>
-	The conference will be from 9.30am-12pm. This will be followed by Learning Journeys and Workshops in the afternoon. Full details can be found [here](events/pst-conference).
+	The conference will be from 9.30am-12pm. This will be followed by Learning Journeys and Workshops in the afternoon. Full details can be found <a href="https://www.publicserviceweek.gov.sg/events/pst-conference/">here</a>.
 </li>
 <br>
 <li>
