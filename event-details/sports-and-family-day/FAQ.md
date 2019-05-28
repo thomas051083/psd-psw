@@ -129,6 +129,6 @@ breadcrumb: PST Conference
 <br>
 <li>
 	<b>Can I join a waitlist if a Learning Journey is full?</b><br>
-	Yes. Please register for the conference and Learning Journey via Eventbrite <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. If your choice of Learning Journey/Workshop is full, select the next available choice first, then drop us an email at <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a> to join the waitlist. 
+	Yes. <!-- Please register for the conference and Learning Journey via Eventbrite <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881">here</a>. -->If your choice of Learning Journey/Workshop is full, select the next available choice first, then drop us an email at <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a> to join the waitlist. 
 </li>
 </ol>
