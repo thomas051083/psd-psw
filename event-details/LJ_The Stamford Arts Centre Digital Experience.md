@@ -1,9 +1,11 @@
+<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
 permalink: /events/learning-journeys/event-details/LJ_SACDigitalExperience
 breadcrumb: Learning Festival
 ---
+-->
 
 ## Learning Journey
 ### The Stamford Arts Centre Digital Experience
