@@ -17,7 +17,7 @@ We will also illustrate how we have developed our RPA capabilities as part of th
 <b><u>Details</u><br>
 **Date and Time: 26 July (Fri), 3.00pm - 4.10pm** <br>
 **Location: 55 Newton Road, Revenue House (S307987)<br>Co-Design Space (Level One)** <br>
-**Indicate Your Interest [Here]()** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/inland-revenue-authority-of-singapores-iras-transformation-journey-tickets-62562373744)** 
 
 
 
