@@ -2,7 +2,7 @@
 layout: simple-page
 title: Learning Festival 1-19 July 2019
 permalink: /events/learning-journeys/event-details/LA_cpfretire
-breadcrumb: Learning Journey
+breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
