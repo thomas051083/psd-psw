@@ -10,7 +10,7 @@ breadcrumb: Step into My Steps
 
 ###### _#SPSPride_
 
-<u><b>Senior Finance Officer | Revenue & Corporate Services Division, Inland Revenue Authority of Singapore</b></u><br>
+<u><b>Senior Finance Officer | Revenue & Corporate Services Division, Inland Revenue Authority of Singapore (IRAS)</b></u><br>
 Be attached to the Revenue & Corporate Services Division, and discover more about how IRAS is transforming internally to better serve the needs of citizens.
 
 Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest.
