@@ -20,17 +20,6 @@ breadcrumb: Learning Festival
 <table>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/SkillUp1.jpg" /></a>
-    </td>
-    <td>
-      <b>Our Journey on Transforming Student and Visitors’ Services</b>
-      <br>3 July (Wed), 10.00am - 11.30am
-      <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
-      <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
-    </td>
-  </tr>  
-  <tr>
-    <td>
       <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
@@ -40,6 +29,17 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LA_SFAWfPO">Click here to find out more.</a>
     </td>
   </tr>
+<tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/SkillUp1.jpg" /></a>
+    </td>
+    <td>
+      <b>Our Journey on Transforming Student and Visitors’ Services</b>
+      <br>3 July (Wed), 10.00am - 11.30am
+      <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
+      <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
+    </td>
+  </tr>  
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/CEO HDB Dr Cheong Koon Hean.png" /></a>
