@@ -6,11 +6,11 @@ breadcrumb: Step into My Steps
 ---
 
 ## Step into My Shoes 
-### Make a Mark, Create an IMPACT @ IRAS 
+### Be Transformational. Make Your Mark. Create An Impact. 
 
 ###### _#SPSPride_
 
-<u><b>Senior Data Management Officer | Compliance Strategy & Insights Division</b></u><br>
+<u><b>Senior Data Management Officer | Compliance Strategy & Insights Division, Inland Revenue Authority of Singapore (IRAS)</b></u><br>
 Be attached to the Compliance Strategy & Insights Division, and discover what IRAS is exploring in applying data technology and management to taxation. 
 
 Please note that registering your interest here does not guarantee an attachment as candidates may be put through a selection process. More information will be sent to you once you have indicated your interest.
