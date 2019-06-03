@@ -104,4 +104,4 @@ breadcrumb: Learning Festival
   </tr>
 </table>
 
-<br> Click [here](/events/learning-festival/faq-step-into-my-shoes-programme) if you have any questions. 
+<br> Click [here](/events/learning-festival/faq-step-into-my-shoes) if you have any questions. 
