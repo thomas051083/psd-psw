@@ -96,4 +96,4 @@ breadcrumb: Learning Festival
     </td>
   </tr>
 </table>
-Click [here](/events/learning-festival/faq) if you have any questions. 
+<br> Click [here](/events/learning-festival/faq) if you have any questions. 
