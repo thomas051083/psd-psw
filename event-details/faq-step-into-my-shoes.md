@@ -63,7 +63,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 
 	<li>
 		<b>How can I make the most out of this learning experience?</b><br>
-		We encourage you to clarify your learning intentions or outcomes that you wish to achieve through this attachment/ internship opportunity, and discuss these with the host agency and your own supervisor/reporting officer at your 'home' agency. It is also good practice to reflect on your experience during and post-attachment, and share your insights with your host agency as well as with colleagues back at your workplace. Sharing your experiences and insights could be done formally or casually, e.g., hosting a post-internship brownbag lunch or post your reflections on Workplace. Be creative! :)
+		We encourage you to clarify your learning intentions or outcomes that you wish to achieve through this attachment/ internship opportunity, and discuss these with the host agency and your own supervisor/reporting officer at your 'home' agency. It is also good practice to reflect on your experience during and post-attachment, and share your insights with your host agency as well as with colleagues back at your workplace. Sharing your experiences and insights could be done formally or casually, e.g., hosting a post-internship brownbag lunch or posting your reflections on Workplace. Be creative! :)
 	</li>
 </ol>
 
