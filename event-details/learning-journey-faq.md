@@ -26,7 +26,7 @@ breadcrumb: Learning Festival
 
 <li>
 	<b>How do I register for a Learning Journey or Activity?</b><br>
-	Registration is generally done via Eventbrite, on a first-come-first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the link to bring you to the correct registration site. Please register using a <b>valid official work email</b> so that we can verify your status as a public officer. 
+	Registration is generally done via Eventbrite, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the link to bring you to the correct registration site. Please register using a <b>valid official work email</b> so that we can verify your status as a public officer. 
 </li>
 <br>
 <li> 
