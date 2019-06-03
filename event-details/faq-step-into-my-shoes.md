@@ -4,13 +4,14 @@ title: FAQ
 permalink: events/learning-festival/faq-step-into-my-shoes-programme
 breadcrumb: Learning Festival
 ---
-# Public Service Week 2019 Step Into My Shoes Programme
+# Public Service Week 2019 Frequently Asked Questions
+## Step Into My Shoes Programme
 
-Step Into My Shoes is an initiative that introduces officers to the work of other agencies through <b>short-term attachment opportunities</b>, and deepens their understanding of how other agencies' work contributes to broader Public Service outcomes. Spaces are limited, so <u>indicate your interest</u> quickly via the individual event link! Please read the FAQs below for more info about Step Into My Shoes.
+Step Into My Shoes is an initiative that introduces officers to the work of other agencies through <b>short-term attachment opportunities</b>, and deepens their understanding of how other agencies' work contributes to broader Public Service outcomes. Spaces are limited, so indicate your interest quickly via the individual Eventbrite links! Please read the FAQs below for more information about Step Into My Shoes.
 <br>
 <br>
 
-### Frequently Asked Questions for Interested Officers
+### For Interested Officers
 <ol type="1">
 	<li>
 		<b>Who do I contact if I am interested in a specific role?</b><br>
@@ -46,6 +47,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 		<b>How will I be paid?</b><br>
 		As this programme is meant more for short-term attachments (a few days to a few months), there are no expectations to make any changes to your current salary arrangements, since your agency would also be benefitting from the programme. 
 		<br>
+		<br>
 		For longer term attachments (i.e., secondments), we recommed that you discuss your salary and benefits entitlement with your HR. For more information on compensation, you may wish to refer to the <b>Government IM Staff 2F</b>, which can be found on the intranet.
 	</li>
 <br>
@@ -65,7 +67,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 	</li>
 </ol>
 
-### Frequently Asked Questions for Supervisors/Reporting Officers
+### For Supervisors/Reporting Officers
 <ol type="1">
 <li>
 	<b>How long will my officer be away?</b><br>
