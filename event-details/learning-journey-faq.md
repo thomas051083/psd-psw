@@ -62,30 +62,30 @@ breadcrumb: Learning Festival
 	<b>When does registration open and how long is the registration period?</b><br>
 	Registration for the Learning Journeys and Learning Activities will commence over two waves. Registration for each Learning Journey is based on a first-come, first-served basis and will close once the Learning Journey has reached full capacity.  
 	<br><br>
-	Registration for the <b><i>1st wave</i></b> of Learning Journeys & Learning Activities will commence from <b><i>Tuesday 4 June 2019, 9:00hrs</i></b> and will close either when all the places have been filled up or one week before the session.
+	Registration for the <b><i>1st wave</i></b> of Learning Journeys and Activities will commence from <b><i>Tuesday 4 June 2019, 9:00hrs</i></b> and will close either when all the places have been filled up or one week before the session.
 	<br><br>
 	For Learning Journeys & Learning Activities that require security clearance, an earlier closing date is often required in order to give enough time for security clearances to be processed. Please refer to individual event write-ups for specific closing dates.  
 	<br><br>
-	Registration for the <b><i>2nd wave</i></b> of Learning Journeys & Learning Activities will commence from <b><i>Tuesday 18 June 2019, 9:00hrs</i></b>and will close when all the places have been filled up or one week before the session. 
+	Registration for the <b><i>2nd wave</i></b> of Learning Journeys and Activities will commence from <b><i>Tuesday 18 June 2019, 9:00hrs</i></b>and will close when all the places have been filled up or one week before the session. 
 </li>
 <br>
 <li>
-	<b>Can I attend more than 1 Learning Journey?</b><br>
-	Yes, you can register for more than 1 Learning Journey. However, you are strongly encouraged to only attend 1 Learning Journey to allow other officers to particpate.
+	<b>Can I attend more than 1 Learning Journey or Activity?</b><br>
+	Yes, you can register for more than 1 Learning Journey or Activity. However, you are strongly encouraged to only attend 1 Learning Journey to allow other officers to particpate.
 </li>
 <br>
 <li>
-	<b>Is there a waitlist for the Learning Journeys and Learning Activities that have reached full capacity?</b><br>
+	<b>Is there a waitlist for the Learning Journeys and Activities that have reached full capacity?</b><br>
 	Yes. You can join a waitlist (limited slots) for all of the Learning Journeys and Learning Activities that has reached full capacity. <br>
 	<br>
-	<b>Note:</b> If you are on the waitlist, you will be notified via emai to register for the Learning Journey on a first-come-fist-serve basis. 
+	<b>Note:</b> If you are on the waitlist, you will be notified via emai to register for the Learning Journey or Activity on a first-come-fist-serve basis. 
 </li>
 <br>
 <li>
 	<b>How do I cancel a registration?</b><br>
 	You may cancel your registration via Eventbrite. Please note that you are required to create an Eventbrite account to perform the cancellation. 
 	<br><br>
-	<b>Note:</b> You are encouraged to cancel your registration and/or find a replacement if you cannot make it to the Learning Journey/Learning Activity. Please note that we are unable to support transfer/replacements for Learning Journeys that require security clearance.
+	<b>Note:</b> You are encouraged to cancel your registration and/or find a replacement if you cannot make it to the Learning Journey or Activity. Please note that we are unable to support transfer/replacements for Learning Journeys or Activities that require security clearance.
 </li>
 <br>
 <li>
@@ -93,17 +93,17 @@ breadcrumb: Learning Festival
 	<ol type="a">
 		<li>
 			<u>During open registration period</u> <br>
-			For Learning Journeys/Learning Activities <i>without</i> security clearance, please log in to Eventbrite to cancel your registration. You do not need to provide a replacement.
+			For Learning Journeys and Activities <i>without</i> security clearance, please log in to Eventbrite to cancel your registration. You do not need to provide a replacement.
 			<br>
 			<br>
-			For Learning Journeys/Learning Activities <i>with</i> security clearance, please email <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> to cancel and provide a replacement.
+			For Learning Journeys and Activities <i>with</i> security clearance, please email <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> to cancel and provide a replacement.
 		</li>
 		<li>
 			<u>After registration has closed</u><br>
-			Please "gift" your place at the Learning Journey/Learning Activity to a colleague if you cannot make it. Each Learning Journey/Learning Activity slow is super precious and popular, so please "gift" it on to a deserving colleague. Please email <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> and the respective host agency contact with your Learning Journey name, date, time and replacement details of the officer (Name, Officer email, Designation and Agency). Remember to keep your replacing colleague copied.
+			Please "gift" your place at the Learning Journey/Learning Activity to a colleague if you cannot make it. Each Learning Journey or Activity is super precious and popular, so please "gift" it on to a deserving colleague. Please email <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> and the respective host agency contact with your Learning Journey name, date, time and replacement details of the officer (Name, Officer Email, Designation and Agency). Remember to keep your colleague who is replacing you copied.
 			<br>
 			<br>
-			We will not be able to entertain replacements for Learning Journeys that require security clearance as there would not be enough time to process the security details. 
+			We will not be able to entertain replacements for Learning Journeys and Activities that require security clearance as there would not be enough time to process the security details. 
 		</li>
 	</ol>
 </li>
