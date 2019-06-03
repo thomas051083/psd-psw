@@ -79,7 +79,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
-      <br>5 Jul (Fri), 3.00pm - 5.30pm
+      <br>5 July (Fri), 3.00pm - 5.30pm
       <br>Discover how MOM has used data analytics, design thinking, behavioural insights and technology to transform public service delivery for citizens and fellow colleagues. 
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
