@@ -15,8 +15,6 @@ permalink: /learning-festival/7-13-july
 breadcrumb: Learning Festival
 ---
 -->
-
-
 ### Week of 7 - 13 July
 
 <table>
