@@ -14,5 +14,6 @@ Curious about how innovative design can make a difference to your work? Join the
 
 <b><u>Details</u><br>
 **Date and Time: 9 July (Tues), 2.30pm - 5.00 pm** <br>
-**Location: 533 Yishun Industrial Park A (S768774)<br>SCDF 3rd CD Division @ Yishun Fire Station _[TBC]_** <br>
+**Location: Yishun Fire Station, 3rd SCDF Division HQ <br> 533 Yishun Industrial Park A (S768774)** <br>
+**Shuttle Bus will be provided from Yishun MRT Station (Exit E Pickup Point) at 2.00pm** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/ambulance-redesigned-the-power-of-innovation-through-design-thinking-tickets-62126227218)** 

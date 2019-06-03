@@ -1,18 +1,16 @@
-<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
 permalink: /events/learning-journeys/event-details/LJ_SACDigitalExperience
-breadcrumb: Learning Festival
+breadcrumb: Learning Journey
 ---
--->
 
 ## Learning Journey
 ### The Stamford Arts Centre Digital Experience
 
 ###### _#Digitalise #Engage_
 
-Are you curious how traditional arts and technology are used to engage the masses? Visit the Stamford Arts Centre where you get to experience a virtual reality Chinese Opera Stage tour and an augmented reality Stamford Arts Centre Walking Trail to find out how NAC's citizen engagement have shifted. 
+Curious how traditional arts and technology have been used to engage the masses? Come join this visit to Stamford Arts Centre where you get to experience a virtual reality Chinese Opera Stage tour and an augmented reality Stamford Arts Centre Walking Trail, and find out exactly how this has shifted the way that NAC engages citizens.
 
 <b><u>Details</u><br>
 **Date and Time: 9 July (Tue), 3.00pm - 5.00pm** <br>

@@ -42,6 +42,18 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_scdf">Click here to find out more.</a>
     </td>
   </tr>
+  </tr>
+<tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>The Stamford Arts Centre Digital Experience</b>
+      <br>9 July, 3.00pm - 5.00pm
+      <br>Join this visit to Stamford Arts Centre to experience a virtual reality Chinese Opera Stage tour and an augmented reality Stamford Arts Centre Walking Trail, and find out exactly how this has shifted the way that NAC engages citizens.
+      <br><a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_VMHC"> <img src="/images/SkillUp1.jpg" /></a>
@@ -52,8 +64,7 @@ breadcrumb: Learning Festival
       <br>Experience how the Harmony Centre has deepened understanding of citizens’ lived realities by exposing visitors to racial and religious harmony issues.
       <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
     </td>
-  </tr>
-  <tr>
+    <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/Digital2.jpg" /></a>
     </td>

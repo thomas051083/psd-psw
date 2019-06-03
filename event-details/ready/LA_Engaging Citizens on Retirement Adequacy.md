@@ -2,7 +2,7 @@
 layout: simple-page
 title: Learning Festival 1-19 July 2019
 permalink: /events/learning-journeys/event-details/LA_cpfretire
-breadcrumb: Learning Journey
+breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
@@ -17,6 +17,6 @@ Through this talk, you will be able to better appreciate CPF as intended for ret
 <i>*DRUMS is an acronym for Disruption, Rumours, Untruths, Misinformation and Smears</i>
 
 <b><u>Details</u><br>
-**Date and Time: 19 July (Fri), 3.00pm - 5.00pm** <br>
+**Date and Time: 19 July (Fri), 3.00pm - 4.30pm** <br>
 **Location: 31 North Buona Vista Road (S275983) Civil Service College <br>CSC Auditorium (Level 1)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/engaging-singaporeans-on-retirement-adequacy-tickets-62296825482)** 
