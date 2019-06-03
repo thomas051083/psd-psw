@@ -14,17 +14,17 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 <ol type="1">
 	<li>
 		<b>Who do I contact if I am interested in a specific role?</b><br>
-		Please indicate your interest through the Eventbrite page for each Step into My Shoes attachment/ internship. Do note that registering your interest does not automatically guarantee you the attachment as there are limited slots available. Once you have registered your interest, the host agency representative will get in touch with you and you will liaise with them directly. <br>
+		Please indicate your interest through the Eventbrite page for each Step into My Shoes attachment/ internship. Do note that registering your interest does not automatically guarantee you the attachment as there are limited slots available. Once you have registered your interest, the host agency representative will get in touch with you and you will liaise with them directly. 
 	</li>
-
+<br>
 	<li>
 		<b>How will I know if I'm selected and how much time I have before I report to the agency?</b><br>
-		Attachments/Internships can start as soon as possible (upon mutual agreement by yourself, the host agency, and any internal approvals that you would need to get from your reporting officer). Each host agency will have its own process or criteria for selecting the most suitable officer(s) for the attachment/internship. Some host agencies may require you to complete application form(s), provide a CV and/or undertake an interview. The host agency will also let you know if your attachment is confirmed. <br>
+		Attachments/Internships can start as soon as possible (upon mutual agreement by yourself, the host agency, and any internal approvals that you would need to get from your reporting officer). Each host agency will have its own process or criteria for selecting the most suitable officer(s) for the attachment/internship. Some host agencies may require you to complete application form(s), provide a CV and/or undertake an interview. The host agency will also let you know if your attachment is confirmed. 
 	</li>
-
+<br>
 	<li> 
 		<b>What will happen to my current work?</b><br>
-		As the duration of attachment varies (few days to 6 months), you will need to discuss with your reporting officer on who will be covering your current work during the attachment period. Please make sure that you have made the necessary arrangements prior to commencing your attachment. <br>
+		As the duration of attachment varies (few days to 6 months), you will need to discuss with your reporting officer on who will be covering your current work during the attachment period. Please make sure that you have made the necessary arrangements prior to commencing your attachment.
 	</li>
 
 	<li>
