@@ -61,7 +61,8 @@ breadcrumb: Learning Festival
       <br>Experience how the Harmony Centre has deepened understanding of citizens’ lived realities by exposing visitors to racial and religious harmony issues.
       <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/Digital2.jpg" /></a>
     </td>
