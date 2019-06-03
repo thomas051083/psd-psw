@@ -39,7 +39,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 	</li>
 <br>
 	<li>
-		<b>Do I need to seek my director's approval to participate in the programme?</b><br>
+		<b>Do I need to seek my Director's approval to participate in the programme?</b><br>
 		We recommend that you discuss with your reporting officer on whether you need to inform your Director and HR of your participation in the programme.
 	</li>
 <br>
@@ -75,7 +75,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 </li>
 <br>
 <li>
-	<b>How will Step In My Shoes benefit my officer?</b><br>
+	<b>How will Step Into My Shoes benefit my officer?</b><br>
 	Officers will gain an understanding of how other agencies' work contribute to the broader Public Service outcomes. We suggest that you discuss with your officer and evaluate if this programme adds value to your officer's career.
 </li>
 <br>
@@ -86,7 +86,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 <br>
 <li>
 	<b>If my officer is keen to participate in the short-term Step Into My Shoes attachment, do they need to apply for annual leave so that they are excused from work during that period? </b><br>
-	We would like to encourage you to be as suportive of this initiative and of your officer's interest to learn and grow. As such, we advocate that officers be excused from their work duties <u>without</u> having to apply for annual leave as long as you have given your approval. In addition, we recommend that your officer shares with you information about the agreed commencement date(s) and duration of the attachment, who the host agency and department are, and the specified learning outcomes of the attachment. We also highly encourage your officer to discuss with you any covering duties arrangement(s) that need to be put in place whilst the officer is away on attachment, especially for attachments that last for more than a few days. 
+	We would like to encourage you to be as supportive of this initiative and of your officer's interest to learn and grow. As such, we advocate that officers be excused from their work duties <u>without</u> having to apply for annual leave as long as you have given your approval. In addition, we recommend that your officer shares with you information about the agreed commencement date(s) and duration of the attachment, who the host agency and department are, and the specified learning outcomes of the attachment. We also highly encourage your officer to discuss with you any covering duties arrangement(s) that need to be put in place whilst the officer is away on attachment, especially for attachments that last for more than a few days. 
 </li>
 <br>
 <li>
