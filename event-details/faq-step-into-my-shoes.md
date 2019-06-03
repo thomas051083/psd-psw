@@ -4,7 +4,7 @@ title: FAQ
 permalink: events/learning-festival/faq-step-into-my-shoes
 breadcrumb: Learning Festival
 ---
-# Public Service Week 2019 Frequently Asked Questions
+# Frequently Asked Questions
 ## Step Into My Shoes Attachment
 
 Step Into My Shoes is an initiative that introduces officers to the work of other agencies through <b>short-term attachment opportunities</b>, and deepens their understanding of how other agencies' work contributes to broader Public Service outcomes. Spaces are limited, so indicate your interest quickly via the individual Eventbrite links! Please read the FAQs below for more information about Step Into My Shoes.
