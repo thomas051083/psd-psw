@@ -76,16 +76,16 @@ breadcrumb: Learning Festival
 <br>
 <li>
 	<b>Is there a waitlist for the Learning Journeys and Activities that have reached full capacity?</b><br>
-	Yes. You can join a waitlist (limited slots) for all the Learning Journeys and Learning Activities that have reached full capacity. <br>
+	Yes. You can join a waitlist (limited slots) for all the Learning Journeys and Activities that have reached full capacity. <br>
 	<br>
-	<b>Note:</b> If you are on the waitlist, you will be notified via email should slots become available to register for the Learning Journey or Activity on a first-come-first-served basis. 
+	<b>Note:</b> If you are on the waitlist, you will be notified via email should slots become available to register for the Learning Journey or Activity on a first-come, first-served basis. 
 </li>
 <br>
 <li>
 	<b>How do I cancel a registration?</b><br>
 	You may cancel your registration via Eventbrite. Please note that you are required to create an Eventbrite account to perform the cancellation. 
 	<br><br>
-	<b>Note:</b> You are encouraged to cancel your registration and/or find a replacement if you cannot make it to the Learning Journey or Activity. Please note that we are unable to support transfer/replacements for Learning Journeys or Activities that require security clearance.
+	<b>Note:</b> You are encouraged to cancel your registration and/or find a replacement if you cannot make it to the Learning Journey or Activity. Please note that we are unable to support transfer/replacements for Learning Journeys and Activities that require security clearance.
 </li>
 <br>
 <li>
