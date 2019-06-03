@@ -10,13 +10,13 @@ breadcrumb: Learning Festival
 ### General
 <ol type="1">
 <li> 
-	<b>How much do I need to pay to attend a Learning Journey or Learning Activity?</b><br>
+	<b>How much do I need to pay to attend a Learning Journey or Activity?</b><br>
 	The Learning Journeys are complimentary for all public officers to attend upon successful registration.
 </li>
 <br>
 <li>
-	<b>Do I have to be a public officer to attend the Learning Journey or Learning Activity?</b><br>
-	Yes. The Learning Journeys are only open to public officers, and that is why valid registration will only be with an official email address. In addition, a few Learning Journeys require officers' details for security clearance.
+	<b>Do I have to be a public officer to attend the Learning Journey or Activity?</b><br>
+	Yes. The Learning Journeys and Activities are only open to public officers, and that is why valid registration will only be with an official email address. In addition, a few Learning Journeys and Activities require officers' details for security clearance.
 </li>
 </ol>
 
@@ -25,8 +25,8 @@ breadcrumb: Learning Festival
 <ol type="1">
 
 <li>
-	<b>How do I register for a Learning Journey or Learning Activity?</b><br>
-	Registration for the Learning Journey/Learning Activity is generally done via Eventbrite, on a first-come-first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the link to bring you to the correct registration site. Please register using a <b>valid official work email</b> only so that we can verify your status as a public officer. 
+	<b>How do I register for a Learning Journey or Activity?</b><br>
+	Registration for Learning Journeys and Activities is generally done via Eventbrite, on a first-come-first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the link to bring you to the correct registration site. Please register using a <b>valid official work email</b> only so that we can verify your status as a public officer. 
 </li>
 <br>
 <li> 
@@ -36,7 +36,7 @@ breadcrumb: Learning Festival
 <br>
 <li>
 	<b>How do I get to Eventbrite?</b><br>
-	Each Learning Journey and Learning Activity will have its own unique registration page. Click on the link provided on the PSW Microsite to be directed to the Eventbrite form.
+	Each Learning Journey and Activity will have its own unique registration page. Click on the link provided on the PSW Microsite to be directed to the Eventbrite form.
 </li>
 <br>
 <li>
@@ -46,7 +46,7 @@ breadcrumb: Learning Festival
 <br>
 <li>
 	<b>How do I know if my registration is successful?</b><br>
-	If your registration is successful, you will receive a confirmation email or a course placement letter which contains a ticket. Please bring the ticket with you (either in digital or print copy) to the Learning Journey/Learning Activity as attendance will be taken by the host agency using the QR code printed on the ticket.
+	If your registration is successful, you will receive a confirmation email or a course placement letter which contains a ticket. Please bring the ticket with you (either in digital or print copy) to the Learning Journey or Activity as attendance will be taken by the host agency using the QR code printed on the ticket.
 	<br><br>
 	For Learning Journeys that require additional security clearance, you are required to provide security details on <b>FormSG</b>. Instructions will be included in the Eventbrite confirmation email.
 	<br><br>
@@ -60,7 +60,7 @@ breadcrumb: Learning Festival
 <br>
 <li>
 	<b>When does registration open and how long is the registration period?</b><br>
-	Registration for the Learning Journeys and Learning Activities will commence over two waves. Registration for each Learning Journey is based on a first-come, first-served basis and will close once the Learning Journey has reached full capacity.  
+	Registration for the Learning Journeys and Activities will commence over two waves. Registration for each Learning Journey or Activity is based on a first-come, first-served basis and will close once the Learning Journey or Activity has reached full capacity.  
 	<br><br>
 	Registration for the <b><i>1st wave</i></b> of Learning Journeys and Activities will commence from <b><i>Tuesday 4 June 2019, 9:00hrs</i></b> and will close either when all the places have been filled up or one week before the session.
 	<br><br>
