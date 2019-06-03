@@ -10,7 +10,7 @@ breadcrumb: Learning Activity
 
 ###### _#Digitalise #SPSPride_
 
-Have you noticed how work in the Singapore Public Service has evolved through the use of technology? Discuss and dialogue how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean. PS guides the Public Sector Transformation(PST)- Digital Committee on efforts to improve officers’ productivity at the workplace and inter-agency operations through technology.
+Have you noticed how work in the Singapore Public Service has evolved through the use of technology? Discuss how technology has permeated every aspects of our life, be it work or personal, with PS Khum Yean. PS guides the Public Sector Transformation (PST) - Digital Committee on efforts to improve officers’ productivity at the workplace and inter-agency operations through technology.
 
 <b><u>Details</u><br>
 **Date and Time: 17 July (Wed), 4.30pm – 6.00pm** <br>
