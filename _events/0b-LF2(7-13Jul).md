@@ -45,7 +45,7 @@ breadcrumb: Learning Festival
   </tr>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience"> <img src="/images/Engage1.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience"> <img src="/images/NAC - Stamford Arts Centre resized.jpg" /></a>
     </td>
     <td>
       <b>The Stamford Arts Centre Digital Experience</b>
