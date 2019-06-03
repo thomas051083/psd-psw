@@ -24,7 +24,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>SkillsFuture Advice Workshop for Public Officers</b>
-      <br>2 July (Tues), 9.00am - 10.30am or 11.00am - 12.30pm
+      <br>2 July (Tue), 9.00am - 10.30am or 11.00am - 12.30pm
       <br>Discover how to plan your career and upgrade your skills as a Public Service officer at a specially curated SkillsFuture Advice workshop. 
       <br><a href="/events/learning-journeys/event-details/LA_SFAWfPO">Click here to find out more.</a>
     </td>
