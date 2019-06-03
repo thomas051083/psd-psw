@@ -36,7 +36,7 @@ breadcrumb: Learning Festival
 <br>
 <li>
 	<b>How do I get to Eventbrite?</b><br>
-	Each Learning Journey or Activity will have its own unique registration page. Click on the link provided on the PSW Microsite to be directed to the Eventbrite form.
+	Each Learning Journey or Activity will have its own unique registration page. Click on the link provided on the PSW Microsite to be directed to the Eventbrite page.
 </li>
 <br>
 <li>
