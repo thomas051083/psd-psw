@@ -4,7 +4,7 @@ title: FAQ
 permalink: events/learning-festival/faq-step-into-my-shoes-programme
 breadcrumb: Learning Festival
 ---
-#Public Service Week 2019 Step Into My Shoes Programme
+# Public Service Week 2019 Step Into My Shoes Programme
 
 Step into my Shoes is an initiative that introduces officers to the work of other agencies through <b>short-term attachment opportunities</b>, and deepens their understanding of how other agencies' work contributes to broader Public Service outcomes. Spaces are limited, so <u>indicate your interest</u> quickly via the individual event link or QR code! Please read the FAQs below for more info about Step into My Shoes.
 <br>
