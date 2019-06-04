@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### The Stamford Arts Centre Digital Experience
+### The Stamford Arts Centre Digital Experience <font color="red"> (FULL) </font>
 
 ###### _#Digitalise #Engage_
 

@@ -6,7 +6,7 @@ breadcrumb: Learning Festival
 ---
 
 ## Learning Journey 
-### Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact
+### Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact <font color="red"> (FULL) </font>
 
 ###### _#Innovate #Digitalise_
 

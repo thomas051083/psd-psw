@@ -78,7 +78,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
-      <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
+      <b>The Ministry of Manpower's (MOM) Service Transformation Journey<font color="red"> (FULL)</font></b>
       <br>5 July (Fri), 3.00pm - 5.30pm
       <br>Discover how MOM has used data analytics, design thinking, behavioural insights and technology to transform public service delivery for citizens and fellow colleagues. 
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
@@ -89,7 +89,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/Digital2.jpg" /></a>
     </td>
     <td>
-      <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact</b>
+      <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact <font color="red"> (FULL)</font></b>
       <br>5 July (Fri), 3.00pm - 5.00pm
       <br>Come find out from GovTech how technologies such as Sensors, IoT and robotics are being applied in the Public Service.
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>

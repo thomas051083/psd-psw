@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Citizen-Centric Services at Our Tampines Hub (OTH)
+### Citizen-Centric Services at Our Tampines Hub (OTH) <font color="red"> (FULL) </font>
 
 ###### _#Innovate #Digitalise_
 

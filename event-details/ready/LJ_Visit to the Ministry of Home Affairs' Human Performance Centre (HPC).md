@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)(FULL)
+### Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)<font color="red"> (FULL) </font>
 
 ###### _#Adapt&SkillUp #SPSPride_
 

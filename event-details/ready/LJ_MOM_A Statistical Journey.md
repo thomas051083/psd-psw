@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### A Statistical Journey - Capturing the Data of 2.5 Million Workers
+### A Statistical Journey - Capturing the Data of 2.5 Million Workers <font color="red"> (FULL) </font>
 
 ###### _#Innovate #Digitalise #Engage # Adapt&SkillUp #SPSPride_
 
