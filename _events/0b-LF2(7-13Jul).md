@@ -34,7 +34,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
-      <b>Ambulance Redesigned - The Power of Innovation Through Design Thinking</b>
+      <b>Ambulance Redesigned - The Power of Innovation Through Design Thinking<font color="red"> (FULL)</font></b>
       <br>9 July (Tue), 2.30pm - 5.00pm
       <br>Join SCDF on a tour of the newly redesigned SCDF emergency ambulance, and discover how innovative design can make a difference to your work.
       <br><a href="/events/learning-journeys/event-details/LJ_scdf">Click here to find out more.</a>
