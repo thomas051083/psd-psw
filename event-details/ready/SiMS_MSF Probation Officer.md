@@ -6,7 +6,7 @@ breadcrumb: Step into My Shoes
 ---
 
 ## Step into My Shoes 
-### Making a Difference as a Probation Officer by the Ministry of Social and Family Development <font color="red"> (FULL) </font>
+### Making a Difference as a Probation Officer by the Ministry of Social and Family Development
 
 ###### _#SPSPride_
 
