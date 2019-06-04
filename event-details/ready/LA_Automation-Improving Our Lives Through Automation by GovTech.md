@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Improving Our Lives Through Automation by GovTech Singapore
+### Improving Our Lives Through Automation by GovTech Singapore <font color="red"> (FULL) </font>
 
 ###### _#Digitalise #Adapt&SkillUp_
 
