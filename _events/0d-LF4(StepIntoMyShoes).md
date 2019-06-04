@@ -23,7 +23,7 @@ breadcrumb: Learning Festival
      <a href="/events/learning-journeys/event-details/MaDaaPO"> <img src="/images/Stepup.jpg" /></a>
     </td>
     <td>
-      <b>Making a Difference as a Probation Officer by MSF <font color="red"> (FULL) </font></b>
+      <b>Making a Difference as a Probation Officer by MSF</b>
       <b><br>Probation Officer  | Probation and Community Rehabilitation Service</b>
       <i><br>2 week attachment from Jun to end Nov 2019</i>
       <br>Shadow a Probation Officer and learn how the Probation and Community Rehabilitation Service works with individuals, families and the community in the rehabilitation of persons who commit crime.
