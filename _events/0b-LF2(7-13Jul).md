@@ -100,7 +100,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/Innovate2.jpg" /></a>
     </td>
     <td>
-      <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
+      <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC) <font color="red">(FULL)</font></b>
       <br>12 July (Fri), 2.00pm - 5.00pm
       <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
       <br><a href="/events/learning-journeys/event-details/LJ_MHAHPC">Click here to find out more.</a>
