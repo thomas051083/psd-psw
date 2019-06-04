@@ -48,7 +48,7 @@ Step Into My Shoes is an initiative that introduces officers to the work of othe
 		As this programme is meant more for short-term attachments (a few days to a few months), there are no expectations to make any changes to your current salary arrangements, since your agency would also be benefitting from the programme. 
 		<br>
 		<br>
-		For longer term attachments (i.e., secondments), we recommed that you discuss your salary and benefits entitlement with your HR. For more information on compensation, you may wish to refer to the <b>Government IM Staff 2F</b>, which can be found on the intranet.
+		For longer term attachments (i.e., secondments), we recommend that you discuss your salary and benefits entitlement with your HR. For more information on compensation, you may wish to refer to the <b>Government IM Staff 2F</b>, which can be found on the intranet.
 	</li>
 <br>
 	<li>
