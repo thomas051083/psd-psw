@@ -15,8 +15,6 @@ permalink: /learning-festival/7-13-july
 breadcrumb: Learning Festival
 ---
 -->
-
-
 ### Week of 7 - 13 July
 
 <table>
@@ -41,15 +39,14 @@ breadcrumb: Learning Festival
       <br>Join SCDF on a tour of the newly redesigned SCDF emergency ambulance, and discover how innovative design can make a difference to your work.
       <br><a href="/events/learning-journeys/event-details/LJ_scdf">Click here to find out more.</a>
     </td>
-  </tr>
-  </tr>
+</tr>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience"> <img src="/images/Engage1.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience"> <img src="/images/NAC - Stamford Arts Centre resized.jpg" /></a>
     </td>
     <td>
       <b>The Stamford Arts Centre Digital Experience</b>
-      <br>9 July, 3.00pm - 5.00pm
+      <br>9 July (Tue), 3.00pm - 5.00pm
       <br>Join this visit to Stamford Arts Centre to experience a virtual reality Chinese Opera Stage tour and an augmented reality Stamford Arts Centre Walking Trail, and find out exactly how this has shifted the way that NAC engages citizens.
       <br><a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience">Click here to find out more.</a>
     </td>
@@ -64,7 +61,8 @@ breadcrumb: Learning Festival
       <br>Experience how the Harmony Centre has deepened understanding of citizens’ lived realities by exposing visitors to racial and religious harmony issues.
       <br><a href="/events/learning-journeys/event-details/LJ_VMHC">Click here to find out more.</a>
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/Digital2.jpg" /></a>
     </td>
@@ -103,7 +101,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>Visit to the Ministry of Home Affairs' Human Performance Centre (HPC)</b>
-      <br>12 Jul (Fri), 2.00pm - 5.00pm
+      <br>12 July (Fri), 2.00pm - 5.00pm
       <br>Come visit the Human Performance Centre, the first-of-its-kind high-tech test facility, which helps to analyse, plan, test and evaluate new equipment, systems and work methods before they are deployed into the operational environment.
       <br><a href="/events/learning-journeys/event-details/LJ_MHAHPC">Click here to find out more.</a>
     </td>
@@ -125,9 +123,10 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>The Ministry of Manpower's (MOM) Service Transformation Journey</b>
-      <br>12 Jul (Fri), 3.00pm - 5.30pm
+      <br>12 July (Fri), 3.00pm - 5.30pm
       <br>Experience how MOM has used data analytics, design thinking, behavioural insights and technology to transform public service delivery for citizens.
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
   </tr>
 </table>
+<br> Click [here](/events/learning-festival/faq) if you have any questions. 
