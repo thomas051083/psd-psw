@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Sharing on Robotic Process Automation (RPA) by Republic Polytechnic (RP)
+### Sharing on Robotic Process Automation (RPA) by Republic Polytechnic (RP) <font color="red"> (FULL) </font>
 
 ###### _#Digitalise #Adapt&SkillUp_
 
