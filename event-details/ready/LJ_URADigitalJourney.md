@@ -6,7 +6,7 @@ breadcrumb: Learning Festival
 ---
 
 ## Learning Journey 
-### URA’s Digitalisation Journey
+### URA’s Digitalisation Journey <font color="red"> (FULL) </font>
 
 ###### _#Innovate #Digitalise #Adapt&SkillUp_
 
