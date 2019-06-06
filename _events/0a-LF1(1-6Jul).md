@@ -45,7 +45,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/CEO HDB Dr Cheong Koon Hean.png" /></a>
     </td>
     <td>
-      <b>Fireside Chat with Dr. Cheong Koon Hean</b>
+      <b>Fireside Chat with Dr. Cheong Koon Hean<font color="red"> (FULL)</font></b>
       <br>4 July (Thur), 3.00pm - 4.30pm
       <br>Chat with Dr Cheong Koon Hean, deputy Chair of the Public Sector Transformation-People Committee, to find out what initiatives they have to support future-ready officers and organisations.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
@@ -56,7 +56,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
-      <b>Digital Workplace (DWP) Induction Workshop</b>
+      <b>Digital Workplace (DWP) Induction Workshop<font color="red"> (FULL)</font></b>
       <br>4 July (Thur), 3.00pm - 5.00pm   
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>

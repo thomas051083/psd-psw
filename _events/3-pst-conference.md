@@ -41,12 +41,15 @@ Sign-ups opening on 11 June!
   </tr>
   <tr>
     <td>9.45AM - 10.25AM</td>
-    <td><b>Keynote: Implementing Service Journeys in the Public Sector</b></td>
+    <td><b>Keynote: Implementing Service Journeys in the Public Sector</b><br> 
+    Karl McDiarmid, General Manager of Social innovation, Department of Internal Affairs, New Zealand<br>
+    Frank Leyman, Manager of International Relations Digital Transformation Office, Belgium
+</td>
   </tr>
   <tr>
     <td>10.25AM - 10.45AM</td>
     <td><b>The Value of Adopting Service Journey Practices in Singapore's Public Sector – Why Service Journeys for SG Government? </b><br>
-    <!-- Dominic Chan, Director, MOL, GovTech -->
+    Dominic Chan, Director, MOL, GovTech
 </td>
   </tr>
   <tr>
@@ -55,7 +58,9 @@ Sign-ups opening on 11 June!
   </tr>
   <tr>
     <td>11.05AM - 11.25AM</td>
-    <td><b>Transforming Service Delivery Model - How to Adopt Service Journey Practices Effectively?</b></td>
+    <td><b>Transforming Service Delivery Model - How to Adopt Service Journey Practices Effectively?</b><br>
+     Bojan Blecic, Senior VP, Head Experience Design, OCBC Bank
+    </td>
   </tr>
   <tr>
     <td>11.25AM - 11.45AM</td>
@@ -121,7 +126,7 @@ Sign-ups opening on 11 June!
   <tr>
     <td>
       <b>Learning Journey @ SingTel: OmniChannel Retail Experience & Design Philosophy</b><br>
-      <i><b>17 Jul</b>, 9am - 12pm, Venue TBC</i>
+      <i><b>17 Jul</b>, 9am - 12pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">SingTel</a></i></i>
      <br>
      <br>
     Learn how SingTel does omni-channel type of Service Delivery (through online and offline). <br>
@@ -132,11 +137,11 @@ Sign-ups opening on 11 June!
   </tr>
   <tr>
     <td>
-      <b>Learning Journey @ Grab: Organisation Culture as Enabler for Service Innovation</b><br>
-      <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">Grab Office</a></i>
+      <b>Learning Journey @ Grab: The Evolution of Service Design in Grab</b><br>
+      <i>18 Jul, 2pm - 4.30pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">Grab Office</a></i>
     <br>
     <br>
-    Learn about Grab’s innovation culture that led to the forming of multi-disciplinary teams for delivering innovative services. <br>
+    Grab’s vision is to “Drive Southeast Asia Forward” by solving real-world transport problems and addressing the needs of 620 million people in Southeast Asia. Get insights how leading ride-hailing transport service provider applies Service Design in building their services. <br>
     <u>Who should attend:</u> Project leads involved in transforming teams for innovation-led Service Delivery. <br>
     <br>
     </td>
@@ -156,10 +161,11 @@ Sign-ups opening on 11 June!
   <tr>
     <td>
      <b>Service Journey Case Clinic by IRAS x Fjord</b><br>
-     <i>18 Jul, 2pm, Venue TBC</i>
+     <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir//iras/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19e7aa4548a1:0x4531bdf6fbce07e4?sa=X&ved=2ahUKEwi41JL4nNTiAhUQfX0KHU9XDCQQ9RcwFnoECAgQEA">Inland Revenue Authority of Singapore (IRAS)</a></i>
     <br>
     <br>
-    More details to come.
+    In face of rapid technological advancements Inland Revenue Authority of Singapore (IRAS) embarked on a transformation journey to redefine the experiences of taxpayers. Adopting an outside-in and human-centric approach, IRAS conducted service design projects to better understand taxpayers needs in three key segments – individuals, small & medium enterprises (SMEs) and large businesses. Through this hands-on clinic, find out how IRAS applied design thinking to gain a deeper understanding of the realities and challenges of SMEs, and how the insights and findings were used to create a taxpayer-centric ecosystem. <br>
+      <u>Who should attend:</u> Public Service officers interested how service design can push boundaries and redefine citizens’ end-to-end experience.
     <br>
     <br>
     </td>
@@ -179,7 +185,7 @@ Sign-ups opening on 11 June!
   <tr>
     <td>
       <b>Strategic Application of Service Journeys Workshop by PSD InnoLab</b><br>
-      <i>18 Jul, 2pm, Venue TBC</i>
+      <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir/1.298432,103.8565376/Eunos+Road+8,+Lifelong+Learning+Institute,+Singapore/@1.309137,103.8395503,15z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da18188d9cbf0f:0x366088767c724265!2m2!1d103.8923139!2d1.3197616">Lifelong Learning Institute @ Paya Lebar Event Hall 1-3</a></i></i>
     <br>
     <br>
       What’s the best practice to adopting Service Journeys? Try adopting a systems view to achieve more forward-looking and holistic outcomes. <br>
@@ -192,7 +198,7 @@ Sign-ups opening on 11 June!
 
 <br> 
 Please refer to our [FAQ](faq) for more information. <br>
-For further enquiries, please email: <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a>.<br>
+For further enquiries, please call 8869 2642 (weekdays, 10am-6p,) or email: <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a>.<br>
 <br>
 <br>
 
