@@ -67,7 +67,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/Innovate1.jpg" /></a>
     </td>
     <td>
-      <b>Learning Journey to MOE Heritage Centre</b>
+      <b>Learning Journey to MOE Heritage Centre<font color="red"> (FULL)</font></b>
       <br>5 July (Fri), 2.30pm - 4.00pm
       <br>Come find out more about the Singapore Education Story and its role in nation-building.
       <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
