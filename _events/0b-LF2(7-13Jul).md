@@ -89,7 +89,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Serve1.jpg" /></a>
     </td>
     <td>
-      <b>Digital Workplace (DWP) Induction Workshop</b>
+      <b>Digital Workplace (DWP) Induction Workshop <font color="red"> (FULL) </font></b>
       <br>11 July (Thur), 3.00pm - 5.00pm   
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
