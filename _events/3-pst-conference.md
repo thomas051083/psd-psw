@@ -42,7 +42,7 @@ Sign-ups opening on 11 June!
   <tr>
     <td>9.45AM - 10.25AM</td>
     <td><b>Keynote: Implementing Service Journeys in the Public Sector</b><br> 
-    Karl McDiarmid, General Manager of Social innovation, Department of Internal Affairs, New Zealand<br>
+    Karl McDiarmid, General Manager of Social innovation, Department of Internal Affairs, New Zealand<br><br>
     Frank Leyman, Manager of International Relations Digital Transformation Office, Belgium
 </td>
   </tr>
@@ -198,7 +198,7 @@ Sign-ups opening on 11 June!
 
 <br> 
 Please refer to our [FAQ](faq) for more information. <br>
-For further enquiries, please call 8869 2642 (weekdays, 10am-6p,) or email: <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a>.<br>
+For further enquiries, please call 8869 2642 (weekdays, 10am-6pm) or email: <a href="mailto:CMG_Events@tech.gov.sg">CMG_Events@tech.gov.sg</a>.<br>
 <br>
 <br>
 
