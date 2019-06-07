@@ -92,7 +92,7 @@ breadcrumb: Promotions
       <br>
       Enjoy a <b>Javanese Body Massage or YR CEllular Revitalising Face Spa @ $38</b> at The Ultimate Spa, CSC @ Bukit Batok<br>
       <br>
-      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
     </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ breadcrumb: Promotions
       <br>
       <b>50% discount</b> on all watersports rentals, courses and expeditions conducted within Singapore at Ohana Beach House, CSC @ Loyang (Former Aloha Loyang)<br>
       <br>
-      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
     </td>
   </tr>
 
@@ -151,7 +151,9 @@ breadcrumb: Promotions
     <td>
       <b>1-For-1</b> Singapore Sling Flight ticket
       <br>
-      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+      <br>
+      <b>Note: Please flash this visual and your staff pass at Singapore Flyer Ticketing Counter to enjoy the privilege. </b>
     </td>
   </tr>
   <tr>
@@ -161,7 +163,7 @@ breadcrumb: Promotions
     <td>
       <b>1-For-1</b> Wild Wild Wet Day Passes
       <br>
-      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
     </td>
   </tr>
   <tr>
@@ -171,7 +173,7 @@ breadcrumb: Promotions
     <td>
       <b>1-For-1</b> Entry Tickets to Butterfly Park  & Insect Kingdom
       <br>
-      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
     </td>
   </tr>
 </table>
