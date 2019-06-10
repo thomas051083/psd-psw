@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### START @ Gillman Barracks 
+### START @ Gillman Barracks <font color="red"> (FULL)</font>
 
 ###### _#Engage_
 
