@@ -19,7 +19,7 @@ A sandbox for innovation and experimentation, where public service officers can 
 **Location: 9 Jurong Town Hall (S609431) #03-19, INNxCSC ** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/redefining-learning-experience-at-innxcsc-tickets-61979384006)** 
 
-<b><u>Session 2</u><br>
+<b><u>Session 2</u><font color="red"> (FULL) </font><br>
 **Date and Time: 17 July (Wed), 2.00pm - 4.00pm** <br>
 **Location: 9 Jurong Town Hall (S609431) #03-19, INNxCSC ** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/redefining-learning-experience-at-innxcsc-2nd-run-tickets-62565422864)** 
