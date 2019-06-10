@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Involving the Community in Shaping Our City Together
+### Involving the Community in Shaping Our City Together <font color="red"> (FULL)</font>
 
 ###### _#Engage_
 
