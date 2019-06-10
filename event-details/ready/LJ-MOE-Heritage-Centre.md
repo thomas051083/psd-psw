@@ -6,7 +6,7 @@ breadcrumb: Learning Festival
 ---
 
 ## Learning Journey 
-### Learning Journey to MOE Heritage Centre
+### Learning Journey to MOE Heritage Centre <font color="red"> (FULL)</font>
 
 ###### _#SPSPride #Bicentennial_
 
