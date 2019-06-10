@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Fireside Chat with Dr Cheong Koon Hean, Chief Executive Officer (Housing & Development Board) 
+### Fireside Chat with Dr Cheong Koon Hean, Chief Executive Officer (Housing & Development Board) <font color="red"> (FULL)</font>
 
 Are you excited for what the future holds? The Public Sector Transformation (PST)-People Committee is on a journey to nurture and enable officers who desire to break new ground, can take risks and execute ideas well, and persevere because of a deep passion in what they do. Hear from the People Committee Deputy Chair, Dr Cheong Koon Hean, on the Committee’s initiatives to support future-ready officers and organisations. Find out how you can play a part in making life easier for our citizens and fellow colleagues. 
 

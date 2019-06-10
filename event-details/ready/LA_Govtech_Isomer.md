@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Scaling From Prototyping to a Viable Product Using Isomer by GovTech
+### Scaling From Prototyping to a Viable Product Using Isomer by GovTech <font color="red"> (FULL)</font>
 
 ###### _#Innovate #Digitalise_
 

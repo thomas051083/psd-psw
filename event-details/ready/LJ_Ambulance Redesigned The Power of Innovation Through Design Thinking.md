@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### Ambulance Redesigned - The Power of Innovation Through Design Thinking
+### Ambulance Redesigned - The Power of Innovation Through Design Thinking <font color="red"> (FULL)</font>
 
 ###### _#Innovate_
 
