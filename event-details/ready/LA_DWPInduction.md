@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Digital Workplace (DWP) Induction Workshop
+### Digital Workplace (DWP) Induction Workshop <font color="red"> (FULL) </font>
 
 ###### _#Digitalise #Engage #Adapt&SkillUp_
 
