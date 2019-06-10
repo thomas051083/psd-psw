@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### A Trailblazer in Career & Skills Education 
+### A Trailblazer in Career & Skills Education<font color="red"> (FULL)</font>
 
 ###### _#Adapt&SkillUp_
 
