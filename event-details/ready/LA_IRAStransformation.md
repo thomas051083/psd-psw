@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Inland Revenue Authority of Singapore's Transformation Journey 
+### Inland Revenue Authority of Singapore's Transformation Journey <font color="red"> (FULL)</font>
 
 ###### _#Digitalise #Adapt&SkillUp_
 
