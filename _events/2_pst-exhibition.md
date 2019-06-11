@@ -19,12 +19,9 @@ This year, a unique and different Public Sector Transformation (PST) Exhibition 
 <br>
 Don’t miss out on this opportunity to stay updated with the latest across the public service and to connect with old friends! <br>
 <br>
-<br>
-Registration for Exhibition opens 25th Jun!<br>
 
-### Here's what you can expect at the Exhibition! 
 #### Service Journeys
-<b>Service Journeys</b> are processes to help public officers understand Singaporeans’ needs though the journeys with us. Through these processes, we create new products and services, and reorganise ourselves to improve the journeys so they are as pleasant as possible.
+<b>Service Journeys</b> are processes to help public officers understand Singaporeans’ needs through the journeys with us. Through these processes, we create new products and services, and reorganise ourselves to improve the journeys so they are as pleasant as possible.
 <br>
 <br>
 Get to understand and be part of seven main service journeys of a typical Singaporean adult who goes through these stages in his/her life.
@@ -59,7 +56,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Bouncing Back from Job Loss
 		</td>
 		<td>
-			How we identify citizens' needs and provide a seamless experience between job-seeking and skills upgrading.
+			Find out how we identify citizens' needs and provide a seamless experience between job-seeking and skills upgrading.
 		</td>
 	</tr>
 	<tr>
@@ -73,7 +70,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Phase 1: Entering Parenthood
 		</td>
 		<td>
-			Understand the joys and benefits of being a parent, through financial aid for your child from birth to school, as well as information on the new offerings and pedagogy of our education system.
+			Understand the joys and benefits of being a parent, through financial aid for your child from birth to school.
 		</td>
 	</tr>
 	<tr>
@@ -81,7 +78,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Phase 2: Preparing for P1
 		</td>
 		<td>
-			Understand the joys and benefits of being a parent, through financial aid for your child from birth to school, as well as information on the new offerings and pedagogy of our education system.
+			Enjoy the ease of browsing through information on the new offerings and pedagogy of our education system.
 		</td>
 	</tr>
 	<tr>
@@ -103,7 +100,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Leaving a legacy
 		</td>
 		<td>
-			How we can plan ahead for our death to post death without burdening our loved ones to deal with the logistics and paperwork.
+			Find out how we can plan ahead for our death to post death without burdening our loved ones to deal with the logistics and paperwork.
 		</td>
 	</tr>
 </table>
@@ -143,7 +140,7 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 			Starting a Business
 		</td>
 		<td>
-			Our business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, find out how we can review and streamline the processes to make the experience smoother for business owners.
+			Our business owners have to navigate a whole range of licenses, permits and other regulatory matters. Find out how we can review and streamline the processes to make the experience smoother for business owners.
 		</td>
 	</tr>
 	<tr>
@@ -158,7 +155,7 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 	
 
 #### Act on your I.D.E.A.s
-Stay tuned! More information will be updated closer to the PSW!
+Stay tuned. More information will be updated closer to the PSW.
 
 #### Moments of Life - Consultation Clinics
 **Venue: Wellness Centre, One Tampines Hub (Level 3)**
