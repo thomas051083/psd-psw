@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Awards Reception
-permalink: /events/pst-awards/
+permalink: /events/awards-reception/
 breadcrumb: Awards Reception
 collection_name: events
 ---
