@@ -104,8 +104,8 @@ Get to understand and be part of seven main service journeys of a typical Singap
 		</td>
 	</tr>
 </table>
-
 <br>
+
 #### Subsidiary Journeys
 
 Other than the seven main Service Journeys, there are five other <b>Subsidiary Journeys </b>that would further enhance the lives of Singaporeans. Read on to understand how these processes were improved!
