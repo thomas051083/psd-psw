@@ -32,11 +32,10 @@ Get to understand and be part of seven main service journeys of a typical Singap
 <br>
 
 <table>
-	<tr>
+	
 		<td>
 			Working Adult
 		</td>
-	</tr>
 	<tr>
 		<td>
 			Active Health
