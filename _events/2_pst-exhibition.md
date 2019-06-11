@@ -153,7 +153,9 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 		<td>
 			A total of 10 agencies have collaborated! (i.e. SLA, PSD, PUB, JTC, NEA, NParks, HDB, SportSG, MOF, and URA) They reviewed and streamlined the fees, processes and service standards so as to collectively achieve reduction in regulatory time and cost for the processing of TOL applications across these agencies.
 		</td>
-
+	</tr>
+</table>
+	
 
 #### Act on your I.D.E.A.s
 Stay tuned! More information will be updated closer to the PSW!
