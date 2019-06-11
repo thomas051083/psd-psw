@@ -56,7 +56,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Outpatient in Public Health Institutions
 		</td>
 		<td>
-			Visits to public heslth institutions can be time consuming, confusing and tedious. Find out how we can learn to make patients' visits more pleasant and assuring through prototypes and experiments.
+			Visits to public health institutions can be time consuming, confusing and tedious. Find out how we can learn to make patients' visits more pleasant and assuring through prototypes and experiments.
 		</td>
 	</tr>
 	<tr>
@@ -79,6 +79,8 @@ Get to understand and be part of seven main service journeys of a typical Singap
 		<td>
 			Understand the joys and benefits of being a parent, through financial aid for your child from birth to school, as well as information on the new offerings and pedagogy of our education system.
 		</td>
+	</tr>
+	<tr>
 		<td>
 			Phase 2: Preparing for P1
 		</td>
