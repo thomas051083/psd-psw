@@ -34,7 +34,8 @@ Get to understand and be part of seven main service journeys of a typical Singap
 <table>
 	<tr>
 		<td colspan="2">
-			Working Adult
+			<br>
+			<b>Working Adult</b>
 		</td>
 	</tr>
 	<tr>
@@ -63,7 +64,8 @@ Get to understand and be part of seven main service journeys of a typical Singap
 	</tr>
 	<tr>
 		<td colspan="2">
-			Parenthood
+			<br>
+			<b>Parenthood</b>
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +86,8 @@ Get to understand and be part of seven main service journeys of a typical Singap
 	</tr>
 	<tr>
 		<td colspan="2">
-			Golden Years
+			<br>
+			<b>Golden Years</b>
 		</td>
 	</tr>
 	<tr>
