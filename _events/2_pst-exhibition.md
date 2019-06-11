@@ -33,7 +33,9 @@ Get to understand and be part of seven main service journeys of a typical Singap
 
 <table>
 	<tr>
-		Working Adult
+		<td>
+			Working Adult
+		</td>
 	</tr>
 	<tr>
 		<td>
