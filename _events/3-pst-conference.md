@@ -185,7 +185,7 @@ Sign-ups opening on 11 June!
   <tr>
     <td>
       <b>Strategic Application of Service Journeys Workshop by PSD InnoLab</b><br>
-      <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir/1.298432,103.8565376/Eunos+Road+8,+Lifelong+Learning+Institute,+Singapore/@1.309137,103.8395503,15z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da18188d9cbf0f:0x366088767c724265!2m2!1d103.8923139!2d1.3197616">Lifelong Learning Institute @ Paya Lebar Event Hall 1-3</a></i>
+      <i>18 Jul, 2pm, <a href="https://www.google.com/maps/dir/1.298432,103.8565376/Eunos+Road+8,+Lifelong+Learning+Institute,+Singapore/@1.309137,103.8395503,15z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da18188d9cbf0f:0x366088767c724265!2m2!1d103.8923139!2d1.3197616">Lifelong Learning Institute @ Paya Lebar Event Hall 1-2</a></i>
     <br>
     <br>
       What’s the best practice to adopting Service Journeys? Try adopting a systems view to achieve more forward-looking and holistic outcomes. <br>
