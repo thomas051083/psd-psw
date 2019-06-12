@@ -33,7 +33,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 <table>
 	<tr>
 		<td colspan="2">
-			<br>
+				<br>
 			<b>Working Adult</b>
 		</td>
 	</tr>
@@ -119,7 +119,6 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 		</td>
 		<td>
 			Want a faster IPPT pay out? Find out more about the immediate payment of IPPT incentives to NSmen at Fitness Conditioning Centres through PayNow, part of efforts to make government-to-citizen payments more efficient.
-
 		</td>
 	</tr>
 	<tr>
