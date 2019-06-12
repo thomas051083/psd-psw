@@ -13,18 +13,20 @@ collection_name: events
 <br>
 <br>
 
-As public officers, our work impacts the everyday lives of Singaporeans – our family, friends, and not least ourselves. However, are we familiar with the various government services available at each life stage? <br>
+As public officers, our work impacts the everyday lives of Singaporeans and this includes our family, friends, and not least ourselves. However, are we familiar with the various government services available at each life stage?
 <br>
-This year, a unique and different Public Sector Transformation (PST) Exhibition brings us through everyday questions and issues across the minds of Singaporeans at key moments in their life. <br>
 <br>
-Don’t miss out on this opportunity to stay updated with the latest across the public service and to connect with old friends! <br>
+This year, a unique and different Public Sector Transformation (PST) Exhibition brings you through everyday questions and issues across the minds of Singaporeans at key moments in their life.  
+<br>
+<br>
+Don’t miss out on this opportunity to stay updated with the latest across the Public Service and at the same time to connect with old friends! <br>
 <br>
 
 #### Service Journeys
-<b>Service Journeys</b> are processes to help public officers understand Singaporeans’ needs through the journeys with us. Through these processes, we create new products and services, and reorganise ourselves to improve the journeys so they are as pleasant as possible.
+<b>Service Journeys</b> are processes to help public officers understand Singaporeans’ needs from the lens of the citizens. Through these processes, we create new products and services, and reorganise ourselves to improve the journeys for Singaporeans so that they are as pleasant as possible.
 <br>
 <br>
-Get to understand and be part of seven main service journeys of a typical Singaporean adult who goes through these stages in his/her life.
+Get to understand and be part of seven main service journeys of a typical Singaporean adult who goes through these stages in his/her life. 
 <br>
 <br>
 
@@ -40,15 +42,15 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Active Health
 		</td>
 		<td>
-			It is a national social movement to spur Singaporeans to take ownership of their health and wellness, help one another meet their goals, and to celebrate living together.
+			A national social movement to spur Singaporeans to take ownership of their health and wellness and help one another meet their goals, and to celebrate living together.
 		</td>
 	</tr>
 	<tr>
 		<td>
-			Outpatient in Public Health Institutions
+			Outpatient in Public Health institutions
 		</td>
 		<td>
-			Visits to public health institutions can be time consuming, confusing and tedious. Find out how we can learn to make patients' visits more pleasant and assuring through prototypes and experiments.
+			Visits to public health institutions can be time consuming, confusing and tedious. Find out how we can make patients’ visits more pleasant and assuring through prototypes and experiments.
 		</td>
 	</tr>
 	<tr>
@@ -56,7 +58,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Bouncing Back from Job Loss
 		</td>
 		<td>
-			Find out how we identify citizens' needs and provide a seamless experience between job-seeking and skills upgrading.
+			How we identify citizens’ needs and provide a seamless experience between job-seeking and skills upgrading.
 		</td>
 	</tr>
 	<tr>
@@ -78,7 +80,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Phase 2: Preparing for P1
 		</td>
 		<td>
-			Enjoy the ease of browsing through information on the new offerings and pedagogy of our education system.
+			Enjoy the ease of browsing through information on the offerings and pedagogy of our education system
 		</td>
 	</tr>
 	<tr>
@@ -100,7 +102,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Leaving a legacy
 		</td>
 		<td>
-			Find out how we can plan ahead for our death to post death without burdening our loved ones to deal with the logistics and paperwork.
+			Find out how the Public Service is helping citizens plan ahead so that they don’t burden their loved ones when they pass on.
 		</td>
 	</tr>
 </table>
@@ -108,7 +110,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 
 #### Subsidiary Journeys
 
-Other than the seven main Service Journeys, there are five other <b>Subsidiary Journeys </b>that would further enhance the lives of Singaporeans. Read on to understand how these processes were improved!
+Other than the seven main Service Journeys, there are five other Subsidiary Journeys that would further enhance the lives of Singaporeans. Read on to understand how these processes were improved!
 
 <table>
 	<tr>
@@ -116,7 +118,8 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 			Enhance the NS experience: IPPT
 		</td>
 		<td>
-			Immediate payment of IPPT
+			Want a faster IPPT pay out? Find out more about the immediate payment of IPPT incentives to NSmen at Fitness Conditioning Centres through PayNow, part of efforts to make government-to-citizen payments more efficient.
+
 		</td>
 	</tr>
 	<tr>
@@ -124,7 +127,7 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 			CPF
 		</td>
 		<td>
-			The CPF Board has reached out to the Ministry of Social and Family Development (MSF) to create a desired streamlined Service Journey for citizens with financial difficulties who need help from the government. Check out the process that has been mapped out to help determine how the two agencies could come together to help the citizens in easing their pressing financial needs.
+			Check out how the CPF Board has reached out to the Ministry of Social and Family Development (MSF) to create a desired streamlined Service Journey for citizens with financial difficulties who need help from the government thereby easing their pressing financial needs.
 		</td>
 	</tr>
 	<tr>
@@ -132,7 +135,7 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 			Volunteerism
 		</td>
 		<td>
-			How do we find voluntering opportunities? And how do we find like-minded people to join the causes we want to start?
+			Need more volunteers for your agency? Interested to find like-minded people to join the causes you want to start? And if you are interested to be a volunteer, how do you find volunteering opportunities?
 		</td>
 	</tr>
 	<tr>
@@ -140,22 +143,51 @@ Other than the seven main Service Journeys, there are five other <b>Subsidiary J
 			Starting a Business
 		</td>
 		<td>
-			Our business owners have to navigate a whole range of licenses, permits and other regulatory matters. Find out how we can review and streamline the processes to make the experience smoother for business owners.
+			Business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, find out how the processes had been reviewed and streamlined the processes to make the experience smoother for business owners.
 		</td>
 	</tr>
 	<tr>
 		<td>
-			Applying TOL for short-term usage of state land
+			Applying for Temporary Occupation Licencesfor short-term usage of state land
 		</td>
 		<td>
-			A total of 10 agencies have collaborated! (i.e. SLA, PSD, PUB, JTC, NEA, NParks, HDB, SportSG, MOF, and URA) They reviewed and streamlined the fees, processes and service standards so as to collectively achieve reduction in regulatory time and cost for the processing of TOL applications across these agencies.
+			Learn how 10 agencies have collaborated! (i.e. SLA, PSD, PUB, JTC, NEA, NParks, HDB, SportSG, MOF, and URA) They reviewed and streamlined the fees, processes and service standards so as to collectively achieve reduction in regulatory time and cost for the processing of TOL applications across these agencies.
 		</td>
 	</tr>
 </table>
 	
 
 #### Act on your I.D.E.A.s
-Stay tuned. More information will be updated closer to the PSW.
+<table>
+	<tr>
+		<td>
+			Innovate
+		</td>
+		<td>
+			Digitalise
+		</td>
+		<td>
+			Engage Citizen Better
+		</td>
+		<td>
+			Adapt and Skill Up
+		</td>
+	</tr>
+	<tr>
+		<td>
+			How fit are you to participate in our Million Hours Challenge? Learn how to flex your innovation ‘muscles’ so you can make life easier for yourself and your customers!
+		</td>	
+		<td>
+			Come discover the world of Digital Workplace tools and contribute your ideas to Smart Nation initiatives! Also hear about how you can volunteer as a Smart Nation Ambassador.
+		</td>
+		<td>
+			Do you know how our acts of care and giving impact others around us? Come find out about volunteer opportunities within the Public Service, and how it can help us understand fellow citizens’ lives and challenges better.
+		</td>
+		<td>
+			Accelerate your LEARN Journey today! Explore different platforms and opportunities to stay future ready. Come find out how you can LEARN new skills anytime, anywhere
+		</td>
+	</tr>
+</table>
 
 #### Moments of Life - Consultation Clinics
 **Venue: Wellness Centre, One Tampines Hub (Level 3)**
