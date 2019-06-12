@@ -14,11 +14,11 @@ Curious about the DSO National Laboratories, Singapore’s largest defence resea
 
 Join this visit to learn more about DSO and how it has leveraged technologies to transform corporate services such as automating file deliveries between air-gapped networks, and increased productivity of their officers. Find out more about the following from DSO: 
 
-a.      File Transfer Portal: Automated file delivery between air-gapped network
-b.      Integrated Project System: Integration of Enterprise Data from Human Resource to Project Management to Procurement
-c.      Data Analysis Portal: Data Analytics with self-check
-d.      Automated Service Kiosk: Simple and secure means for loaning and returning of shared resources, and collection of goods
-e.      Mobile Device Management: Allows image-capturing devices to be brought into restricted zones within the organisation]
+a. File Transfer Portal: Automated file delivery between air-gapped network
+b. Integrated Project System: Integration of Enterprise Data from Human Resource to Project Management to Procurement
+c. Data Analysis Portal: Data Analytics with self-check
+d. Automated Service Kiosk: Simple and secure means for loaning and returning of shared resources, and collection of goods
+e. Mobile Device Management: Allows image-capturing devices to be brought into restricted zones within the organisation]
 
 <b><u>Details</u><br>
 **Date and Time: 19 July (Fri), 9.00am - 11.00am** <br>
