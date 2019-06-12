@@ -1,3 +1,4 @@
+<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -24,3 +25,4 @@ Join this visit to learn more about DSO and how it has leveraged technologies to
 **Date and Time: 19 July (Fri), 9.00am - 11.00am** <br>
 **Location: 12 Science Park Drive (S118225), DSO National Laboratories** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/transforming-dso-national-laboratories-corporate-services-through-digitalisation-tickets-63365918167)** 
+-->
