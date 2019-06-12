@@ -16,5 +16,5 @@ This session is for all public officers who would like to learn how they can bec
 
 <b><u>Details</u><br>
 **Date and Time: 8 July (Mon), 2.00pm - 4.00pm** <br>
-**Location: 31 North Buona Vista (S275983), Civil Service College <br>Seminar Room 2 (Level 4)**
+**Location: 31 North Buona Vista (S275983), Civil Service College <br>Seminar Room 2 (Level 4)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/find-your-voice-with-toastmasters-tickets-63365521982)** 
