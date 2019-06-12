@@ -16,5 +16,5 @@ This session is an actual Toastmasters meeting conducted by the Civil Service In
 
 <b><u>Details</u><br>
 **Date and Time: 12 July (Fri), 7.30pm - 9.45pm** <br>
-**Location: 31 North Buona Vista (S275983), Civil Service College <br>Heng Mui Keng Room (Level 1)**
+**Location: 31 North Buona Vista (S275983), Civil Service College <br>Heng Mui Keng Room (Level 1)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/toastmasters-the-path-to-a-better-you-tickets-63365666414)** 
