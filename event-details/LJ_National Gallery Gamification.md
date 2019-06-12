@@ -16,3 +16,8 @@ How do we transform the way visitors engage with art, visually, spatially, and s
 **Date and Time: 11 July (Thurs), 3.00pm - 5.00pm** <br>
 **Location: 1 St Andrew's Road (S178957), National Gallery Singapore <br>Keppel Centre for Art Education, City Hall Wing (Level 1)**
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/transforming-visitors-into-players-enhancing-citizen-engagement-through-games-at-the-national-tickets-63104054927)** 
+
+<b><u>Session 2</u><br>
+**Date and Time: 18 July (Thurs), 3.00pm - 5.00pm** <br>
+**Location: 1 St Andrew's Road (S178957), National Gallery Singapore <br>Keppel Centre for Art Education, City Hall Wing (Level 1)**
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/transforming-visitors-into-players-enhancing-citizen-engagement-through-games-at-the-national-tickets-63372530946)** 
