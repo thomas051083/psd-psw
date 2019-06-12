@@ -12,9 +12,9 @@ breadcrumb: Learning Journey
 
 This is a heritage trail through the historic Tiong Bharu area. 
 
-**Date and Time: TBC**
+<b><u>Details</u><br>
+**Date and Time: TBC** <br>
+**Location: TBC** <br>
+**Indicate Your Interest [Here] ()** 
 
-**Location: TBC** 
-
-**Indicate Your Interest [here](https://www.eventbrite.sg/e/step-into-my-shoes-making-a-difference-as-a-probation-officer-tickets-61082209533)** 
 -->
