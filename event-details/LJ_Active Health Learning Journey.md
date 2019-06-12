@@ -9,7 +9,7 @@ breadcrumb: Learning Journey
 ## Learning Journey 
 ### Active Health Learning Journey
 
-###### _#Engage_
+###### _#Innovate_ _#Digitalise_ _#Engage_
 
 Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
 
