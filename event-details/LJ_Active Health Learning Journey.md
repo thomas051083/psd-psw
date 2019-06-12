@@ -1,3 +1,4 @@
+<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -31,3 +32,4 @@ Join this Learning Journey to SportSG, and discover the behind-the-scenes challe
 **Date and Time: 16-19 July 2019 2.00pm - 5.00pm** <br>
 **Location: Decathlon Singapore Lab @ Kallang Active Health Lab** <br>
 **Indicate Your Interest [Here](https://)** 
+-->
