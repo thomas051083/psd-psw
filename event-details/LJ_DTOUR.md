@@ -1,3 +1,4 @@
+<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -16,4 +17,4 @@ My Dawson heritage tour recounts the history of Singapore’s first satellite to
 **Date and Time: 1 July 2019, 9.00am – 12.00pm** <br>
 **Location: Dawson Road (S141087)** <br>
 **Indicate Your Interest [Here]()** 
-
+-->
