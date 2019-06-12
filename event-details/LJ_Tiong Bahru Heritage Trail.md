@@ -13,8 +13,9 @@ breadcrumb: Learning Journey
 This is a heritage trail through the historic Tiong Bharu area. 
 
 <b><u>Details</u><br>
-**Date and Time: TBC** <br>
-**Location: TBC** <br>
-**Indicate Your Interest [Here] ()** 
+**Date and Time: 2 July 2019, 9.00am - 11.00am** <br>
+**Location: Tiong Bahru** <br>
+**Indicate Your Interest [Here] (https://www.eventbrite.sg/e/my-tiong-bahru-heritage-trail-tickets-63103230461
+)** 
 
 -->
