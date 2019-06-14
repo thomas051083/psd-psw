@@ -66,7 +66,7 @@ breadcrumb: Learning Festival
 	<br><br>
 	For Learning Journeys and Activities that require security clearance, an earlier closing date is often required in order to give enough time for security clearances to be processed. Please refer to individual event write-ups for specific closing dates.  
 	<br><br>
-	Registration for the <b><i>2nd wave</i></b> will commence on <b><i>Tuesday 18 June 2019, 9:00hrs</i></b> and will close when all the places have been filled up or one week before the session. 
+	Registration for the <b><i>2nd wave</i></b> will commence on <b><i>Wednesday 19 June 2019, 9:00hrs</i></b> and will close when all the places have been filled up or one week before the session. 
 </li>
 <br>
 <li>
