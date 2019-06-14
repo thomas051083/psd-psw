@@ -20,32 +20,10 @@ breadcrumb: Learning Festival
       <img src="/images/learning-journey-1.png" />
     </td>
     <td>
-      <b>Lorem Ipsum</b>
-      <br>21 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/images/learning-journey-2.png" />
-    </td>
-    <td>
-      <b>Lorem Ipsum</b>
-      <br>23 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/images/learning-journey-3.png" />
-    </td>
-    <td>
-      <b>Lorem Ipsum</b>
-      <br>27 Jul
-      <br>Lorem ipsum dolor sit amen, consectetuer adipscing elit.
-      <br>Nunc eget orci sit amet nil mattis mollis. Nullam minibus, sem at consequat feugiat, lorem diam consequat dolor.
+      <b>Learning Pathway</b>
+      <br>Public Service Week 2019
+      <br>Transformation starts with an I.D.E.A! Discover the actions you can take to Innovate, Digitalise, Engage, and Adapt and Skill Up (I.D.E.A) during the Public Service Week, an annual event that fosters greater appreciation and pride for the Public Service, inspires public officers to live out our Public Service values, and increase cohesion among public officers.
+      <br>Beyond the many Learning Journeys and Activities we have organised for you as part of the Learning Festival, we have also specially curated some learning bites on LEARN, because learning can happen anytime, anywhere!
     </td>
   </tr>
 </table>
