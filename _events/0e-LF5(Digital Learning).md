@@ -17,7 +17,7 @@ breadcrumb: Learning Festival
 <table>
   <tr>
     <td>
-      <img src="/images/learning-journey-1.png" />
+      <img src="/images/LEARN.png" />
     </td>
     <td>
       <b>Learning Pathway</b>
