@@ -17,10 +17,8 @@ breadcrumb: Learning Festival
 -->
 ### Week of 1 - 6 July
 
-<font color="coral"><i><b>Wave 2 Registration will commence Wednesday 19 June 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
+<font color="orangered"><i><b>Wave 2 Registration will commence Wednesday 19 June 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
 <br>
-<br>
-
 <table>
   <tr>
     <td>
