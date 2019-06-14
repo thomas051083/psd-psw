@@ -204,7 +204,9 @@ Through the intuitive personalisation engine, citizens and businesses will recei
 Come speak to us at our clinic to find out how your agency can get on board! We’ll also be giving you a sneak peek into how the app will look like!
 <br>
 <br>
-Click <a href="https://www.eventbrite.com/e/moment-of-life-consultation-clinics-tickets-62454677622">here</a> to sign up today.
+Registration for Consultation Clinics will open on the 18th of June.
+<!--
+Click <a href="https://www.eventbrite.com/e/moment-of-life-consultation-clinics-tickets-62454677622">here</a> to sign up today. -->
 <br>
 <br>        
 
