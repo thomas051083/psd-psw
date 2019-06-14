@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: PST Awards Reception
-permalink: /events/pst-awards/
-breadcrumb: PST Awards Reception
+title: Awards Reception
+permalink: /events/awards-reception/
+breadcrumb: Awards Reception
 collection_name: events
 ---
 
@@ -14,17 +14,40 @@ collection_name: events
 <br>
 **Venue:** Gardens by the Bay, Flower Field Hall
 <br>
-*PSTAR is a closed door event meant for individuals with invites only.*
+*The Awards Reception is a by-invitation event.*
 <br>
 <br>
-Public Sector Transformation Awards Reception (PSTAR) is the Whole-of-Government (WOG) pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. 
+The Public Sector Transformation Awards is a Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The Awards are aligned with the focus areas of this phase of Public Sector Transformation. 
 <br>
 <br>
-Some of the awards that will be given out on the day would be <br>
-1. Regulatory Excellence <br>
-2. Business Transformation <br>
-3. Exemplary Innovator <br> 
-4. Exemplary Service Excellence <br>
-<br>
+The Awards that will be given out at the Reception are:<br>
+<ul>
+  <li>One Public Service Award</li>
+
+  <li>Star Partner Award</li>
+
+  <li>Service Delivery Excellence Award</li>
+
+  <li>Citizen Engagement Excellence Award</li>
+
+  <li>Regulatory Excellence Award</li>
+
+  <li>Business Transformation Award</li>
+
+  <li>Workforce Transformation Award</li>
+
+  <li>Transformative Agency of The Year Award</li>
+
+  <li>Exemplary Leader Award</li>
+
+  <li>Exemplary SkillsFuture @ Public Service Award</li>
+
+  <li>Exemplary Innovator Award</li>
+
+  <li>Dare to Do Award</li>
+
+  <li>Exemplary Service Excellence Award</li>
+
+</ul>
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
 <!-- <a href="include link><img src="/include image" style="width:280px"/> </a> --> 
