@@ -45,7 +45,7 @@ Join this Learning Journey to SportSG, and discover the behind-the-scenes challe
 <b><u>Session 7: Sleep Workshop</u><br> 
 **Date and Time: 12 July 2019 (Fri), 2.00 – 4.30pm**<br>
 **Location: Decathlon Singapore Lab @ Kallang <br>230 Stadium Boulevard (S397799)**<br>
-**Indicate Your Interest [Here]https://www.eventbrite.sg/e/active-health-learning-journey-decathlon-sg-sleep-workshop-tickets-63467104819)**
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-decathlon-sg-sleep-workshop-tickets-63467104819)**
 
 <b><u>Session 8: Sleep Workshop </u><br>
 **Date and Time: 16 July 2019 (Tues), 2.00pm – 4.30pm** <br>
