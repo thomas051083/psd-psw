@@ -43,7 +43,18 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>  
-  <tr>
+<tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_SGOEngage"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Touching Lives, Honouring our Seniors – Engaging our seniors through house visits by Silver Generation Office (SGO)<font color="darkviolet"> (NEW!)</font></b>
+      <br>4 July (Thurs), 12.00pm - 6.00pm
+      <br>Come hear from our volunteers (also known as Silver Generation Ambassadors) about their experiences engaging seniors, communicating and connecting them to government policies and schemes, as well as being their friend!
+      <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
+    </td>
+</tr>  
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/CEO HDB Dr Cheong Koon Hean.png" /></a>
     </td>
