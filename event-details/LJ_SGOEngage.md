@@ -12,7 +12,7 @@ breadcrumb: Learning Journey
 
 Wonder how the government supports our seniors to age and live well in the community?
 
-Come hear from our volunteers (also known Silver Generation Ambassadors) about their experiences engaging seniors, communicating and connecting them to government policies and schemes, as well as being their friend!
+Come hear from our volunteers (also known as Silver Generation Ambassadors) about their experiences engaging seniors, communicating and connecting them to government policies and schemes, as well as being their friend!
 
 Through this learning journey, you will experience being an SG Ambassador for a day and visit the homes of our seniors. 
 
