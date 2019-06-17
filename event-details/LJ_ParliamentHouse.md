@@ -1,4 +1,3 @@
-<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -27,4 +26,4 @@ How familiar are you with the functions of the Parliament, an integral part of t
 **Date and Time: 19 July 2019 (Fri), 4.00pm - 5.00pm ** <br>
 **Location: Parliament House, 1 Parliament Place Singapore 178880** <br>
 **Indicate Your Interest [Here](https:// www.eventbrite.sg/e/learning-journey-to-the-parliament-house-tickets-63103350821)** 
--->
+
