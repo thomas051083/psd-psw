@@ -14,5 +14,5 @@ Curious about how history has a lingering resonance with some of the most import
 
 <b><u>Details</u><br>
 **Date and Time: 11 July (Thurs), 4.00pm – 6.00pm** <br>
-**Location: Asian Civilisations Museum, 1 Empress Place, (S179555)** <br>
+**Location: Asian Civilisations Museum, 1 Empress Place (S179555)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/where-is-singapore-museum-tour-tickets-63104055930)** 
