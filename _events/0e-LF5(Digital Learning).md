@@ -19,4 +19,4 @@ breadcrumb: Learning Festival
 
 Beyond the many Learning Journeys and Activities we have organised for you as part of the Learning Festival, we have also specially curated some learning bites on <b>LEARN</b>, because learning can happen anytime, anywhere! Discover the actions you can take to Innovate, Digitalise, Engage, and Adapt and Skill Up (I.D.E.A) through relevant modules on <b>LEARN</b> now.  
 
-Click [Here](https://www.learn.gov.sg/dlp/student/coursecollection/17396) to discover more. 
+Click [here](https://www.learn.gov.sg/dlp/student/coursecollection/17396) to discover more. 
