@@ -1,4 +1,3 @@
-<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -21,4 +20,3 @@ Your visit will begin with the Time Traveller which is a timed and guided audio-
 **Date and Time: 8 July (Mon), 11.00am – 1.00pm** <br>
 **Location: Fort Canning Park (S179494)** <br> 
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/from-singapore-to-singaporean-the-bicentennial-experience-tickets-63103807186)** 
--->
