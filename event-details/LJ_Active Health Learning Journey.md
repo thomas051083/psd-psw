@@ -12,6 +12,8 @@ breadcrumb: Learning Journey
 
 Curious about how Active Health helps citizens live healthier lifestyles and what it took to redesign the service delivery journey? Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
 
+Note that multiple sessions at various locations are available, with a focus on different areas of health such as nutrition and sleep. Scroll down for the full list of possibilities! 
+
 <b><u>Session 1: Nutrition Workshop</u><br> 
 **Date(s) and Time: 9 July 2019 (Tues), 2.00pm – 4.30pm** <br>
 **Location: Decathlon Singapore Lab @ Kallang <br>230 Stadium Boulevard (S397799) <br>Active Health Lab @ Decathlon** <br>
