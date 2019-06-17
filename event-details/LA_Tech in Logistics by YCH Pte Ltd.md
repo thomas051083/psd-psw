@@ -1,4 +1,3 @@
-<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -17,4 +16,3 @@ How did your online purchases arrive at your doorstep? Examine how firms in trad
 **Date and Time: TBC** <br>
 **Location: TBC** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/psw-2019-fireside-chat-series-chat-with-ce-kok-ping-soon-tickets-61285176613)** 
--->
