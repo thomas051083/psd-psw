@@ -42,22 +42,22 @@ Join this Learning Journey to SportSG, and discover the behind-the-scenes challe
 **Location: ActiveSG @ Our Tampines Hub <br>1 Tampines Walk, #03-32 Our Tampines Hub (S528523)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-our-tampines-hub-nutrition-workshop-tickets-63467097798)**
 
-<b><u>Session 7 : Sleep Workshop</u><br> 
+<b><u>Session 7: Sleep Workshop</u><br> 
 **Date and Time: 12 July 2019 (Fri), 2.00 – 4.30pm**<br>
 **Location: Decathlon Singapore Lab @ Kallang <br>230 Stadium Boulevard (S397799)**<br>
 **Indicate Your Interest [Here]https://www.eventbrite.sg/e/active-health-learning-journey-decathlon-sg-sleep-workshop-tickets-63467104819)**
 
-<b><u>Session 8  : Sleep Workshop </u><br>
+<b><u>Session 8: Sleep Workshop </u><br>
 **Date and Time: 16 July 2019 (Tues), 2.00pm – 4.30pm** <br>
 **Location: Decathlon Singapore Lab @ Kallang <br>230 Stadium Boulevard (S397799)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-decathlon-sg-sleep-workshop-tickets-63467885153)**
 
-<b><u>Session 9 : Nutrition Workshop </u><br>
+<b><u>Session 9: Nutrition Workshop </u><br>
 **Date and Time: 16 July 2019 (Tues), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG Jurong East Sport Centre <br>21 Jurong East Street 31, #02-03 (S609517)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-jurong-east-sport-centre-nutrition-workshop-tickets-63467108831)**
 
-<b><u>Session 10 : Sleep Workshop</u><br> 
+<b><u>Session 10: Sleep Workshop</u><br> 
 **Date and Time: 16 July 2019 (Tues), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG Bishan Sport Centre (located within the swimming complex) <br>1 Bishan Street 14 (S579778)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-bishan-sport-centre-sleep-workshop-tickets-63467115852)** 
@@ -77,32 +77,32 @@ Join this Learning Journey to SportSG, and discover the behind-the-scenes challe
 **Location: ActiveSG Jurong East Sport Centre, <br>21 Jurong East Street 31, #02-03 (S609517)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-jurong-east-sport-centre-sleep-workshop-tickets-63467685556)**
 
-<b><u>Session 14 : Nutrition Workshop </u><br>
+<b><u>Session 14: Nutrition Workshop </u><br>
 **Date and Time: 17 July 2019 (Wed), 2.30pm – 5.00pm**<br>
 **Location: ActiveSG @ Our Tampines Hub <br>1 Tampines Walk, #03-32 Our Tampines Hub (S528523)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-our-tampines-hub-nutrition-workshop-tickets-63467805916)**
 
-<b><u>Session 15 : Nutrition Workshop </u><br>
+<b><u>Session 15: Nutrition Workshop </u><br>
 **Date and Time: 17 July 2019 (Wed), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG Bishan Sport Centre (located within the swimming complex), <br>1 Bishan Street 14 (S579778)**<br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-bishan-sport-centre-nutrition-workshop-tickets-63467561184)**
 
-<b><u>Session 16 : Sleep Workshop </u><br>
+<b><u>Session 16: Sleep Workshop </u><br>
 **Date and Time: 18 July 2019 (Thurs), 2.00pm – 4.30pm** <br>
 **Location: Decathlon Singapore Lab @ Kallang, 230 Stadium Boulevard (S397799)**<br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-decathlon-sg-sleep-workshop-tickets-63467917249)**
 
-<b><u>Session 17 : Nutrition Workshop </u><br>
+<b><u>Session 17: Nutrition Workshop </u><br>
 **Date and Time: 18 July 2019 (Thurs), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG Jurong East Sport Centre, <br>21 Jurong East Street 31, #02-03 (S609517)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-jurong-east-sport-centre-nutrition-workshop-tickets-63467143936 )** 
 
-<b><u>Session 18 : Sleep Workshop </u><br>
+<b><u>Session 18: Sleep Workshop </u><br>
 **Date and Time: 18 July 2019 (Thurs), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG @ Our Tampines Hub <br>1 Tampines Walk, #03-32 Our Tampines Hub (S528523)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-our-tampines-hub-sleep-workshop-tickets-63467318458)**
 
-<b><u>Session 19 : Sleep Workshop </u><br>
+<b><u>Session 19: Sleep Workshop </u><br>
 **Date and Time: 18 July 2019 (Thurs), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG Bishan Sport Centre (located within the swimming complex), <br>1 Bishan Street 14 (S579778)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-bishan-sport-centre-sleep-workshop-tickets-63467139924)**
@@ -117,12 +117,12 @@ Join this Learning Journey to SportSG, and discover the behind-the-scenes challe
 **Location: ActiveSG Jurong East Sport Centre, <br>21 Jurong East Street 31, #02-03 (S609517)**<br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-jurong-east-sport-centre-sleep-workshop-tickets-63467699598)**
 
-<b><u>Session 22 : Nutrition  Workshop</u><br> 
+<b><u>Session 22: Nutrition  Workshop</u><br> 
 **Date and Time: 19 July 2019 (Thurs), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG @ Our Tampines Hub <br>1 Tampines Walk, #03-32 Our Tampines Hub (S528523)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-our-tampines-hub-nutrition-workshop-tickets-63467825976)**
 
-<b><u>Session 23 : Nutrition Workshop </u><br>
+<b><u>Session 23: Nutrition Workshop </u><br>
 **Date and Time: 19 July 2019 (Thurs), 2.30pm – 5.00pm** <br>
 **Location: ActiveSG Bishan Sport Centre (located within the swimming complex), <br>1 Bishan Street 14 (S579778)**<br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-bishan-sport-centre-nutrition-workshop-tickets-63467576229)** 
