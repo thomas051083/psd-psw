@@ -99,6 +99,17 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
+      <a href="/events/learning-journeys/event-details/LJ_KampongGlamDigital"> <img src="/images/Digital1.jpeg" /></a>
+    </td>
+    <td>
+      <b>Digital Transformation of Kampong Glam<font color="blue"> (NEW!)</font></b>
+      <br>9 July (Tues), 4.00pm - 5.30pm
+      <br>Come on this learning visit to discover how IMDA is working with the precinct stakeholders and technology partners, to enhance the digital capabilities of the merchants as well as the visitor experience in Kampong Glam.
+      <br><a href="/events/learning-journeys/event-details/LJ_KampongGlamDigital">Click here to find out more.</a>
+    </td>
+ </tr>
+  <tr>
+    <td>
       <a href="/events/learning-journeys/event-details/LA_IoLTAbGT"> <img src="/images/Digital2.jpg" /></a>
     </td>
     <td>
