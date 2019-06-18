@@ -14,6 +14,6 @@ My Dawson Heritage Tour recounts the history of Singapore’s first satellite to
 
 <b><u>Details</u><br>
 **Date and Time: 1 July 2019 (Mon), 9.00am – 12.00pm** <br>
-**Location: Dawson Road (S141087)** <br>
+**Location: Queenstown MRT Station, 301 Commonwealth Ave (S149729)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-dawson-heritage-tour-tickets-63639299859)** 
 
