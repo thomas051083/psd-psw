@@ -31,7 +31,18 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
     </td>
 </tr>  
- <tr>
+<tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpeg" /></a>
+    </td>
+    <td>
+      <b>My Tiong Bahru Heritage Trail<font color="blue"> (NEW!)</font></b>
+      <br>2 July 2019 (Tue), 9.00am – 12.00pm 
+      <br>Visit Tiong Bahru and discover the intriguing people and places in Singapore’s only conservation estate, with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
+      <br><a href="/events/learning-journeys/event-details/LJ_TBHT">Click here to find out more.</a>
+    </td>
+</tr>  
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
