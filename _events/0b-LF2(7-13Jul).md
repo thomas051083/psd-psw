@@ -27,7 +27,7 @@ breadcrumb: Learning Festival
     <td>
       <b>From Singapore to Singaporean: The Bicentennial Experience<font color="blue"> (NEW!)</font></b>
       <br>8 July (Mon), 11.00am – 1.00pm
-      <br>As the centrepiece event of the commemoration in 2019, The Bicentennial Experience will highlight key moments in Singapore’s evolution from 1299, how we had responded to, and been part of, regional and global influences and events.
+      <br>Experience key highlights of Singapore’s evolution from 1299, including how we had responded to, and been part of, regional and global influences and events.
       <br><a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
     </td>
  </tr>
@@ -38,7 +38,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
       <br>8 July (Mon), 2.00pm - 4.00pm
-      <br>Want to be a more effective communicator? All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
+      <br>Join us if you'd like to pick up some communication and public speaking tips and become an even more effective communicator! 
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
     </td>
   </tr>
@@ -82,7 +82,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Ambulance Redesigned - The Power of Innovation Through Design Thinking<font color="red"> (FULL)</font></b>
       <br>9 July (Tue), 2.30pm - 5.00pm
-      <br>Join SCDF on a tour of the newly redesigned SCDF emergency ambulance, and discover how innovative design can make a difference to your work.
+      <br>Find out how innovative design can make a difference to your work through this sharing from SCDF on how they have redesigned their ambulances to meet evolving needs.
       <br><a href="/events/learning-journeys/event-details/LJ_scdf">Click here to find out more.</a>
     </td>
 </tr>
@@ -93,7 +93,7 @@ breadcrumb: Learning Festival
     <td>
       <b>The Stamford Arts Centre Digital Experience <font color="red"> (FULL) </font></b>
       <br>9 July (Tue), 3.00pm - 5.00pm
-      <br>Join this visit to Stamford Arts Centre to experience a virtual reality Chinese Opera Stage tour and an augmented reality Stamford Arts Centre Walking Trail, and find out exactly how this has shifted the way that NAC engages citizens.
+      <br>Join this visit to the Stamford Arts Centre and experience a virtual reality Chinese Opera Stage tour and an augmented reality Stamford Arts Centre Walking Trail, and find out exactly how this has shifted the way that NAC engages citizens.
       <br><a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience">Click here to find out more.</a>
     </td>
   </tr>
@@ -126,7 +126,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Improving Our Lives Through Automation <font color="red"> (FULL) </font></b>
       <br>10 July (Wed), 12.00pm - 2.00pm  
-      <br>Learn how to automate routine tasks, such as extracting data from a web page, to free up time and spend it more meaningfully on productive work. 
+      <br>Discover how to automate routine tasks, such as extracting data from a web page, to free up time and spend it more meaningfully on productive work. 
       <br><a href="/events/learning-journeys/event-details/LA_IoLTAbGT">Click here to find out more.</a>
     </td>
   </tr>
@@ -190,9 +190,9 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_RedhillTour "> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
-      <b> My Redhill Heritage Tour<font color="blue"> (NEW!)</font></b> 
+      <b>My Redhill Heritage Tour<font color="blue"> (NEW!)</font></b> 
       <br>12 July (Fri), 9.00am – 11.00am
-      <br> Redhill Heritage Tour recounts the legend of Bukit Merah and follows the transformation of the early housing estate from a swampy red-clay hill into a modern residential town.
+      <br>Redhill Heritage Tour recounts the legend of Bukit Merah and follows the transformation of the early housing estate from a swampy red-clay hill into a modern residential town.
       <br><a href="/events/learning-journeys/event-details/LJ_RedhillTour ">Click here to find out more.</a>
     </td>
 </tr>
@@ -225,8 +225,8 @@ breadcrumb: Learning Festival
     <td>
       <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
       <br>12 July 2019 (Fri), 4.00pm - 5.00pm
-      <br>How familiar are you with the functions of the Parliament, an integral part of the Legislature of Singapore? Participants of this tour will view a video that explains Singapore’s Parliamentary system, visit places of interest within Parliament House, and walk through the Parliament historical gallery and various exhibits.
-      <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
+      <br>
+      <br>Familiarise yourself with the functions of Parliament, an integral part of the Legislature of Singapore, through this tour.        <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
