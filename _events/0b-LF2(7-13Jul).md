@@ -188,6 +188,17 @@ breadcrumb: Learning Festival
   </tr>
       <tr>
     <td>
+      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
+      <br>12 July 2019 (Fri), 4.00pm - 5.00pm
+      <br>How familiar are you with the functions of the Parliament, an integral part of the Legislature of Singapore? Participants of this tour will view a video that explains Singapore’s Parliamentary system, visit places of interest within Parliament House, and walk through the Parliament historical gallery and various exhibits.
+      <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
+    </td>
+  </tr>
+      <tr>
+    <td>
       <a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
     <td>
