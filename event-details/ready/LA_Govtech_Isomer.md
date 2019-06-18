@@ -17,7 +17,7 @@ How do you make the leap from prototyping to implementation? Discover how servic
 **Location: 9 Jurong Town Hall, #03-19 (S609431), INN X CSC (Level 3)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/scaling-from-prototyping-to-a-viable-product-using-isomer-by-govtech-tickets-62296638924)** 
 
-<b><u>Session 2 <font color="blue"> (FULL)</font></u><br>
+<b><u>Session 2 <font color="blue"> (NEW!)</font></u><br>
 **Date and Time: 23 July (Tues), 2.00pm - 4.00pm** <br>
 **Location: 31 North Buona Vista (S275983), Civil Service College<br>Sage 1 & 2 (Level 2)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/scaling-from-prototyping-to-a-viable-product-using-isomer-by-govtech-2nd-run-tickets-63644453273)**
