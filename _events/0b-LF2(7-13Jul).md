@@ -38,7 +38,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
       <br>8 July (Mon), 2.00pm - 4.00pm
-      <br>Want to be a more effective communicator? Public speaking is one of the greatest fears of most people. But fear not! All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
+      <br>Want to be a more effective communicator? All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
     </td>
   </tr>
@@ -115,7 +115,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Visit to Dignity Kitchen<font color="blue"> (NEW!)</font></b>
       <br>11 July (Thur), 2.00pm - 5.15pm
-      <br>Want to experience the perspectives of differently abled persons and the elderly? Join us for an experiential learning journey to Dignity Kitchen to find out how we can better engage and innovate our services to include different segments of the population.
+      <br>Join us for an experiential learning journey to Dignity Kitchen to find out how we can better engage and innovate our services to include different segments of the population.
       <br><a href="/events/learning-journeys/event-details/LJ_DK">Click here to find out more.</a>
     </td>
   </tr>
