@@ -5,7 +5,7 @@ permalink: /events/learning-journeys/event-details/LJ_TBHT
 breadcrumb: Learning Journey
 ---
 ## Learning Journey
-### Tiong Bahru Heritage Trail 
+### My Tiong Bahru Heritage Trail 
 
 ###### _#Bicentennial_
 
