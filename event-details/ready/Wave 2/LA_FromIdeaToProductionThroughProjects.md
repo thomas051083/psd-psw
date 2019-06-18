@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### From Idea to Production Through Projects Such As FormSG and Go.Gov.Sg
+### From Idea to Production Through Projects such as FormSG and Go.Gov.Sg
 
 ###### _#Innovate #Digitalise_ 
 
