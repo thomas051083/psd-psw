@@ -19,4 +19,4 @@ Your visit will begin with the Time Traveller which is a timed and guided audio-
 <b><u>Details</u><br>
 **Date and Time: 8 July (Mon), 11.00am – 1.00pm** <br>
 **Location: 31 North Buona Vista (S275983), Civil Service College (S275983)** <br>
-**Indicate Your Interest [Here](https://)** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/from-idea-to-production-through-projects-such-as-formsg-and-gogovsg-tickets-63618330138)** 
