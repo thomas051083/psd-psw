@@ -135,7 +135,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
-      <b>URA’s Digitalisation Journey <font color="red"> (FULL) </font></b>
+      <b>URA’s Digitalisation Journey</b>
       <br>11 July (Thur), 2.30pm - 4.30pm  
       <br>Find out how URA has strengthened the way it plans for Singapore with the use of data and technology, and how URA officers have grown in digital capabilities.
       <br><a href="/events/learning-journeys/event-details/LJ_URADigitalJourney">Click here to find out more.</a>
