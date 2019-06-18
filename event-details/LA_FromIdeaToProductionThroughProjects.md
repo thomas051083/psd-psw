@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_FromIdeaToProductionThroughProjects
-breadcrumb: Learning Journey
+permalink: /events/learning-journeys/event-details/LA_FromIdeaToProductionThroughProjects
+breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
