@@ -22,7 +22,7 @@ breadcrumb: Learning Festival
 <table>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
       <b>My Dawson Heritage Tour<font color="blue"> (NEW!)</font></b>
