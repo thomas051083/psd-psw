@@ -19,9 +19,8 @@ breadcrumb: Learning Festival
 
 <font color="orangered"><i><b>Wave 2 Registration will commence Wednesday 19 June 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
 
-<table>
-     </tr>
-         <tr>
+<table>         
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience"> <img src="/images/Engage%203.jpeg" /></a>
     </td>
@@ -29,10 +28,10 @@ breadcrumb: Learning Festival
       <b>From Singapore to Singaporean: The Bicentennial Experience<font color="blue"> (NEW!)</font></b>
       <br>8 July (Mon), 11.00am – 1.00pm
       <br>As the centrepiece event of the commemoration in 2019, The Bicentennial Experience will highlight key moments in Singapore’s evolution from 1299, how we had responded to, and been part of, regional and global influences and events.
-      <br><a href="/ events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
     </td>
-  </tr>
-    <tr>
+ </tr>
+ <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_ToastmastersVoice"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
@@ -42,9 +41,8 @@ breadcrumb: Learning Festival
       <br>Want to be a more effective communicator? Public speaking is one of the greatest fears of most people. But fear not! All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
     </td>
-        <tr>
   </tr>
-   <tr><tr>
+  <tr>
      <td>
       <a href="/events/learning-journeys/event-details/LJ_ACTIVESG"> <img src="/images/Engage1.jpg" /></a>
     </td>
@@ -54,7 +52,8 @@ breadcrumb: Learning Festival
       <br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
       <br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
     </td>
-     </tr>
+ </tr>
+ <tr>   
     <td>
       <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Engage2.jpeg" /></a>
     </td>
@@ -109,7 +108,7 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LA_IoLTAbGT">Click here to find out more.</a>
     </td>
   </tr>
-      <tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_DK "> <img src="/images/Engage1.jpg" /></a>
     </td>
@@ -142,7 +141,7 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
   </tr>
-      <tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification"> <img src="/images/Engage1.jpg" /></a>
     </td>
@@ -166,6 +165,17 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
+      <a href="/events/learning-journeys/event-details/LJ_RedhillTour "> <img src="/images/SkillUp2.jpg" /></a>
+    </td>
+    <td>
+      <b> My Redhill Heritage Tour<font color="blue"> (NEW!)</font></b> 
+      <br>12 July (Fri), 9.00am – 11.00am
+      <br> Redhill Heritage Tour recounts the legend of Bukit Merah and follows the transformation of the early housing estate from a swampy red-clay hill into a modern residential town.
+      <br><a href="/events/learning-journeys/event-details/LJ_RedhillTour ">Click here to find out more.</a>
+    </td>
+</tr>
+<tr>
+    <td>
       <a href="/events/learning-journeys/event-details/LJ_momdata"> <img src="/images/Engage%203.jpeg" /></a>
     </td>
     <td>
@@ -186,7 +196,18 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
   </tr>
-      <tr>
+  <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
+      <br>12 July 2019 (Fri), 4.00pm - 5.00pm
+      <br>How familiar are you with the functions of the Parliament, an integral part of the Legislature of Singapore? Participants of this tour will view a video that explains Singapore’s Parliamentary system, visit places of interest within Parliament House, and walk through the Parliament historical gallery and various exhibits.
+      <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
