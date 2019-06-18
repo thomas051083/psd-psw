@@ -15,6 +15,6 @@ Find out how LLI has designed innovative spaces to facilitate the Future of Lear
 Lunch will be provided. 
 
 <b><u>Details</u><br>
-**Date and Time: 25 July 2019 (Thur), 11.30am - 1.00pm** <br>
+**Date and Time: 15 July 2019 (Mon), 11.30am - 1.00pm** <br>
 **Location: 11 Eunos Road 8, (S408601) <br>Lifelong Learning Institute, Level 4 Arena**<br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/learn-over-lunch-lifelong-learning-institute-tickets-63647021956)** <br>
