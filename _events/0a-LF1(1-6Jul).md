@@ -20,7 +20,18 @@ breadcrumb: Learning Festival
 <font color="orangered"><i><b>Wave 2 Registration will commence Wednesday 19 June 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
 
 <table>
-  <tr>
+<tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>My Dawson Heritage Tour<font color="blue"> (NEW!)</font></b>
+      <br>1 July 2019 (Mon), 9.00am – 12.00pm 
+      <br>My Dawson Heritage Tour recounts the history of Singapore’s first satellite town from a modern residential town in 1959 to the founding of the port city in 1819. 
+      <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
+    </td>
+</tr>  
+ <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
