@@ -15,4 +15,4 @@ My Telok Blangah heritage tour traces the 700-year history of Singapore as a pro
 <b><u>Details</u><br>
 **Date and Time: 3 July 2019, 9.00am – 12.00pm** <br>
 **Location: Telok Blangah Rise Road (S090043)** <br>
-**Indicate Your Interest [Here]()** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-telok-blangah-heritage-tickets-63639950806)** 
