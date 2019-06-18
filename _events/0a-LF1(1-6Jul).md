@@ -33,7 +33,7 @@ breadcrumb: Learning Festival
 </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpeg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
     </td>
     <td>
       <b>My Tiong Bahru Heritage Trail<font color="blue"> (NEW!)</font></b>
