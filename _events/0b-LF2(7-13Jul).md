@@ -170,7 +170,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore<font color="blue"> (NEW!)</font></b>
       <br>11 July (Thur), 3.00pm - 5.00pm
-      <br>Run through an exciting one hour Gallery Game experience, followed by a post-mortem and sharing session conducted by Co:Lab X, the innovation team at the Gallery, and Living Theories, the experience builders.
+      <br>Explore how gamification can be used in the design of spaces to increase citizen engagement through this exciting one hour Gallery Game experience, followed by a post-mortem and sharing session conducted by Co:Lab X, the innovation team at the Gallery, and Living Theories, the experience builders.
       <br><a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification ">Click here to find out more.</a>
     </td>
   </tr>
