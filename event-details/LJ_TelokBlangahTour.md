@@ -1,4 +1,3 @@
-<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -17,4 +16,3 @@ My Telok Blangah heritage tour traces the 700-year history of Singapore as a pro
 **Date and Time: 3 July 2019, 9.00am – 12.00pm** <br>
 **Location: Telok Blangah Rise Road (S090043)** <br>
 **Indicate Your Interest [Here]()** 
--->
