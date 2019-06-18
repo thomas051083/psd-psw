@@ -14,6 +14,6 @@ My <i>Redhill Heritage Tour</i> recounts the legend of Bukit Merah and follows t
 
 <b><u>Details</u><br>
 **Date and Time: 12 July 2019 (Fri), 9.00am – 11.00am** <br>
-**Location: Redhill Road (S158792)** <br>
+**Location: Redhill MRT Station, 920 Tiong Bahru Road (S158792)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-redhill-heritage-tour-tickets-63640491423)** 
 
