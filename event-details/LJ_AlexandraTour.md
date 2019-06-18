@@ -14,6 +14,6 @@ My Alexandra heritage tour visits the military installations constructed by the 
 
 <b><u>Details</u><br>
 **Date and Time: 9 July (Tues), 9.00am – 1.00pm** <br>
-**Location: 378 Alexandra Road (159964)**
+**Location: 378 Alexandra Road (159964)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-alexandra-heritage-tour-tickets-63638171484)** 
 
