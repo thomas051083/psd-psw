@@ -13,7 +13,7 @@ breadcrumb: Learning Journey
 My Dawson Heritage Tour recounts the history of Singapore’s first satellite town from a modern residential town in 1959 to the founding of the port city in 1819. The guided tour weaves in interesting stories from the nutmegs and rubber plantations, botanic garden and military encampments.
 
 <b><u>Details</u><br>
-**Date and Time: 1 July 2019, 9.00am – 12.00pm** <br>
+**Date and Time: 1 July 2019 (Mon), 9.00am – 12.00pm** <br>
 **Location: Dawson Road (S141087)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-dawson-heritage-tour-tickets-63639299859)** 
 
