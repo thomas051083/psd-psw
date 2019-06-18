@@ -1,4 +1,3 @@
-<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -17,4 +16,4 @@ My Alexandra heritage tour visits the military installations constructed by the 
 **Date and Time: 9 July (Tues), 9.00am – 1.00pm** <br>
 **Location: 378 Alexandra Road (159964)**
 **Indicate Your Interest [Here]()** 
--->
+
