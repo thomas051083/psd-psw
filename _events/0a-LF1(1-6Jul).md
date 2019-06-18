@@ -109,5 +109,16 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_ToastmastersVoice"> <img src="/images/SkillUp1.jpg" /></a>
+    </td>
+    <td>
+      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
+      <br>8 July (Mon), 2.00pm - 4.00pm
+      <br>Want to be a more effective communicator? Public speaking is one of the greatest fears of most people. But fear not! All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
+      <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
+    </td>
+  </tr>
 </table>
 <br> Click [here](/events/learning-festival/faq) if you have any questions. 
