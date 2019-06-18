@@ -44,7 +44,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_ AlexandraTour"> <img src="/images/Engage3.jpeg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_ AlexandraTour"> <img src="/images/Engage3.jpg" /></a>
     </td>
     <td>
       <b>My Alexandra Heritage Tour<font color="blue"> (NEW!)</font></b> 
@@ -64,17 +64,17 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>    
- <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LA_ToastmastersVoice"> <img src="/images/SkillUp1.jpg" /></a>
-    </td>
-    <td>
-      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
-      <br>8 July (Mon), 2.00pm - 4.00pm
-      <br>Want to be a more effective communicator? All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
-      <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
-    </td>
-  </tr>
+<tr>
+	<td>
+		<a href="/events/learning-journeys/event-details/LJ_ACTIVESG"> <img src="/images/Engage1.jpg" /></a>
+	</td>
+	<td>
+		<b>Active Health Learning Journey<font color="blue"> (NEW!)</font></b> 
+		<br>Multiple sessions across 9-12 July (Tues-Fri) <br>Various timings ranging from 2.00pm - 4.30 pm to 2.00pm - 5.30pm
+		<br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
+		<br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
+	</td>
+</tr>
 <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_scdf"> <img src="/images/SkillUp2.jpg" /></a>
