@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### Touching Lives, Honouring our Seniors – Engaging our seniors through house visits by Silver Generation Office (SGO)
+### Touching Lives, Honouring our Seniors – Engaging our Seniors through House Visits by Silver Generation Office (SGO)
 
 ###### _#Engage_
 
