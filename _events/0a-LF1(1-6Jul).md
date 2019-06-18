@@ -22,12 +22,12 @@ breadcrumb: Learning Festival
 <table>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage1.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpg" /></a>
     </td>
     <td>
       <b>My Dawson Heritage Tour<font color="blue"> (NEW!)</font></b>
       <br>1 July 2019 (Mon), 9.00am – 12.00pm 
-      <br>My Dawson Heritage Tour recounts the history of Singapore’s first satellite town from a modern residential town in 1959 to the founding of the port city in 1819. 
+      <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
       <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
     </td>
 </tr>  
@@ -49,7 +49,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Our Journey on Transforming Student and Visitors’ Services</b>
       <br>3 July (Wed), 10.00am - 11.30am
-      <br>Find out more about how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
+      <br>Explore how Ngee Ann Polytechnic has leveraged digital technologies to transform their students' and visitors' service experiences.
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>  
@@ -93,7 +93,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Learning Journey to MOE Heritage Centre<font color="red"> (FULL)</font></b>
       <br>5 July (Fri), 2.30pm - 4.00pm
-      <br>Come find out more about the Singapore Education Story and its role in nation-building.
+      <br>Find out more about the Singapore Education Story and its role in nation-building.
       <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
     </td>
   </tr>  
@@ -121,13 +121,12 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Engage1.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Engage 3.jpeg" /></a>
     </td>
     <td>
       <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
       <br>5 July 2019 (Fri), 4.00pm - 5.00pm
-      <br>How familiar are you with the functions of the Parliament, an integral part of the Legislature of Singapore? Participants of this tour will view a video that explains Singapore’s Parliamentary system, visit places of interest within Parliament House, and walk through the Parliament historical gallery and various exhibits.
-      <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
+      <br>Familiarise yourself with the functions of Parliament, an integral part of the Legislature of Singapore, through this tour.        <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
     </td>
   </tr>
 </table>
