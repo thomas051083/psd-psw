@@ -15,5 +15,5 @@ My Dawson heritage tour recounts the history of Singapore’s first satellite to
 <b><u>Details</u><br>
 **Date and Time: 1 July 2019, 9.00am – 12.00pm** <br>
 **Location: Dawson Road (S141087)** <br>
-**Indicate Your Interest [Here]()** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-dawson-heritage-tour-tickets-63639299859)** 
 
