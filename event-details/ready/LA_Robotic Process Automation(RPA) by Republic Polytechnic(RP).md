@@ -19,7 +19,7 @@ How can Robotic Process Automation (RPA) simplify processes and enhance accuracy
 
 <b><u>Session 2</u> <font color="blue"> (NEW!) </font><br>
 **Date and Time: 15 July (Mon), 2.30pm - 4.00pm** <br>
-**Location: 31 North Buona Vista Road (S275983) Civil Service College <br>Training Room 4.4 (Level 4)** <br>
+**Location: 31 North Buona Vista Road (S275983) Civil Service College <br>Room 4.4 (Level 4)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/sharing-on-robotic-process-automation-rpa-by-republic-polytechnic-tickets-63618968046?ref=estw0)** 
 
 
