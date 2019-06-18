@@ -136,7 +136,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>Visit to Dignity Kitchen<font color="blue"> (NEW!)</font></b>
-      <br>11 July 2019 (Thur), 2.00pm - 5.15pm
+      <br>11 July 2019 (Thur), 1.00pm - 5.15pm
       <br>Join us for an experiential learning journey to Dignity Kitchen to find out how we can better engage and innovate our services to include different segments of the population.
       <br><a href="/events/learning-journeys/event-details/LJ_DK">Click here to find out more.</a>
     </td>
