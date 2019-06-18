@@ -32,7 +32,17 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
     </td>
   </tr>
-   <tr>
+   <tr><tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_ACTIVESG"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Active Health Learning Journey<font color="blue"> (NEW!)</font></b> 
+      <br>Multiple sessions across 9-12 July (Tues-Fri) <br>Various timings ranging from 2.00pm - 4.30 pm to 2.00pm - 5.30pm
+      <br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
+      <br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
+    </td>
+     </tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Engage2.jpeg" /></a>
     </td>
