@@ -19,7 +19,6 @@ breadcrumb: Learning Festival
 
 <font color="orangered"><i><b>Wave 2 Registration will commence Wednesday 19 June 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
 
-
 <table>
   <tr>
     <td>
@@ -108,7 +107,8 @@ breadcrumb: Learning Festival
       <br>Come find out from GovTech how technologies such as Sensors, IoT and robotics are being applied in the Public Service.
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
-        <tr>
+  </tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Engage1.jpg" /></a>
     </td>
