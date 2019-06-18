@@ -187,13 +187,13 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_RedhillTour "> <img src="/images/SkillUp2.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_RedhillTour"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
       <b>My Redhill Heritage Tour<font color="blue"> (NEW!)</font></b> 
       <br>12 July (Fri), 9.00am – 11.00am
-      <br>Redhill Heritage Tour recounts the legend of Bukit Merah and follows the transformation of the early housing estate from a swampy red-clay hill into a modern residential town.
-      <br><a href="/events/learning-journeys/event-details/LJ_RedhillTour ">Click here to find out more.</a>
+      <br>Discover how Redhill has transformed over the years from a swampy red-clay hill into a modern residential town, and the part it played in our history.
+      <br><a href="/events/learning-journeys/event-details/LJ_RedhillTour">Click here to find out more.</a>
     </td>
 </tr>
 <tr>
@@ -225,7 +225,6 @@ breadcrumb: Learning Festival
     <td>
       <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
       <br>12 July 2019 (Fri), 4.00pm - 5.00pm
-      <br>
       <br>Familiarise yourself with the functions of Parliament, an integral part of the Legislature of Singapore, through this tour.        <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
     </td>
   </tr>
@@ -236,7 +235,7 @@ breadcrumb: Learning Festival
     <td>
       <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
       <br>12 July (Fri), 7.30pm – 9.45pm
-      <br>Participants will also have the opportunity to take part in fun speech activities. They can also find out more about the Toastmasters programme and learn how Toastmasters can help them to become better communicators and leaders.
+      <br>Find out more about the Toastmasters programme and learn how Toastmasters can help you become better communicators and leaders by joining an actual Toastmasters session!
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou">Click here to find out more.</a>
     </td>
   </tr>
