@@ -143,7 +143,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Engage 3.jpeg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Parliament House Exterior.jpg" /></a>
     </td>
     <td>
       <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
