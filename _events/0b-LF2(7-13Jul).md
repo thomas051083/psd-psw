@@ -169,7 +169,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_RedhillTour "> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
-      <b> My Redhill Heritage Tour 
+      <b> My Redhill Heritage Tour<font color="blue"> (NEW!)</font></b> 
       <br>12 July (Fri), 9.00am – 11.00am
       <br> Redhill Heritage Tour recounts the legend of Bukit Merah and follows the transformation of the early housing estate from a swampy red-clay hill into a modern residential town.
       <br><a href="/events/learning-journeys/event-details/LJ_RedhillTour ">Click here to find out more.</a>
