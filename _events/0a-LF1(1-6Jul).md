@@ -59,7 +59,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>Touching Lives, Honouring our Seniors – Engaging our Seniors through House Visits by Silver Generation Office (SGO)<font color="blue"> (NEW!)</font></b>
-      <br>4 July (Thurs), 12.00pm - 6.00pm
+      <br>4 July (Thur), 12.00pm - 6.00pm
       <br>Come hear from our volunteers (also known as Silver Generation Ambassadors) about their experiences engaging seniors, communicating and connecting them to government policies and schemes, as well as being their friend!
       <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
     </td>
