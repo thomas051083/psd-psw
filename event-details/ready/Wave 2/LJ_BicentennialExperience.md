@@ -5,7 +5,7 @@ permalink: /events/learning-journeys/event-details/LJ_ BicentennialExperience
 breadcrumb: Learning Journey
 ---
 
-## Learning Activity
+## Learning Journey
 ### From Singapore to Singaporean: The Bicentennial Experience
 
 ###### _# Bicentennial_ 
