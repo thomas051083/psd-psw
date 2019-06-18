@@ -48,7 +48,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>My Alexandra Heritage Tour<font color="blue"> (NEW!)</font></b> 
-      <br>9 July (Tues), 9.00am – 1.00pm 
+      <br>9 July (Tue), 9.00am – 1.00pm 
       <br>Discover how Singapore had collectively endured its darkest moment in history and emerged resilient and ready to struggle for independence through this heritage tour to Alexandra.
       <br><a href="/events/learning-journeys/event-details/LJ_ AlexandraTour">Click here to find out more.</a>
     </td>
@@ -70,7 +70,7 @@ breadcrumb: Learning Festival
 	</td>
 	<td>
 		<b>Active Health Learning Journey<font color="blue"> (NEW!)</font></b> 
-		<br>Multiple sessions across 9-12 July (Tues-Fri) <br>Various timings ranging from 2.00pm - 4.30 pm to 2.00pm - 5.30pm
+		<br>Multiple sessions across 9-12 July (Tue-Fri) <br>Various timings ranging from 2.00pm - 4.30 pm to 2.00pm - 5.30pm
 		<br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
 		<br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
 	</td>
@@ -114,7 +114,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>Digital Transformation of Kampong Glam<font color="blue"> (NEW!)</font></b>
-      <br>9 July (Tues), 4.00pm - 5.30pm
+      <br>9 July (Tue), 4.00pm - 5.30pm
       <br>Come on this learning visit to discover how IMDA is working with the precinct stakeholders and technology partners, to enhance the digital capabilities of the merchants as well as the visitor experience in Kampong Glam.
       <br><a href="/events/learning-journeys/event-details/LJ_KampongGlamDigital">Click here to find out more.</a>
     </td>
@@ -169,7 +169,7 @@ breadcrumb: Learning Festival
     </td>
     <td>
       <b>Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore<font color="blue"> (NEW!)</font></b>
-      <br>11 July (Thurs), 3.00pm - 5.00pm
+      <br>11 July (Thur), 3.00pm - 5.00pm
       <br>Run through an exciting one hour Gallery Game experience, followed by a post-mortem and sharing session conducted by Co:Lab X, the innovation team at the Gallery, and Living Theories, the experience builders.
       <br><a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification ">Click here to find out more.</a>
     </td>
