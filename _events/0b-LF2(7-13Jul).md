@@ -109,6 +109,17 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LA_IoLTAbGT">Click here to find out more.</a>
     </td>
   </tr>
+      <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_DK "> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Dignity Kitchen<font color="blue"> (NEW!)</font></b>
+      <br>11 July (Thur), 2.00pm - 5.15pm
+      <br>Want to experience the perspectives of differently abled persons and the elderly? Join us for an experiential learning journey to Dignity Kitchen to find out how we can better engage and innovate our services to include different segments of the population.
+      <br><a href="/events/learning-journeys/event-details/LJ_DK">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/Digital1.jpeg" /></a>
