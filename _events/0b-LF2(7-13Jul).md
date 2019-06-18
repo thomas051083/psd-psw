@@ -44,7 +44,7 @@ breadcrumb: Learning Festival
   </tr>
   <tr>
      <td>
-      <a href="/events/learning-journeys/event-details/LJ_ AlexandraTour"> <img src="/images/Engage3.jpg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_ AlexandraTour"> <img src="/images/Engage 3.jpeg" /></a>
     </td>
     <td>
       <b>My Alexandra Heritage Tour<font color="blue"> (NEW!)</font></b> 
