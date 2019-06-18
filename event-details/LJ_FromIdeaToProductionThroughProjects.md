@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_ FromIdeaToProductionThroughProjects
+permalink: /events/learning-journeys/event-details/LJ_FromIdeaToProductionThroughProjects
 breadcrumb: Learning Journey
 ---
 
@@ -18,5 +18,5 @@ Your visit will begin with the Time Traveller which is a timed and guided audio-
 
 <b><u>Details</u><br>
 **Date and Time: 8 July (Mon), 11.00am – 1.00pm** <br>
-**Location: 31 North Buona Vista (S275983), Civil Service College <br>** <br> 
+**Location: 31 North Buona Vista (S275983), Civil Service College (S275983)** <br>
 **Indicate Your Interest [Here](https://)** 
