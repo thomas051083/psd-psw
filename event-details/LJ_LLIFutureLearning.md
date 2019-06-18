@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### Learn-over-lunch @ Lifelong Learning Institute
+### Learn-over-Lunch @ Lifelong Learning Institute
 
 ###### _#Innovate_
 
