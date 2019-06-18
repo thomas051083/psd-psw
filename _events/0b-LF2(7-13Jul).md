@@ -22,13 +22,13 @@ breadcrumb: Learning Festival
 <table>         
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_BicentennialExperience"> <img src="/images/Engage%203.jpeg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience"> <img src="/images/Engage%203.jpeg" /></a>
     </td>
     <td>
       <b>From Singapore to Singaporean: The Bicentennial Experience<font color="blue"> (NEW!)</font></b>
       <br>8 July (Mon), 11.00am – 1.00pm
       <br>As the centrepiece event of the commemoration in 2019, The Bicentennial Experience will highlight key moments in Singapore’s evolution from 1299, how we had responded to, and been part of, regional and global influences and events.
-      <br><a href="/events/learning-journeys/event-details/LJ_BicentennialExperience">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
     </td>
  </tr>
  <tr>
