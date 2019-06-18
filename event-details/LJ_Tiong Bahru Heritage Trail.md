@@ -9,7 +9,7 @@ breadcrumb: Learning Journey
 
 ###### _#Bicentennial_
 
-My Tiong Bahru heritage tour uncovers the intriguing people and places in Singapore’s only conservation estate with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
+My Tiong Bahru Heritage Tour uncovers the intriguing people and places in Singapore’s only conservation estate with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
 
 <b><u>Details</u><br>
 **Date and Time: 2 July 2019 (Tues), 9.00am - 11.00am** <br>
