@@ -20,7 +20,41 @@ breadcrumb: Learning Festival
 <font color="orangered"><i><b>Wave 2 Registration will commence Wednesday 19 June 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
 
 <table>
-   <tr>
+     </tr>
+         <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience"> <img src="/images/Engage%203.jpeg" /></a>
+    </td>
+    <td>
+      <b>From Singapore to Singaporean: The Bicentennial Experience<font color="blue"> (NEW!)</font></b>
+      <br>8 July (Mon), 11.00am – 1.00pm
+      <br>As the centrepiece event of the commemoration in 2019, The Bicentennial Experience will highlight key moments in Singapore’s evolution from 1299, how we had responded to, and been part of, regional and global influences and events.
+      <br><a href="/ events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_ToastmastersVoice"> <img src="/images/SkillUp1.jpg" /></a>
+    </td>
+    <td>
+      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
+      <br>8 July (Mon), 2.00pm - 4.00pm
+      <br>Want to be a more effective communicator? Public speaking is one of the greatest fears of most people. But fear not! All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
+      <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
+    </td>
+        <tr>
+  </tr>
+   <tr><tr>
+     <td>
+      <a href="/events/learning-journeys/event-details/LJ_ACTIVESG"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Active Health Learning Journey<font color="blue"> (NEW!)</font></b> 
+      <br>Multiple sessions across 9-12 July (Tues-Fri) <br>Various timings ranging from 2.00pm - 4.30 pm to 2.00pm - 5.30pm
+      <br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
+      <br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
+    </td>
+     </tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Engage2.jpeg" /></a>
     </td>
@@ -75,6 +109,17 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LA_IoLTAbGT">Click here to find out more.</a>
     </td>
   </tr>
+      <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_DK "> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Dignity Kitchen<font color="blue"> (NEW!)</font></b>
+      <br>11 July (Thur), 2.00pm - 5.15pm
+      <br>Want to experience the perspectives of differently abled persons and the elderly? Join us for an experiential learning journey to Dignity Kitchen to find out how we can better engage and innovate our services to include different segments of the population.
+      <br><a href="/events/learning-journeys/event-details/LJ_DK">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/Digital1.jpeg" /></a>
@@ -96,7 +141,18 @@ breadcrumb: Learning Festival
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
-  </tr>  
+  </tr>
+      <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore<font color="blue"> (NEW!)</font></b>
+      <br>11 July (Thurs), 3.00pm - 5.00pm
+      <br>Run through an exciting one hour Gallery Game experience, followed by a post-mortem and sharing session conducted by Co:Lab X, the innovation team at the Gallery, and Living Theories, the experience builders.
+      <br><a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification ">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
      <td>
       <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/Innovate2.jpg" /></a>
@@ -128,6 +184,17 @@ breadcrumb: Learning Festival
       <br>12 July (Fri), 3.00pm - 5.30pm
       <br>Experience how MOM has used data analytics, design thinking, behavioural insights and technology to transform public service delivery for citizens.
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou"> <img src="/images/SkillUp1.jpg" /></a>
+    </td>
+    <td>
+      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
+      <br>12 July (Fri), 7.30pm – 9.45pm
+      <br>Participants will also have the opportunity to take part in fun speech activities. They can also find out more about the Toastmasters programme and learn how Toastmasters can help them to become better communicators and leaders.
+      <br><a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou">Click here to find out more.</a>
     </td>
   </tr>
 </table>

@@ -43,7 +43,18 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>  
-  <tr>
+<tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_SGOEngage"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Touching Lives, Honouring our Seniors – Engaging our Seniors through House Visits by Silver Generation Office (SGO)<font color="blue"> (NEW!)</font></b>
+      <br>4 July (Thurs), 12.00pm - 6.00pm
+      <br>Come hear from our volunteers (also known as Silver Generation Ambassadors) about their experiences engaging seniors, communicating and connecting them to government policies and schemes, as well as being their friend!
+      <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
+    </td>
+</tr>  
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/CEO HDB Dr Cheong Koon Hean.png" /></a>
     </td>
@@ -97,6 +108,5 @@ breadcrumb: Learning Festival
       <br>Come find out from GovTech how technologies such as Sensors, IoT and robotics are being applied in the Public Service.
       <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
     </td>
-  </tr>
 </table>
 <br> Click [here](/events/learning-festival/faq) if you have any questions. 

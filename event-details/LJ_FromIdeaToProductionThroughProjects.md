@@ -1,14 +1,14 @@
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_ BicentennialExperience
+permalink: /events/learning-journeys/event-details/LJ_ FromIdeaToProductionThroughProjects
 breadcrumb: Learning Journey
 ---
 
 ## Learning Activity
-### From Singapore to Singaporean: The Bicentennial Experience
+### From Idea To Production Through Projects 
 
-###### _# Bicentennial_ 
+###### _#Innovate #Digitalise_ 
 
 Singapore’s history spans over 700 years. Even as we commemorate the arrival of Raffles in 1819, we want to take this opportunity to go further back another 500 years to 1299 for a longer view of our history. 
 
@@ -18,5 +18,5 @@ Your visit will begin with the Time Traveller which is a timed and guided audio-
 
 <b><u>Details</u><br>
 **Date and Time: 8 July (Mon), 11.00am – 1.00pm** <br>
-**Location: Fort Canning Park (S179494)** <br> 
-**Indicate Your Interest [Here](https://www.eventbrite.sg/e/from-singapore-to-singaporean-the-bicentennial-experience-tickets-63103807186)** 
+**Location: 31 North Buona Vista (S275983), Civil Service College <br>** <br> 
+**Indicate Your Interest [Here](https://)** 
