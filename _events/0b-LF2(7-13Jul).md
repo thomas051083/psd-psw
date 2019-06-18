@@ -141,7 +141,18 @@ breadcrumb: Learning Festival
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
-  </tr>  
+  </tr>
+      <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification"> <img src="/images/Engage1.jpg" /></a>
+    </td>
+    <td>
+      <b>Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore<font color="blue"> (NEW!)</font></b>
+      <br>11 July (Thurs), 3.00pm - 5.00pm
+      <br>Run through an exciting one hour Gallery Game experience, followed by a post-mortem and sharing session conducted by Co:Lab X, the innovation team at the Gallery, and Living Theories, the experience builders.
+      <br><a href="/events/learning-journeys/event-details/LJ_NationalGalleryGamification ">Click here to find out more.</a>
+    </td>
+  </tr>
   <tr>
      <td>
       <a href="/events/learning-journeys/event-details/LJ_MHAHPC"> <img src="/images/Innovate2.jpg" /></a>
