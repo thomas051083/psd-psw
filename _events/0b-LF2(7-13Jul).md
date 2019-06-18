@@ -152,5 +152,16 @@ breadcrumb: Learning Festival
       <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
     </td>
   </tr>
+      <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou"> <img src="/images/SkillUp1.jpg" /></a>
+    </td>
+    <td>
+      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
+      <br>12 July (Fri), 7.30pm – 9.45pm
+      <br>Participants will also have the opportunity to take part in fun speech activities. They can also find out more about the Toastmasters programme and learn how Toastmasters can help them to become better communicators and leaders.
+      <br><a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou">Click here to find out more.</a>
+    </td>
+  </tr>
 </table>
 <br> Click [here](/events/learning-festival/faq) if you have any questions. 
