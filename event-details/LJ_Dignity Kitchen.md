@@ -5,7 +5,7 @@ permalink: /events/learning-journeys/event-details/LJ_DK
 breadcrumb: Learning Journey
 ---
 ## Learning Journey
-### Dignity Kitchen
+### Visit to Dignity Kitchen
 
 ###### _#Engage_
 
