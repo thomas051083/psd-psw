@@ -182,7 +182,7 @@ breadcrumb: Learning Festival
       <b>"Where is Singapore" Museum Tour<font color="blue"> (NEW!)</font></b>
       <br>11 July 2019 (Thur), 4.00pm – 6.00pm
       <br>Join us on this tour specially crafted to share with you a basic overview of Asian history and how these developments have affected Singapore.
-      <br><a href="/events/learning-journeys/event-details/LJ_SingaporeMuseumTour/events/learning-journeys/event-details/LJ_NationalGalleryGamification ">Click here to find out more.</a>
+      <br><a href="/events/learning-journeys/event-details/LJ_SingaporeMuseumTour">Click here to find out more.</a>
     </td>
   </tr>
 <tr>
