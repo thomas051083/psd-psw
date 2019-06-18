@@ -21,6 +21,17 @@ breadcrumb: Learning Festival
 
 <table>
      </tr>
+         <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience"> <img src="/images/Engage%203.jpeg" /></a>
+    </td>
+    <td>
+      <b>From Singapore to Singaporean: The Bicentennial Experience<font color="blue"> (NEW!)</font></b>
+      <br>8 July (Mon), 11.00am – 1.00pm
+      <br>As the centrepiece event of the commemoration in 2019, The Bicentennial Experience will highlight key moments in Singapore’s evolution from 1299, how we had responded to, and been part of, regional and global influences and events.
+      <br><a href="/ events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
+    </td>
+  </tr>
     <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_ToastmastersVoice"> <img src="/images/SkillUp1.jpg" /></a>
@@ -31,6 +42,7 @@ breadcrumb: Learning Festival
       <br>Want to be a more effective communicator? Public speaking is one of the greatest fears of most people. But fear not! All of us can learn to speak and communicate better. Join in if you'd like to pick up some communication and public speaking tips! 
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
     </td>
+        <tr>
   </tr>
    <tr><tr>
      <td>
