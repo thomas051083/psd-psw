@@ -13,5 +13,5 @@ My Tiong Bahru Heritage Tour uncovers the intriguing people and places in Singap
 
 <b><u>Details</u><br>
 **Date and Time: 2 July 2019 (Tue), 9.00am - 11.00am** <br>
-  **Location: Tiong Bahru <i>(Exact Venue TBC)</i>** <br>
+  **Location: Tiong Bahru Community Centre, 67A Eu Chin Street (S169715)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/my-tiong-bahru-heritage-trail-tickets-63103230461)** 
