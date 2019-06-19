@@ -1,10 +1,10 @@
 ---
 layout: simple-page
-title: Exclusive Treats
-permalink: /exclusive-treats/
-breadcrumb: Exclusives Treats
+title: Promotions
+permalink: /promotions/
+breadcrumb: Promotions
 ---
-### Exclusives Treats
+### Promotions
 
 <table>
   <tr>
