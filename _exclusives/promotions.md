@@ -150,8 +150,7 @@ breadcrumb: Promotions
       <b>Clubhouse Tenants' Activities and Promotions</b>
       <br>
       <br>
-      <b>10% off</b> food and non-alcoholic beverages at LOTS Gourmet.
-      <br>
+      <b>20% discount on 12-month memberships</b> with no joining fee at Anytime Fitness, CSC @ Bukit Batok.<br>
       <br>
       Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
     </td>
