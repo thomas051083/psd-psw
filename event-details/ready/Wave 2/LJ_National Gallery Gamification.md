@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore
+### Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore <font color="red"> (FULL)</font>
 
 ###### _#Engage_ 
 
