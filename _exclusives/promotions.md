@@ -53,7 +53,7 @@ breadcrumb: Promotions
     <td>
       <b>Civil Service Clubhouses Activites and Promotions</b>
       <br>
-      <br>Enjoy <b>free</b> pool access and <b>members'</b> rate for booking all BBQ pits, <br>
+      <br>Enjoy <b>free</b> pool access and <b>members'</b> rate for booking all BBQ pits, </br>
       and bowling lanes at CSC @ Tessensohn, CSC @ Changi and CSC @ Bukit Batok during the month of July <br>
       <br>
       Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
@@ -92,6 +92,81 @@ breadcrumb: Promotions
       <br>
       Enjoy a <b>Javanese Body Massage or YR CEllular Revitalising Face Spa @ $38</b> at The Ultimate Spa, CSC @ Bukit Batok<br>
       <br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/KTV.jpg"/>
+    </td>
+    <td>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
+      <br>
+      <br>
+      <b>20% discount</b> on all drinks and free usage of KTV room at 8 degree Lounge, CSC Changi I & Bukit Batok.<br>
+      <br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Vyasa_Yoga.jpg"/>
+    </td>
+    <td>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
+      <br>
+      <br>
+      <b>20% discount</b> on all class packages at Vyasa Yoga, CSC @ Tessensohn.<br>
+      <br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Karate.jpg"/>
+    </td>
+    <td>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
+      <br>
+      <br>
+      <b>Special discount</b> for training fees with <b>no annual membership fee</b> at Shitoryu Karate Association, CSC @ Tessensohn.<br>
+      <br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Lots.png"/>
+    </td>
+    <td>
+      <b>10% off</b> food and non-alcoholic beverages at LOTS Gourmet<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Anytime_Fitness.jpg"/>
+    </td>
+    <td>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
+      <br>
+      <br>
+      <b>10% off</b> food and non-alcoholic beverages at LOTS Gourmet.
+      <br>
+      <br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/Absolute_Fitness.png"/>
+    </td>
+    <td>
+      <b>Clubhouse Tenants' Activities and Promotions</b>
+      <br>
+      <br>
+      <b>Up to $40 off</b> gym membership (U.P. $490) and 4 free personal training worth $240 at Absolute Fitness.
+      <br>
+      <br>
       Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
     </td>
   </tr>
@@ -105,10 +180,18 @@ breadcrumb: Promotions
       <br>
       <b>50% discount</b> on all watersports rentals, courses and expeditions conducted within Singapore at Ohana Beach House, CSC @ Loyang (Former Aloha Loyang)<br>
       <br>
-      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
-
+<tr>
+  <td>
+  </td>
+</tr>
+<tr>
+  <td>
+    Look out for the <b>limited time membership sign-up promotion</b> for Public Officers from ministries and statutory boards only.
+  </td>
+</tr>
  <tr>
     <td>
       <img src="/images/Love.jpg"/>
@@ -143,7 +226,31 @@ breadcrumb: Promotions
       Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
-
+  <tr>
+    <td>
+      <img src="/images/Starhub/jpg"/>
+    </td>
+    <td>
+      <b>StarHub Corporate Individual Scheme (CIS)</b>
+      <br>
+      <br>
+      Public Officers may enjoy more savings and data with StarHub Mobile!<br>
+      Sign up to any of our 2-year #hellochange plans and enjoy these benefits on up to 4 mobile lines:<br>
+      <ul>
+        <li>Monthly subscription discount</li>
+        <li>FREE weekend data</li>
+        <li>FREE Caller Number Display and International Roaming</li>
+      </ul>
+      <br>
+      CSC Ordinary Members will also get <b>FREE extra 800mins</b> local monthly talk time!
+      <br>
+      <br>
+      To enjoy, visit any <u>StarHub Shops</u> to sign up now! CSC Ordinary Members have to present your membership card upon sign-up.
+      <br>
+      <br>
+      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="/images/Sling.jpg"/>
@@ -151,9 +258,7 @@ breadcrumb: Promotions
     <td>
       <b>1-For-1</b> Singapore Sling Flight ticket
       <br>
-      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
-      <br>
-      <b>Note: Please flash this visual and your staff pass at Singapore Flyer Ticketing Counter to enjoy the privilege. </b>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
   <tr>
@@ -163,7 +268,7 @@ breadcrumb: Promotions
     <td>
       <b>1-For-1</b> Wild Wild Wet Day Passes
       <br>
-      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
   <tr>
@@ -173,7 +278,7 @@ breadcrumb: Promotions
     <td>
       <b>1-For-1</b> Entry Tickets to Butterfly Park  & Insect Kingdom
       <br>
-      Click <a href="https://www.csc.sg/membership_privileges_detail.aspx?type=PS%20Month%20Promotions&id=7">here</a> for more details.<br>
+      Click <a href="https://www.csc.sg/HTML/Newsletter/mayjun2019/ps.html">here</a> for more details.<br>
     </td>
   </tr>
 </table>
