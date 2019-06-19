@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### Transforming DSO National Laboratories' Corporate Services Through Digitalisation 
+### Transforming DSO National Laboratories' Corporate Services Through Digitalisation  
 
 ###### _#Innovate_ 
 
@@ -21,7 +21,7 @@ Join this visit to learn more about DSO and how it has leveraged technologies to
 * Mobile Device Management: Allows image-capturing devices to be brought into restricted zones within the organisation
 
 <b><u>Details</u><br>
-**Date and Time: 19 July (Fri), 9.00am - 11.00am** <br>
+**Date and Time: 19 July 2019 (Fri), 9.00am - 11.00am** <br>
 **Location: 12 Science Park Drive (S118225), DSO National Laboratories** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/transforming-dso-national-laboratories-corporate-services-through-digitalisation-tickets-63365918167)** 
 

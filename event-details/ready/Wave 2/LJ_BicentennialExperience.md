@@ -5,7 +5,7 @@ permalink: /events/learning-journeys/event-details/LJ_ BicentennialExperience
 breadcrumb: Learning Journey
 ---
 
-## Learning Activity
+## Learning Journey
 ### From Singapore to Singaporean: The Bicentennial Experience
 
 ###### _# Bicentennial_ 
@@ -17,6 +17,6 @@ As the centrepiece event of the commemoration in 2019, The Bicentennial Experien
 Your visit will begin with the Time Traveller which is a timed and guided audio-visual experience within the Fort Canning Centre that will take 1 hour. This will be followed by the Pathfinder, a free and easy experience comprising interactive pavilions within the greenery of Fort Gate where you will spend another 45 minutes or more.
 
 <b><u>Details</u><br>
-**Date and Time: 8 July (Mon), 11.00am – 1.00pm** <br>
-**Location: Fort Canning Park (S179494)** <br> 
+**Date and Time: 8 July 2019 (Mon), 11.00am – 1.00pm** <br>
+**Location: Fort Canning Centre, 5 Cox Terrace (S179620)** <br> 
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/from-singapore-to-singaporean-the-bicentennial-experience-tickets-63103807186)** 
