@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey
-### My Telok Blangah Heritage Tour
+### My Telok Blangah Heritage Tour <font color="red"> (FULL)</font>
 
 ###### _#Bicentennial_
 

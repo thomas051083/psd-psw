@@ -58,7 +58,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour"> <img src="/images/Innovate1.jpg" /></a>
     </td>
     <td>
-      <b>My Telok Blangah Heritage Tour<font color="blue"> (NEW!)</font></b>
+      <b>My Telok Blangah Heritage Tour<font color="red"> (FULL)</font></b>
       <br>3 July 2019 (Wed), 9.00am – 12.00pm
       <br>Trace the 700-year history of Singapore as a prosperous port city at the southern tip of Peninsula Malaysia through this heritage tour to Telok Blangah.
       <br><a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour">Click here to find out more.</a>
