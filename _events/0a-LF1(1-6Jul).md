@@ -25,7 +25,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
-      <b>My Dawson Heritage Tour<font color="blue"> (NEW!)</font></b>
+      <b>My Dawson Heritage Tour<font color="red"> (FULL)</font></b>
       <br>1 July 2019 (Mon), 9.00am – 12.00pm 
       <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
       <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
