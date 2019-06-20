@@ -6,7 +6,7 @@ breadcrumb: Learning Activity
 ---
 
 ## Learning Activity
-### Fireside Chat with Ng Chee Khern, Permanent Secretary (Smart Nation and Digital Government)(Prime Minister’s Office) 
+### Fireside Chat with Ng Chee Khern, Permanent Secretary (Smart Nation and Digital Government)(Prime Minister’s Office)  <font color="red"> (FULL) </font>
 
 ###### _#Digitalise #SPSPride_
 
