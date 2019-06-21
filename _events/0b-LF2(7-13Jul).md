@@ -135,7 +135,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_DK "> <img src="/images/Engage1.jpg" /></a>
     </td>
     <td>
-      <b>Visit to Dignity Kitchen<font color="blue"> (NEW!)</font></b>
+      <b>Visit to Dignity Kitchen<font color="red"> (FULL)</font></b>
       <br>11 July 2019 (Thur), 1.00pm - 5.15pm
       <br>Join us for an experiential learning journey to Dignity Kitchen to find out how we can better engage and innovate our services to include different segments of the population.
       <br><a href="/events/learning-journeys/event-details/LJ_DK">Click here to find out more.</a>
@@ -234,7 +234,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Parliament House Exterior.jpg" /></a>
     </td>
     <td>
-      <b>Learning Journey to the Parliament House<font color="blue"> (NEW!)</font></b>
+      <b>Learning Journey to the Parliament House<font color="red"> (FULL)</font></b>
       <br>12 July 2019 (Fri), 4.00pm - 5.00pm
       <br>Familiarise yourself with the functions of Parliament, an integral part of the Legislature of Singapore, through this tour.        <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
     </td>
