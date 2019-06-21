@@ -17,7 +17,7 @@ Come explore the world of Digital Workplace tools and find out how they can make
 **Location: 31 North Buona Vista Road (S275983) <br>Civil Service College, Training Room 3.6 (Level 3)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/digital-workplace-dwp-induction-workshop-tickets-61979610684)** <br> 
 
-<b><u>Session 2</u><br>
+<b><u>Session 2</u><font color="blue"> (NEW RUN ADDED!) </font><br>
 **Date and Time: 9 July (Tues), 3.00pm - 5.00pm** <br>
 **Location: 31 North Buona Vista Road (S275983) <br>Civil Service College, Training Room 3.6 (Level 3)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/digital-workplace-dwp-induction-workshop-4th-run-tickets-63943345267)** <br> 
