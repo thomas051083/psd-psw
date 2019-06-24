@@ -88,6 +88,17 @@ breadcrumb: Learning Festival
 </tr>
 <tr>
     <td>
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Digital1.jpeg" /></a>
+    </td>
+    <td>
+      <b>Digital Workplace (DWP) Induction Workshop<font color="blue"> (NEW!)</font></b>
+      <br>9 July 2019 (Tue), 3.00pm - 5.00pm   
+      <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
+      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
+    </td>
+  </tr>
+<tr>
+    <td>
       <a href="/events/learning-journeys/event-details/LJ_SACDigitalExperience"> <img src="/images/NAC - Stamford Arts Centre resized.jpg" /></a>
     </td>
     <td>

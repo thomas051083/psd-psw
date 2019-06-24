@@ -22,7 +22,7 @@ How familiar are you with the functions of the Parliament, an integral part of t
 **Location: Parliament House, 1 Parliament Place (S178880)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/learning-journey-to-the-parliament-house-2nd-run-tickets-63103619625)** 
 
-<b><u>Session 3</u><br>
+<b><u>Session 3 <font color="red"> (FULL)</font></u><br>
 **Date and Time: 19 July 2019 (Fri), 4.00pm - 5.00pm** <br>
 **Location: Parliament House, 1 Parliament Place (S178880)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/learning-journey-to-the-parliament-house-3rd-run-tickets-63103778099)** 
