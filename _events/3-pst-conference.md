@@ -125,7 +125,7 @@ Hear from experts and practitioners helming service design projects and initiati
   <tr>
     <td>
       <b>Learning Journey @ SingTel: OmniChannel Retail Experience & Design Philosophy</b><br>
-      <i><b>17 Jul</b>, 9am - 12pm, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">SingTel</a></i>
+      <i><b>16 Jul</b>, 9am - 10:30am, <a href="https://www.google.com/maps/dir//grab+office/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x31da19110a2628c3:0x8cafbb3afb4ef55c?sa=X&ved=2ahUKEwjX5IHu7J_iAhWab30KHShaBfkQ9RcwAHoECAEQCQ">SingTel</a></i>
      <br>
      <br>
     Learn how SingTel does omni-channel type of Service Delivery (through online and offline). <br>
