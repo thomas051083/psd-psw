@@ -34,26 +34,40 @@ Hear from experts and practitioners helming service design projects and initiati
     <td>Registration</td>
   </tr>
   <tr>
-    <td>9.30AM - 9.45AM</td>
+    <td>9.30AM - 10.00AM</td>
     <td><b>Opening: Delivering Citizen-Centric & Anticipatory Services </b><br>
       Leo Yip, Head of Civil Service</td>
   </tr>
   <tr>
-    <td>9.45AM - 10.25AM</td>
+    <td>10.00AM - 10.50AM</td>
     <td><b>Keynote: Implementing Service Journeys in the Public Sector</b><br> 
-    Karl McDiarmid, General Manager of Social innovation, Department of Internal Affairs, New Zealand<br><br>
+    Karl McDiarmid, General Manager of Service Innovation, Department of Internal Affairs, New Zealand<br><br>
     Frank Leyman, Manager of International Relations Digital Transformation Office, Belgium
 </td>
   </tr>
   <tr>
-    <td>10.25AM - 10.45AM</td>
-    <td><b>The Value of Adopting Service Journey Practices in Singapore's Public Sector – Why Service Journeys for SG Government? </b><br>
-    Dominic Chan, Director, MOL, GovTech
+    <td>10.50AM-11.10AM</td>
+    <td><b>Transforming Service Delivery Effectively Using the Squad-Delivery Model</b><br>
+    Bojan Blecic, Senior VP, Head Experience Design, OCBC Bank
 </td>
   </tr>
   <tr>
-    <td>10.45AM - 11.05AM</td>
-    <td><b>Implementing Service Journey at Work</b></td>
+    <td>11.10AM - 11.50AM</td>
+    <td><b>Cross-Agency Panel Sharing</b><br>
+    <br>
+    The Value of Adopting Service Journey Practices in Singapore’s Public Sector – Why Service Journeys for SG Government? <br>
+    Dominic Chan, Director, MOL, GovTech <br>
+    <br>
+    Implementing Service Journeys at Work: An Agency Perspective<br>
+    Eugene Toh, Director, Pro-Enterprise Division, MTI<br>
+    <br>
+    The Economic Value of Service Design: A National Perspective<br>
+    Jane Lim, Assistant Chief Executive, IMDA<br>
+    <br>
+    How the Service Journey Approach Can Work for You: An Organisation Perspective<br>
+    Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br>
+    <br>
+    </td>
   </tr>
   <tr>
     <td>11.05AM - 11.25AM</td>
@@ -62,7 +76,7 @@ Hear from experts and practitioners helming service design projects and initiati
     </td>
   </tr>
   <tr>
-    <td>11.25AM - 11.45AM</td>
+    <td>11.50AM - 12.00PM</td>
     <td><b>Closing: The Journey Ahead</b><br>
        Kok Ping Soon, Chief Executive, GovTech</td>
   </tr>
