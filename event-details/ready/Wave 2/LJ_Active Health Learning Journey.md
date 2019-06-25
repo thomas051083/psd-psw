@@ -14,12 +14,12 @@ Curious about how Active Health helps citizens live healthier lifestyles and wha
 
 Note that multiple sessions at various locations are available, with a focus on different areas of health such as nutrition and sleep. Scroll down for the full list of possibilities! 
 
-<b><u>Session 1: Nutrition Workshop</u><br> 
+<b><u>Session 1: Nutrition Workshop</u><font color="red"> (FULL) </font><br> 
 **Date(s) and Time: 9 July 2019 (Tue), 2.00pm – 4.30pm** <br>
 **Location: Decathlon Singapore Lab @ Kallang <br>230 Stadium Boulevard (S397799) <br>Active Health Lab @ Decathlon** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-decathlon-sg-nutrition-workshop-tickets-63467157978)**
 
-<b><u>Session 2: Nutrition Workshop</u><br> 
+<b><u>Session 2: Nutrition Workshop</u><font color="red"> (FULL) </font><br> 
 **Date(s) and Time: 9 July 2019 (Tue), 2.30pm - 5.00pm** <br>
 **Location: ActiveSG Bishan Sport Centre (located within the swimming complex) <br>1 Bishan Street 14 (S579778)** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/active-health-learning-journey-bishan-sport-centre-nutrition-workshop-tickets-63466938321)**
