@@ -70,12 +70,6 @@ Hear from experts and practitioners helming service design projects and initiati
     </td>
   </tr>
   <tr>
-    <td>11.05AM - 11.25AM</td>
-    <td><b>Transforming Service Delivery Model - How to Adopt Service Journey Practices Effectively?</b><br>
-     Bojan Blecic, Senior VP, Head Experience Design, OCBC Bank
-    </td>
-  </tr>
-  <tr>
     <td>11.50AM - 12.00PM</td>
     <td><b>Closing: The Journey Ahead</b><br>
        Kok Ping Soon, Chief Executive, GovTech</td>
