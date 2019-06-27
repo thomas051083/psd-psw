@@ -17,7 +17,7 @@ Come and see how CESP's programmes train soliders to be physically and mentally 
 <i>Bonus: A lucky few will get a chance to have their body scanned for their anthropometric dimensions, used as part of our soldier systems development. All participants will also get to view the new Load Effects Assessment Programme, designed to evaluate the effects of equipment on a soldier’s performance. </i> 
 
 <b><u>Details</u><br>
-**Date and Time: 31 July (Wed), 1.30pm - 4.30pm** <br>
+**Date and Time: 31 July 2019 (Wed), 1.30pm - 4.30pm** <br>
 **Location: Nee Soon Camp, 31A Transit Rd (S778894)** <br>
 **Indicate Your Interest [Here](https://)** 
 
