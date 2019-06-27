@@ -1,3 +1,4 @@
+<!--
 ---
 layout: simple-page
 title: Learning Festival 1-19 July 2019
@@ -16,4 +17,4 @@ Curious about how digital giant Alibaba went about building their ecosystem, and
 **Date and Time: 9 July 2019 (Tue), 9.00am - 12.00pm** <br>
 **Location: 31 North Buona Vista Road (S275983), Civil Service College Auditorium (Ground Floor)** <br>
 **Indicate Your Interest [Here](https://)** 
-
+-->
