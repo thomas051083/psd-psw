@@ -17,4 +17,4 @@ Note that this visit comes with a 30-mins walkthrough of the space with a Changi
 <b><u>Details</u><br>
 **Date and Time: 18 July 2019 (Tue), 3.30pm - 5.00pm** <br>
 **Location: 78 Airport Blvd (S819666), Jewel @ Changi Airport, Level 4** <br>
-**Indicate Your Interest [Here]()** 
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/visit-to-changi-experience-studio-jewel-tickets-64519764352)** 
