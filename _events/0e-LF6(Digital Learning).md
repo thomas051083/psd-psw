@@ -14,7 +14,7 @@ breadcrumb: Learning Festival
 -->
 
 ### Digital Learning
-#### Live Hangout @ Workplace 
+#### Live Hangout @ [[ WOG ] FYI](https://onepublicservice.facebook.com/groups/wogfyi) on Workplace 23 July 5 pm 
 
 ##### Making "Dare To Try" A Reality: Live Chat with CE, LTA 
 
