@@ -14,6 +14,19 @@ breadcrumb: Learning Festival
 -->
 
 ### Digital Learning
+#### Live Hangout @ [[ WOG ] FYI](https://onepublicservice.facebook.com/groups/wogfyi) on Workplace 23 July 5 pm 
+
+##### Making "Dare To Try" A Reality: Live Chat with CE, LTA 
+
+<img src="/images/Cuppa-LTA-Main-1900-x-600.jpg" />
+
+What does “dare to try” mean to you? Come hang out live on Workplace with CE LTA on what it’s like providing leadership support, making room for failure, managing bureaucracy and resourcing challenges; all in the name of daring to try.
+
+Click [here](https://onepublicservice.facebook.com/groups/wogfyi) to discover more. 
+
+
+### Digital Learning
+#### Learn Anytime, Anywhere on LEARN
 
 <img src="/images/LEARN.png" />
 

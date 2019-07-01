@@ -25,7 +25,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience"> <img src="/images/Engage%203.jpeg" /></a>
     </td>
     <td>
-      <b>From Singapore to Singaporean: The Bicentennial Experience<font color="blue"> (NEW!)</font></b>
+      <b>From Singapore to Singaporean: The Bicentennial Experience</b>
       <br>8 July 2019 (Mon), 11.00am – 1.00pm
       <br>Experience key highlights of Singapore’s evolution from 1299, including how we had responded to, and been part of, regional and global influences and events.
       <br><a href="/events/learning-journeys/event-details/LJ_ BicentennialExperience">Click here to find out more.</a>
@@ -36,18 +36,29 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LA_ToastmastersVoice"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
     <td>
-      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
+      <b>Find Your Voice with Toastmasters</b>
       <br>8 July 2019 (Mon), 2.00pm - 4.00pm
       <br>Join us if you'd like to pick up some communication and public speaking tips and become an even more effective communicator! 
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersVoice">Click here to find out more.</a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_AlibabaEcosystem"> <img src="/images/Digital1.jpeg" /></a>
+    </td>
+    <td>
+      <b>Engaging Chinese Tech Companies like Alibaba<font color="blue"> (NEW!)</font></b>
+      <br>9 July 2019 (Tue), 9.00am – 11.00am
+      <br>Come listen to Chia Han, a Public Officer currently on a year-long attachment with Lazada on his thoughts about how to engage and partner Chinese digital companies like Alibaba, and explore potential opportunities for such collaborations in your work. 
+      <br><a href="/events/learning-journeys/event-details/LA_AlibabaEcosystem">Click here to find out more.</a>
+    </td>
+ </tr>
+  <tr>
      <td>
       <a href="/events/learning-journeys/event-details/LJ_ AlexandraTour"> <img src="/images/Engage 3.jpeg" /></a>
     </td>
     <td>
-      <b>My Alexandra Heritage Tour<font color="blue"> (NEW!)</font></b> 
+      <b>My Alexandra Heritage Tour</b> 
       <br>9 July 2019 (Tue), 9.00am – 1.00pm 
       <br>Discover how Singapore had collectively endured its darkest moment in history and emerged resilient and ready to struggle for independence through this heritage tour to Alexandra.
       <br><a href="/events/learning-journeys/event-details/LJ_ AlexandraTour">Click here to find out more.</a>
@@ -69,7 +80,7 @@ breadcrumb: Learning Festival
 		<a href="/events/learning-journeys/event-details/LJ_ACTIVESG"> <img src="/images/Engage1.jpg" /></a>
 	</td>
 	<td>
-		<b>Active Health Learning Journey<font color="blue"> (NEW!)</font></b> 
+		<b>Active Health Learning Journey</b> 
 		<br>Multiple sessions across 9-12 July 2019 (Tue-Fri) <br>Either 2.00pm - 4.30 pm or 2.30pm - 5.00pm
 		<br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
 		<br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
@@ -91,7 +102,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
-      <b>Digital Workplace (DWP) Induction Workshop<font color="blue"> (NEW!)</font></b>
+      <b>Digital Workplace (DWP) Induction Workshop</b>
       <br>9 July 2019 (Tue), 3.00pm - 5.00pm   
       <br>Come explore the world of Digital Workplace tools and find out how they can make your life better at work. 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
@@ -124,7 +135,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_KampongGlamDigital"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
-      <b>Digital Transformation of Kampong Glam<font color="blue"> (NEW!)</font></b>
+      <b>Digital Transformation of Kampong Glam</b>
       <br>9 July 2019 (Tue), 4.00pm - 5.30pm
       <br>Come on this learning visit to discover how IMDA is working with the precinct stakeholders and technology partners, to enhance the digital capabilities of the merchants as well as the visitor experience in Kampong Glam.
       <br><a href="/events/learning-journeys/event-details/LJ_KampongGlamDigital">Click here to find out more.</a>
@@ -157,7 +168,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_URADigitalJourney"> <img src="/images/Digital1.jpeg" /></a>
     </td>
     <td>
-      <b>URA’s Digitalisation Journey <font color="blue"> (MORE SLOTS ADDED!)</font></b>
+      <b>URA’s Digitalisation Journey</b>
       <br>11 July 2019 (Thur), 2.30pm - 4.30pm  
       <br>Find out how URA has strengthened the way it plans for Singapore with the use of data and technology, and how URA officers have grown in digital capabilities.
       <br><a href="/events/learning-journeys/event-details/LJ_URADigitalJourney">Click here to find out more.</a>
@@ -190,7 +201,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_SingaporeMuseumTour"> <img src="/images/Engage 3.jpeg" /></a>
     </td>
     <td>
-      <b>"Where is Singapore" Museum Tour<font color="blue"> (NEW!)</font></b>
+      <b>"Where is Singapore" Museum Tour</b>
       <br>11 July 2019 (Thur), 4.00pm – 6.00pm
       <br>Join us on this tour specially crafted to share with you a basic overview of Asian history and how these developments have affected Singapore.
       <br><a href="/events/learning-journeys/event-details/LJ_SingaporeMuseumTour">Click here to find out more.</a>
@@ -212,7 +223,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LJ_RedhillTour"> <img src="/images/SkillUp2.jpg" /></a>
     </td>
     <td>
-      <b>My Redhill Heritage Tour<font color="blue"> (NEW!)</font></b> 
+      <b>My Redhill Heritage Tour</b> 
       <br>12 July (Fri), 9.00am – 11.00am
       <br>Discover how Redhill has transformed over the years from a swampy red-clay hill into a modern residential town, and the part it played in our history.
       <br><a href="/events/learning-journeys/event-details/LJ_RedhillTour">Click here to find out more.</a>
@@ -255,7 +266,7 @@ breadcrumb: Learning Festival
       <a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou"> <img src="/images/SkillUp1.jpg" /></a>
     </td>
     <td>
-      <b>Find Your Voice with Toastmasters<font color="blue"> (NEW!)</font></b>
+      <b>Find Your Voice with Toastmasters</b>
       <br>12 July 2019 (Fri), 7.30pm – 9.45pm
       <br>Find out more about the Toastmasters programme and learn how Toastmasters can help you become better communicators and leaders by joining an actual Toastmasters session!
       <br><a href="/events/learning-journeys/event-details/LA_ToastmastersBetterYou">Click here to find out more.</a>
