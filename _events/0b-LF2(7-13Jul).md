@@ -17,7 +17,7 @@ breadcrumb: Learning Festival
 -->
 ### Week of 7 - 13 July
 
-<font color="orangered"><i><b>Wave 3 Registration will commence Tuesday 2 July 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
+<font color="orangered"><i><b>Wave 3 Registration will commence WEDNESDAY 3 July 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>
 
 <table>         
 <tr>
@@ -82,7 +82,7 @@ breadcrumb: Learning Festival
 	<td>
 		<b>Active Health Learning Journey</b> 
 		<br>Multiple sessions across 9-12 July 2019 (Tue-Fri) <br>Either 2.00pm - 4.30 pm or 2.30pm - 5.00pm
-		<br>Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
+		<br>Join the Active Health Team from SportSG to discover the behind-the-scenes challenges and opportunities to conceptualise and re-design sports and health from a citizen's perspective.
 		<br><a href="/events/learning-journeys/event-details/LJ_ACTIVESG">Click here to find out more.</a>
 	</td>
 </tr>
