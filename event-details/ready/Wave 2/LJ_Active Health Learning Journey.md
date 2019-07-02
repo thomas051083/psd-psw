@@ -10,7 +10,7 @@ breadcrumb: Learning Journey
 
 ###### _#Innovate_ _#Digitalise_ _#Engage_
 
-Curious about how Active Health helps citizens live healthier lifestyles and what it took to redesign the service delivery journey? Join this Learning Journey to SportSG, and discover the behind-the-scenes challenges and opportunities of how they conceptualised and re-designed how to look at sports and health from a citizen's perspective.
+Curious about how Active Health helps citizens live healthier lifestyles and what it took to redesign the service delivery journey? Join the Active Health Team from SportSG to discover the behind-the-scenes challenges and opportunities to conceptualise and re-design sports and health from a citizen's perspective.
 
 Note that multiple sessions at various locations are available, with a focus on different areas of health such as nutrition and sleep. Scroll down for the full list of possibilities! 
 
