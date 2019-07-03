@@ -183,10 +183,6 @@ breadcrumb: Promotions
     </td>
   </tr>
 <tr>
-  <td>
-  </td>
-</tr>
-<tr>
   <td colspan="2">
     <b> Civil Service Club Membership Sign-up Promotion</b>
     <br>
