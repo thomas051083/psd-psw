@@ -199,6 +199,8 @@ breadcrumb: Promotions
     Receive a <b>free Casio Watch plus a pair of Movie tickets</b> when you sign up for the 1-year Ordinary membership at $72! <br>
     <br>
     Click <a href="https://www.csc.sg/Civil-Service-Club-Membership-Promotions">here</a> for more details. <br>
+  </td>
+  </tr>
  <tr>
     <td>
       <img src="/images/Love.jpg"/>
