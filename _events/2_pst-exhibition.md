@@ -47,7 +47,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 	</tr>
 	<tr>
 		<td>
-			Outpatient in Public Health institutions
+			Future Outpatient Journey
 		</td>
 		<td>
 			Visits to public health institutions can be time consuming, confusing and tedious. Find out how we can make patients’ visits more pleasant and assuring through prototypes and experiments.
@@ -55,7 +55,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 	</tr>
 	<tr>
 		<td>
-			Bouncing Back from Job Loss
+			Bouncing Back from Retrenchment
 		</td>
 		<td>
 			How we identify citizens’ needs and provide a seamless experience between job-seeking and skills upgrading.
@@ -69,7 +69,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 	</tr>
 	<tr>
 		<td>
-			Phase 1: Entering Parenthood
+			Entering Parenthood
 		</td>
 		<td>
 			Understand the joys and benefits of being a parent, through financial aid for your child from birth to school.
@@ -77,7 +77,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 	</tr>
 	<tr>
 		<td>
-			Phase 2: Preparing for P1
+			Supporting a Child in School
 		</td>
 		<td>
 			Enjoy the ease of browsing through information on the offerings and pedagogy of our education system
@@ -115,7 +115,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 <table>
 	<tr>
 		<td>
-			Enhance the NS experience: IPPT
+			National Service
 		</td>
 		<td>
 			Want a faster IPPT pay out? Find out more about the immediate payment of IPPT incentives to NSmen at Fitness Conditioning Centres through PayNow, part of efforts to make government-to-citizen payments more efficient.
@@ -123,7 +123,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 	</tr>
 	<tr>
 		<td>
-			CPF
+			Our RAMP-Up in Helping Needy Citizens
 		</td>
 		<td>
 			Check out how the CPF Board has reached out to the Ministry of Social and Family Development (MSF) to create a desired streamlined Service Journey for citizens with financial difficulties who need help from the government thereby easing their pressing financial needs.
@@ -139,7 +139,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 	</tr>
 	<tr>
 		<td>
-			Starting a Business
+			Food Services Pilot
 		</td>
 		<td>
 			Business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, find out how the processes had been reviewed and streamlined the processes to make the experience smoother for business owners.
@@ -147,7 +147,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 	</tr>
 	<tr>
 		<td>
-			Applying for Temporary Occupation Licencesfor short-term usage of state land
+			Rental of State Land
 		</td>
 		<td>
 			Learn how 10 agencies have collaborated! (i.e. SLA, PSD, PUB, JTC, NEA, NParks, HDB, SportSG, MOF, and URA) They reviewed and streamlined the fees, processes and service standards so as to collectively achieve reduction in regulatory time and cost for the processing of TOL applications across these agencies.

@@ -183,14 +183,15 @@ breadcrumb: Promotions
     </td>
   </tr>
 <tr>
-  <td>
+  <td colspan="2">
+    <b> Civil Service Club Membership Sign-up Promotion</b>
+    <br>
+    <br>
+    Receive a <b>free Casio Watch plus a pair of Movie tickets</b> when you sign up for the 1-year Ordinary membership at $72! <br>
+    <br>
+    Click <a href="https://www.csc.sg/Civil-Service-Club-Membership-Promotions">here</a> for more details. <br>
   </td>
-</tr>
-<tr>
-  <td>
-    Look out for the <b>limited time membership sign-up promotion</b> for Public Officers from ministries and statutory boards only.
-  </td>
-</tr>
+  </tr>
  <tr>
     <td>
       <img src="/images/Love.jpg"/>
