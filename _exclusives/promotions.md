@@ -187,12 +187,7 @@ breadcrumb: Promotions
   </td>
 </tr>
 <tr>
-  <td colspan="1">
-    Look out for the <b>limited time membership sign-up promotion</b> for Public Officers from ministries and statutory boards only.
-  </td>
-</tr>
-<tr>
-  <td colspan="1">
+  <td colspan="2">
     <b> Civil Service Club Membership Sign-up Promotion</b>
     <br>
     <br>
