@@ -15,7 +15,9 @@ The theme for Public Sector Transformation Conference 2019 is <i><b>Redesigning 
 Hear from experts and practitioners helming service design projects and initiatives in the public and private sectors, and  gain insights about the trending developments in public service transformation efforts. 
 <br>
 <br>
-<a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881"><img src="/images/sign-up-btn.png" style="width:280px" /> 
+<!-- <a href="https://www.eventbrite.sg/e/public-service-transformation-2019-tickets-61859650881"><img src="/images/sign-up-btn.png" style="width:280px" /> -->
+
+Registration for the PST Conference is <b>FULL</b>! You can still catch the conference 'live' by tuning in to Workplace - WOG [FYI] group, or approach your PSW agency rep to enquire about conducting a ive screening at your agency on the event day.
 
 <br>
 <br>
