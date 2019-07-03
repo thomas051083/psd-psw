@@ -14,6 +14,6 @@ Interested to find out more about how Kampong Glam has gone digital? Come on thi
 
 <b><u>Details</u><br>
 **Date and Time: 9 July 2019 (Tue), 4.00pm - 5.30pm** <br>
-**Location: 10 Pasir Panjang Road, Mapletree Business City Level 4 (S117438)** <br>
+  **Location: Pixel Studios, 10 Central Exchange Green (S138649) <font color="blue">Updated!</font>** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/digital-transformation-of-kampong-glam-tickets-63643858494)** 
 
