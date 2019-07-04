@@ -19,7 +19,7 @@ Learn how to automate routine tasks, such as:
  
 All of which can be done through KANTU, a Chrome browser extension. 
 
-Join us with an internet-accessible laptop! Lunch with be provided. 
+Join us with an internet-accessible laptop! Lunch will be provided. 
 
 <b><u>Session 1</u><br>
 **Date and Time: 10 July (Wed), 12.00pm - 2.00pm** <br>
