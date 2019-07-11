@@ -59,7 +59,8 @@ Registration for the PST Conference is <b>FULL</b>! You can still catch the conf
       <li>Jane Lim, Assistant Chief Executive, IMDA<br></li>
       <li>Dominic Chan, Director, MOL, GovTech <br></li>
       <li>Eugene Toh, Director, Pro-Enterprise Division, MTI<br></li>
-      <li>Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br></li>  
+      <li>Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br></li> 
+      </ul>
     <br>
     </td>
   </tr>
@@ -77,7 +78,8 @@ Registration for the PST Conference is <b>FULL</b>! You can still catch the conf
 </table>
 <i>*More details to come. Conference programme is subject to change </i>
 <br>
-
+<br>
+<br>
 
 <!-- Speakers --> 
 <!--
