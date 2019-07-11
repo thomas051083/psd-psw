@@ -65,7 +65,7 @@ Registration for the PST Conference is <b>FULL</b>! You can still catch the conf
   </tr>
   <tr>
     <td>11.35AM - 12.00PM</td>
-    <td><b>Keynote: Sharing New Zealand's Digital Inclusion Story</b>
+    <td><b>Keynote: Sharing New Zealand's Digital Inclusion Story</b><br>
       Karl McDiarmid, General Manager of Service Innovation, Department of Internal Affairs, New Zealand<br>
     </td>
   </tr>
