@@ -37,42 +37,40 @@ Registration for the PST Conference is <b>FULL</b>! You can still catch the conf
   </tr>
   <tr>
     <td>9.30AM - 10.00AM</td>
-    <td><b>Opening: Delivering Citizen-Centric & Anticipatory Services </b><br>
+    <td><b>Opening Address </b><br>
       Leo Yip, Head of Civil Service</td>
   </tr>
   <tr>
-    <td>10.00AM - 10.50AM</td>
-    <td><b>Keynote: Implementing Service Journeys in the Public Sector</b><br> 
-    Karl McDiarmid, General Manager of Service Innovation, Department of Internal Affairs, New Zealand<br><br>
-    Frank Leyman, Manager of International Relations Digital Transformation Office, Belgium
+    <td>10.00AM - 10.25AM</td>
+    <td><b>Keynote: The Belgian Approach Towards Life Events</b><br> 
+   Frank Leyman, Manager of International Relations Digital Transformation Office, Belgium <br>
 </td>
   </tr>
   <tr>
-    <td>10.50AM-11.10AM</td>
-    <td><b>Transforming Service Delivery Effectively Using the Squad-Delivery Model</b><br>
+    <td>10.25AM-10.45AM</td>
+    <td><b>Keynote: Transforming Service Delivery with Multi-disciplinary Teams</b><br>
     Bojan Blecic, Senior VP, Head Experience Design, OCBC Bank
 </td>
   </tr>
   <tr>
-    <td>11.10AM - 11.50AM</td>
-    <td><b>Cross-Agency Panel Sharing</b><br>
-    <br>
-    The Value of Adopting Service Journey Practices in Singapore’s Public Sector – Why Service Journeys for SG Government? <br>
-    Dominic Chan, Director, MOL, GovTech <br>
-    <br>
-    Implementing Service Journeys at Work: An Agency Perspective<br>
-    Eugene Toh, Director, Pro-Enterprise Division, MTI<br>
-    <br>
-    The Economic Value of Service Design: A National Perspective<br>
-    Jane Lim, Assistant Chief Executive, IMDA<br>
-    <br>
-    How the Service Journey Approach Can Work for You: An Organisation Perspective<br>
-    Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br>
+    <td>10.45AM - 11.35AM</td>
+    <td><b>Cross-Agency Panel Sharing & Discussion: The Value of Adopting a Life-Moment Approach for Citizen-Centric Services</b><br>
+    <br><ul>
+      <li>Jane Lim, Assistant Chief Executive, IMDA<br></li>
+      <li>Dominic Chan, Director, MOL, GovTech <br></li>
+      <li>Eugene Toh, Director, Pro-Enterprise Division, MTI<br></li>
+      <li>Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br></li>  
     <br>
     </td>
   </tr>
   <tr>
-    <td>11.50AM - 12.00PM</td>
+    <td>11.35AM - 12.00PM</td>
+    <td><b>Keynote: Sharing New Zealand's Digital Inclusion Story</b><br>
+      Karl McDiarmid, General Manager of Service Innovation, Department of Internal Affairs, New Zealand<br>
+    </td>
+  </tr>
+  <tr>
+    <td>12.00PM - 12.10PM</td>
     <td><b>Closing: The Journey Ahead</b><br>
        Kok Ping Soon, Chief Executive, GovTech</td>
   </tr>
