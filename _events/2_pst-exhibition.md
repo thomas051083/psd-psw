@@ -12,12 +12,10 @@ collection_name: events
 **Venue:** <a href="https://www.pa.gov.sg/our-network/our-tampines-hub/contact-us">Community Auditorium, Our Tampines Hub</a>
 <br>
 <br>
-
 As public officers, our work impacts the everyday lives of Singaporeans and this includes our family, friends, and not least ourselves. However, are we familiar with the various government services available at each life stage?
 <br>
 <br>
 This year, a unique and different Public Sector Transformation (PST) Exhibition brings you through everyday questions and issues across the minds of Singaporeans at key moments in their life.  
-<br>
 <br>
 Don’t miss out on this opportunity to stay updated with the latest across the Public Service and at the same time to connect with old friends! <br>
 <br>
@@ -142,7 +140,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 			Food Services Pilot
 		</td>
 		<td>
-			Business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, processes are reviewed and streamlined to make the experience smoother for business own.
+			Business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, processes are reviewed and streamlined to make the experience smoother for business owners.
 		</td>
 	</tr>
 	<tr>
