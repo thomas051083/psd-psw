@@ -6,10 +6,10 @@ breadcrumb: PST Exhibition
 collection_name: events
 ---
 ### Public Sector Transformation Exhibition
-![PST Exhibition](/images/1.jpg)
+![PST Exhibition](/images/Highres Map.png)
 
 **Time and Date:** 17 & 18 July 2019, 9:00am - 6:00pm<br>
-**Venue:** Community Auditorium, Our Tampines Hub
+**Venue:** <a href="https://www.pa.gov.sg/our-network/our-tampines-hub/contact-us">Community Auditorium, Our Tampines Hub</a>
 <br>
 <br>
 
@@ -42,7 +42,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Active Health
 		</td>
 		<td>
-			A national social movement to spur Singaporeans to take ownership of their health and wellness and help one another meet their goals, and to celebrate living together.
+			A national movement to spur Singaporeans to take ownership of their health and wellness; help one another meet their goals; and to celebrate living together. 
 		</td>
 	</tr>
 	<tr>
@@ -50,7 +50,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Future Outpatient Journey
 		</td>
 		<td>
-			Visits to public health institutions can be time consuming, confusing and tedious. Find out how we can make patients’ visits more pleasant and assuring through prototypes and experiments.
+			Visits to public health institutions can be time consuming, confusing and tedious. This Service Journey shows how agencies worked together to better support caregivers, and make patients’ visits more pleasant and assuring through prototyping and experimentation.
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Bouncing Back from Retrenchment
 		</td>
 		<td>
-			How we identify citizens’ needs and provide a seamless experience between job-seeking and skills upgrading.
+			Recognising the needs of working adults, especially those out of work, agencies worked together to provide a seamless experience between job-seeking and skills upgrading.
 		</td>
 	</tr>
 	<tr>
@@ -72,7 +72,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Entering Parenthood
 		</td>
 		<td>
-			Understand the joys and benefits of being a parent, through financial aid for your child from birth to school.
+			Citizens’ journey to becoming a parent is made less challenging through the Moments of Life (MOL) Application, which streamlined processes from registering a child’s birth, collecting baby bonus through to applying for a child’s library membership.
 		</td>
 	</tr>
 	<tr>
@@ -80,7 +80,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Supporting a Child in School
 		</td>
 		<td>
-			Enjoy the ease of browsing through information on the offerings and pedagogy of our education system
+			The “Parents Gateway” makes it easy and convenient for parents to stay informed on their child’s education journey and interact with their child’s school. 
 		</td>
 	</tr>
 	<tr>
@@ -94,7 +94,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Active Ageing
 		</td>
 		<td>
-			Find out how our seniors get to navigate through multiple active ageing programmes across agencies, and check on different government schemes/benefits through one common platform.
+			The MOL Active Ageing application adopts citizen centric messaging to help seniors access multiple active ageing programmes across agencies and check on different government schemes/benefits through one common platform.
 		</td>
 	</tr>
 	<tr>
@@ -102,7 +102,7 @@ Get to understand and be part of seven main service journeys of a typical Singap
 			Leaving a legacy
 		</td>
 		<td>
-			Find out how the Public Service is helping citizens plan ahead so that they don’t burden their loved ones when they pass on.
+			The Leaving a Legacy Service Journey brought together stakeholders from both private and public sectors to co-deliver resources and services, helping citizens plan ahead for their passing. 
 		</td>
 	</tr>
 </table>
@@ -118,7 +118,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 			National Service
 		</td>
 		<td>
-			Want a faster IPPT pay out? Find out more about the immediate payment of IPPT incentives to NSmen at Fitness Conditioning Centres through PayNow, part of efforts to make government-to-citizen payments more efficient.
+			National Service (NS) is the cornerstone of Singapore’s defence and security. Our national servicemen form the backbone of the Uniformed Services that keep Singapore safe and secure. There are various stages along the NS journey, from Pre-enlistment to becoming an Operationally Ready National Serviceman, each with its own set of processes and challenges. Using the Pre-enlistment journey as an example, MINDEF will showcase how they went about enhancing the Pre-enlistees’ experience as well as an interactive showcase of initiatives to enhance the NS experience.
 		</td>
 	</tr>
 	<tr>
@@ -126,7 +126,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 			Our RAMP-Up in Helping Needy Citizens
 		</td>
 		<td>
-			Check out how the CPF Board has reached out to the Ministry of Social and Family Development (MSF) to create a desired streamlined Service Journey for citizens with financial difficulties who need help from the government thereby easing their pressing financial needs.
+			CPF Board, together with Ministry of Social and Family Development (MSF) worked on addressing appeals for early withdrawal of CPF monies by citizens with financial difficulties. 
 		</td>
 	</tr>
 	<tr>
@@ -134,7 +134,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 			Volunteerism
 		</td>
 		<td>
-			Need more volunteers for your agency? Interested to find like-minded people to join the causes you want to start? And if you are interested to be a volunteer, how do you find volunteering opportunities?
+			Multiple agencies worked together to develop Volunteer.sg, which addresses the common need of agencies to recruit, manage and engage volunteers, as well as for volunteers to gain access to a wider range of volunteer opportunities and find like-minded people. This project also provided insights on how government can help facilitate and encourage more to volunteer. 
 		</td>
 	</tr>
 	<tr>
@@ -142,7 +142,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 			Food Services Pilot
 		</td>
 		<td>
-			Business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, find out how the processes had been reviewed and streamlined the processes to make the experience smoother for business owners.
+			Business owners have to navigate a whole range of licenses, permits and other regulatory matters. As all the regulations are necessary, processes are reviewed and streamlined to make the experience smoother for business own.
 		</td>
 	</tr>
 	<tr>
@@ -150,7 +150,7 @@ Other than the seven main Service Journeys, there are five other Subsidiary Jour
 			Rental of State Land
 		</td>
 		<td>
-			Learn how 10 agencies have collaborated! (i.e. SLA, PSD, PUB, JTC, NEA, NParks, HDB, SportSG, MOF, and URA) They reviewed and streamlined the fees, processes and service standards so as to collectively achieve reduction in regulatory time and cost for the processing of TOL applications across these agencies.
+			10 agencies collaborated, reviewed and streamlined the fees, processes and services standards to collectively reduce regulatory time and cost for the processing of Temporary Occupation Licensing applications across these agencies.
 		</td>
 	</tr>
 </table>
