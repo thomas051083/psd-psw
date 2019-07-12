@@ -55,12 +55,11 @@ Registration for the PST Conference is <b>FULL</b>! You can still catch the conf
   <tr>
     <td>10.45AM - 11.35AM</td>
     <td><b>Cross-Agency Panel Sharing & Discussion: The Value of Adopting a Life-Moment Approach for Citizen-Centric Services</b><br>
-    <br><ul>
-      <li>Jane Lim, Assistant Chief Executive, IMDA<br></li>
-      <li>Dominic Chan, Director, MOL, GovTech <br></li>
-      <li>Eugene Toh, Director, Pro-Enterprise Division, MTI<br></li>
-      <li>Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br></li> 
-      </ul>
+    <br>
+      Jane Lim, Assistant Chief Executive, IMDA<br>
+      Dominic Chan, Director, MOL, GovTech <br>
+      Eugene Toh, Director, Pro-Enterprise Division, MTI<br>
+      Tan Chia Han, Assistant Commissioner of Police, Singapore Police Force Seconded to Lazada<br>
     <br>
     </td>
   </tr>
