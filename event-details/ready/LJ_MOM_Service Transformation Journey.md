@@ -21,4 +21,9 @@ Interested in hearing from the Ministry of Manpower (MOM) on how they have used 
 **Date and Time: 12 July (Fri), 3.00pm - 5.30pm** <br>
 **Location: 1500 Bendemeer Road (S339946), Ministry of Manpower Services Centre** <br>
 **Indicate Your Interest [Here](https://www.eventbrite.sg/e/the-ministry-of-manpowers-mom-service-transformation-journey-2nd-run-tickets-62125724715)** 
+
+<b><u>Session 3</u><br>
+**Date and Time: 24 July (Wed), 3.00pm - 5.30pm** <br>
+**Location: 1500 Bendemeer Road (S339946), Ministry of Manpower Services Centre** <br>
+**Indicate Your Interest [Here](https://www.eventbrite.sg/e/the-ministry-of-manpowers-mom-service-transformation-journey-4th-run-tickets-64298751296)** 
   
