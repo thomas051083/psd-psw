@@ -6,7 +6,7 @@ breadcrumb: Learning Journey
 ---
 
 ## Learning Journey 
-### Ministry of Manpower's (MOM) Service Transformation Journey <font color="red"> (FULL)</font>
+### Ministry of Manpower's (MOM) Service Transformation Journey 
 
 ###### _#Innovate_
 
