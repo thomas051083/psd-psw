@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: PSSFD - Dragon Boat
+title: 'PSSFD - Dragon Boat'
 permalink: events/sports-and-family-day/event-details/dragon-boat
-breadcrumb: Sports and Family Day
+breadcrumb: 'Sports and Family Day'
+
 ---
+
 
 ## Public Service Sports and Family Day 2019
 ### Dragon Boat

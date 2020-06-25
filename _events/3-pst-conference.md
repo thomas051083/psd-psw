@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: PST Conference
+title: 'PST Conference'
 permalink: /events/pst-conference/
-breadcrumb: PST Conference
-collection_name: events
+breadcrumb: 'PST Conference'
+
 ---
+
 
 ### PST Conference
 ![PST Conference](/images/Conference_Banner.png)

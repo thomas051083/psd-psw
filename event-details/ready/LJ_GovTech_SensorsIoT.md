@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LJ_sensoriot
-breadcrumb: Learning Festival
+breadcrumb: 'Learning Festival'
+
 ---
+
 
 ## Learning Journey 
 ### Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact <font color="red"> (FULL) </font>

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: PSSFD - Bell Boating and Kayaking Try Outs
-permalink: events/sports-and-family-day/event-details/bell-boating-&-kayaking-try-outs
-breadcrumb: Sports and Family Day
+title: 'PSSFD - Bell Boating and Kayaking Try Outs'
+permalink: 'events/sports-and-family-day/event-details/bell-boating-&-kayaking-try-outs'
+breadcrumb: 'Sports and Family Day'
+
 ---
+
 
 ## Public Service Sports and Family Day 2019
 ### Bell Boating and Kayaking Try Outs

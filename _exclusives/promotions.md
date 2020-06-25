@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Promotions
 permalink: /promotions/
 breadcrumb: Promotions
+
 ---
+
 ### Promotions
 
 <table>

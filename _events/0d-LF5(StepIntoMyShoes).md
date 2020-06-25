@@ -1,20 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Step Into My Shoes
+title: 'Step Into My Shoes'
 permalink: /events/psw-learning-festival/step-into-my-shoes
-breadcrumb: Step Into My Shoes
-collection_name: events
-second_nav_title: "Learning Festival"
----
+breadcrumb: 'Step Into My Shoes'
+third_nav_title: 'Learning Festival'
 
-<!--
 ---
-layout: simple-page
-title: learning festival
-permalink: /learning-festival/step-into-my-shoes
-breadcrumb: Learning Festival
----
--->
 ### Step Into My Shoes
 
 <table>

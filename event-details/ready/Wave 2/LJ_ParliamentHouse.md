@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
-permalink: /events/learning-journeys/event-details/LJ_ ParliamentHouse
-breadcrumb: Learning Journey
+title: 'Learning Festival 1-19 July 2019'
+permalink: '/events/learning-journeys/event-details/LJ_ ParliamentHouse'
+breadcrumb: 'Learning Journey'
+
 ---
+
 
 ## Learning Journey 
 ### Learning Journey to the Parliament House

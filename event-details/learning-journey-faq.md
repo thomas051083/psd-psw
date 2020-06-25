@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: FAQ
 permalink: events/learning-festival/faq
-breadcrumb: Learning Festival
+breadcrumb: 'Learning Festival'
+
 ---
+
 # Frequently Asked Questions 
 ## Learning Journeys and Activities
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LJ_CcSOTB
-breadcrumb: Learning Journey
+breadcrumb: 'Learning Journey'
+
 ---
+
 
 ## Learning Journey 
 ### Citizen-Centric Services at Our Tampines Hub (OTH) <font color="red"> (FULL) </font>

@@ -1,17 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Digital Learning
+title: 'Digital Learning'
 permalink: /events/psw-learning-festival/digital-learning
 breadcrumb: digital-learning
-collection_name: events
-second_nav_title: "Learning Festival"
+third_nav_title: 'Learning Festival'
+
 ---
-<!---
-layout: simple-page
-title: learning festival
-permalink: /learning-festival/digital-learning
-breadcrumb: Learning Festival
--->
 
 ### Digital Learning
 #### Live Hangout @ [[ WOG ] FYI](https://onepublicservice.facebook.com/groups/wogfyi) on Workplace 23 July 5 pm 

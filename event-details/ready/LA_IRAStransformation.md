@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LA_IRASTransformation
-breadcrumb: Learning Activity
+breadcrumb: 'Learning Activity'
+
 ---
+
 
 ## Learning Activity
 ### Inland Revenue Authority of Singapore's Transformation Journey <font color="red"> (FULL)</font>

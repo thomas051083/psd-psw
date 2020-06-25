@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: FAQ
 permalink: events/learning-festival/faq-step-into-my-shoes
-breadcrumb: Learning Festival
+breadcrumb: 'Learning Festival'
+
 ---
+
 # Frequently Asked Questions
 ## Step Into My Shoes Attachment
 

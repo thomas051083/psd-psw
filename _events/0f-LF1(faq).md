@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: FAQ
 permalink: /events/psw-learning-festival/faq
 breadcrumb: FAQ
-collection_name: events
-second_nav_title: "Learning Festival"
+third_nav_title: 'Learning Festival'
+
 ---
+
 
 ## Public Service Week 2019 Learning Festival
 

@@ -1,37 +1,11 @@
-# Top to Bottom --> Left to Right
-# Second tier for menu bar --> include 'sub-links:'
-# Take note of indentations
-  
-- title: What is PSW
-  url: /what-is-psw/
-- title: Events
-  url: /events/psw-learning-festival/1-6-july
-  sub-links:
-  - title: Learning Festival
-    url: /events/psw-learning-festival/1-6-july
-  - title: Istana Reception
-    url: /events/istana-reception/
-  - title: Awards Reception
-    url: /events/awards-reception/
-  - title: PST Conference
-    url: /events/pst-conference/
-  - title: PST Exhibition
-    url: /events/pst-exhibition/
-  - title: Sports and Family Day
-    url: "https://www.csc.sg/sportsday/Default.aspx"
-- title: Promotions
-  url: /Promotions/
+logo: /images/PSW_Logo.png
+links:
+  - title: What is PSW
+    url: /what-is-psw/
+  - title: Lishi
+    collection: lishi-test
+  - title: Xue Yan
+    collection: xueyan
+  - title: Yusri
+    collection: yusri-test
 
-
-#- title: News
-#  url: /news/
-#  sub-links:
-#  - title: All
-#    url: /news/
-#  - title: News
-#    url: /news/news/
-#  - title: Publications
-#    url: /news/publications/
-
-- title: Contact Us
-  url: /contact-us/

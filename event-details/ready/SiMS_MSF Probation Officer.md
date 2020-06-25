@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/MaDaaPO
-breadcrumb: Step into My Shoes
+breadcrumb: 'Step into My Shoes'
+
 ---
+
 
 ## Step into My Shoes 
 ### Making a Difference as a Probation Officer by the Ministry of Social and Family Development
