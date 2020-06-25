@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LJ_DK
-breadcrumb: Learning Journey
+breadcrumb: 'Learning Journey'
+
 ---
+
 ## Learning Journey
 ### Visit to Dignity Kitchen <font color="red"> (FULL)</font>
 
