@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LJ_SGOEngage
-breadcrumb: Learning Journey
+breadcrumb: 'Learning Journey'
+
 ---
+
 
 ## Learning Journey
 ### Touching Lives, Honouring our Seniors – Engaging our Seniors through House Visits by Silver Generation Office (SGO)
