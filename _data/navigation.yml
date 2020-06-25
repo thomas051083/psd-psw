@@ -6,6 +6,7 @@
   url: /what-is-psw/
 - title: Events
   url: /events/psw-learning-festival/1-6-july
+  false_collection: true
   sub-links:
   - title: Learning Festival
     url: /events/psw-learning-festival/1-6-july
