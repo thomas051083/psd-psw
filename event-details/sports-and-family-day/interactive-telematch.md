@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: PSSFD - Interactive Telematch
+title: 'PSSFD - Interactive Telematch'
 permalink: events/sports-and-family-day/event-details/interactive-telematch
-breadcrumb: Sports and Family Day
+breadcrumb: 'Sports and Family Day'
+
 ---
+
 
 ## Public Service Sports and Family Day 2019
 ### Interative Telematch
