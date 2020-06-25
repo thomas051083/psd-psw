@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LJ_NationalGalleryGamification
-breadcrumb: Learning Journey
+breadcrumb: 'Learning Journey'
+
 ---
+
 
 ## Learning Journey
 ### Transforming Visitors into Players: Enhancing Citizen Engagement Through Games at the National Gallery Singapore <font color="red"> (FULL)</font>
