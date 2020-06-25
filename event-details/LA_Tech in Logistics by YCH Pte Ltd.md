@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LA_TiLbyYCH
-breadcrumb: Learning Activity
+breadcrumb: 'Learning Activity'
+
 ---
+
 
 ## Learning Activity
 ### Tech in Logistics by YCH Pte Ltd
