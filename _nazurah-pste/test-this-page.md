@@ -2,6 +2,7 @@
 title: Test This Page
 permalink: /nazurah/test-page/
 ---
+
 # 25 Jun 2020
 
 Thursday, 1 day away from **TGIF**.
@@ -9,6 +10,9 @@ Thursday, 1 day away from **TGIF**.
 
 ## Almost the end of June
 
-:O 
+> Phase 2
+> Noon soon
 
-> Have not had my bubble tea since Phase 2
+|Column 1|C2  | C3|
+|--|--|--|
+|  Row 2 content|Row 2 column 2  |None
