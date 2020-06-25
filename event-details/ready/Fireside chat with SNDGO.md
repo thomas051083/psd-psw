@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LC_FC_SNDGO
-breadcrumb: Learning Activity
+breadcrumb: 'Learning Activity'
+
 ---
+
 
 ## Learning Activity
 ### Fireside Chat with Ng Chee Khern, Permanent Secretary (Smart Nation and Digital Government)(Prime Minister’s Office)  <font color="red"> (FULL) </font>
