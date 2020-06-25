@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/IRAS2
-breadcrumb: Step into My Steps
+breadcrumb: 'Step into My Steps'
+
 ---
+
 
 ## Step into My Shoes 
 ### Be Transformational. Make Your Mark. Create An Impact. 

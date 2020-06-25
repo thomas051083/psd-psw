@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: FAQ
 permalink: events/pst-conference/faq
-breadcrumb: PST Conference
+breadcrumb: 'PST Conference'
+
 ---
+
 
 ### Registration
 <ol type="1">

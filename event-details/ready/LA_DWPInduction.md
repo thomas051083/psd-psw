@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LA_DWP
-breadcrumb: Learning Activity
+breadcrumb: 'Learning Activity'
+
 ---
+
 
 ## Learning Activity
 ### Digital Workplace (DWP) Induction Workshop <font color="blue"> (NEW RUN ADDED!) </font>

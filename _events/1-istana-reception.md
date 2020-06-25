@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Istana Reception
+title: 'Istana Reception'
 permalink: /events/istana-reception/
-breadcrumb: Istana Reception
-collection_name: events
+breadcrumb: 'Istana Reception'
+
 ---
+
 ### Istana Reception
 
 ![Istana](/images/PSW Microsite Pictures-02.png)

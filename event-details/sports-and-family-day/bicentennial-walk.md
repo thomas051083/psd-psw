@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: PSSFD - Bicentennial Walk
+title: 'PSSFD - Bicentennial Walk'
 permalink: events/sports-and-family-day/event-details/bicentennial-walk
-breadcrumb: Sports and Family Day
+breadcrumb: 'Sports and Family Day'
+
 ---
+
 
 ## Public Service Sports and Family Day 2019
 ### Bicentennial Walk

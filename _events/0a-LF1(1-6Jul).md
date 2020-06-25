@@ -1,20 +1,11 @@
 ---
-layout: leftnav-page-content
-title: 1 - 6 July
+title: '1 - 6 July'
 permalink: /events/psw-learning-festival/1-6-july
-breadcrumb: 1 - 6 July
-collection_name: events
-second_nav_title: "Learning Festival"
+breadcrumb: '1 - 6 July'
+third_nav_title: 'Learning Festival'
+
 ---
 
-<!--
----
-layout: simple-page
-title: learning festival
-permalink: /learning-festival/1-6-july
-breadcrumb: Learning Festival
----
--->
 ### Week of 1 - 6 July
 
 <font color="orangered"><i><b>Wave 3 Registration will commence WEDNESDAY 3 July 2019, 9:00hrs. New Learning Journeys and Activities, as well as additional runs, may be added, so do keep a look out for those coming soon!</b></i></font>

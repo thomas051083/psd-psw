@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Awards Reception
+title: 'Awards Reception'
 permalink: /events/awards-reception/
-breadcrumb: Awards Reception
-collection_name: events
+breadcrumb: 'Awards Reception'
+
 ---
+
 
 ### PST Awards Reception
 

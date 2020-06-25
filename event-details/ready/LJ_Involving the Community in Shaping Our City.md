@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Learning Festival 1-19 July 2019
+title: 'Learning Festival 1-19 July 2019'
 permalink: /events/learning-journeys/event-details/LJ_ItCiSOCT
-breadcrumb: Learning Journey
+breadcrumb: 'Learning Journey'
+
 ---
+
 
 ## Learning Journey 
 ### Involving the Community in Shaping Our City Together <font color="red"> (FULL)</font>

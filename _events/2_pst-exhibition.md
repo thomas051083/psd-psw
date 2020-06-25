@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: PST Exhibition
+title: 'PST Exhibition'
 permalink: /events/pst-exhibition/
-breadcrumb: PST Exhibition
-collection_name: events
+breadcrumb: 'PST Exhibition'
+
 ---
+
 ### Public Sector Transformation Exhibition
 ![PST Exhibition](/images/Highres Map.png)
 

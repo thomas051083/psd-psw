@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sports and Family Day
-permalink: https://www.csc.sg/sportsday/Default.aspx
-breadcrumb: Sports and Family Day
-collection_name: events
+title: 'Sports and Family Day'
+permalink: 'https://www.csc.sg/sportsday/Default.aspx'
+breadcrumb: 'Sports and Family Day'
+
 ---
+
 
 ### Sports and Family Day
 
