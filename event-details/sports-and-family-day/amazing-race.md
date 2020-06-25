@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: PSSFD - Amazing Race
+title: 'PSSFD - Amazing Race'
 permalink: events/sports-and-family-day/event-details/amazing-race
-breadcrumb: Sports and Family Day
+breadcrumb: 'Sports and Family Day'
+
 ---
+
 
 ## Public Service Sports and Family Day 2019
 ### Amazing Race
