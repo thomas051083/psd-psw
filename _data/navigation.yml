@@ -2,10 +2,10 @@ logo: /images/PSW_Logo.png
 links:
   - title: What is PSW
     url: /what-is-psw/
-  - title: Lishi
-    collection: lishi-test
-  - title: Xue Yan
-    collection: xueyan
-  - title: Yusri
-    collection: yusri-test
+  - title: Events
+    collection: Events_2020
+  - title: Promotions
+    collection: Promotions_2020
+  - title: Contact Us
+    url: /contact-us/
 
