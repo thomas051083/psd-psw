@@ -1,22 +1,22 @@
 ---
 layout: homepage
-title: 'Public Service Week 2019'
+title: 'Public Service Week 2020'
 permalink: /
 notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
 sections:
   - hero:
-      title: 'Public Service Week 2019'
-      subtitle: 'Public Service Week is an annual event to create a greater appreciation for the work of the Public Service while inspiring public officers to live out her values and ethos. Public Service Week 2019 will run from 15 to 21 July 2019.'
+      title: 'Public Service Week 2020'
+      subtitle: 'Public Service Week is an annual event to create a greater appreciation for the work of the Public Service while inspiring public officers to live out her values and ethos. Public Service Week 2020 will run from 8 - 31 October.'
       background: '/images/Collage PSW 3-02.jpg'
       button: 'Learn More'
       url: /what-is-psw/
       key_highlights:
         - title: 'Learning Festival'
-          url: /events/psw-learning-festival/1-6-july
-        - title: Exhibition
-          url: /events/pst-exhibition/
-        - title: Conference
-          url: /events/pst-conference/
+          url: /events/pswlf-2020
+        - title: 'Public Service Conference'
+          url: /events/psc-2020
+        - title: 'Public Sector Transformation Awards Celebration'
+          url: /events/pstac-2020/
 
 ---
 
