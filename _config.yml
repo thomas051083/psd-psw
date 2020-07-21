@@ -13,21 +13,9 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 
 collections:
-    events:
+    events-2020:
         output: true
-    exclusives:
-        output: true
-    CF-test:
-        output: true
-    lishi-test:
-        output: true
-    nazurah-pste:
-        output: true
-    xueyan:
-        output: true
-    yusri-test:
-        output: true
-
+    
 resources_name: news
 favicon: /images/PSW_Logo.png
 google-analytics: UA-40876833-17
