@@ -3,9 +3,9 @@ links:
   - title: What is PSW
     url: /what-is-psw/
   - title: Events
-    collection: Events_2020
+    collection: events-2020
   - title: Exclusives
-    collection: Exclusives_2020
+    url: /exclusives-2020/
   - title: Contact Us
     url: /contact-us/
 
