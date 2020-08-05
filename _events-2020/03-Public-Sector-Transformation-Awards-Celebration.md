@@ -1,7 +1,7 @@
 ---
 title: 'Public Sector Transformation Awards Celebration'
-permalink: /events/pstac-2020
-breadcrumb: 'PSTAC2020'
+permalink: /pstac-2020
+
 
 ---
 
