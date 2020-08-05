@@ -1,6 +1,6 @@
 ---
 title: 'One Public Service Observance Ceremony'
-permalink: /events/opsoc-2020
+permalink: /opsoc-2020
 breadcrumb: 'OPSOC2020'
 
 ---
