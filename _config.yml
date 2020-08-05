@@ -13,7 +13,7 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 
 collections:
-    events-2020:
+    pswlf-2020:
         output: true
     
 resources_name: news
