@@ -13,7 +13,7 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 
 collections:
-    pswlf-2020:
+    01-Public-Service-Week-Learning-Festival:
         output: true
     
 resources_name: news
