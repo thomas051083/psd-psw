@@ -1,7 +1,6 @@
 ---
 title: 'One Public Service Observance Ceremony'
 permalink: /opsoc-2020
-breadcrumb: 'OPSOC2020'
 
 ---
 
