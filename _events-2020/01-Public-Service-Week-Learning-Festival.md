@@ -1,6 +1,6 @@
 ---
 title: 'Public Service Week Learning Festival'
-permalink: /events/pswlf-2020
+permalink: /pswlf-2020
 breadcrumb: 'PSWLF2020'
 
 ---
