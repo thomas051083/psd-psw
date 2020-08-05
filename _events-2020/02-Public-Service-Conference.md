@@ -1,7 +1,7 @@
 ---
 title: 'Public Service Conference'
-permalink: /events/psc-2020
-breadcrumb: 'PSC2020'
+permalink: /psc-2020
+
 
 ---
 
