@@ -5,7 +5,7 @@ permalink: /_pswlf-2020/pswlf-tab-test
 # [Lishi is Testing] LEARNING FESTIVAL 2020
 FLEX YOUR LEARNING MUSCLES AT OUR VIRTUAL GYM 
 
-![Flex Your Learning Muscles](/images/pswlflearningmuscles.svg "Virtual Gym")
+![Flex Your Learning Muscles](/images/pswlflearningmuscles.png "Virtual Gym")
 
 
 ## Event aims to
