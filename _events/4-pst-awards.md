@@ -6,22 +6,22 @@ breadcrumb: 'Awards Reception'
 ---
 
 
-### PST Awards Reception
+## PST Awards Celebration
+
 
 ![Events](/images/PSW Microsite Pictures-01.png)
 
-**Time and Date:** 19 July 2019, 2:30pm - 6:00pm
-<br>
-**Venue:** Gardens by the Bay, Flower Field Hall
-<br>
-*The Awards Reception is a by-invitation event.*
-<br>
-<br>
-The Public Sector Transformation Awards is a Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The Awards are aligned with the focus areas of this phase of Public Sector Transformation. 
-<br>
-<br>
-The Awards that will be given out at the Reception are:<br>
-<ul>
+The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The Awards are aligned with the focus areas of this phase of PST. 
+
+### Let's show our support for the PST Awards winners!
+**Time and Date:** 21 October 2020, 3.30pm - 4.30pm
+**Online Platform:** YouTube
+**Registration Link:** (placeholder)
+*The Awards Celebration is open to all officers. The YouTube link will be sent upon confirmation of your registration.*
+
+
+80 winners from the following Award categories will be recognised at this PST Awards Celebration:<br>
+
   <li>One Public Service Award</li>
 
   <li>Star Partner Award</li>
@@ -33,8 +33,6 @@ The Awards that will be given out at the Reception are:<br>
   <li>Regulatory Excellence Award</li>
 
   <li>Business Transformation Award</li>
-
-  <li>Workforce Transformation Award</li>
 
   <li>Transformative Agency of The Year Award</li>
 
