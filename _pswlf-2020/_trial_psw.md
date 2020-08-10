@@ -4,5 +4,5 @@ permalink: _pswlf-2020/_trial_psw.md
 ---
 Testing page for PSW
 
-![Good things](images/pswtrial.png)
+![Good things](psd-psw/images/"pswtrial.png")
 
