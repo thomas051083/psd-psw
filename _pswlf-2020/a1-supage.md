@@ -1,7 +1,7 @@
 ---
-title: 'a1-subpage'
-permalink: /pswlf-2020/a1-subpage
-breadcrumb: 'a1-subpage'
+title: 'All Workouts'
+permalink: /pswlf-2020/all-workouts
+breadcrumb: 'all-workouts'
 
 ---
 
