@@ -46,10 +46,10 @@ test
 </table>
 
 ##### **LEARN modules**
-<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-<ul><li> [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)</li>
-<li>[Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/226)</li>
-<li>[Blending Design Thinking, Lean and Agile in the workplace](https://www.learn.gov.sg/dlp/student/course/28620)</li></ul></font>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
+- <font size="4"> [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)</font>
+- <font size="4"> [Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/226)</font>
+- <font size="4"> [Blending Design Thinking, Lean and Agile in the workplace](https://www.learn.gov.sg/dlp/student/course/28620)</font>
     
 - [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
 - [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
