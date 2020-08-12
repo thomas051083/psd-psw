@@ -6,7 +6,6 @@ third_nav_title: All Workouts
 ### **Our Core Competencies in Action**
 {: .no_toc}
 - TOC
-{:toc}
 
 ### <font color="orangered"><b>About Our Core Competencies</b></font>
 Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well.
