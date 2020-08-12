@@ -51,8 +51,8 @@ test1
 <ul><li><font size="4"> [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)</font></li></ul>
 
 test 2
-<font size="4"></ul><li><a href= Analytics Driven Government- The New Normal "https://www.learn.gov.sg/dlp/student/course/226"</a></li></ul>
-- <font size="4"> [Blending Design Thinking, Lean and Agile in the workplace](https://www.learn.gov.sg/dlp/student/course/28620)</font>
+<font size="4"></ul><li><a href="https://www.learn.gov.sg/dlp/student/course/226" Analytics Driven Government- The New Normal</a></li>
+<li><a href="https://www.learn.gov.sg/dlp/student/course/28620" Blending Design Thinking, Lean and Agile in the workplace</a></li></ul></font>
     
 - [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
 - [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
