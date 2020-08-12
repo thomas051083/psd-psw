@@ -5,7 +5,7 @@ permalink: _pswlf-2020/faqs
 
 ## Frequently Asked Questions
 
-### **<ins>General</ins>**
+#### **<ins>General</ins>**
 
 #### **1. Where will PSW Learning Festival be held?**
 PSW Learning Festival will be going fully virtual this year!
@@ -16,7 +16,7 @@ The Learning Sessions are complimentary for all public officers to attend upon s
 #### **3. Do I have to be a public officer to attend the Learning Session?**
 Yes. The Learning Sessions are only open to public officers, and you are required to register using your work email address. 
 
-### **<ins>LEARN Accounts</ins>**
+#### **<ins>LEARN Accounts</ins>**
 
 #### **4. My agency does not have a LEARN account. How can I sign up for an account and is it free?** 
 For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account (https://form.gov.sg/5f33480010b0550011da45ff). We will email you with more information upon confirmation. 
@@ -30,7 +30,7 @@ Registration is via Eventbrite, on a first-come, first-served basis. Please refe
 Eventbrite is an online internet-based platform which provides event management and ticketing technology.
 
 #### **7. How do I know if my registration is successful?**
-If your registration is successful, you will receive an automated confirmation email from Eventbrite with the session details. For any enquiries, you can contact us at CSCOLLEGE_PSW@cscollege.gov.sg. 
+If your registration is successful, you will receive an automated confirmation email from Eventbrite with the session details. For any enquiries, you can contact us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>. 
 
 #### **8. When is the registration period?**
 Registration for each Learning Session is based on a first-come, first-served basis and will close once it has reached full capacity.
@@ -55,7 +55,7 @@ For any further questions and information, please email to the respective contac
 
 Breakout Sessions for Directors and above: <Require Jenny to provide contact>
 
-Learning Sessions:  CSCOLLEGE_PSW@cscollege.gov.sg
+Learning Sessions:  <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>
 
 
 ### We wish you a beneficial learning experience!
