@@ -14,8 +14,13 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ![OCC Running Man](/images/occrunningman.png)
 
 ### <font color="orangered"><b>Learning Activities</b></font>
-- TOC
-{toc}
+test
+- [<font color="orange"><b>1. Thinking Clearly and Making Sound Judgements</b></font>](#-font-color--orange---b-1-thinking-clearly-and-making-sound-judgements--b---font-)
+- [<font color="orange"><b>2. Serving with Heart, Commitment and Purpose</b></font>](#-font-color--orange---b-2-serving-with-heart--commitment-and-purpose--b---font-)
+- [<font color="orange"><b>3. Working as One Public Service</b></font>](#-font-color--orange---b-3-working-as-one-public-service--b---font-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 #### <font color="orange"><b>1. Thinking Clearly and Making Sound Judgements</b></font>
 <table>
