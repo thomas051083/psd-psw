@@ -8,15 +8,15 @@ third_nav_title: All Workouts
 - TOC
 {:toc}
 
-### <font color="orange">**About Our Core Competencies**</font>
+### <font color="orange"><b>About Our Core Competencies</b></font>
 Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well.
 <br><br>
 As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
 
 ![OCC Running Man](/images/occrunningman.png)
 
-### Learning Activities
-#### 1. Thinking Clearly and Making Sound Judgements
+### <font color="orange"><b>Learning Activities</b></font>
+#### <font color="orange"><b>1. Thinking Clearly and Making Sound Judgements</b></font>
 <table>
 <tr>
     <td>
@@ -42,7 +42,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </tr>  
 </table>
 
-#### 2. Serving with Heart, Commitment and Purpose
+#### <font color="orange"><b>2. Serving with Heart, Commitment and Purpose</b></font>
 <table>
 <tr>
     <td>
@@ -69,7 +69,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 
 
-#### 3. Working as One Public Service
+#### <font color="orange"><b>3. Working as One Public Service</b></font>
 <table>
 <tr>
     <td>
