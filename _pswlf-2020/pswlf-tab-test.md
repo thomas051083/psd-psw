@@ -33,7 +33,7 @@ Watch this video to find out more.
 	<iframe class="resp-iframe" src="https://vimeo.com/manage/441217698/general" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
-### **Table of Contents**
+### **View by Activities**
 {: .no_toc}
 - TOC
 {:toc}
