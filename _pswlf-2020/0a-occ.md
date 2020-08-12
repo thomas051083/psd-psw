@@ -48,7 +48,8 @@ test
 </tr>  
 </table>
 
-#####**LEARN modules**
+### **LEARN modules**
+Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
 - [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
 - [Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/226)
 - [Blending Design Thinking, Lean and Agile in the workplace](https://www.learn.gov.sg/dlp/student/course/28620)
