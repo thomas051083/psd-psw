@@ -47,6 +47,11 @@ test
     </td>
 </tr>  
 </table>
+
+LEARN modules
+- [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
+- [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
+
 ---
 
 #### <font color="orange"><b>2. Serving with Heart, Commitment and Purpose</b></font>
