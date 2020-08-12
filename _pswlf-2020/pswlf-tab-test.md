@@ -40,14 +40,13 @@ Watch this video to find out more.
 ### **Learning Activities**
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrBobTANBengHai.jpg" alt="Bob TAN Beng Hai">
+        ![Innovation 1](/images/innovationtest1.png "Innovation")
     </div>
     <div class="col is-8">
         <p class="title is-4">[For Officers] Our Core Competencies</p>
         <strong>LEARN module</strong>
         <br> What are these core competencies and their desired behaviours? How can you use the core competency framework to guide your development and performance? Read on to find out more!
 	<br> To find out more, please visit [https://www.learn.gov.sg/dlp/student/course/143239](https://www.learn.gov.sg/dlp/student/course/143239){:target="_blank"}.
-
     </div>
 </div>
 
