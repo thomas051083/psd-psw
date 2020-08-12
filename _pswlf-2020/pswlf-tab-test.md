@@ -39,14 +39,19 @@ Watch this video to find out more.
 {:toc}
 ### **Learning Activities**
 <div class="row">
-    <div class="col is-4">
-        ![Innovation Test](/images/innovationtest1.png "Sample image")
+    <div class="col is-2">
     </div>
-    <div class="col is-8">
-        <p class="title is-4">[For Officers] Our Core Competencies</p>
-        <strong>LEARN module</strong>
-        <br> What are these core competencies and their desired behaviours? How can you use the core competency framework to guide your development and performance? Read on to find out more!
-	<br> To find out more, please visit [https://www.learn.gov.sg/dlp/student/course/143239](https://www.learn.gov.sg/dlp/student/course/143239){:target="_blank"}.
+    <div class="col is-2">
+	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+    </div>
+    <div class="col is-2">
+	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+    </div>
+    <div class="col is-2">
+	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+    </div>
+    <div class="col is-2">
     </div>
 </div>
+
 
