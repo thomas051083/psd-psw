@@ -54,4 +54,30 @@ Watch this video to find out more.
     </div>
 </div>
 
+Test 2
+<div class="row">
+    <div class="col is-1">
+    </div>
+    <div class="col is-3">
+	     <figure style="margin:0;">
+	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+	     <figcaption>Sentosa Nature Discovery</figcaption>
+		</figure>
+    </div>
+    <div class="col is-3">
+	    <figure style="margin:0;">
+	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+	     <figcaption>Sentosa Nature Discovery</figcaption>
+		</figure>
+    </div>
+    <div class="col is-3">
+	    <figure style="margin:0;">
+	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+	     <figcaption>Sentosa Nature Discovery</figcaption>
+		</figure>
+    </div>
+    <div class="col is-2">
+    </div>
+</div>
+
 
