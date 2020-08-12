@@ -14,9 +14,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 {: .no_toc}
 - TOC
 {:toc}
-
-
-
+<br>
 <table>
 <tr>
     <td>
@@ -31,7 +29,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></<
+      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
     </td>
     <td>
       <b>My Tiong Bahru Heritage Trail<font color="red"> (FULL)</font></b>
@@ -41,3 +39,4 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr>  
 </table>
+<br> Click [here](/events/learning-festival/faq) if you have any questions.
