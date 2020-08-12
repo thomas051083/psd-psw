@@ -1,7 +1,9 @@
 ---
-title: FAQs
+title: FAQ
 permalink: _pswlf-2020/faqs
 ---
+
+## Frequently Asked Questions
 
 ### **<ins>General</ins>**
 
