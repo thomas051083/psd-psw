@@ -8,8 +8,7 @@ third_nav_title: All Workouts
 - TOC
 {:toc}
 
-
-### What is Our Core Competencies
+### <font color="orange">**About Our Core Competencies**</font>
 Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well.
 <br><br>
 As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
