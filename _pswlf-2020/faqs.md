@@ -46,8 +46,7 @@ Yes. You will be automatically be placed on a waitlist (limited slots) if the Le
 **Note**: If you are on the waitlist, you will be notified via email from Eventbrite when there is an available ticket for the Learning Session.
 
 #### **11. How do I cancel a registration?**
-There is an option to Cancel Order, under My Tickets in Eventbrite. If you are unable to do so, you can also email us at CSCOLLEGE_PSW@cscollege.gov.sg to cancel your registration.
-
+There is an option to Cancel Order, under My Tickets in Eventbrite. If you are unable to do so, you can also email us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> to cancel your registration.
 
 
 For any further questions and information, please email to the respective contacts below:
