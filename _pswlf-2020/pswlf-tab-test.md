@@ -38,21 +38,7 @@ Watch this video to find out more.
 - TOC
 {:toc}
 ### **Learning Activities**
-<div class="row">
-    <div class="col is-1">
-    </div>
-    <div class="col is-3">
-	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
-    </div>
-    <div class="col is-3">
-	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
-    </div>
-    <div class="col is-3">
-	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
-    </div>
-    <div class="col is-2">
-    </div>
-</div>
+
 
 Test 2
 <div class="row">
