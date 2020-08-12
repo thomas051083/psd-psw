@@ -1,8 +1,6 @@
 ---
-title: 'All Workouts'
-permalink: /pswlf-2020/all-workouts
-breadcrumb: 'all-workouts'
-
+title: 'A1 Supage'
+permalink: /pswlf-2020/a1-supage
 ---
 
 
