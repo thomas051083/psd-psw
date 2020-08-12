@@ -32,3 +32,22 @@ Watch this video to find out more.
 <div class="resp-container">
 	<iframe class="resp-iframe" src="https://vimeo.com/manage/441217698/general" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
+
+### **Table of Contents**
+{: .no_toc}
+- TOC
+{:toc}
+### **Learning Activities**
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MrBobTANBengHai.jpg" alt="Bob TAN Beng Hai">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">[For Officers] Our Core Competencies</p>
+        <strong>LEARN module</strong>
+        <br> What are these core competencies and their desired behaviours? How can you use the core competency framework to guide your development and performance? Read on to find out more!
+	<br> To find out more, please visit [https://www.learn.gov.sg/dlp/student/course/143239](https://www.learn.gov.sg/dlp/student/course/143239){:target="_blank"}.
+
+    </div>
+</div>
+
