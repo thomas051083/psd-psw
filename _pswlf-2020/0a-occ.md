@@ -42,6 +42,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr>  
 </table>
+---
 
 #### <font color="orange"><b>2. Serving with Heart, Commitment and Purpose</b></font>
 <table>
@@ -68,7 +69,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr>  
 </table>
-
+---
 
 #### <font color="orange"><b>3. Working as One Public Service</b></font>
 <table>
