@@ -40,7 +40,7 @@ Watch this video to find out more.
 ### **Learning Activities**
 <div class="row">
     <div class="col is-4">
-        ![Innovation Sample](/images/innovationtest1.png "Innovation")
+        <img src="/images/innovation1.png" alt="Innovation Sample">
     </div>
     <div class="col is-8">
         <p class="title is-4">[For Officers] Our Core Competencies</p>
