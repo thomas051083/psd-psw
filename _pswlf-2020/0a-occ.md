@@ -48,9 +48,20 @@ test
 </tr>  
 </table>
 
-LEARN modules
+#####**LEARN modules**
 - [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
+- [Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/226)
+- [Blending Design Thinking, Lean and Agile in the workplace](https://www.learn.gov.sg/dlp/student/course/28620)
+- [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
 - [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
+- [Lean methodology and tools](https://www.learn.gov.sg/dlp/student/course/28613)
+- [Overview 1: Data Science vs Data Analytics](https://www.learn.gov.sg/dlp/student/course/21027)
+- [Overview 2: Steps for a Data Science & Data Analytics Project](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Overview 3: Programming Language](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Overview 4: Machine Learning](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Ryan Sleeper: A Data Rockstar](https://www.learn.gov.sg/dlp/student/course/266)
+- [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
 
 ---
 
