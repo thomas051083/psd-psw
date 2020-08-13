@@ -38,7 +38,7 @@ Watch this video to find out more.
 <h1><font color="orangered"><b>Learning Activities</b></font></h1>
 <p>
 <ul>
-<li><a href="#thinking”> 1. Thinking Clearly and Making Sound Judgements</a></li>
+<li><a href="#thinking”>Thinking Clearly and Making Sound Judgements</a></li>
 <li><a href="#serving”> 2. Serving with Heart, Commitment and Purpose</a></li>
 <li><a href="#workingone”> 3. Working As One Public Service</a></li>
 <li><a href="#workingeffectively”> 4. Working Effectively with Citizens and Stakeholders</a></li>
@@ -50,7 +50,7 @@ Watch this video to find out more.
 </p>
 
 <p>
-<h2 id="thinking”> 1. Thinking Clearly and Making Sound Judgements</h2>
+<h2 id="thinking”>Thinking Clearly and Making Sound Judgements</h2>
 
 <table>
 <tr>
