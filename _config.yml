@@ -17,6 +17,8 @@ collections:
         output: true
     all-workouts:
         output: true
+    jobspecific-details:
+        output: true
     pstac-2020:
         output: true
     psc-2020:
