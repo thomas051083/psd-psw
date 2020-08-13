@@ -18,7 +18,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/community/"> <img src="/images/communityengagement.jpg"></a>
+	     <a href="/jobspecific-details/community"> <img src="/images/communityengagement.jpg"></a>
 		    <figcaption><b>Community Engagement and Partnership</b></figcaption>
 		</figure>
     </div>
