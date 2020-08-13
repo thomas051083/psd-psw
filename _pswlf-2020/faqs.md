@@ -21,7 +21,7 @@ Yes. The Learning Sessions are only open to public officers, and you are require
 #### **<ins>LEARN Accounts</ins>**
 
 #### **4. My agency does not have a LEARN account. How can I sign up for an account and is it free?** 
-For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account (<https://form.gov.sg/5f33480010b0550011da45ff>). We will email you with more information upon confirmation. 
+For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account <a href="https://form.gov.sg/5f33480010b0550011da45ff">https://form.gov.sg/5f33480010b0550011da45ff</a>. We will email you with more information upon confirmation. 
 
 #### **<ins>Registration</ins>**
 
