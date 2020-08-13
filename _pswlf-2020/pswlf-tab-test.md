@@ -36,7 +36,7 @@ Watch this video to find out more.
 
 **Test for TOC**
 #### <font color="orangered"><b>Learning Activities</b></font>
-<a id=”Contents”Contents</a>
+<a id=”Contents”Contents></a>
 <ul>
 <li><a href=”#Thinking”> 1. Thinking Clearly and Making Sound Judgements</a></li>
 <li><a href=”#Serving”> 2. Serving with Heart, Commitment and Purpose</a></li>
