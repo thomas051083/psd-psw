@@ -42,7 +42,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/accounting/"> <img src="/images/accounting.jpgg" /></a>
+	     <a href="/jobspecific-details/accounting/"> <img src="/images/accounting.jpg" /></a>
 	     <figcaption>Accounting and Finance</figcaption>
 		</figure>
     </div>
