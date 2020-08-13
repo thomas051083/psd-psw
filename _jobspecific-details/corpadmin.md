@@ -1,7 +1,8 @@
 ---
 title: Corporate Admin
-permalink: /pswlf-2020/all-workouts/jobspecific/corpadmin
+permalink: /jobspecific-details/corpadmin
 breadcrumb: Job Specific Skills
+third_nav_title: All Workouts
 ---
 
 Coming soon.
