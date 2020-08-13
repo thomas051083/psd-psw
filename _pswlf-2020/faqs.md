@@ -24,7 +24,6 @@ Yes. The Learning Sessions are only open to public officers, and you are require
 For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account <a href="https://form.gov.sg/5f33480010b0550011da45ff">https://form.gov.sg/5f33480010b0550011da45ff</a>. We will email you with more information upon confirmation. 
 
 #### **<ins>Registration</ins>**
-
 <b><br>5. How do I register for a Learning Session?</b>
  <i><br>Registration is via Eventbrite, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the registration link. You are required to register using your work email, so that we can verify that you are a public officer.</i>
 
