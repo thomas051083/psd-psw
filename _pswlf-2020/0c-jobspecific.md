@@ -36,13 +36,13 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	     <a href="/jobspecific-details/regulation/"> <img src="/images/regulation.jpg"></a>
+	     <a href="/jobspecific-details/regulation"> <img src="/images/regulation.jpg"></a>
 		     <figcaption><b>Regulation and Enforcement</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/accounting/"> <img src="/images/accounting.jpg" /></a>
+	     <a href="/jobspecific-details/accounting"> <img src="/images/accounting.jpg" /></a>
 		    <figcaption><b>Accounting and Finance</b></figcaption>
 		</figure>
     </div>
