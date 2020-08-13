@@ -11,7 +11,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	     <a href="/jobspecific-details/corpadmin/"> <img src="/images/corpadmin.jpg" /></a>
+	     <a href="/jobspecific-details/corpadmin/"> <img src="/images/corpadmin.jpg"></a>
 	     <figcaption>Corporate Admin</figcaption>
 		</figure>
     </div>
