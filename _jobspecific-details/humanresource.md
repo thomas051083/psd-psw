@@ -1,6 +1,6 @@
 ---
 title: Human Resource
-permalink: /jobspecific-details/humanresource/
+permalink: /jobspecific-details/humanresource
 breadcrumb: Job Specific Skills
 ---
 
