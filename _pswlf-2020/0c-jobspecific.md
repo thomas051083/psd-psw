@@ -11,8 +11,8 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	     <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
-	     <figcaption>Sentosa Nature Discovery</figcaption>
+	     <a href="/jobspecific-details/corpadmin/"> <img src="/images/corpadmin.jpeg" /></a>
+	     <figcaption>Corporate Admin</figcaption>
 		</figure>
     </div>
     <div class="col is-3">
