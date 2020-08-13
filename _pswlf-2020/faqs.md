@@ -6,10 +6,9 @@ breadcrumb: FAQ
 ---
 
 ## Frequently Asked Questions
-1.[General](#general)
-2.[LEARN Accounts](#learn)
-3.[Registration](#registration)
-[
+1.[General](#general)<br>
+2.[LEARN Accounts](#learn)<br>
+3.[Registration](#registration)<br>
 
 #### **<ins>General</ins>** <a name="general"></a>
  
