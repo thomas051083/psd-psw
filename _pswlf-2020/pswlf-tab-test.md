@@ -36,21 +36,21 @@ Watch this video to find out more.
 
 **Test for TOC**
 #### <font color="orangered"><b>Learning Activities</b></font>
-<a id=”Contents”Contents></a>
+<p>
 <ul>
-<li><a href=”#Thinking”> 1. Thinking Clearly and Making Sound Judgements</a></li>
-<li><a href=”#Serving”> 2. Serving with Heart, Commitment and Purpose</a></li>
-<li><a href=”#Workingone”> 3. Working As One Public Service</a></li>
-<li><a href=”#Workingeffectively”> 4. Working Effectively with Citizens and Stakeholders</a></li>
-<li><a href=”#Improving”> 5. Improving and Innovating Continuously</a></li>
-<li><a href=”#Keep”> 6. Keep Learning and Putting Skills into Action</a></li>
-<li><a href=”#Stewarding”> 7. Stewarding Systems for Today and Tomorrow</a></li>
-<li><a href=”#Caring”> 8. Caring for, Developing and Inspiring Staff</a></li>
-</ul>
+<li><a href=”#thinking”> 1. Thinking Clearly and Making Sound Judgements</a></li>
+<li><a href=”#serving”> 2. Serving with Heart, Commitment and Purpose</a></li>
+<li><a href=”#workingone”> 3. Working As One Public Service</a></li>
+<li><a href=”#workingeffectively”> 4. Working Effectively with Citizens and Stakeholders</a></li>
+<li><a href=”#improving”> 5. Improving and Innovating Continuously</a></li>
+<li><a href=”#keep”> 6. Keep Learning and Putting Skills into Action</a></li>
+<li><a href=”#stewarding”> 7. Stewarding Systems for Today and Tomorrow</a></li>
+<li><a href=”#caring”> 8. Caring for, Developing and Inspiring Staff</a></li>
+</ul> 
 
 
 <p>
-<a name=”Thinking”> 1. Thinking Clearly and Making Sound Judgements</a>
+<a id=”thinking”> 1. Thinking Clearly and Making Sound Judgements</a>
 
 <table>
 <tr>
