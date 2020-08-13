@@ -5,7 +5,8 @@ permalink: /opsoc-2020
 ---
 
 
-### One Public Service Observance Ceremony
+### One Public Service Observance Ceremony<br>
+<i>The event is open to all public officers </i><br>
 <br>
 The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. This year, PSOC will be a fully vitural, service-wide ceremony with activities streamed to all officers.
 <br>
