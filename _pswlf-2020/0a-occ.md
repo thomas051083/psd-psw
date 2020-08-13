@@ -12,13 +12,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ![OCC Running Man](/images/occrunningman.png)
 
 ### <font color="orangered"><b>Learning Activities</b></font>
-test
-{: .no_toc}
-- TOC
-{:toc}
-end test
-
-
 #### <font color="orange"><b>1. Thinking Clearly and Making Sound Judgements</b></font>
 <table>
 <tr>
