@@ -35,7 +35,7 @@ Watch this video to find out more.
 <br >
 
 **Test for TOC**
-#### <font color="orangered"><b>Learning Activities</b></font>
+<h1><font color="orangered"><b>Learning Activities</b></font></h1>
 <p>
 <ul>
 <li><a href=”#thinking”> 1. Thinking Clearly and Making Sound Judgements</a></li>
@@ -47,10 +47,10 @@ Watch this video to find out more.
 <li><a href=”#stewarding”> 7. Stewarding Systems for Today and Tomorrow</a></li>
 <li><a href=”#caring”> 8. Caring for, Developing and Inspiring Staff</a></li>
 </ul> 
-
+</p>
 
 <p>
-<a id=”thinking”> 1. Thinking Clearly and Making Sound Judgements</a>
+<h2 id=”thinking”> 1. Thinking Clearly and Making Sound Judgements</h2>
 
 <table>
 <tr>
