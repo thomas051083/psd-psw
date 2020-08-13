@@ -4,7 +4,7 @@ permalink: /pswlf-2020/all-workouts/occ/
 breadcrumb: Our Core Competencies in Action
 third_nav_title: All Workouts
 ---
-### <font color="orangered"><font size="8"><b>About Our Core Competencies</b></font></font>
+#### <font color="orangered"><font size="8"><b>About Our Core Competencies</b></font></font>
 Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well.
 <br><br>
 As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
@@ -37,8 +37,9 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr>  
 </table>
+<br><br>
 
-<font size="6"><b>LEARN modules</b></font><br>
+<font size="6"><b>LEARN modules</b></font>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
 - [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
 - [Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/226)
