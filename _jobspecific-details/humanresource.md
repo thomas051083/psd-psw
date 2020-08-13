@@ -1,6 +1,6 @@
 ---
 title: Human Resource
-permalink: /pswlf-2020/all-workouts/jobspecific/humanresource
+permalink: /jobspecific-details/humanresource
 breadcrumb: Job Specific Skills
 third_nav_title: All Workouts
 ---
