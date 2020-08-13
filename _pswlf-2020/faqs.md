@@ -25,8 +25,8 @@ For the period of the Public Service Week **(12 October 2020 to 30 October 2020)
 
 #### **<ins>Registration</ins>**
 
-#### **5. How do I register for a Learning Session?**
-Registration is via Eventbrite, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the registration link. You are required to register using your work email, so that we can verify that you are a public officer.
+<b><br>5. How do I register for a Learning Session?</b>
+ <i><br>Registration is via Eventbrite, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the registration link. You are required to register using your work email, so that we can verify that you are a public officer.</i>
 
 #### **6. What is Eventbrite?**
 Eventbrite is an online internet-based platform which provides event management and ticketing technology.
