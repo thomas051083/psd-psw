@@ -1,6 +1,7 @@
 ---
 title: Accounting and Finance
-permalink: /pswlf-2020/all-workouts/jobspecific/accounting
+permalink: /_jobspecific-details/accounting
 breadcrumb: Job Specific Skills
+third_nav_title: All Workouts
 ---
 Coming soon.
