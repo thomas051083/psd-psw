@@ -12,19 +12,19 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <div class="col is-3">
 	     <figure style="margin:0;">
 	     <a href="/jobspecific-details/corpadmin"> <img src="/images/corpadmin.jpg"></a>
-	     <figcaption>Corporate Admin</figcaption>
+		     <figcaption><b>Corporate Admin</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/community"> <img src="/images/communityengagement.jpg" /></a>
-	     <figcaption>Community Engagament and Partnership</figcaption>
+	     <a href="/jobspecific-details/community"> <img src="/images/communityengagement.jpg"></a>
+		    <figcaption><b>Community Engagament and Partnership</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/humanresource"> <img src="/images/humanresource.jpg" /></a>
-	     <figcaption>Human Resource</figcaption>
+	     <a href="/jobspecific-details/humanresource"> <img src="/images/humanresource.jpg"></a>
+		    <figcaption><b>Human Resource</b></figcaption>
 		</figure>
     </div>
     <div class="col is-2">
@@ -37,13 +37,13 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <div class="col is-3">
 	     <figure style="margin:0;">
 	     <a href="/jobspecific-details/regulation/"> <img src="/images/regulation.jpg"></a>
-	     <figcaption>Regulation and Enforcement</figcaption>
+		     <figcaption><b>Regulation and Enforcement</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
 	     <a href="/jobspecific-details/accounting/"> <img src="/images/accounting.jpg" /></a>
-	     <figcaption>Accounting and Finance</figcaption>
+		    <figcaption><b>Accounting and Finance</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
