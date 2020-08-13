@@ -37,7 +37,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr>  
 </table>
-<br>
 
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
