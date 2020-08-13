@@ -1,6 +1,6 @@
 ---
-title: Community Engagement and Partnership
-permalink: /jobspecific-details/community
+title: Community Engagement and Partnershi
+permalink: /pswlf-2020/all-workouts/jobspecific/community
 breadcrumb: Job Specific Skills
 ---
 
