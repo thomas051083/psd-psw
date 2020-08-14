@@ -12,16 +12,14 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ![OCC Running Man](/images/occrunningman.png)
 
 ### <font color="orangered"><b>Learning Activities</b></font>
-[1. Thinking Clearly and Making Sound Judgements](#thinkir>ng)<br>
-[2. Serving with Heart, Commitment and Purpose](#serving)<br>
-[3. Working As One Public Service](#workingone)<br>
-[4. Working Effectively with Citizens and Stakeholders](#workingeffectively)<br>
-[5. Improving and Innovating Continuously](#improving)<br>
-[6. Keep Learning and Putting Skills into Action](#keep)<br>
-[7. Stewarding Systems for Today and Tomorrow](#stewarding)<br>
-[8. Caring for, Developing and Inspiring Staff](#caring)<br>
-
-
+1.[Thinking Clearly and Making Sound Judgements3.2.](#thinking)<br>
+2.[Serving with Heart, Commitment and Purpose](#serving)<br>
+3.[Working As One Public Service](#workingone)<br>
+4.[Working Effectively with Citizens and Stakeholders](#workingeffectively)<br>
+5.[Improving and Innovating Continuously](#improving)<br>
+6.[Keep Learning and Putting Skills into Action](#keep)<br>
+7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
+8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
 #### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
