@@ -1,7 +1,7 @@
 ---
 title: Our Core Competencies in Action
 permalink: /pswlf-2020/all-workouts/occ/
-breadcrumb: Our Core Competencies in Action
+breadcrumb: 'Our Core Competencies in Action'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>About Our Core Competencies</b></font>
