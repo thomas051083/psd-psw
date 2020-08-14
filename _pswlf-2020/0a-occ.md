@@ -25,7 +25,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <table>
 <tr>
     <td>
-     <img src="/images/Engage2.jpeg">
+     <img src="/images/Engage1.jpg">
     </td>
     <td>
       <b>Building a Geospatial Ecosystem</b>
@@ -45,7 +45,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>Learning outcomes:
