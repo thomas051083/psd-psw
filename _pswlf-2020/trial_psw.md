@@ -14,4 +14,4 @@ Testing page for PSW
 
   <b>Making a Difference as a Probation Officer by MSF</b>
       <b><br>Probation Officer  | Probation and Community Rehabilitation Service</b>
-      <i><br>2 week attachment from Jun to end Nov 2019</i>
+      <i><br>2 week attachment </i>
