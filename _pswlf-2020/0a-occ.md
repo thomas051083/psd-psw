@@ -118,7 +118,19 @@ As a framework, OCC will be used across the Service to select, assess, train and
 
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.</font>
-- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [A Tool for Effective Feedback](https://www.learn.gov.sg/dlp/student/course/232)
+- [Aligning Expectations With My Supervisor](https://www.learn.gov.sg/dlp/student/course/226)
+- [Applying Agile Scrum to your workplace](https://www.learn.gov.sg/dlp/student/course/28620)
+- [Conversations That Inspire and Engage](https://www.learn.gov.sg/dlp/student/course/210)
+- [Growing My Self-Awareness](https://www.learn.gov.sg/dlp/student/course/135138)
+- [Making Sense of My Leadership Transition](https://www.learn.gov.sg/dlp/student/course/28613)
+- [Making Time for Reflection](https://www.learn.gov.sg/dlp/student/course/21027)
+- [Managing My Time](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Sharpening My Listening Skills](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [The Power of Questions](https://www.learn.gov.sg/dlp/student/course/21064)
+- [The Value of Feedback](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Understanding My Corporate Responsibilities](https://www.learn.gov.sg/dlp/student/course/266)
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
