@@ -10,7 +10,7 @@ Our Core Competencies (OCC) define the critical behaviours expected of all offic
 As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
 
 ![OCC Running Man](/images/occrunningman.png)
-<h2 id="top"><font color="orangered"><b>Learning Activities for OCC</b></font></h2>
+<h2 id="top"><font color="orangered"><b>Learning Sessions for OCC</b></font></h2>
 1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
 3.[Working As One Public Service](#workingone)<br>
@@ -384,6 +384,17 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Stewarding Systems for Today and Tomorrow.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [D](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Fo](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [L](https://www.learn.gov.sg/dlp/student/course/21064)
+- [s](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Tk](https://www.learn.gov.sg/dlp/student/course/138926)
+- [D](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Fo](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [L](https://www.learn.gov.sg/dlp/student/course/21064)
+- [s](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Tk](https://www.learn.gov.sg/dlp/student/course/138926)
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 #### <font color="darkorange"><b>8. Caring for, Developing and Inspiring Staff</b></font> <a name="caring"></a>
@@ -426,6 +437,12 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Caring for, Developing and Inspiring Staff.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [D](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Fo](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [L](https://www.learn.gov.sg/dlp/student/course/21064)
+- [s](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Tk](https://www.learn.gov.sg/dlp/student/course/138926)
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 <br> Click [here](_pswlf-2020/faqs) if you have any questions.
