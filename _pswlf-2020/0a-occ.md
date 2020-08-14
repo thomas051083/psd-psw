@@ -278,7 +278,14 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Improving and Innovating Continuously</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [M](https://www.learn.gov.sg/dlp/student/course/21035)
+- [S](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [V](https://www.learn.gov.sg/dlp/student/course/21035)
+- [W](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [W](https://www.learn.gov.sg/dlp/student/course/21064)
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 ---
 
 #### <font color="darkorange"><b>6. Keep Learning and Putting Skills into Action</b></font> <a name="keep"></a>
