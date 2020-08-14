@@ -74,6 +74,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Ryan Sleeper: A Data Rockstar](https://www.learn.gov.sg/dlp/student/course/266)
 - [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
 <font size="2"> [Back to top](#top)</font>
+[Back to top](#top)
 ---
 
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
