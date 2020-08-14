@@ -4,7 +4,8 @@ permalink: _pswlf-2020/trial_psw
 ---
 Testing page for PSW
 
-![Good things](/images/pswtrial.png "PSW Trial")
+![Good things](/images/pswtrial.png)
+![OCC Running Man](/images/occrunningman.png)
 
 # Testing page 1 for PSW 
 
