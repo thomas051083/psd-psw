@@ -10,7 +10,6 @@ Our Core Competencies (OCC) define the critical behaviours expected of all offic
 As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
 
 ![OCC Running Man](/images/occrunningman.png)
-<id="top">
 <h2 id="top"><font color="orangered"><b>Learning Activities for OCC</b></font></h2>
 1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
