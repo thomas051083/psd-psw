@@ -85,7 +85,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -96,6 +96,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 
 <font color="orange"><b>LEARN modules</b></font><br>
@@ -111,7 +129,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -122,6 +140,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working as One Public Service.</font>
@@ -136,7 +172,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -147,6 +183,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders</font>
@@ -161,7 +215,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -172,6 +226,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Improving and Innovating Continuously</font>
@@ -186,7 +258,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -197,6 +269,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Keep Learning and Putting Skills into Action.</font>
@@ -204,13 +294,13 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 #### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow</b></font> <a name="stewarding"></a>
-<table>
+<<table>
 <tr>
     <td>
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -221,6 +311,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Stewarding Systems for Today and Tomorrow.</font>
@@ -234,7 +342,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
      <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>session title</b>
+      <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
@@ -245,6 +353,24 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
+<tr>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+</tr> 
 </table>
 <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Caring for, Developing and Inspiring Staff.</font>
