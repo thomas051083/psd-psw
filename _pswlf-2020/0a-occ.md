@@ -10,7 +10,7 @@ Our Core Competencies (OCC) define the critical behaviours expected of all offic
 As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
 
 ![OCC Running Man](/images/occrunningman.png)
-<a name="top"></a>
+<id="top">
 ### <font color="orangered"><b>Learning Activities for OCC</b></font>
 1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
@@ -73,8 +73,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
 - [Ryan Sleeper: A Data Rockstar](https://www.learn.gov.sg/dlp/student/course/266)
 - [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
-<font size="2"> [Back to top](#top)</font>
-[Back to top](#top)
+
 <div style="text-align: right"> [Back to top](#top) </div>
 
 ---
