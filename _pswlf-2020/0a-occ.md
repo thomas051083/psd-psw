@@ -170,16 +170,28 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <font size="4"> Want to participate in the Learning Festival in your own time? Explore these LEARN modules specially curated for each core competency. 
     If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 
-| LEARN Modules        |                     |
-| <Pic>                | Driving a Culture of Collaboration |
-| <Pic>                | Forming Collaborative Teams|
-
 - [Driving A Culture Of Collaboration](https://www.learn.gov.sg/dlp/student/course/21035)
 - [Forming Collaborative Teams](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
 - [Leading your Team in Successful Collaborations](https://www.learn.gov.sg/dlp/student/course/21067)
 - [Tackling Challenges with Collaborative Work](https://www.learn.gov.sg/dlp/student/course/138926)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
+<table>
+<tr>
+    <td>
+     <img src="/images/Engage1.jpg">
+    </td>
+    <td>
+      <b>Driving a Culture of Collaboration</b>
+      <br>LEARN 
+      <br>       
+      <br><Synopsis...
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to learn.</a> 
+    </td>
+</tr>
+</table>
 ---
 
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
