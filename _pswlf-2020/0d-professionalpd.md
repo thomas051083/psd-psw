@@ -5,6 +5,7 @@ breadcrumb: Professional & Personal Development
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
+(Insert write-up from WD)
 <div class="row">
     <div class="col is-1">
     </div>
