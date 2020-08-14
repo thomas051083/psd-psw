@@ -24,7 +24,7 @@ breadcrumb: 'FAQ'
 #### **<ins>LEARN Accounts</ins>** <a name="learn"></a>
 
 <b>4. My agency does not have a LEARN account. How can I sign up for an account and is it free?</b> 
-<br>For the period of the Public Service Week **(12 October 2020 to 31 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account <a href="https://form.gov.sg/5f33480010b0550011da45ff">https://form.gov.sg/5f33480010b0550011da45ff</a>. We will email you with more information upon confirmation. 
+<br>For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account <a href="https://form.gov.sg/5f33480010b0550011da45ff">https://form.gov.sg/5f33480010b0550011da45ff</a>. We will email you with more information upon confirmation. 
 
 #### **<ins>Registration</ins>** <a name="registration"></a>
 <b>5. How do I register for a Learning Session?</b>
@@ -54,11 +54,11 @@ Registration will commence on **1 September 2020** and will close either when al
 
 For any further questions and information, please email to the respective contacts below:
 
-3 Ws for Transformation: <Requires Peter to provide contact>
+**3 Ws for Transformation: <Requires Peter to provide contact>**
 
-Breakout Sessions for Directors and above: <Require Jenny to provide contact>
+**Breakout Sessions for Directors and above: <Require Jenny to provide contact>**
 
-Learning Sessions:  <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>
+**Learning Sessions:  <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>**
 
 
 ### We wish you a beneficial learning experience!
