@@ -7,7 +7,6 @@ third_nav_title: All Workouts
 ### <font color="orangered"><b>About Our Core Competencies</b></font>
 Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well.
 <br><br>
-As a framework, OCC will be used across the Service to select, assess, train and develop all officers from Jan 2021.
 
 ![OCC Running Man](/images/occrunningman.png)
 <h2 id="top"><font color="orangered"><b>Learning Sessions for OCC</b></font></h2>
@@ -166,7 +165,9 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </tr> 
 </table>
 ##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working as One Public Service.</font>
+<font size="4"> Want to participate in the Learning Festival in your own time? Explore these LEARN modules specially curated for each core competency. 
+    If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+    
 - [Driving A Culture Of Collaboration](https://www.learn.gov.sg/dlp/student/course/21035)
 - [Forming Collaborative Teams](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
