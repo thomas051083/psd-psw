@@ -177,21 +177,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - [Tackling Challenges with Collaborative Work](https://www.learn.gov.sg/dlp/student/course/138926)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-<table>
-<tr>
-    <td>
-     <img src="/images/Engage1.jpg">
-    </td>
-    <td>
-      <b>Driving a Culture of Collaboration</b>
-      <br>LEARN 
-      <br>       
-      <br><Synopsis...
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to learn.</a> 
-    </td>
-</tr>
-</table>
 ---
 
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
