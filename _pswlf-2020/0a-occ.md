@@ -50,7 +50,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>Learning outcomes:
       <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the idissemination of data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
     <br>-Understand the requirements needed to manage and assure data of high quality are produced 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
