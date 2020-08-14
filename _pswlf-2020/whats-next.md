@@ -1,6 +1,6 @@
 ---
 title: What's Next
-permalink: /pswlf-2020/a1-supage
+permalink: /pswlf-2020/whats-next
 ---
 
 
