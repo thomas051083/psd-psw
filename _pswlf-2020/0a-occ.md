@@ -25,17 +25,15 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <table>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg" /></a>
+      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg"></a>
     </td>
     <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <ul>
-      <li>Understand what geospatial information is and its uses.</li>
-      <li>Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry. </li>
-      </ul>
+      <br>-Understand what geospatial information is and its uses.</li>
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <a href="http://www.csc.gov.sg">Click here to register.</a>
     </td>
 </tr>  
