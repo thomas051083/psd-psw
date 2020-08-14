@@ -69,7 +69,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Overview 4: Machine Learning](https://www.learn.gov.sg/dlp/student/course/21064)
 - [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
 - [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
@@ -126,7 +125,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [The Power of Questions](https://www.learn.gov.sg/dlp/student/course/21064)
 - [The Value of Feedback](https://www.learn.gov.sg/dlp/student/course/21067)
 - [Understanding My Corporate Responsibilities](https://www.learn.gov.sg/dlp/student/course/266)
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
@@ -174,7 +172,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
 - [Leading your Team in Successful Collaborations](https://www.learn.gov.sg/dlp/student/course/21067)
 - [Tackling Challenges with Collaborative Work](https://www.learn.gov.sg/dlp/student/course/138926)
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
@@ -231,7 +228,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Video Case: Library@Chinatown](https://www.learn.gov.sg/dlp/student/course/21035)
 - [What is citizen engagement](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [Why does citizen engagement matter?](https://www.learn.gov.sg/dlp/student/course/21064)
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
@@ -286,7 +282,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Innovation Master Class](https://www.learn.gov.sg/dlp/student/course/21035)
 - [Introduction to Chatbots](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [Introduction to RPA (Robotic Process Automation)](https://www.learn.gov.sg/dlp/student/course/21064)
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
@@ -435,13 +430,14 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Caring for, Developing and Inspiring Staff.</font>
-- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
-- [D](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Fo](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [L](https://www.learn.gov.sg/dlp/student/course/21064)
-- [s](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Tk](https://www.learn.gov.sg/dlp/student/course/138926)
-
+- [Connecting With My Team](https://www.learn.gov.sg/dlp/student/course/232)
+- [Having a Growth Mindset](https://www.learn.gov.sg/dlp/student/course/21035)
+- [How to Embrace Change Using Emotional Intelligence](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Learning to Learn from Experience](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Start With the 'Why' - The Purpose of the Journey](https://www.learn.gov.sg/dlp/student/course/21067)
+- [The Do's and Don'ts of Performance Reviews](https://www.learn.gov.sg/dlp/student/course/138926)
+- [Understanding My Leadership Style](https://www.learn.gov.sg/dlp/student/course/21067)
+- [What’s Next after Performance Review?](https://www.learn.gov.sg/dlp/student/course/138926)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 <br> Click [here](/pswlf-2020/faqs) if you have any questions.
