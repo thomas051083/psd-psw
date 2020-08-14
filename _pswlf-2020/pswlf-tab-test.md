@@ -105,8 +105,10 @@ Watch this video to find out more.
 </p>
 
 <p> With bullets
+<font size="3">
 <ul><li><a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a></li>
 <li><a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a></li>
 <li><a href="https://www.learn.gov.sg/dlp/student/course/28620">Blending Design Thinking, Lean and Agile in the workplace</a></li></ul>
+	</font>
 </p>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
