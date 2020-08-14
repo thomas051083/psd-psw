@@ -4,7 +4,7 @@ permalink: /pswlf-2020/all-workouts/occ/
 breadcrumb: 'Our Core Competencies in Action'
 third_nav_title: All Workouts
 ---
-### <font color="orangered"><b>About Our Core Competencies</b></font>
+### <font color="orangered"><b>Our Core Competencies in Action</b></font>
 ![OCC Running Man](/images/occrunningman.png)
 This year, the Learning Festival has selected a range of virtual learning sessions that best illustrate our core competencies. Our core competencies define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. Besides the virtual learning sessions, there will also be a series of LEARN modules specially curated to develop your core competency.  
 
@@ -12,7 +12,7 @@ This year, the Learning Festival has selected a range of virtual learning sessio
 <b>Don't have a LEARN account?</b>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 
-<h2 id="top"><font color="orangered"><b>Learning Sessions for OCC</b></font></h2>
+<h2 id="top"><font color="orangered"><b>View Learning Sessions by OCC</b></font></h2>
 1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
 3.[Working As One Public Service](#workingone)<br>
