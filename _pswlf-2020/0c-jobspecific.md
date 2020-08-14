@@ -50,7 +50,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <div class="col is-3">
     </div>
 </div>
-### <font color="orangered"><b>Job Specific Learning Activities</b></font>
+### <font color="orangered"><b>Learning Activities for Job Specific Skills</b></font>
 1.[Corporate Admin](#corpadmin)<br>
 2.[Community](#community)<br>
 3.[Human Resource](#hr)<br>
