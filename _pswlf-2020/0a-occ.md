@@ -176,4 +176,77 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
+
+#### <font color="darkorange"><b>6. Keep Learning and Putting Skills into Action</b></font> <a name="keep"></a>
+<table>
+<tr>
+    <td>
+     <img src="/images/Engage1.jpg">
+    </td>
+    <td>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>
+</tr>
+</table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Keep Learning and Putting Skills into Action.</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+---
+#### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow</b></font> <a name="stewarding"></a>
+<table>
+<tr>
+    <td>
+     <img src="/images/Engage1.jpg">
+    </td>
+    <td>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>
+</tr>
+</table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Stewarding Systems for Today and Tomorrow.</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+---
+#### <font color="darkorange"><b>8. Caring for, Developing and Inspiring Staff</b></font> <a name="caring"></a>
+<table>
+<tr>
+    <td>
+     <img src="/images/Engage1.jpg">
+    </td>
+    <td>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>
+</tr>
+</table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Caring for, Developing and Inspiring Staff.</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
 <br> Click [here](_pswlf-2020/faqs) if you have any questions.
