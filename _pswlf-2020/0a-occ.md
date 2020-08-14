@@ -119,4 +119,4 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 
 
-<br> Click [here](/pswlf-2020/faq) if you have any questions.
+<br> Click [here](/pswlf-2020/faqs) if you have any questions.
