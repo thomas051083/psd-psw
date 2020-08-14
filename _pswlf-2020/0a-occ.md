@@ -383,18 +383,17 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Stewarding Systems for Today and Tomorrow.</font>
-- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
-- [D](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Fo](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [L](https://www.learn.gov.sg/dlp/student/course/21064)
-- [s](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Tk](https://www.learn.gov.sg/dlp/student/course/138926)
-- [D](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Fo](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [L](https://www.learn.gov.sg/dlp/student/course/21064)
-- [s](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Tk](https://www.learn.gov.sg/dlp/student/course/138926)
-
+- [Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/232)
+- [Attending To Group Dynamics In Teams](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Building Innovation Capabilities](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Encountering Resistance To Change From Staff](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Facilitate Innovation and Manage Change Effectively](https://www.learn.gov.sg/dlp/student/course/21067)
+- [How to Figure Out How Much Influence You Have at Work](https://www.learn.gov.sg/dlp/student/course/138926)
+- [Leadership: Practical Leadership Skills](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Making Learning a Part of Everyday Work](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Our Core Competencies(For Supervisors)](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Public Service Innovation Framework](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Transforming Insights Into Impact](https://www.learn.gov.sg/dlp/student/course/138926)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 #### <font color="darkorange"><b>8. Caring for, Developing and Inspiring Staff</b></font> <a name="caring"></a>
