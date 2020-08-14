@@ -81,54 +81,99 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <table>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg" /></a>
+     <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>My Dawson Heritage Tour<font color="red"> (FULL)</font></b>
-      <br>1 July 2019 (Mon), 9.00am – 12.00pm 
-      <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
-      <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
-</tr>  
-<tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
-    </td>
-    <td>
-      <b>My Tiong Bahru Heritage Trail<font color="red"> (FULL)</font></b>
-      <br>2 July 2019 (Tue), 9.00am – 11.00am 
-      <br>Visit Tiong Bahru and discover the intriguing people and places in Singapore’s only conservation estate, with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
-      <br><a href="/events/learning-journeys/event-details/LJ_TBHT">Click here to find out more.</a>
-    </td>
-</tr>  
+</tr>
 </table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
-#### <font color="darkorange"><b>3. Working as One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
 <table>
 <tr>
     <td>
-       <img src="/images/Digital1.jpeg">
+     <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>Test without link in image<font color="red"> (FULL)</font></b>
-      <br>1 July 2019 (Mon), 9.00am – 12.00pm 
-      <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
-      <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
-</tr>  
+</tr>
+</table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working as One Public Service.</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+---
+
+#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
+<table>
 <tr>
     <td>
-      <img src="/images/Digital1.jpeg" alt="Digital">
+     <img src="/images/Engage1.jpg">
     </td>
     <td>
-      <b>trail with alt textMy Tiong Bahru Heritage Trail<font color="red"> (FULL)</font></b>
-      <br>2 July 2019 (Tue), 9.00am – 11.00am 
-      <br>Visit Tiong Bahru and discover the intriguing people and places in Singapore’s only conservation estate, with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
-      <br><a href="/events/learning-journeys/event-details/LJ_TBHT">Click here to find out more.</a>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
-</tr>  
+</tr>
 </table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+---
 
-
+#### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font> <a name="improving"></a>
+<table>
+<tr>
+    <td>
+     <img src="/images/Engage1.jpg">
+    </td>
+    <td>
+      <b>session title</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>-Understand what geospatial information is and its uses.
+      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>
+</tr>
+</table>
+<font color="orange"><b>LEARN modules</b></font><br>
+<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Improving and Innovating Continuously</font>
+- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+---
 <br> Click [here](_pswlf-2020/faqs) if you have any questions.
