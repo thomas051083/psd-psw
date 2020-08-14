@@ -71,7 +71,6 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-
 ---
 
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
@@ -330,9 +329,21 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Keep Learning and Putting Skills into Action.</font>
-- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [8 Common Challenges In Digital Transformation Projects](https://www.learn.gov.sg/dlp/student/course/232)
+- [Blending Design Thinking, Lean and Agile in the workplace](https://www.learn.gov.sg/dlp/student/course/232)
+- [Enhancing Your Resilience as Service Professionals](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Facililate Innovation and Manage Change Effectively](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [HBR: How to Be Resilient in the Face of Harsh Criticism by Joseph Grenny](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Introduction to Digital Transformation](https://www.learn.gov.sg/dlp/student/course/232)
+- [Lean methodology and tools](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Mindfulness for Resilience](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Motivation - Learn to Finally Take Action - by Edwin Diaz](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Reframing Yourself](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Ryan Sleeper: A Data Rockstar](https://www.learn.gov.sg/dlp/student/course/21064)
+- [The Complete Personal Productivity Course - Business & Life](https://www.learn.gov.sg/dlp/student/course/21064)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
+
 #### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow</b></font> <a name="stewarding"></a>
 <table>
 <tr>
