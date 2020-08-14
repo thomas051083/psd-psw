@@ -9,11 +9,9 @@ third_nav_title: All Workouts
 This year, the Learning Festival has selected a range of virtual learning sessions that best illustrate our core competencies. Our core competencies define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. Besides the virtual learning sessions, there will also be a series of LEARN modules specially curated to develop your core competency.  
 
 <br>
-
 <font color="blue"><b>Don't have a LEARN account?</b><font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 
-![OCC Running Man](/images/occrunningman.png)
 <h2 id="top"><font color="orangered"><b>Learning Sessions for OCC</b></font></h2>
 1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
