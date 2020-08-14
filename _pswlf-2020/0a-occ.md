@@ -294,7 +294,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 #### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow</b></font> <a name="stewarding"></a>
-<<table>
+<table>
 <tr>
     <td>
      <img src="/images/Engage1.jpg">
