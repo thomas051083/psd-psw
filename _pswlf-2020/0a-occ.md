@@ -96,7 +96,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <table>
 <tr>
     <td>
-      <img src="/images/Digital1.jpeg" />
+       <img src="/images/Digital1.jpeg">
     </td>
     <td>
       <b>Test without link in image<font color="red"> (FULL)</font></b>
@@ -107,10 +107,10 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Digital2.jpg" /></a>
+      <img src="/images/Digital1.jpeg" alt="Digital">
     </td>
     <td>
-      <b>My Tiong Bahru Heritage Trail<font color="red"> (FULL)</font></b>
+      <b>trail with alt textMy Tiong Bahru Heritage Trail<font color="red"> (FULL)</font></b>
       <br>2 July 2019 (Tue), 9.00am – 11.00am 
       <br>Visit Tiong Bahru and discover the intriguing people and places in Singapore’s only conservation estate, with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
       <br><a href="/events/learning-journeys/event-details/LJ_TBHT">Click here to find out more.</a>
