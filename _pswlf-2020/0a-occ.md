@@ -20,7 +20,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
 8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
-#### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
+### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
     <td>
