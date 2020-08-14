@@ -33,9 +33,9 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <br      <br>   >-Understand what geospatial information is and its uses.
+      <br>-Understand what geospatial information is and its uses.
       <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
-      <a href="http://www.csc.gov.sg">Click here to register.</a>
+      <br><a href="http://www.csc.gov.sg">Click here to register.</a>
       <br>   
     </td>
 </tr>  
