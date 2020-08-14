@@ -25,7 +25,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <table>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg"></a>
+     <img src="/images/Engage2.jpeg"></a>
     </td>
     <td>
       <b>Building a Geospatial Ecosystem</b>
@@ -41,15 +41,21 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_TBHT"> <img src="/images/Serve1.jpg" /></a>
+     <img src="/images/Engage3.jpeg"></a>
     </td>
     <td>
-      <b>My Tiong Bahru Heritage Trail<font color="red"> (FULL)</font></b>
-      <br>2 July 2019 (Tue), 9.00am – 11.00am 
-      <br>Visit Tiong Bahru and discover the intriguing people and places in Singapore’s only conservation estate, with an exclusive visit to a civilian air raid shelter which saved and gave lives during World War II.
-      <br><a href="/events/learning-journeys/event-details/LJ_TBHT">Click here to find out more.</a>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>-Recognise the need to  adopt best practices from the planning to the development to the idissemination of data outputs.
+    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br><a href="http://www.csc.gov.sg">Click here to register.</a>
+      <br>   
     </td>
-</tr>  
+</tr> 
 </table>
 
 ##### <font color="orange"><b>LEARN modules</b></font><br>
