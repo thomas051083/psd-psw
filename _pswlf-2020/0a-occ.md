@@ -5,8 +5,12 @@ breadcrumb: 'Our Core Competencies in Action'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>About Our Core Competencies</b></font>
-Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well.
+Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. In addition to core competencies, which are generic in nature, you are expected to possess functional skills and knowledge to perform your job well. <Charmaine: Will confirm this write-up again>
 <br><br>
+
+Besides the virtual learning sessions, there will also be LEARN modules specially curated for each core competency. 
+
+If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 
 ![OCC Running Man](/images/occrunningman.png)
 <h2 id="top"><font color="orangered"><b>Learning Sessions for OCC</b></font></h2>
@@ -31,8 +35,8 @@ Our Core Competencies (OCC) define the critical behaviours expected of all offic
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <br>-Understand what geospatial information is and its uses.
-      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>* Understand what geospatial information is and its uses.
+      <br>* Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
