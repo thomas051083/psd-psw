@@ -11,7 +11,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 
 ![OCC Running Man](/images/occrunningman.png)
 <id="top">
-### <font color="orangered"><b>Learning Activities for OCC</b></font>
+<h2 id="top"><font color="orangered"><b>Learning Activities for OCC</b></font></h2>
 1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
 3.[Working As One Public Service](#workingone)<br>
