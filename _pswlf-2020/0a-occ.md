@@ -169,7 +169,11 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to participate in the Learning Festival in your own time? Explore these LEARN modules specially curated for each core competency. 
     If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
-    
+
+| LEARN Modules        |                     |
+| <Pic>                | Driving a Culture of Collaboration |
+| <Pic>                | Forming Collaborative Teams|
+
 - [Driving A Culture Of Collaboration](https://www.learn.gov.sg/dlp/student/course/21035)
 - [Forming Collaborative Teams](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
