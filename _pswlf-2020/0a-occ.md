@@ -28,10 +28,13 @@ As a framework, OCC will be used across the Service to select, assess, train and
       <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Engage2.jpeg" /></a>
     </td>
     <td>
-      <b>My Dawson Heritage Tour<font color="red"> (FULL)</font></b>
+      <b>Building a Geospatial Ecosystem</font></b>
       <br>1 July 2019 (Mon), 9.00am – 12.00pm 
-      <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
-      <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
+      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>& bull; Understand what geospatial information is and its uses.
+      <br>& bull; Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry. 
+      <br><a href="www.csc.gov.sg">Click here register.</a>
     </td>
 </tr>  
 <tr>
