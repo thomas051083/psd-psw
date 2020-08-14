@@ -116,7 +116,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </tr> 
 </table>
 
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -159,7 +159,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr> 
 </table>
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working as One Public Service.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -202,7 +202,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr> 
 </table>
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -245,7 +245,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr> 
 </table>
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Improving and Innovating Continuously</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -288,7 +288,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr> 
 </table>
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Keep Learning and Putting Skills into Action.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -330,7 +330,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr> 
 </table>
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Stewarding Systems for Today and Tomorrow.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -372,7 +372,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
     </td>
 </tr> 
 </table>
-<font color="orange"><b>LEARN modules</b></font><br>
+##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Caring for, Developing and Inspiring Staff.</font>
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
