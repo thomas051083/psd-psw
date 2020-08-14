@@ -114,6 +114,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.</font>
+- [[For Officers] Our Core Competencies](https://www.learn.gov.sg/dlp/student/course/232)
 - [A Tool for Effective Feedback](https://www.learn.gov.sg/dlp/student/course/232)
 - [Aligning Expectations With My Supervisor](https://www.learn.gov.sg/dlp/student/course/226)
 - [Applying Agile Scrum to your workplace](https://www.learn.gov.sg/dlp/student/course/28620)
