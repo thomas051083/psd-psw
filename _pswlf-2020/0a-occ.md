@@ -170,8 +170,14 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working as One Public Service.</font>
-- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [Driving A Culture Of Collaboration](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Forming Collaborative Teams](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Leading your Team in Successful Collaborations](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Tackling Challenges with Collaborative Work](https://www.learn.gov.sg/dlp/student/course/138926)
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 ---
 
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
@@ -213,8 +219,23 @@ As a framework, OCC will be used across the Service to select, assess, train and
 </table>
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders</font>
-- [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
+- [(Regulation 101) 1. Foundations of Smart Regulation](https://www.learn.gov.sg/dlp/student/course/232)
+- [(Regulation 101) 2. Designing Regulations](https://www.learn.gov.sg/dlp/student/course/210)
+- [(Regulation 101) 3. Compliance Strategy](https://www.learn.gov.sg/dlp/student/course/135138)
+- [A Guide to Managing a Volunteer Workforce](https://www.learn.gov.sg/dlp/student/course/21027)
+- [Citizen-centric Governance, Citizen-centric Communications](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Customer Journey Mapping](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Designing Regulations – Lesson](https://www.learn.gov.sg/dlp/student/course/21064)
+- [Introduction to Citizens' Jury](https://www.learn.gov.sg/dlp/student/course/21067)
+- [Modes of Citizen Engagement](https://www.learn.gov.sg/dlp/student/course/138926)
+- [Module 1: What is Citizen-Centred Service? Why is it important?](https://www.learn.gov.sg/dlp/student/course/21035)
+- [Service Design: Designing for Experience Over Time](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Video Case: Library@Chinatown](https://www.learn.gov.sg/dlp/student/course/21035)
+- [What is citizen engagement](https://www.learn.gov.sg/dlp/student/course/21038z)
+- [Why does citizen engagement matter?](https://www.learn.gov.sg/dlp/student/course/21064)
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 ---
 
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font> <a name="improving"></a>
