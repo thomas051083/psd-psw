@@ -98,4 +98,15 @@ Watch this video to find out more.
 - [Ryan Sleeper: A Data Rockstar](https://www.learn.gov.sg/dlp/student/course/266)
 - [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
 
+<p>
+	<a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a>
+<a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a>
+<a href="https://www.learn.gov.sg/dlp/student/course/28620">Blending Design Thinking, Lean and Agile in the workplace</a>
+</p>
+
+<p> With bullets
+<ul><li><a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a></li>
+<li><a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a></li>
+<li><a href="https://www.learn.gov.sg/dlp/student/course/28620">Blending Design Thinking, Lean and Agile in the workplace</a></li></ul>
+</p>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
