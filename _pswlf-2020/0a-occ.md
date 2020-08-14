@@ -12,7 +12,7 @@ As a framework, OCC will be used across the Service to select, assess, train and
 ![OCC Running Man](/images/occrunningman.png)
 
 ### <font color="orangered"><b>Learning Activities</b></font>
-1.[Thinking Clearly and Making Sound Judgements3.2.](#thinking)<br>
+1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
 2.[Serving with Heart, Commitment and Purpose](#serving)<br>
 3.[Working As One Public Service](#workingone)<br>
 4.[Working Effectively with Citizens and Stakeholders](#workingeffectively)<br>
@@ -96,10 +96,10 @@ As a framework, OCC will be used across the Service to select, assess, train and
 <table>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_DawsonTour"> <img src="/images/Diigital1.jpeg" /></a>
+      <img src="/images/Digital1.jpeg" />
     </td>
     <td>
-      <b>My Dawson Heritage Tour<font color="red"> (FULL)</font></b>
+      <b>Test without link in image<font color="red"> (FULL)</font></b>
       <br>1 July 2019 (Mon), 9.00am – 12.00pm 
       <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
       <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
