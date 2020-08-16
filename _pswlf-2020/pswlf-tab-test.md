@@ -25,6 +25,40 @@ Watch this video to find out more.
 7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
 8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
+#Test begins: digital for serving
+### <font color="orangered"><b>Professional and Personal Development</b></font>
+(Insert write-up from WD)
+<div class="row">
+    <div class="col is-1">
+    </div>
+    <div class="col is-3">
+	     <figure style="margin:0;">
+	     <img src="/images/digitalliteracy.jpg">(#serving)
+		     <figcaption><b>Digital Literacy</b></figcaption>
+		</figure>
+    </div>
+    <div class="col is-3">
+	    <figure style="margin:0;">
+	     <img src="/images/changeagility.jpg">		    <figcaption><b>Change Agility</b></figcaption>
+		</figure>
+    </div>
+    <div class="col is-3">
+	    <figure style="margin:0;">
+	     <img src="/images/financialliteracy.jpg">			    <figcaption><b>Financial Literacy</b></figcaption>
+		</figure>
+    </div>
+    <div class="col is-2">
+    </div>
+</div>
+
+
+
+### <font color="orangered"><b>Learning Activities for Professional and Personal Development</b></font>
+1.[Digital Literacy](#digital)<br>
+2.[Change Agility](#change)<br>
+3.[Financial Literacy](#financial)<br>
+
+
 #### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
