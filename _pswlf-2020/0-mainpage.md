@@ -1,11 +1,11 @@
 ---
-title: 'About PSWLF'
+title: 'Learning Festival'
 permalink: /pswlf-2020/0-mainpage
 breadcrumb: '0-mainpage'
 
 ---
 ![PSC2020](/images/PSWLF_Microsite_Banner.jpg)
-<br> For the first time, the Public Service Week Learning Festival is going fully virtual and we have partnered with the <b>Amalgamated Union of Public Employees (AUPE)</b> (hyperlink to AUPE’s website) to curate the learning sessions for this year.
+<br> For the first time, the Public Service Week Learning Festival is going fully virtual and we have partnered with the <b>![Amalgamated Union of Public Employees (AUPE)](https://www.aupe.org.sg/)</b> to curate the learning sessions for this year.
 
 We have put together a lineup of virtual learning sessions hosted by government agencies and a series of online bite-sized LEARN modules that you can access in your own time. Work out your “learning muscles” by hearing from various government agencies, developing current and/or new skills, and exploring new ideas with public officers from different agencies.
 
