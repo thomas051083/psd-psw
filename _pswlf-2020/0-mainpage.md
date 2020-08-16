@@ -9,7 +9,7 @@ breadcrumb: '0-mainpage'
 
 We have put together a lineup of virtual learning sessions hosted by government agencies and a series of online bite-sized LEARN modules that you can access in your own time. Work out your “learning muscles” by hearing from various government agencies, developing current and/or new skills, and exploring new ideas with public officers from different agencies.
 
-<b>BE CURIOUS, JOIN A LEARNING WORKOUT.</b>
+<b>JOIN A LEARNING WORKOUT.</b>
 
 Explore the learning sessions (also known as “Workouts”) by selecting any of the four categories below.
 
@@ -18,7 +18,8 @@ Explore the learning sessions (also known as “Workouts”) by selecting any of
 <b>+ View by OCC in Action <Hyperlink>:<b> 
 Hearing what others have done can often inspire us to do better for Our Future Public Service. The virtual sessions are hosted by different agencies and each demonstrates one of Our Core Competencies (OCC) in action. If you would like to pick up a new skill to develop a specific core competency, choose from a series of bite-sized LEARN modules specially curated for this Learning Festival.
 
-<b>+ View by Job Specific Skills <Hyperlink>:</b> 
+<b>+ View by Job Specific Skills <Hyperlink>:</b>
+<br>
 Workout sessions are available for officers belonging to these job families: xxx, and xxx. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions. <Extracted from previous UX write-up; WD to confirm.>
 
 <b>+ View by Professional & Personal Development <Hyperlink>:</b> 
