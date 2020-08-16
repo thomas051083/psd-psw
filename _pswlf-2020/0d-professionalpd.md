@@ -11,18 +11,20 @@ third_nav_title: All Workouts
     </div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	     <img src="/images/digitalliteracy.jpg">
+	     <a href="#digital"><img src="images/digitalliteracy.jpg"></a>
 		     <figcaption><b>Digital Literacy</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <img src="/images/changeagility.jpg">		    <figcaption><b>Change Agility</b></figcaption>
+	     <a href="#change"><img src="/images/changeagility.jpg"></a>
+		    <figcaption><b>Change Agility</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <img src="/images/financialliteracy.jpg">			    <figcaption><b>Financial Literacy</b></figcaption>
+	    <a href="#financial"><img src="/images/financialliteracy.jpg"></a>
+		    <figcaption><b>Financial Literacy</b></figcaption>
 		</figure>
     </div>
     <div class="col is-2">
@@ -53,7 +55,9 @@ third_nav_title: All Workouts
 
 ### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 
-### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
+### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
+
+### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
 
 ### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
 
