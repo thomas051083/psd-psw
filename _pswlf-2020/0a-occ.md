@@ -5,13 +5,13 @@ breadcrumb: 'Our Core Competencies in Action'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Our Core Competencies in Action</b></font>
-Choose from virtual sessions hosted by different agencies or bite-sized LEARN modules curated for this Learning Festival below. The virtual session demonstrates one of Our Core Competencies (OCC) in action, and the LEARN modules are curated to help you develop any one of your core competency. 
+Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the work of other agencies and how they have demonstrated Our Core Competencies (OCC) in action. If you are keen to develop your core competency, select from the list of LEARN modules specially curated for you. 
 
 ![OCC Running Man](/images/occrunningman.png)
 <b>More about OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. Watch this video to find out more about OCC.
 
-<br><br>
-<b>Don't have a LEARN account?</b>
+<br>
+<font color="blue"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 
 <h2 id="top"><font color="orangered"><b>View Learning Sessions by OCC</b></font></h2>
