@@ -85,34 +85,3 @@ Watch this video to find out more.
     </td>
 </tr> 
 </table>
-
-##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
-- [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
-- [Analytics Driven Government- The New Normal](https://www.learn.gov.sg/dlp/student/course/226)
-- [Blending Design Thinking, Lean and Agile in the workplace]("https://www.learn.gov.sg/dlp/student/course/28620)
-- [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
-- [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
-- [Lean methodology and tools](https://www.learn.gov.sg/dlp/student/course/28613)
-- [Overview 1: Data Science vs Data Analytics](https://www.learn.gov.sg/dlp/student/course/21027)
-- [Overview 2: Steps for a Data Science & Data Analytics Project](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Overview 3: Programming Language](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Overview 4: Machine Learning](https://www.learn.gov.sg/dlp/student/course/21064)
-- [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Ryan Sleeper: A Data Rockstar](https://www.learn.gov.sg/dlp/student/course/266)
-- [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
-
-<p>
-	<a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a>
-<a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a>
-<a href="https://www.learn.gov.sg/dlp/student/course/28620">Blending Design Thinking, Lean and Agile in the workplace</a>
-</p>
-
-<p> With bullets
-<font size="3">
-<ul><li><a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a></li>
-<li><a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a></li>
-<li><a href="https://www.learn.gov.sg/dlp/student/course/28620">Blending Design Thinking, Lean and Agile in the workplace</a></li></ul>
-	</font>
-</p>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
