@@ -25,7 +25,7 @@ Watch this video to find out more.
 7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
 8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
-#Test begins: digital for serving
+#Test begins: digital for serving; financial.for improving
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
 (Insert write-up from WD)
 <div class="row">
@@ -39,7 +39,7 @@ Watch this video to find out more.
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <img src="/images/changeagility.jpg">		    <figcaption><b>Change Agility</b></figcaption>
+	     <a href="#serving"><img src="/images/changeagility.jpg" class="imagel" alt="Demo"></a> <figcaption><b>Change Agility</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
