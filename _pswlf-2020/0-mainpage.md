@@ -15,7 +15,7 @@ Explore the learning sessions (also known as “Workouts”) by selecting any of
 <b>+ View by the 3Ws of Transformation:</b> (MOT’s to provide inputs)
 
 <b>+  View by OCC in Action (Hyperlink):</b>
-Hearing what others have done can often inspire us to do better for Our Future Public Service. The virtual sessions are hosted by different agencies and each demonstrates one of Our Core Competencies (OCC) in action. If you would like to pick up a new skill to develop a specific core competency, choose from a series of bite-sized LEARN modules specially curated for this Learning Festival.
+These virtual sessions are hosted by different agencies and each demonstrates one of Our Core Competencies (OCC) in action. If you would like to pick up a new skill to develop a specific core competency, choose from a series of bite-sized LEARN modules specially curated for your learning.
  
 <b>+ View by Job Specific Skills (hyperlink):</b>
 Workout sessions are available for officers belonging to these job families: xxx, and xxx. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions. (Extracted from previous UX write-up; WD to confirm.)
