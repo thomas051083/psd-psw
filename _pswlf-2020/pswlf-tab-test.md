@@ -153,20 +153,20 @@ permalink: /_pswlf-2020/pswlf-tab-test
 
 ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
+<br>
 <div class="row">
     <div class="col is-6">
-- [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
-- [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
-- [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
-- [Overview 1: Data Science vs Data Analytics](https://www.learn.gov.sg/dlp/student/course/21027)
-- [Overview 2: Steps for a Data Science & Data Analytics Project](https://www.learn.gov.sg/dlp/student/course/21035)
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
     </div>
-    
-<div class="row">
-     <div class="col is-4">
+     <div class="col is-6">
 - [Overview 3: Programming Language](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [Overview 4: Machine Learning](https://www.learn.gov.sg/dlp/student/course/21064)
 - [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
 - [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
+    </div>
     </div>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
