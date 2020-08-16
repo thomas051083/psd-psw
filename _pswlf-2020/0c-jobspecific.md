@@ -50,5 +50,5 @@ third_nav_title: All Workouts
     <div class="col is-3">
     </div>
 </div>
-#### <font color="darkorange"><b>Corporate Admin</b></font>
+#### <font color="darkorange"><b>Corporate Admin</b></font>(#corpadmin)
 
