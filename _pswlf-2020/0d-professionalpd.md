@@ -7,27 +7,23 @@ third_nav_title: All Workouts
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
 (Insert write-up from WD)
 <div class="row">
-    <div class="col is-1">
-    </div>
-    <div class="col is-3">
+    <div class="col is-4">
 	     <figure style="margin:0;">
 	     <a href="#digital"><img src="images/digitalliteracy.jpg"></a>
 		     <figcaption><b>Digital Literacy</b></figcaption>
 		</figure>
     </div>
-    <div class="col is-3">
+    <div class="col is-4">
 	    <figure style="margin:0;">
 	     <a href="#change"><img src="/images/changeagility.jpg"></a>
 		    <figcaption><b>Change Agility</b></figcaption>
 		</figure>
     </div>
-    <div class="col is-3">
+    <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#financial"><img src="/images/financialliteracy.jpg"></a>
 		    <figcaption><b>Financial Literacy</b></figcaption>
 		</figure>
-    </div>
-    <div class="col is-2">
     </div>
 </div>
 
