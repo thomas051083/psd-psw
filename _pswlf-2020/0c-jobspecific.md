@@ -11,19 +11,19 @@ third_nav_title: All Workouts
     <div class="col is-4">
 	     <figure style="margin:0;">		     
 	     <a href="#corpadmin"><img src="/images/corpadmin.jpg"></a>
-		     <figcaption><b>Corporate Admin</b></figcaption>
+		<font size="4"><b><i>Corporate Admin</i></b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#community"><img src="images/communityengagement.jpg"></a>
-		    <figcaption><b>Community Engagement and Partnership</b></figcaption>
+		<font size="4"><b><i>Community Engagement and Partnership</i></b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#hr"><img src="/images/humanresource.jpg"></a>
-		    <figcaption><b>Human Resource</b></figcaption>
+		  <font size="4"><b><i>Human Resource</i></b></font>
 		</figure>
     </div>
 </div>
@@ -34,13 +34,13 @@ third_nav_title: All Workouts
     <div class="col is-4">
 	     <figure style="margin:0;">
 	    <a href="#regulation"><img src="/images/regulation.jpg"></a>
-		     <figcaption><b>Regulation and Enforcement</b></figcaption>
+		  <font size="4"><b><i>Regulation and Enforcement</i></b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#accounting"><img src="/images/accounting.jpg"></a>
-		    <figcaption><b>Accounting and Finance</b></figcaption>
+		 <font size="4"><b><i>Accounting and Finance</i></b></font>
 		</figure>
     </div>
     <div class="col is-2">
