@@ -16,7 +16,7 @@ Testing page for PSW
       <b><br>Probation Officer  | Probation and Community Service</b>
       <i><br>2 week attachment </i>
       
-      ##### <font color="orange"><b>LEARN modules</b></font><br>
+   ##### <font color="orange"><b>LEARN modules</b></font><br>
 <font size="4"> Want to participate in the Learning Festival in your own time? Explore these LEARN modules specially curated for each core competency. 
     If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 
