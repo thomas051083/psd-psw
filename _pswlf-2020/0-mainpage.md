@@ -32,5 +32,7 @@ This event is open to all public officers for free. Register for the session tha
 
 Find out more about AUPE here (hyperlink to AUPE webpage).
 
+(Insert MOT's, AUPE's and PSD's logos at the bottom. Note that for AUPE, it'll be included with the line "Organised by xxxx ... in partnership with AUPE.)
+
 <br>
 ![PSC2020](/images/PSWLF_Microsite_Footer.jpg)
