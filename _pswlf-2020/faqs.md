@@ -5,7 +5,7 @@ breadcrumb: 'FAQ'
 
 ---
 
-## Frequently Asked Questions
+## <font color="orangered"> Frequently Asked Questions
 1.[General](#general)<br>
 2.[LEARN Accounts](#learn)<br>
 3.[Registration](#registration)<br>
