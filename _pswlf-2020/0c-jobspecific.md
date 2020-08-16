@@ -11,20 +11,20 @@ third_nav_title: All Workouts
     <div class="col is-1">
     </div>
     <div class="col is-3">
-	     <figure style="margin:0;">
-	     <a href="/jobspecific-details/corpadmin"> <img src="/images/corpadmin.jpg"></a>
+	     <figure style="margin:0;">		     
+	     <a href="#corpadmin"><img src="/images/corpadmin.jpg"></a>
 		     <figcaption><b>Corporate Admin</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/community"> <img src="/images/communityengagement.jpg"></a>
+	    <a href="#community"><img src="images/communityengagement.jpg"></a>
 		    <figcaption><b>Community Engagement and Partnership</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/humanresource"> <img src="/images/humanresource.jpg"></a>
+	    <a href="#hr"><img src="/images/humanresource.jpg"></a>
 		    <figcaption><b>Human Resource</b></figcaption>
 		</figure>
     </div>
@@ -37,22 +37,18 @@ third_nav_title: All Workouts
     </div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	     <a href="/jobspecific-details/regulation"> <img src="/images/regulation.jpg"></a>
+	    <a href="#regulation"><img src="/images/regulation.jpg"></a>
 		     <figcaption><b>Regulation and Enforcement</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="/jobspecific-details/accounting"> <img src="/images/accounting.jpg"></a>
+	    <a href="#accounting"><img src="/images/accounting.jpg"></a>
 		    <figcaption><b>Accounting and Finance</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
     </div>
 </div>
-### <font color="orangered"><b>Learning Activities for Job Specific Skills</b></font>
-1.[Corporate Admin](#corpadmin)<br>
-2.[Community](#community)<br>
-3.[Human Resource](#hr)<br>
-4.[Regulation and Enforcement](#regulation)<br>
-5.[Accounting and Finance](#accounting)<br>
+#### <font color="darkorange"><b>Corporate Admin</b></font>
+
