@@ -5,46 +5,11 @@ permalink: /_pswlf-2020/pswlf-tab-test
 # [Lishi is testing]
 ![Flex Your Learning Muscles](/images/pswlflearningmuscles.png "Virtual Gym")
 
-<id="top">
-### <font color="orangered"><b>Learning Activities for OCC</b></font>
-
-#Test begins: change for serv
-<div class="row">
-    <div class="col is-1">
-    </div>
-    <div class="col is-3">
-	     <figure style="margin:0;">
-	     [img src="/images/digitalliteracy.jpg"](#serving)
-		     <figcaption><b>Digital Literacy</b></figcaption>
-		</figure>
-    </div>
-    <div class="col is-3">
-	    <figure style="margin:0;">
-	     <a href="#serving"><img src="/images/changeagility.jpg"></a> <figcaption><b>Change Agility</b></figcaption>
-		</figure>
-    </div>
-    <div class="col is-3">
-	    <figure style="margin:0;">
-	     <img src="/images/financialliteracy.jpg">			    <figcaption><b>Financial Literacy</b></figcaption>
-		</figure>
-    </div>
-    <div class="col is-2">
-    </div>
-</div>
-
-
-
-### <font color="orangered"><b>Learning Activities for Professional and Personal Development</b></font>
-1.[Digital Literacy](#digital)<br>
-2.[Change Agility](#change)<br>
-3.[Financial Literacy](#financial)<br>
-
-
-#### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
+### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
     <td>
-     <img src="/images/Engage1.jpg">
+     <img src="/images/geospatial.jpg">
     </td>
     <td>
       <b>Building a Geospatial Ecosystem</b>
@@ -52,12 +17,13 @@ permalink: /_pswlf-2020/pswlf-tab-test
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <br>-Understand what geospatial information is and its uses.
-      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Understand what geospatial information is and its uses.
+      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
 </tr>
+    
 <tr>
     <td>
      <img src="/images/Engage2.jpeg">
@@ -76,4 +42,3 @@ permalink: /_pswlf-2020/pswlf-tab-test
     </td>
 </tr> 
 </table>
-#### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font> <a name="serving"></a>
