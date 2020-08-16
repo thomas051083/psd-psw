@@ -16,30 +16,20 @@ Watch this video to find out more.
 
 <id="top">
 ### <font color="orangered"><b>Learning Activities for OCC</b></font>
-1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
-2.[Serving with Heart, Commitment and Purpose](#serving)<br>
-3.[Working As One Public Service](#workingone)<br>
-4.[Working Effectively with Citizens and Stakeholders](#workingeffectively)<br>
-5.[Improving and Innovating Continuously](#improving)<br>
-6.[Keep Learning and Putting Skills into Action](#keep)<br>
-7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
-8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
-#Test begins: digital for serving; financial.for improving
-### <font color="orangered"><b>Professional and Personal Development</b></font>
-(Insert write-up from WD)
+#Test begins: digital for serving; changefor improving
 <div class="row">
     <div class="col is-1">
     </div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	     <img src="/images/digitalliteracy.jpg">(#serving)
+	     [img src="/images/digitalliteracy.jpg"](#serving)
 		     <figcaption><b>Digital Literacy</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	     <a href="#serving"><img src="/images/changeagility.jpg" class="imagel" alt="Demo"></a> <figcaption><b>Change Agility</b></figcaption>
+	     <a href="#serving"><img src="/images/changeagility.jpg"></a> <figcaption><b>Change Agility</b></figcaption>
 		</figure>
     </div>
     <div class="col is-3">
