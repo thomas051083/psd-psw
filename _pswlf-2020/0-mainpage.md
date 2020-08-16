@@ -23,7 +23,7 @@ Workout sessions are available for officers belonging to these job families: xxx
 <b>+ View by Professional & Personal Development (Hyperlink):</b>
 Get quick tips and pointers for work and life no matter what career or life stage you are at, including digital and financial literacy and career management. <Extracted from previous UX write-up; WD to confirm.>
   
-  
+<br>  
 Registration for these virtual offerings will begin on 1 September 2020. Check back this space for more information.
 
 <br>
