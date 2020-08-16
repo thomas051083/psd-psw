@@ -28,7 +28,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
 <tr>
     <td>
-     <img src="/images/Engage1.jpg">
+     <img src="/images/geospatial.jpg">
     </td>
     <td>
       <b>Building a Geospatial Ecosystem</b>
