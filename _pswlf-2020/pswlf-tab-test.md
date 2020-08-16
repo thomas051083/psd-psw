@@ -17,7 +17,7 @@ Watch this video to find out more.
 <id="top">
 ### <font color="orangered"><b>Learning Activities for OCC</b></font>
 
-#Test begins: digital for serving; changefor improving
+#Test begins: change for serv
 <div class="row">
     <div class="col is-1">
     </div>
@@ -85,3 +85,4 @@ Watch this video to find out more.
     </td>
 </tr> 
 </table>
+#### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font> <a name="serving"></a>
