@@ -9,7 +9,7 @@ breadcrumb: '0-mainpage'
 
 We have put together a lineup of virtual learning sessions hosted by government agencies and a series of online bite-sized LEARN modules that you can access in your own time. Work out your “learning muscles” by hearing from various government agencies, developing current and/or new skills, and exploring new ideas with public officers from different agencies.
 
-<font color="orangered"><b>JOIN A LEARNING WORKOUT</b></font>
+### <font color="orangered"><b>JOIN A LEARNING WORKOUT</b></font>
 Explore the learning sessions (also known as “Workouts”) by selecting any of the four categories below.
 
 <b>+ View by the 3Ws of Transformation:</b> (MOT’s to provide inputs)
