@@ -31,19 +31,19 @@ third_nav_title: All Workouts
     <div class="col is-4">
 	     <figure style="margin:0;">
 		<a href="#health"><img src="/images/health1.jpg"></a>
-		     <figcaption><b>Health and Wellness</b></figcaption>
+		   <font size="4"><b><i>Health and Wellness</i></b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 		<a href="#career"><img src="/images/careermanagement1.jpg"></a>
-		    <figcaption><b>Career Management</b></figcaption>
+		   <font size="4"><b><i>Career Management</i></b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 		<a href="#life"><img src="/images/lifetransition.jpg"></a>		    
-		    <figcaption><b>Managing Life Transition</b></figcaption>
+		    <font size="4"><b><i>Managing Life Transition</i></b></font>
 		</figure>
     </div>
 </div>
