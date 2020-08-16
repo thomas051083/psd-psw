@@ -16,7 +16,7 @@ third_nav_title: All Workouts
     <div class="col is-4">
 	    <figure style="margin:0;">
 	     <a href="#change"><img src="/images/changeagility.jpg"></a>
-		    <font size="4"><i><b>Change Agility</i></b></font>
+		    <font size="4"><b><i>Change Agility</i></b></font>
 		</figure>
     </div>
     <div class="col is-4">
