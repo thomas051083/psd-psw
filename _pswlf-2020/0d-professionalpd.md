@@ -29,9 +29,34 @@ third_nav_title: All Workouts
     </div>
 </div>
 
+<div class="row">
+    <div class="col is-4">
+	     <figure style="margin:0;">
+		<a href="#health"><img src="/images/health1.jpg"></a>
+		     <figcaption><b>Health and Wellness</b></figcaption>
+		</figure>
+    </div>
+    <div class="col is-4">
+	    <figure style="margin:0;">
+		<a href="#career"><img src="/images/careermanagement1.jpg"></a>
+		    <figcaption><b>Career Management</b></figcaption>
+		</figure>
+    </div>
+    <div class="col is-4">
+	    <figure style="margin:0;">
+		<a href="#life"><img src="/images/lifetransition.jpg"></a>		    
+		    <figcaption><b>Managing Life Transition</b></figcaption>
+		</figure>
+    </div>
+</div>
 
 
-### <font color="orangered"><b>Learning Activities for Professional and Personal Development</b></font>
-1.[Digital Literacy](#digital)<br>
-2.[Change Agility](#change)<br>
-3.[Financial Literacy](#financial)<br>
+### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
+
+### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
+
+### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
+
+### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
+
+### <font color="darkorange"><b>Managing Life Transition</b></font><a name="life"></a>
