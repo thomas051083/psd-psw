@@ -10,19 +10,19 @@ third_nav_title: All Workouts
     <div class="col is-4">
 	     <figure style="margin:0;">
 	     <a href="#digital"><img src="images/digitalliteracy.jpg"></a>
-	     <br><b>Digital Literacy</b>
+		     <font size="6"><b>Digital Literacy</b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	     <a href="#change"><img src="/images/changeagility.jpg"></a>
-		<br><b>Change Agility</b>
+		 <font size="6"><b>Change Agility</b></font>
 		</figure>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#financial"><img src="/images/financialliteracy.jpg"></a>
-	    <br><b>Financial Literacy</b>
+	    <font size="6"><b>Financial Literacy</b></font>
 		</figure>
     </div>
 </div>
