@@ -79,8 +79,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 </table>
----
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+---
+
 <br>
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
 <table>
@@ -139,8 +140,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 </table>
----
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+---
 <br>
 
 #### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
@@ -183,11 +184,11 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
 		<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Driving A Culture Of Collaboration/a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Forming Collaborative Teams</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Leading Cross-Functional Teams</a><br>						 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Leading your Team in Successful Collaborations</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Tackling Challenges with Collaborative Work](</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration/a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/202">Forming Collaborative Teams</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/7944">Tackling Challenges with Collaborative Work</a><br>		
     </td>
     <td>
 	    <img src="images/learnlogowhitebg.jpg">
@@ -245,8 +246,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/38020">A Guide to Managing a Volunteer Workforce</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/29455">Citizen-centric Governance, Citizen-centric Communications</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/10944">Customer Journey Mapping</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Designing Regulations – Lesson</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Introduction to Citizens' Jury</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
     </td>
     <td>
