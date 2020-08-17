@@ -201,10 +201,11 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
+<table>
 <tr>
     <td>
        <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
-      <br>16 October, 4-5pm| Platform: Zoom
+      <br>16 October, 4-5pm | Platform: Zoom
       <br>       
       <br>Pick up tips from the experience of the cross-agency team that ran the Citizens’ Panel on Work-Life Harmony in 2019. 
       <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be a useful topic and approach? How do you go about doing so?
@@ -220,7 +221,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 <tr>   
-	<table>
+<table>
 <tr>
     <td>
       <b>Multi-Stakeholder Collaboration - Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
@@ -242,6 +243,18 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td> 
 </tr>
 <tr>
+<table>
+<tr>	
+	<td>
+      <b>Participatory Design - From Working For to Working With</b>
+      <br>30 October, 3-5pm| Platform: Zoom
+      <br>       
+      <br>This session is an introduction to the method known as Participatory Design or PD. The session will also provide a brief overview of PD tools. It will also look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM).
+      <br>Learning outcomes:
+      <br>• To be able to recognise what PD is and is not.
+      <br>•To explain how PD involves working with citizens in the development of infrastructure and content 
+      <br>•To recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
+      <br>
 	<td>	     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders.
