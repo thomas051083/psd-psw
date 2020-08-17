@@ -201,6 +201,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
+	
 <table>
 <tr>
     <td>
@@ -247,7 +248,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>	
 	<td>
       <b>Participatory Design - From Working For to Working With</b>
-      <br>30 October, 3-5pm| Platform: Zoom
+      <br>30 October, 3-5pm | Platform: Zoom
       <br>       
       <br>This session is an introduction to the method known as Participatory Design or PD. The session will also provide a brief overview of PD tools. It will also look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM).
       <br>Learning outcomes:
@@ -255,7 +256,31 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>•To explain how PD involves working with citizens in the development of infrastructure and content 
       <br>•To recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
-	<td>	     
+	<td>		
+<table>
+<tr>
+    <td>
+      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
+      <br>23 October, 4-5pm | Platform: Zoom
+      <br>       
+      <br>The sharing would have the following components: 
+          <br>∙[Intro] A brief discussion on the EduTrust Certification Scheme which is for Private Education Institutes (PEI) in Singapore and its role in raising the standard of private education here 
+          <br>∙[Context] The administrative burden that the preparation for this assessment was causing to PEIs
+          <br>∙[Process] The process which we took to find out from the PEIs on the reasons and pain points 
+          <br>∙[Outcomes] The enhancements that resulted from the review 
+          <br>∙[Engagement] Open sharing by participants on what they can do to improve their own agencies' processes
+          <br>∙[Conclusion] Implemenation of the enhancements, and subsequent feedback that we have received from the PEis and future plans
+      <br>Learning outcomes:
+      <br>∙ The role that regulators have in engaging with the sector that we regulate and the continuous drive to ensure our regulations and schemes are relevant and effective to the sector.
+      <br>∙ Understanding a possible approach to improving business processes
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/geospatial.jpg">
+    </td> 
+</tr>
+<tr>
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders.
 		<br><br>
@@ -282,7 +307,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br> XX Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
