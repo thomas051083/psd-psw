@@ -81,8 +81,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 ---
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-
-
+<br>
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
 <table>
 <tr>
@@ -126,22 +125,23 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/8032">A Tool for Effective Feedback</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8053">Aligning Expectations With My Supervisor</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/28350">Applying Agile Scrum to your workplace</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Conversations That Inspire and Engage</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Growing My Self-Awareness</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28613">Making Sense of My Leadership Transition</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Making Time for Reflection</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Sharpening My Listening Skills</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064)">The Power of Questions</a>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">The Value of Feedback</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/266)">Understanding My Corporate Responsibilities</a>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/8043">Conversations That Inspire and Engage</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/8047">Growing My Self-Awareness</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8037">Making Sense of My Leadership Transition</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8045">Making Time for Reflection</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8041">Sharpening My Listening Skills</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8039">The Power of Questions</a>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8035">The Value of Feedback</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8051">Understanding My Corporate Responsibilities</a>	
     </td>
     <td>
 	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+<br>
 
 #### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
 <table>
