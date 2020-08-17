@@ -92,40 +92,40 @@ Learn how to safeguard yourself and others against online falsehoods by using th
       <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
     <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
     <br>-Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>
+      <btd
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
-<tr>
-	<div class="col is-9">
-	     <figure style="margin:0;">		     
+<tr>   
+	<td>	     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
 		</figure>
-    </div>
-    <div class="col is-3">
+    </td>
+    <td>
 	    <figure style="margin:0;">
 	    <img src="images/learnlogowhitebg.jpg"></a>
 		</figure>
-    </div>
+    </td>
 </tr>
  <tr>
-   <div class="col is-6">
+   <td>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a>
     </div>
-   <div class="col is-6">
+   </td>
+   <td>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Overview 3: Programming Language</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>
-    </div>
+    </td>
     </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
