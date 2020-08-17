@@ -73,7 +73,7 @@ permalink: /_pswlf-2020/pswlf-tab-test
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-    
+ 
 <tr>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
@@ -91,14 +91,13 @@ permalink: /_pswlf-2020/pswlf-tab-test
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
-
 <tr>
     <td>
       <b>LEARN modules</b>
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-        <td>
-            <td>
-     <img src="/images/learnlogo.jpg">
+        </td>
+       <td>
+     <img src="/images/learnlogo.png">
     </td>
 <tr>
     <td>
