@@ -147,25 +147,21 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
 <tr>
     <td>
-     <img src="/images/Engage1.jpg">
-    </td>
-    <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <br>-Understand what geospatial information is and its uses.
-      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Understand what geospatial information is and its uses.
+      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
     </td>
 </tr>
-    
 <tr>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
       <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
@@ -178,19 +174,30 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-</tr> 
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>	     
+	    <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Driving A Culture Of Collaboration/a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Forming Collaborative Teams</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Leading Cross-Functional Teams</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Leading your Team in Successful Collaborations</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Tackling Challenges with Collaborative Work](</a><br>		
+    </td>
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
-##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to participate in the Learning Festival in your own time? Explore these LEARN modules specially curated for each core competency. 
-    If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
-
-- [Driving A Culture Of Collaboration](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Forming Collaborative Teams](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
-- [Leading your Team in Successful Collaborations](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Tackling Challenges with Collaborative Work](https://www.learn.gov.sg/dlp/student/course/138926)
-<div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+ 
+
 
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
 <table>
