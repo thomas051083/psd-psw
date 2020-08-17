@@ -221,7 +221,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
-<tr>   
 <table>
 <tr>
     <td>
@@ -290,7 +289,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>Learning outcomes:
       <br>∙ Learn about helping businesses through:
       <br>∙ Design-thinking – engaging stakeholders to understand their needs and their pain points, co-create and collaborate with them
-      <br>∙ Digitalisation – introducing digital solutions to improve operational efficiency and p
+      <br>∙ Digitalisation – introducing digital solutions to improve operational efficiency and productivity for businesses
+      <br>∙ Regulatory Excellence – simplifying rules to lower compliance costs for businesses 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
