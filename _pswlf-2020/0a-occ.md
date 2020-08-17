@@ -203,25 +203,21 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
 <tr>
     <td>
-     <img src="/images/Engage1.jpg">
-    </td>
-    <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <br>-Understand what geospatial information is and its uses.
-      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Understand what geospatial information is and its uses.
+      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
     </td>
 </tr>
-    
 <tr>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
       <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
@@ -234,26 +230,33 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-</tr> 
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>	     
+	    <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders.
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/24922">(Regulation 101) 1. Foundations of Smart Regulation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/31089">(Regulation 101) 2. Designing Regulations</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/31094">(Regulation 101) 3. Compliance Strategy</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/38020">A Guide to Managing a Volunteer Workforce</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/29455">Citizen-centric Governance, Citizen-centric Communications</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10944">Customer Journey Mapping</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Designing Regulations – Lesson</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+    </td>
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
-##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders</font>
-- [(Regulation 101) 1. Foundations of Smart Regulation](https://www.learn.gov.sg/dlp/student/course/232)
-- [(Regulation 101) 2. Designing Regulations](https://www.learn.gov.sg/dlp/student/course/210)
-- [(Regulation 101) 3. Compliance Strategy](https://www.learn.gov.sg/dlp/student/course/135138)
-- [A Guide to Managing a Volunteer Workforce](https://www.learn.gov.sg/dlp/student/course/21027)
-- [Citizen-centric Governance, Citizen-centric Communications](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Customer Journey Mapping](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Designing Regulations – Lesson](https://www.learn.gov.sg/dlp/student/course/21064)
-- [Introduction to Citizens' Jury](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Modes of Citizen Engagement](https://www.learn.gov.sg/dlp/student/course/138926)
-- [Module 1: What is Citizen-Centred Service? Why is it important?](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Service Design: Designing for Experience Over Time](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Video Case: Library@Chinatown](https://www.learn.gov.sg/dlp/student/course/21035)
-- [What is citizen engagement](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Why does citizen engagement matter?](https://www.learn.gov.sg/dlp/student/course/21064)
-<div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
 
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font> <a name="improving"></a>
 <table>
