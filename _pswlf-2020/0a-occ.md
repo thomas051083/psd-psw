@@ -60,9 +60,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 <tr>   
-	<td>	     
-	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+    <td>	     
+      <b>LEARN modules</b>
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
@@ -74,8 +74,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
     </td>
-    <td>
-	    <img src="images/learnlogowhitebg.jpg">
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
