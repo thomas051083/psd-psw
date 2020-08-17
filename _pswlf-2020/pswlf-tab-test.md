@@ -9,7 +9,7 @@ permalink: /_pswlf-2020/pswlf-tab-test
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
 
 <div class="resp-container">
-	<iframe class="resp-iframe" src="https://vimeo.com/448413622/2160302dbc" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<iframe class="resp-iframe" src="https://vimeo.com/448413622" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
 
