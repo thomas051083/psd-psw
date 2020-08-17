@@ -6,6 +6,7 @@ third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
 (Insert write-up from WD)
+<p>
 <div class="row">
     <div class="col is-4">
 	     <figure style="margin:0;">
@@ -47,6 +48,7 @@ third_nav_title: All Workouts
 		</figure>
     </div>
 </div>
+</p>
 ### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <table>
 <tr>
@@ -96,7 +98,7 @@ third_nav_title: All Workouts
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+    <td>
      <img src="/images/change1.jpg">
     </td>
 </tr>
@@ -116,6 +118,8 @@ third_nav_title: All Workouts
     <td>
      <img src="/images/change2.jpg">
     </td>
+	</tr>
+<tr>
 	<td>
       <b>Working in Multigenerational Workplace</b>
       <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
