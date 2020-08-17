@@ -220,14 +220,15 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+       <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
+      <br>16 October, 4-5pm| Platform: Zoom
       <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Pick up tips from the experience of the cross-agency team that ran the Citizens’ Panel on Work-Life Harmony in 2019. 
+      <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be a useful topic and approach? How do you go about doing so?
+      <br>Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony 2019. This session will help provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
       <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>∙ - Learn about how a deliberative engagement process can help us better work together with citizens to tackle certain issues, and the pros and cons of the Citizens’ Panel approach
+<br>∙- Learn how to strike a balance between giving room for citizens to engage
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
