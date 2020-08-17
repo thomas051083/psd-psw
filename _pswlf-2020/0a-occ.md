@@ -9,7 +9,7 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 
 ![OCC Running Man](/images/occrunningman.png)
 <b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. Watch this video (link) to find out more about the OCC.
-
+ [Our Core Competencies (For Officers)](https://www.learn.gov.sg/dlp/student/course/232)
 <br>
 <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
@@ -24,12 +24,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
 8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
-### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
+### <font color="darkorange"><b>Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
-    <td>
-     <img src="/images/geospatial.jpg">
-    </td>
     <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
@@ -40,13 +37,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
     </td>
 </tr>
-    
 <tr>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
       <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
@@ -59,20 +55,30 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-</tr> 
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>	     
+	    <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Overview 3: Programming Language</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+    </td>
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
-
-##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
-- [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
-- [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
-- [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
-- [Overview 1: Data Science vs Data Analytics](https://www.learn.gov.sg/dlp/student/course/21027)
-- [Overview 2: Steps for a Data Science & Data Analytics Project](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Overview 3: Programming Language](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Overview 4: Machine Learning](https://www.learn.gov.sg/dlp/student/course/21064)
-- [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
@@ -80,25 +86,21 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
 <tr>
     <td>
-     <img src="/images/Engage1.jpg">
-    </td>
-    <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
       <br>Learning outcomes:
-      <br>* Understand what geospatial information is and its uses.
-      <br>* Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Understand what geospatial information is and its uses.
+      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
     </td>
 </tr>
-    
 <tr>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
       <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
@@ -111,19 +113,38 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-</tr> 
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>	     
+	    <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+		<br><br>
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">A Tool for Effective Feedback</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/226">Aligning Expectations With My Supervisor</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28620">Applying Agile Scrum to your workplace</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/210">Conversations That Inspire and Engage]</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Growing My Self-Awareness</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28613">Making Sense of My Leadership Transition</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Making Time for Reflection</a><br>
+        
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Managing My Time</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+    </td>
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
 
 ##### <font color="orange"><b>LEARN modules</b></font><br>
-- [A Tool for Effective Feedback](https://www.learn.gov.sg/dlp/student/course/232)
-- [Aligning Expectations With My Supervisor](https://www.learn.gov.sg/dlp/student/course/226)
-- [Applying Agile Scrum to your workplace](https://www.learn.gov.sg/dlp/student/course/28620)
-- [Conversations That Inspire and Engage](https://www.learn.gov.sg/dlp/student/course/210)
-- [Growing My Self-Awareness](https://www.learn.gov.sg/dlp/student/course/135138)
-- [Making Sense of My Leadership Transition](https://www.learn.gov.sg/dlp/student/course/28613)
-- [Making Time for Reflection](https://www.learn.gov.sg/dlp/student/course/21027)
-- [Managing My Time](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Our Core Competencies (For Officers)](https://www.learn.gov.sg/dlp/student/course/232)
+
+- []()
+- []()
+-
 - [Sharpening My Listening Skills](https://www.learn.gov.sg/dlp/student/course/21038z)
 - [The Power of Questions](https://www.learn.gov.sg/dlp/student/course/21064)
 - [The Value of Feedback](https://www.learn.gov.sg/dlp/student/course/21067)
