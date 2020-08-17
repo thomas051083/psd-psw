@@ -118,7 +118,6 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
-
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
