@@ -51,7 +51,6 @@ third_nav_title: All Workouts
 </p>
 ### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <table>
-<table>
 <tr>
     <td>
       <b>AI for Everyone</b>
@@ -79,7 +78,7 @@ third_nav_title: All Workouts
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
-     <img src="/images/digital4.jpeg">
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
 </table>
