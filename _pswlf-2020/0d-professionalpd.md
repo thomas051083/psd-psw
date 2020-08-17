@@ -79,6 +79,22 @@ third_nav_title: All Workouts
      <img src="/images/digital4.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>Working in Multigenerational Workplace</b>
+      <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
+      <br>       
+      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.  
+      <br>Learning outcomes:
+      <br>∙ Understand why people of different generations behave differently
+      <br>∙ See strengths instead of weaknesses in people
+      <br>∙ Work better with team members and colleagues
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
 </table>
 ---
 ### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
