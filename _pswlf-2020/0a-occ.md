@@ -52,8 +52,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>Learning outcomes:
       <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>∙ Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>∙ Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -82,7 +82,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
----
 
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
 <table>
@@ -125,7 +124,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
----
 
 #### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
 <table>
@@ -179,7 +177,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 </table>
----
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
