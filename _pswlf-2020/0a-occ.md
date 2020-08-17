@@ -66,7 +66,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Overview 3: Programming Language</a><br>
@@ -79,8 +79,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 </table>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
 
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
 <table>
@@ -121,7 +122,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	<td>	     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.
-		<br><br>
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">A Tool for Effective Feedback</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/226">Aligning Expectations With My Supervisor</a><br>
