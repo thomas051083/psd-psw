@@ -24,7 +24,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
 8.[Caring for, Developing and Inspiring Staff](#caring)<br>
 
-### <font color="darkorange"><b>Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
+### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
     <td>
@@ -66,7 +66,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
 - <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
@@ -145,22 +145,23 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <br>
 
 #### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
-<table>
+table>
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>Overview of GeoSpace</b>
+      <br>23 October, 3-5pm| Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Understand what is GeoSpace and is benefits
+      <br>∙ Know how to share or consume geospatial data from GeoSpace.
+      <br>∙ Recognize how GeoSpace help agency users on their projects or operation works.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/geospatial.jpg">
-    </td>
+    </td> 
 </tr>
 <tr>
     <td>
@@ -197,8 +198,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 ---
 <div style="text-align: right"><a href="#top">Back to top</a></div>
- 
-
 
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
 <table>
