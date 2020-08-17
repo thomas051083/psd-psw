@@ -73,7 +73,6 @@ permalink: /_pswlf-2020/pswlf-tab-test
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
- 
 <tr>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
@@ -101,10 +100,7 @@ permalink: /_pswlf-2020/pswlf-tab-test
     </td>
 <tr>
     <td>
-##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> </font>
-<br>
-<div class="row">
+    <div class="row">
     <div class="col is-6">
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a>
@@ -121,5 +117,6 @@ permalink: /_pswlf-2020/pswlf-tab-test
     </div>
     </td>
     </tr>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
