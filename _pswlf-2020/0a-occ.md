@@ -14,7 +14,9 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 **Lishi: Please dont replace content page link**
-<h2 id="top"><font color="orangered"><b>View Learning Sessions by OCC</b></font></h2>
+<h2 id="top">
+	
+### <font color="orangered"><b>View Learning Sessions by OCC</b></font></h2>
 1. <a href="#thinking">Thinking Clearly and Making Sound Judgements</a><br>
 2. <a href="#serving">Serving with Heart, Commitment and Purpose</a><br>
 3. <a href="#workingone">Working As One Public Service</a><br>
@@ -24,7 +26,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 7. <a href="#stewarding">Stewarding Systems for Today and Tomorrow</a><br>
 8. <a href="#caring">Caring for, Developing and Inspiring Staff</a><br>
 
-### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
+#### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
     <td>
@@ -63,7 +65,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     <td>	     
       <b>LEARN modules</b>
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-		<br><br>
+	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
@@ -82,7 +84,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
-<br>
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
 <table>
 <tr>
@@ -125,7 +126,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
-<br>
 
 #### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
 <table>
@@ -182,7 +182,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 ---
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-####<font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
+#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
 <table>
 <tr>
     <td>
