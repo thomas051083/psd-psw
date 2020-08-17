@@ -199,17 +199,18 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 ---
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
+####<font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
 <table>
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+         <b>Designing Spaces with Virtual Reality</b>
+      <br>15 October, 10-11.15am| Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
+      <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Determine areas in which the VR technology can be helpful to plan for effective citizen and stakeholder engagements. 
+      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
