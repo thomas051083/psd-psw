@@ -118,9 +118,9 @@ third_nav_title: All Workouts
     <td>
      <img src="/images/change2.jpg">
     </td>
-	</tr>
+</tr>
 <tr>
-	<td>
+     <td>
       <b>Working in Multigenerational Workplace</b>
       <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
       <br>       
