@@ -13,16 +13,16 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 <br>
 <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
-
+**Lishi: Please dont replace content page link**
 <h2 id="top"><font color="orangered"><b>View Learning Sessions by OCC</b></font></h2>
-1.[Thinking Clearly and Making Sound Judgements](#thinking)<br>
-2.[Serving with Heart, Commitment and Purpose](#serving)<br>
-3.[Working As One Public Service](#workingone)<br>
-4.[Working Effectively with Citizens and Stakeholders](#workingeffectively)<br>
-5.[Improving and Innovating Continuously](#improving)<br>
-6.[Keep Learning and Putting Skills into Action](#keep)<br>
-7.[Stewarding Systems for Today and Tomorrow](#stewarding)<br>
-8.[Caring for, Developing and Inspiring Staff](#caring)<br>
+1.<a href="#thinking">Thinking Clearly and Making Sound Judgements</a><br>
+2.<a href="#serving">Serving with Heart, Commitment and Purpose</a><br>
+3.<a href="#workingone">Working As One Public Service</a><br>
+4.<a href="#workingeffectively">Working Effectively with Citizens and Stakeholders</a><br>
+5.<a href="#improving">Improving and Innovating Continuously</a><br>
+6.<a href="#keep">Keep Learning and Putting Skills into Action</a><br>
+7.<a href="#stewarding">Stewarding Systems for Today and Tomorrow</a><br>
+8.<a href="#caring">Caring for, Developing and Inspiring Staff</a><br>
 
 ### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
