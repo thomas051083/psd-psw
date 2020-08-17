@@ -102,23 +102,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 <tr>
-    <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-</tr>
-<tr>   
 	<td>	     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.
@@ -237,6 +220,28 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 <tr>   
+	<table>
+<tr>
+    <td>
+      <b>Multi-Stakeholder Collaboration - Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
+      <br>22 October,  3-5pm | Platform: Zoom
+      <br>      
+      <br>PSWLF committee has invited PEERS Office to consider hosting a virtual sharing session about the Partners Engaging and Empowering Rough Sleepers (PEERS) Network. The committee is finding this to be very relevant for the theme on “Work – Transforming how we serve citizens and businesses as One Public Service”, particularly on how MSF works closely with social service agencies and community groups to support ground-up initiatives for homeless persons and rough sleepers. As our Public Service moves towards increased collaboration and co-creation between agencies, and with external stakeholders, the committee has assessed that the PEERS Network will be a good learning point for other agencies who are thinking of similar initiatives. Additionally, the COVID-19 situation has brought about new challenges that would be interesting areas of learning, especially in navigating the way we work. For the PSWLF virtual sharing session, some key points that would be useful to include are what the PEERS Network is about, key considerations to make in a multi-stakeholder collaboration, some of the challenges faced (and how to overcome them), as well as highlighting some memorable experiences that have arisen from this initiative
+      <br>Learning outcomes/Key takeaways:
+          <br>1. Working towards a common goal, built on trust
+          <br>2. Delivering better outcomes to citizens based on guiding principles
+          <br>3. No one-size fits all approach when working with/managing stakeholders
+     <br>Learning objectives:
+          <br>1. Gain insights on how to work collaboratively and co-create solutions with external stakeholders to deliver better services to citizens 
+          <br>2. Understand the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/geospatial.jpg">
+    </td> 
+</tr>
+<tr>
 	<td>	     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Working Effectively with Citizens and Stakeholders.
