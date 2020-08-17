@@ -108,7 +108,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <img src="images/learnlogo.png"></a>
+	    <img src="images/learnlogowhitebg.jpg"></a>
 		</figure>
     </div>
 </div>
