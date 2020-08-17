@@ -156,7 +156,43 @@ third_nav_title: All Workouts
 </table>
 ---
 ### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
-
+<table>
+<tr>
+    <td>
+      <b>Mindfulness – The Key to Self-Awareness</b>
+      <br>23 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Cultivate focus and develop tranquility! The easiest way to understand mindfulness is to experientially focus all of your attention on your thoughts, feelings, and actions as they occur in order to see them more clearly, without making so many assumptions.     
+      <br>Learning outcomes:
+      <br>• Simple daily exercise to boost the areas of the brain to cultivate focus
+      <br>• Development of tranquility has immeasurable effects on body and mind
+      <br>• Be more calm when handling difficult situations
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Your Physical Well-being</b>
+      <br>29 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>Learning outcomes:
+      <br>∙ Have a holistic approach to your total well-being
+      <br>∙ Become more alert, agile and happier
+      <br>∙ Adopt a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health3.jpg">
+    </td>
+</tr>
+</table>
+---
 ### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
 
 ### <font color="darkorange"><b>Managing Life Transition</b></font><a name="life"></a>
