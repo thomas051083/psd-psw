@@ -49,9 +49,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+    <br>∙ Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+    <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -69,7 +69,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Overview 3: Programming Language</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
@@ -123,10 +123,10 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.
 		<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">A Tool for Effective Feedback</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/226">Aligning Expectations With My Supervisor</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28620">Applying Agile Scrum to your workplace</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Conversations That Inspire and Engage]</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8032">A Tool for Effective Feedback</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8053">Aligning Expectations With My Supervisor</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28350">Applying Agile Scrum to your workplace</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/210">Conversations That Inspire and Engage</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/135138">Growing My Self-Awareness</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/28613">Making Sense of My Leadership Transition</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21027">Making Time for Reflection</a><br>
