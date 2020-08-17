@@ -92,7 +92,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
       <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
     <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
     <br>-Understand the requirements needed to manage and assure data of high quality are produced 
-      <btd
+      <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
@@ -103,12 +103,9 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 	<td>	     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-		</figure>
     </td>
     <td>
-	    <figure style="margin:0;">
-	    <img src="images/learnlogowhitebg.jpg"></a>
-		</figure>
+	    <img src="images/learnlogo.png">
     </td>
 </tr>
  <tr>
