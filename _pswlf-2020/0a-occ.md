@@ -279,6 +279,24 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <td>
      <img src="/images/geospatial.jpg">
     </td> 
+	<table>
+<tr>
+    <td>
+      <b>Transforming How IRAS & ACRA Serve Businesses</b>
+      <br>20 October 2020, 10am-11.15am | Platform: Zoom
+      <br>       
+      <br>How could we simplify regulatory compliance, as well as collaborate and co-create solutions with the ecosystem to better serve businesses as one public service? 
+      <br> Come learn from IRAS and ACRA’s PST award-winning projects in Engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and Easing GST registration compliance (PST Regulatory Excellence Award)
+      <br>Learning outcomes:
+      <br>∙ Learn about helping businesses through:
+      <br>∙ Design-thinking – engaging stakeholders to understand their needs and their pain points, co-create and collaborate with them
+      <br>∙ Digitalisation – introducing digital solutions to improve operational efficiency and p
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
 </tr>
 <tr>
 	    <b>LEARN modules</b>
