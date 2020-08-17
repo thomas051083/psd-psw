@@ -120,7 +120,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>   
 	<td>	     
 	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.
 		<br><br>
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">A Tool for Effective Feedback</a><br>
@@ -130,25 +130,16 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/135138">Growing My Self-Awareness</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/28613">Making Sense of My Leadership Transition</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21027">Making Time for Reflection</a><br>
-        
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Managing My Time</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Sharpening My Listening Skills</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064)">The Power of Questions</a>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">The Value of Feedback</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/266)">Understanding My Corporate Responsibilities</a>	
     </td>
     <td>
 	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
-
-##### <font color="orange"><b>LEARN modules</b></font><br>
-
-- []()
-- []()
--
-- [Sharpening My Listening Skills](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [The Power of Questions](https://www.learn.gov.sg/dlp/student/course/21064)
-- [The Value of Feedback](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Understanding My Corporate Responsibilities](https://www.learn.gov.sg/dlp/student/course/266)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 ---
 
