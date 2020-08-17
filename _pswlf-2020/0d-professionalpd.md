@@ -49,7 +49,6 @@ third_nav_title: All Workouts
     </div>
 </div>
 </p>
----
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <table>
 <tr>
@@ -83,7 +82,6 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
----
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
 <table>
 <tr>
@@ -137,7 +135,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
----
+
 #### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
 <table>
 <tr>
@@ -159,7 +157,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
----
+
 #### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
 <table>
 <tr>
@@ -197,7 +195,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
----
+
 #### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
 
 
