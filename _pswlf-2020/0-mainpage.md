@@ -1,5 +1,5 @@
 ---
-title: 'Learning Festival'
+title: 'About Learning Festival'
 permalink: /pswlf-2020/0-mainpage
 breadcrumb: '0-mainpage'
 
