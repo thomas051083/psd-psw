@@ -80,7 +80,45 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+---
 ### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
+<table>
+<tr>
+    <td>
+      <b>Change as Opportunity</b>
+      <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
+      <br>Learning outcomes:
+      <br>∙ Overcome fear and uncertainty of the future
+      <br>• Take action to be future ready
+      <br>• Embrace change with positive mind-set
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/change1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Prepare for Change </b>
+      <br>15 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
+      <br>Learning outcomes:
+      <br>∙ Re-discover your interests, strengths and skills
+      <br>∙ Take stock of yourself and plan 5, 10 and 20 years ahead
+      <br>∙ Find your motivation and reframe your mind
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+</table>
+
 
 ### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
 
