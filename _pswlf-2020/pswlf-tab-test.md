@@ -77,7 +77,8 @@ Learn how to safeguard yourself and others against online falsehoods by using th
       <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    <td>
+    </td>    
+	<td>
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
@@ -99,8 +100,7 @@ Learn how to safeguard yourself and others against online falsehoods by using th
     </td>
 </tr>
 <tr>
-<div class="row">
-    <div class="col is-9">
+	<div class="col is-9">
 	     <figure style="margin:0;">		     
 	    <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
@@ -111,8 +111,8 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 	    <img src="images/learnlogowhitebg.jpg"></a>
 		</figure>
     </div>
-</div>
- <div class="row">
+</tr>
+ <tr>
    <div class="col is-6">
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a>
@@ -126,7 +126,6 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 - <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a>
 - <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>
     </div>
- </div>
     </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
