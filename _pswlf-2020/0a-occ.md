@@ -14,9 +14,9 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 **Lishi: Please dont replace content page link**
-<h2 id="top">
+<h2 id="top"></h2>
 	
-### <font color="orangered"><b>View Learning Sessions by OCC</b></font></h2>
+### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
 1. <a href="#thinking">Thinking Clearly and Making Sound Judgements</a><br>
 2. <a href="#serving">Serving with Heart, Commitment and Purpose</a><br>
 3. <a href="#workingone">Working As One Public Service</a><br>
