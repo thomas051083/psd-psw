@@ -134,10 +134,29 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
-
-
+---
 ### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
-
+<table>
+<tr>
+    <td>
+      <b>Financial Adequacy</b>
+      <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Do you have enough savings to see you through your retirement years? Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.     
+      <br>Learning outcomes:
+      <br>∙ Have a clearer vision on how to start your financial planning
+      <br>∙ Take action to find out where you are now and how to meet your goals
+      <br>∙ Plan for other sources of income to support your financial goals 
+      <br>∙ When you are prepared, you will be more confident of your future
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance1.jpg">
+    </td>
+</tr>
+</table>
+---
 ### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
 
 ### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
