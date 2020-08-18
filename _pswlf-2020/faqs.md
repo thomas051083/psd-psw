@@ -57,8 +57,8 @@ Registration will commence on **1 September 2020** and will close either when al
 For more information about AUPE & how to apply, please visit <a href="bit.ly/aupe-mshipguide">bit.ly/aupe-mshipguide</a>
 
 To sign up for AUPE membership:
-·       Apply online at <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform">https://www.ntuc.org.sg/wps/portal/aupe/home/signupform</a>; or
-·       Download the form from <a href="bit.ly/mshipform">bit.ly/mshipform</a>, complete and post it to us.
+ <br>∙ Apply online at <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform">https://www.ntuc.org.sg/wps/portal/aupe/home/signupform</a>; or
+ <br>∙ Download the form from <a href="bit.ly/mshipform">bit.ly/mshipform</a>, complete and post it to us.
 
 
 For any further questions and information, please email to the respective contacts below:
