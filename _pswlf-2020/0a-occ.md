@@ -304,51 +304,203 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/data1.jpg">
     </td>
 </tr>
-<tr> 
-    <td>	     
-      <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+<tr>   
+<td>
+      <b>Introduction to OneMap – the authoritative map of Singapore</b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3D map. It will cover the current usage of OneMap, and how it is presently being used by different sectors and the new improvements to come.
+      <br>Learning outcomes:
+      <br>∙ Understand what OneMap is
+      <br>∙ Recognise the various functionality within OneMap 
+      <br>∙ Identify features and application for users
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
 	<td>
-     <img src="/images/learnlogowhitebg.jpg">
+      <b>IRAS’ Workforce Transformation Journey</b>
+      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees.
+      <br>Workforce Transformation can often be a complex and challenging journey for any organisation. In this case sharing, learn how IRAS is taking a phased and iterative approach to Workforce Transformation, anchored by IRAS’ transformation journey called “The LEA:D Movement”.
+      <br>Learning outcomes:
+      <br>∙ 1. Learn about the importance to anchor Workforce Transformation on the organisation’s business transformation.
+      <br>∙ 2. Learn about IRAS’ Workforce Transformation framework, objectives, and broad implementation plan.
+      <br>∙ 3. Learn how IRAS took a phased and  iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	 <td>
+      <b>MOH’s regulatory sandbox: Telemedicine</b>
+      <br>27 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. One of the regulatory tools being used is sandboxing. Sandboxing encourages the safe growth of new products and services, and allows for the co-creation of regulations with stakeholders. This session will look at how sandboxing is being used within the context of telemedicine.
+      <br>Learning outcomes:
+      <br> • Know how and why smart regulation is today a part of MOH’s regulatory regime
+      <br> • Recognise the mindsets that smart regulators need to have 
+ <br> i.	having a forward looking approach; and 
+ <br> ii.	open to working with stakeholders to co-create
+      <br> • Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and its limitations.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+       <b>Session 1: What is the Best Way to Scope a User Centric Project?</b>
+      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>Introduction of UXC projects, HCI and case studies. Introduction to tools: Jobs To Be Done tools, Philosophy Statement and How Might We question
+      <br>Learning outcomes:
+      <br>∙ Audience will learn about HCI process and sharing on UXC cases, be introduced to UXC tools on how to define project scope, what is the job to be done crafting a philosophy statement that will guide the project direction.
+      <br> 
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Session 2: How do you identify different stakeholders in your project?</b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping
+      <br>Learning outcomes:
+      <br>∙ Audience will be introduced to stakeholder analysis, knowing who to engage with, in order to achieve successful implementation of your project/policy. After that they are going to learn about how to define the project scope.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Session 3: Do you get stuck when you are trying to come up creative ideas in your team?</b>
+      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct ideation and use ideation tools
+      <br>Learning outcomes:
+      <br>∙ Audience will be introduced to structured online tools for ideation, to help them come up with creative ideas. And will be introduced to the process of brainstorming.
+      <br> 
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Session 4: Is there room for emotional design in public service?</b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>Brief Introduction on Empathy, and how to connect to Emotion Design
+      <br>Learning outcomes:
+      <br>∙ Learning the value of developing empathy in public service, and how to develop empathy through emotional design.
+      <br>   
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Streamlining: MAS (Future ready regulations for innovation and growth in payment services)</b>
+      <br>16 October, 3.00pm - 4.30pm (tentative) | Platform: Zoom
+      <br>       
+      <br>XXXXXXXX
+      <br>Learning outcomes:
+      <br>∙ XXXXXX
+      <br>   
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model.  
+      <br>What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served? Asking these organic questions can lead to sensible transformation. Let’s discuss.
+      <br>Learning outcomes:
+      <br>∙ a.  Rethink perspectives of your existing services delivery model(s) - deliver happiness!
+      <br>∙ b.  Build WOG service delivery – beyond the no wrong-door approach
+      <br>∙ c.  Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
+      <br> 
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>	     
+	    <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Improving and Innovating Continuously.
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/24922">(Regulation 101) Foundations of Smart Regulation</a><br>
+- <a href="learn.gov.sg/dlp/student/course/12402">(Regulation 101) Research Paper: Regulation Disrupted</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/142109">A Playbook to Policy Gaming</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/135158">Behavioural Insights: Applications</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135145">Behavioural Insights: Getting Started</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2029">Creativity, Design Thinking, and Innovation for Business</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2211">Defining a Digital Transformation Roadmap</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/89639">Gamification in the Workplace</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/52717">How to Move from Self-Awareness to Self-Improvement</a>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3169">Innovation Master Class</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/13397">Introduction to Chatbots</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8802">Introduction to RPA (Robotic Process Automation)</a>	
+    </td>
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-#### <font color="darkorange"><b>Keep Learning and Putting Skills into Action</b></font><a name="keep"></a>
+
+#### <font color="darkorange"><b>6. Keep Learning and Putting Skills into Action</b></font><a name="keep"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
 <tr>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+<td>
+      <b>Public Service Career  Coaching Services</b>
+      <br>14 - 30 October, (50 one-to-one coaching session up for grab) | Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Manage your Career Planning Better with Career Coaching
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ How do I plan and grow my career? How do I make informed career decisions?
+      <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
+      <br>∙ If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
     </td>
-</tr>
+    <td>
+     <img src="/images/Engage1.jpg">
+    </td>
+	</tr>
 <tr> 
     <td>	     
-      <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+      <b>LEARN modules</b> STOP HERE
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Keep Learning and Putting Skills into Action.
 	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
