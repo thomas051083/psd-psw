@@ -66,6 +66,7 @@ third_nav_title: All Workouts
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
+	</table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 	
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font> <a name="community"></a>
