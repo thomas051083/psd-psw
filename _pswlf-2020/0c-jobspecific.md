@@ -89,6 +89,7 @@ third_nav_title: All Workouts
      <img src="/images/Engage4.jpg">
     </td>
 </tr>
+	
 <tr>
     <td>
       <b>Virtualising Community Engagement</b>
@@ -102,12 +103,13 @@ third_nav_title: All Workouts
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/Engage1.jpg">
     </td>
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 #### <font color="darkorange"><b>Human Resource</b></font> <a name="hr"></a>
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
