@@ -303,13 +303,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br> XX Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>Future-ready Service Transformation@MOE</b>
+      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>The session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Obtain insights on how technology and service innovations improve both customer and internal stakeholders’ experiences 
+      <br>∙ Gain awareness of the challenges faced by the MOE Customer Services team in their transformation journey and how the team overcame these challenges
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -320,7 +320,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br> XX Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>Learning outcomes:
