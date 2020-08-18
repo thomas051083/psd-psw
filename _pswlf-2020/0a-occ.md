@@ -100,7 +100,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -122,7 +122,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font><a name="workingeffectively"></a>
+#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
