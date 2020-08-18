@@ -166,6 +166,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
 <table>
