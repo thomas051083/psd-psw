@@ -15,7 +15,7 @@ Explore the learning sessions (also known as “Workouts”) by selecting any of
 + <a href="/pswlf-2020/all-workouts/4b-3ws-of-transformation/"><b>View by the 3Ws of Transformation:</b></a> (MOT to provide inputs)
 
 + <a href="/pswlf-2020/all-workouts/occ/"><b>View by OCC in Action:</b></a>
-These virtual sessions are hosted by different agencies and each demonstrates one of Our Core Competencies (OCC) in action. If you would like to pick up a new skill to develop a specific core competency, choose from a series of bite-sized LEARN modules specially curated for your learning.
+These virtual offerings demonstrate how our agencies have demonstrated one of Our Core Competencies (OCC) in action and how you can continue to develop your core competencies. 
  
 + <a href="/pswlf-2020/all-workouts/jobspecific/"><b>View by Job Specific Skills:</b></a>
 Workout sessions are available for officers belonging to these job families: xxx, and xxx. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions. (Extracted from previous UX write-up; WD to confirm.)
