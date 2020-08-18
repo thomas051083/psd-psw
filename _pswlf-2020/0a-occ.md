@@ -319,15 +319,162 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br> XX Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+      <br>∙ Recognise the need to  adopt best practices from the planning to the development to the idissemination of data outputs.
+      <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>    
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Introduction to OneMap – the authoritative map of Singapore</b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, and how it is presently being used by different sectors and the new improvements to come
+      <br>Learning outcomes:
+      <br>∙ Understand what OneMap is
+      <br>∙ Recognise the various functionality within OneMap 
+      <br>∙ Identify features and application for users
       <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>IRAS’ Workforce Transformation Journey</b>
+      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees.
+      <br>Workforce Transformation can often be a complex and challenging journey for any organisation. In this case sharing, learn how IRAS is taking a phased and iterative approach to Workforce Transformation, anchored by IRAS’ transformation journey called “The LEA:D Movement”.
+      <br>Learning outcomes:
+      <br>∙ 1. Learn about the importance to anchor Workforce Transformation on the organisation’s business transformation.
+      <br>∙ 2. Learn about IRAS’ Workforce Transformation framework, objectives, and broad implementation plan.
+      <br>∙ 3. Learn how IRAS took a phased and  iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	 <td>
+      <b>MOH’s regulatory sandbox: Telemedicine</b>
+      <br>27 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. One of the regulatory tools being used is sandboxing. Sandboxing encourages the safe growth of new products and services, and allows for the co-creation of regulations with stakeholders. This session will look at how sandboxing is being used within the context of telemedicine.
+      <br>Learning outcomes:
+      <br> • Know how and why smart regulation is today a part of MOH’s regulatory regime
+      <br> • Recognise the mindsets that smart regulators need to have 
+ <br> i.	having a forward looking approach; and 
+ <br> ii.	open to working with stakeholders to co-create
+      <br> • Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and its limitations.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+       <b>Session 1: What is the Best Way to Scope a User Centric Project?</b>
+      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>Introduction of UXC projects, HCI and case studies. Introduction to tools: Jobs To Be Done tools, Philosophy Statement and How Might We question
+      <br>Learning outcomes:
+      <br>∙ Audience will learn about HCI process and sharing on UXC cases, be introduced to UXC tools on how to define project scope, what is the job to be done crafting a philosophy statement that will guide the project direction.
+      <br> 
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Session 2: How do you identify different stakeholders in your project?</b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping
+      <br>Learning outcomes:
+      <br>∙ Audience will be introduced to stakeholder analysis, knowing who to engage with, in order to achieve successful implementation of your project/policy. After that they are going to learn about how to define the project scope.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Session 3: Do you get stuck when you are trying to come up creative ideas in your team?</b>
+      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct ideation and use ideation tools
+      <br>Learning outcomes:
+      <br>∙ Audience will be introduced to structured online tools for ideation, to help them come up with creative ideas. And will be introduced to the process of brainstorming.
+      <br> 
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Session 4: Is there room for emotional design in public service?</b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>Brief Introduction on Empathy, and how to connect to Emotion Design
+      <br>Learning outcomes:
+      <br>∙ Learning the value of developing empathy in public service, and how to develop empathy through emotional design.
+      <br>   
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>Streamlining: MAS (Future ready regulations for innovation and growth in payment services)</b>
+      <br>16 October, 3.00pm - 4.30pm (tentative) | Platform: Zoom
+      <br>       
+      <br>XXXXXXXX
+      <br>Learning outcomes:
+      <br>∙ XXXXXX
+      <br>   
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+<tr>   
+	<td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model.  
+      <br>What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served? Asking these organic questions can lead to sensible transformation. Let’s discuss.
+      <br>Learning outcomes:
+      <br>∙ a.  Rethink perspectives of your existing services delivery model(s) - deliver happiness!
+      <br>∙ b.  Build WOG service delivery – beyond the no wrong-door approach
+      <br>∙ c.  Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
+      <br> 
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
