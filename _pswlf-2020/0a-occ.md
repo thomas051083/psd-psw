@@ -334,6 +334,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
+	<tr>
 <td>	     
 	    <b>LEARN modules</b>
      	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Improving and Innovating Continuously.
