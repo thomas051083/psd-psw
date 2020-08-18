@@ -15,6 +15,8 @@ sections:
           url: /events/pswlf-2020
         - title: 'Public Service Conference'
           url: /events/psc-2020
+        - title: 'One Public Service Observance Ceremony'
+          url: /events/opsoc-2020/
         - title: 'Public Sector Transformation Awards Celebration'
           url: /events/pstac-2020/
 
