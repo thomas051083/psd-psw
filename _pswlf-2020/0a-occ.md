@@ -525,7 +525,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 	
-#### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow (For Supervisors)</</b></font><a name="stewarding"></a>
+#### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow (For Supervisors)/</b></font><a name="stewarding"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -534,17 +534,15 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <b>LEARN modules</b>
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Stewarding Systems for Today and Tomorrow.
 	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/399">8 Common Challenges In Digital Transformation Projects </a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28350">Applying Agile Scrum to your workplace</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28620 "> Blending Design Thinking, Lean and Agile in the workplace</a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/course/226"> Analytics Driven Government- The New Normal</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/198>Attending To Group Dynamics In Teams </a><br>	 
+- <a href="https://www.learn.gov.sg/dlp/student/course/19780”>Building Innovation Capabilities</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2629"> Facilitate Innovation and Manage Change Effectively </a><br>
-- <a href=”https://www.learn.gov.sg/dlp/student/externalcourse/187515"> How to Be Resilient in the Face of Harsh Criticism </a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/7493">Introduction to Digital Transformation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28613">Lean methodology and tools</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/89494"> Mindfulness for Resilience </a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/266"> Ryan Sleeper: A Data Rockstar </a>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28908">Reframing Yourself</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6011"> The Complete Personal Productivity Course - Business & Life </a><br>		
+- <a href=“https://www.learn.gov.sg/dlp/student/externalcourse/3571”> Leadership: Practical Leadership Skills</a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/externalcourse/58208 "> Making Learning a Part of Everyday Work</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/36073"> Public Service Innovation Framework </a>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+		
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
@@ -557,36 +555,21 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
-      <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
-    </td>
-</tr>
 <tr> 
     <td>	     
       <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Caring for, Developing and Inspiring Staff (For Supervisors).
 	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/8032">A Tool for Effective Feedback</a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/8055"> Connecting With My Team </a><br>
+- <a href= “https://www.learn.gov.sg/dlp/student/course/302”> Encountering Resistance To Change From Staff </a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/8059”> Having a Growth Mindset </a><br>			 
+- <a href=" https://www.learn.gov.sg/dlp/student/course/11895”> How to Embrace Change Using Emotional Intelligence </a><br>
+- <a href= “https://www.learn.gov.sg/dlp/student/course/7939”> Learning to Learn from Experience </a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/8057"> Start With the 'Why' - The Purpose of the Journey </a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/7976"> The Do's and Don'ts of Performance Reviews </a><br>
+- <a href= https://www.learn.gov.sg/dlp/student/course/8062”> Understanding My Leadership Style </a><br>
+- <a href= “https://www.learn.gov.sg/dlp/student/course/7974”> What’s Next after Performance Review?</a><br>	
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
@@ -594,4 +577,5 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 <br> Click <a href="/pswlf-2020/faqs">here</a> if you have any questions.
