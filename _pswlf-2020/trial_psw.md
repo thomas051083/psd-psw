@@ -12,19 +12,8 @@ Testing page for PSW
       <b><br>Probation Officer  | Probation and Community Service</b>
       <i><br>2 week attachment </i>
       
-   ##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to participate in the Learning Festival in your own time? Explore these LEARN modules specially curated for each core competency. 
-    If you do not have a LEARN account, click here to sign up for a free LEARN account and we will give you access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
-
-- [Driving A Culture Of Collaboration](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Forming Collaborative Teams](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Leading Cross-Functional Teams](https://www.learn.gov.sg/dlp/student/course/21064)
-- [Leading your Team in Successful Collaborations](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Tackling Challenges with Collaborative Work](https://www.learn.gov.sg/dlp/student/course/138926)
-<div style="text-align: right"><a href="#top">Back to top</a></div>
----
-
-### <font color="darkorange"><b>Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
+      
+  #### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
 <tr>
     <td>
@@ -42,42 +31,28 @@ Testing page for PSW
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>∙ Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
     </td>
-    <td>
-     <img src="/images/Engage2.jpeg">
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
-<tr>   
-	<td>	  
-		
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
+</table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
+#### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
 <table>
 <tr>
-    <td>
-      <b>Overview of GeoSpace</b>
-      <br>23 October, 3-5pm | Platform: Zoom
-      <br>       
-      <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
-      <br>Learning outcomes:
-      <br>∙ Understand what is GeoSpace and is benefits
-      <br>∙ Know how to share or consume geospatial data from GeoSpace.
-      <br>∙ Recognize how GeoSpace help agency users on their projects or operation works.
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
-    </td> 
-</tr>
