@@ -130,7 +130,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Overview of GeoSpace</b>
-      <br>23 October, 3-5pm | Platform: Zoom
+      <br>23 October 2020, 3-5pm | Platform: Zoom
       <br>       
       <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
       <br>Learning outcomes:
@@ -242,7 +242,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
 <table>
 <tr>	
-	<td>
+    <td>
       <b>Participatory Design - From Working For to Working With</b>
       <br>30 October, 3-5pm | Platform: Zoom
       <br>       
@@ -279,7 +279,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Transforming How IRAS & ACRA Serve Businesses</b>
-      <br>20 October 2020, 10am-11.15am | Platform: Zoom
+      <br>20 October 2020, 10am - 11.15am | Platform: Zoom
       <br>       
       <br>How could we simplify regulatory compliance, as well as collaborate and co-create solutions with the ecosystem to better serve businesses as one public service? 
       <br> Come learn from IRAS and ACRA’s PST award-winning projects in Engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and Easing GST registration compliance (PST Regulatory Excellence Award)
