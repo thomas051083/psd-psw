@@ -11,7 +11,7 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 <p>
 <div class="row">
     <div class="col is-8"> 
-	    <font size="6"><b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Watch the video to find out more about the OCC. Retaining the core strengths of the AIM, the OCC has 6 core competencies and 2 additional competencies for supervisors and leaders.</font>
+	    <font size="5"><b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Watch the video to find out more about the OCC. Retaining the core strengths of the AIM, the OCC has 6 core competencies and 2 additional competencies for supervisors and leaders.</font>
     </div>
     <div class="col is-4"><div class="resp-container">
 	<iframe title="vimeo-player" src="https://player.vimeo.com/video/448413622" width="640" height="360" frameborder="0" allowfullscreen></iframe>
