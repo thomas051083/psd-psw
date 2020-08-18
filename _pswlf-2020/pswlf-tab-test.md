@@ -73,6 +73,8 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 </table>
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
 <table>
+       <col width="70%"> 
+            <col width="30%"> 
 <tr>
     <td>
       <b>Change as Opportunity</b>
@@ -127,6 +129,8 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 
 #### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
 <table>
+       <col width="75%"> 
+            <col width="25%"> 
 <tr>
     <td>
       <b>Financial Adequacy</b>
