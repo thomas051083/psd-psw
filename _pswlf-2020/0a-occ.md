@@ -299,7 +299,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 ---
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font> <a name="improving"></a>
 <table>
 <tr>
