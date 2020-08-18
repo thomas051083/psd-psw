@@ -65,3 +65,23 @@ Testing page for PSW
 </tr>
 <tr>   
 	<td>	  
+		
+#### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
+<table>
+<tr>
+    <td>
+      <b>Overview of GeoSpace</b>
+      <br>23 October, 3-5pm | Platform: Zoom
+      <br>       
+      <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
+      <br>Learning outcomes:
+      <br>∙ Understand what is GeoSpace and is benefits
+      <br>∙ Know how to share or consume geospatial data from GeoSpace.
+      <br>∙ Recognize how GeoSpace help agency users on their projects or operation works.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/geospatial.jpg">
+    </td> 
+</tr>
