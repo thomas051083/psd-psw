@@ -233,7 +233,7 @@ third_nav_title: All Workouts
 <tr>
     <td>
       <b>Be a Volunteer</b>
-      <br>50 coaching sessions| Platform: Zoom
+      <br>29 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone. 
       <br>Learning outcomes:
