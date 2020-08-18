@@ -6,7 +6,7 @@ permalink: /pstac-2020
 ---
 
 ## Public Sector Transformation Awards Celebration
-
+<i>The event is open to all public officers</i><br>
 
 ![Events](/images/PSW Microsite Pictures-01.png)
 
@@ -36,3 +36,40 @@ The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle 
 </ul>
 <!-- <a href="#"><img src="/images/sign-up-btn.png" style="width:280px" /> </a> -->
 <!-- <a href="include link><img src="/include image" style="width:280px"/> </a> --> 
+
+###What you can look forward to:
+<table>
+  <tr>
+    <th>
+      Time
+    </th>
+    <th>
+      Activity
+    </th>
+  </tr>
+  <tr>
+    <td>
+      3.30pm
+    </td>
+    <td>
+      Opening by Guest of Honour
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3.50pm
+    </td>
+    <td>
+      Award Presentation for WOG-level 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      4.00pm
+    </td>
+    <td>
+      Award Presentation for Individual-level
+    </td>
+  </tr>
+  </table>
+  
