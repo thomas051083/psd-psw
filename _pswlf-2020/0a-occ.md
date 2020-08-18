@@ -263,9 +263,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 </table>
----
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-
-
-<br> Click [here](/pswlf-2020/faqs) if you have any questions.
+<br> Click <a href="/pswlf-2020/faqs">here</a> if you have any questions.
