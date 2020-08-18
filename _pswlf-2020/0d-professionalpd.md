@@ -51,6 +51,8 @@ third_nav_title: All Workouts
 </p>
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <table>
+       <col width="70%"> 
+            <col width="30%"> 
 <tr>
     <td>
       <b>AI for Everyone</b>
@@ -82,8 +84,11 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+---
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
 <table>
+       <col width="70%"> 
+            <col width="30%"> 
 <tr>
     <td>
       <b>Change as Opportunity</b>
@@ -135,9 +140,11 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
-
+---
 #### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
 <table>
+       <col width="70%"> 
+            <col width="30%"> 
 <tr>
     <td>
       <b>Financial Adequacy</b>
@@ -160,6 +167,8 @@ third_nav_title: All Workouts
 
 #### <font color="darkorange"><b>Health and Wellness</b></font><a name="health"></a>
 <table>
+       <col width="70%"> 
+            <col width="30%"> 
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b>
@@ -195,8 +204,27 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
-
+---
 #### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
+<table>
+       <col width="70%"> 
+            <col width="30%"> 
+<tr>
+    <td>
+      <b>Career Coaching Sessions</b>
+      <br>50 coaching sessions| Platform: Zoom
+      <br>       
+      <br>(To update)     
+      <br>Learning outcomes:
+      <br>∙ Improve the career health of public officers
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/Engage1.jpg">
+    </td>
+</tr>
+</table>
 
 
 
