@@ -5,7 +5,7 @@ breadcrumb: 'Our Core Competencies in Action'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Our Core Competencies in Action</b></font>
-Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Select from the list of LEARN modules specially curated to help you develop your core competencies. 
+Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Develop your core competencies by selecting from the list of LEARN modules. 
 
 ![OCC Running Man](/images/occrunningman.png)
 <b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Watch this video (link) to find out more about the OCC. Retaining the core strengths of the AIM, the OCC has 6 core competencies and 2 additional competencies for supervisors and leaders.
