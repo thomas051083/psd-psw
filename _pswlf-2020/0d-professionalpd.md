@@ -225,10 +225,27 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
-
-
-
+---
 #### <font color="darkorange"><b>Managing Life Transition</b></font><a name="life"></a>
-
-
-volunteer.jpeg
+<table>
+       <col width="70%"> 
+            <col width="30%"> 
+<tr>
+    <td>
+      <b>Be a Volunteer</b>
+      <br>50 coaching sessions| Platform: Zoom
+      <br>       
+      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone. 
+      <br>Learning outcomes:
+      <br>∙ Helping others bring immeasurable happiness not only to the beneficiaries but also to yourself 
+      <br>∙ When you do good, you feel good
+      <br>∙ Opportunity for family engagement when you involve them 
+      <br>∙ Make new friends who are championing the same cause
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
+</table>
