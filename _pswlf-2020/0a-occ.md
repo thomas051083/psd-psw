@@ -202,21 +202,62 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	<td>
      <img src="/images/engage6.jpg">
     </td>
-</tr>			
+</tr>
+<tr>
+    <td>
+      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
+      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>The sharing would have the following components: 
+      <br>∙[Intro] A brief discussion on the EduTrust Certification Scheme which is for Private Education Institutes (PEI) in Singapore and its role in raising the standard of private education here 
+      <br>∙[Context] The administrative burden that the preparation for this assessment was causing to PEIs
+      <br>∙[Process] The process which we took to find out from the PEIs on the reasons and pain points 
+      <br>∙[Outcomes] The enhancements that resulted from the review 
+      <br>∙[Engagement] Open sharing by participants on what they can do to improve their own agencies' processes
+      <br>∙[Conclusion] Implemenation of the enhancements, and subsequent feedback that we have received from the PEis and future plans
+      <br>Learning outcomes:
+      <br>∙ The role that regulators have in engaging with the sector that we regulate and the continuous drive to ensure our regulations and schemes are relevant and effective to the sector.
+      <br>∙ Understanding a possible approach to improving business processes
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>   
+<td>
+     <img src="/images/engage7.jpg">
+    </td> 
+</tr>
+<tr>
+    <td>
+      <b>Transforming How IRAS & ACRA Serve Businesses</b>
+      <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>       
+      <br>How could we simplify regulatory compliance, as well as collaborate and co-create solutions with the ecosystem to better serve businesses as one public service? 
+      <br> Come learn from IRAS and ACRA’s PST award-winning projects in Engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and Easing GST registration compliance (PST Regulatory Excellence Award)
+      <br>Learning outcomes:
+      <br>∙ Learn about helping businesses through:
+      <br> 1.Design-thinking – engaging stakeholders to understand their needs and their pain points, co-create and collaborate with them
+      <br> 2.Digitalisation – introducing digital solutions to improve operational efficiency and productivity for businesses
+      <br> 3.Regulatory Excellence – simplifying rules to lower compliance costs for businesses 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr>	
+		
 <tr> 
     <td>	     
       <b>LEARN modules</b> STOP HERE
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Working Effectively with Citizens and Stakeholders.
 	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/24922">(Regulation 101) 1. Foundations of Smart Regulation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/31089">(Regulation 101) 2. Designing Regulations</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/31094">(Regulation 101) 3. Compliance Strategy</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/38020">A Guide to Managing a Volunteer Workforce</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/29455">Citizen-centric Governance, Citizen-centric Communications</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10944">Customer Journey Mapping</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Introduction to Citizens' Jury</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>		
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
@@ -225,24 +266,42 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>Improving and Innovating Continuously</b></font><a name="improving"></a>
+#### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<table>
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>Future-ready Service Transformation@MOE</b>
+      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>The session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Obtain insights on how technology and service innovations improve both customer and internal stakeholders’ experiences 
+      <br>∙ Gain awareness of the challenges faced by the MOE Customer Services team in their transformation journey and how the team overcame these challenges
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/geospatial.jpg">
+     <img src="/images/service1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+      <br>∙ Recognise the need to  adopt best practices from the planning to the development to the idissemination of data outputs.
+      <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>    
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/data1.jpg">
     </td>
 </tr>
 <tr> 
