@@ -7,7 +7,7 @@ breadcrumb: '0-mainpage'
 ![PSC2020](/images/PSWLF_Microsite_Banner.jpg)
 <br> For the first time, the Public Service Week Learning Festival is going fully virtual and we have partnered with the **[Amalgamated Union of Public Employees (AUPE)](https://www.aupe.org.sg/)** to curate the learning sessions for this year.
 
-We have put together a lineup of virtual learning sessions hosted by government agencies and a series of online bite-sized LEARN modules that you can access in your own time. Work out your “learning muscles” by hearing from various government agencies, developing current and/or new skills, and exploring new ideas with public officers from different agencies.
+Work out your “learning muscles” by selecting from a lineup of virtual learning sessions hosted by government agencies and/or a series of online bite-sized LEARN modules that you can access in your own time.
 
 ### <font color="orangered"><b>JOIN A LEARNING WORKOUT</b></font>
 Explore the learning sessions (also known as “Workouts”) by selecting any of the four categories below.
