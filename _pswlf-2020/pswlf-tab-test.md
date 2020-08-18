@@ -12,111 +12,136 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 </div>
 
 
-### <font color="darkorange"><b>Format 1</b></font><a name="thinking"></a>
+### <font color="orangered"><b>Professional and Personal Development</b></font>
+(Insert write-up from WD)
+<p>
+<div class="row">
+    <div class="col is-4">
+	     <figure style="margin:0;">
+	     <a href="#digital"><img src="/images/digitalliteracy.jpg"></a>
+		     <font size="4"><b><i>Digital Literacy</i></b></font>
+		</figure>
+    </div>
+    <div class="col is-4">
+	    <figure style="margin:0;">
+	     <a href="#change"><img src="/images/changeagility.jpg"></a>
+		    <font size="4"><b><i>Change Agility</i></b></font>
+		</figure>
+    </div>
+    <div class="col is-4">
+	    <figure style="margin:0;">
+	    <a href="#financial"><img src="/images/financialliteracy.jpg"></a>
+		    <font size="4"><b><i>Financial Literacy</i></b></font>
+		</figure>
+    </div>
+</div>
+</p>
+#### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <table>
 <tr>
     <td>
-     <img src="/images/geospatial.jpg">
-    </td>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>AI for Everyone</b>
+      <br>20 Oct 2020, 10.00am – 1.00pm| Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
-      <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>
-</tr>
-    
-<tr>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-    <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
-    </td>
-</tr> 
-</table>
-
-##### <font color="orange"><b>LEARN modules</b></font><br>
-<font size="4"> Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.</font>
-- [5 Benefits of Data Analytics](https://www.learn.gov.sg/dlp/student/course/232)
-- [Facing up to Data](https://www.learn.gov.sg/dlp/student/course/210)
-- [Introduction to Evidence-based Policymaking](https://www.learn.gov.sg/dlp/student/course/135138)
-- [Overview 1: Data Science vs Data Analytics](https://www.learn.gov.sg/dlp/student/course/21027)
-- [Overview 2: Steps for a Data Science & Data Analytics Project](https://www.learn.gov.sg/dlp/student/course/21035)
-- [Overview 3: Programming Language](https://www.learn.gov.sg/dlp/student/course/21038z)
-- [Overview 4: Machine Learning](https://www.learn.gov.sg/dlp/student/course/21064)
-- [Overview 5: Data Visualisation](https://www.learn.gov.sg/dlp/student/course/21067)
-- [Theory of Change](https://www.learn.gov.sg/dlp/student/course/138926)
-<div style="text-align: right"><a href="#top">Back to top</a></div>
-
-### <font color="darkorange"><b>Format 2 - testing</b></font><a name="thinking"></a>
-<table>
-<tr>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
-      <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>AI for Everyone will introduce anyone to modern AI technologies and applications so that you can be savvy consumers of AI products and services. The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
+      <br>Learning outcome:
+      <br>∙ Gain an overview of Artificial Intelligence (AI), its capabilities and examples of current applications.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/geospatial.jpg">
+     <img src="/images/digital3.jpg">
     </td>
 </tr>
 <tr>
     <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
+      <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
       <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
+      <br>Learning outcome:
+      <br>∙ Learn about Artificial Intelligence (AI), its capabilities and examples of current applications.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-</tr>
-<tr>   
-	<td>	     
-	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-		<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038z">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
-    </td>
-    <td>
-	    <img src="images/learnlogowhitebg.jpg">
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
 </table>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
+#### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
+<table>
+<tr>
+    <td>
+      <b>Change as Opportunity</b>
+      <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
+      <br>Learning outcomes:
+      <br>∙ Overcome fear and uncertainty of the future
+      <br>• Take action to be future ready
+      <br>• Embrace change with positive mind-set
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+    <td>
+     <img src="/images/change1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Prepare for Change </b>
+      <br>15 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
+      <br>Learning outcomes:
+      <br>∙ Re-discover your interests, strengths and skills
+      <br>∙ Take stock of yourself and plan 5, 10 and 20 years ahead
+      <br>∙ Find your motivation and reframe your mind
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr>
+     <td>
+      <b>Working in Multigenerational Workplace</b>
+      <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
+      <br>       
+      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.  
+      <br>Learning outcomes:
+      <br>∙ Understand why people of different generations behave differently
+      <br>∙ See strengths instead of weaknesses in people
+      <br>∙ Work better with team members and colleagues
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
+</table>
+
+#### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
+<table>
+<tr>
+    <td>
+      <b>Financial Adequacy</b>
+      <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Do you have enough savings to see you through your retirement years? Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.     
+      <br>Learning outcomes:
+      <br>∙ Have a clearer vision on how to start your financial planning
+      <br>∙ Take action to find out where you are now and how to meet your goals
+      <br>∙ Plan for other sources of income to support your financial goals 
+      <br>∙ When you are prepared, you will be more confident of your future
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance1.jpg">
+    </td>
+</tr>
+</table>
 
