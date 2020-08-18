@@ -130,7 +130,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Overview of GeoSpace</b>
-      <br>23 October, 3-5pm| Platform: Zoom
+      <br>23 October, 3-5pm | Platform: Zoom
       <br>       
       <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
       <br>Learning outcomes:
@@ -141,7 +141,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/geospatial.jpg">
+        <img src="/images/geospatial.jpg">
     </td> 
 </tr>
 <tr>
@@ -203,7 +203,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
        <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
-      <br>16 October, 4-5pm | Platform: Zoom
+      <br>16 October 2020, 4:00pm - 5:00pm | Platform: Zoom
       <br>       
       <br>Pick up tips from the experience of the cross-agency team that ran the Citizens’ Panel on Work-Life Harmony in 2019. 
       <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be a useful topic and approach? How do you go about doing so?
@@ -222,7 +222,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Multi-Stakeholder Collaboration - Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
-      <br>22 October,  3-5pm | Platform: Zoom
+      <br>22 October 2020,  3:00pm - 5:00pm | Platform: Zoom
       <br>      
       <br>PSWLF committee has invited PEERS Office to consider hosting a virtual sharing session about the Partners Engaging and Empowering Rough Sleepers (PEERS) Network. The committee is finding this to be very relevant for the theme on “Work – Transforming how we serve citizens and businesses as One Public Service”, particularly on how MSF works closely with social service agencies and community groups to support ground-up initiatives for homeless persons and rough sleepers. As our Public Service moves towards increased collaboration and co-creation between agencies, and with external stakeholders, the committee has assessed that the PEERS Network will be a good learning point for other agencies who are thinking of similar initiatives. Additionally, the COVID-19 situation has brought about new challenges that would be interesting areas of learning, especially in navigating the way we work. For the PSWLF virtual sharing session, some key points that would be useful to include are what the PEERS Network is about, key considerations to make in a multi-stakeholder collaboration, some of the challenges faced (and how to overcome them), as well as highlighting some memorable experiences that have arisen from this initiative
       <br>Learning outcomes/Key takeaways:
