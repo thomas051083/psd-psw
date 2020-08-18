@@ -404,7 +404,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow (For Supervisors)/</b></font><a name="stewarding"></a>
+#### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow (For Supervisors)</b></font><a name="stewarding"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
