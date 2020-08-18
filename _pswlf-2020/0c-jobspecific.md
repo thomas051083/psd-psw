@@ -107,6 +107,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 #### <font color="darkorange"><b>Human Resource</b></font> <a name="hr"></a>
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
