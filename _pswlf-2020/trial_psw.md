@@ -77,7 +77,7 @@ Testing page for PSW
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-<td>
+	<td>
      <img src="/images/geospatial.jpg">
     </td> 
 </tr>
