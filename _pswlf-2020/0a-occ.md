@@ -189,8 +189,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be a useful topic and approach? How do you go about doing so?
       <br>Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony 2019. This session will help provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
       <br>Learning outcomes:
-      <br>∙ - Learn about how a deliberative engagement process can help us better work together with citizens to tackle certain issues, and the pros and cons of the Citizens’ Panel approach
-<br>∙- Learn how to strike a balance between giving room for citizens to engage
+      <br>∙ Learn about how a deliberative engagement process can help us better work together with citizens to tackle certain issues, and the pros and cons of the Citizens’ Panel approach
+      <br>∙Learn how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
+      <br>∙Learn what are the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -202,16 +203,16 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Multi-Stakeholder Collaboration - Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
-      <br>22 October 2020,  3:00pm - 5:00pm | Platform: Zoom
+      <br>22 October 2020,  3.00pm - 5.00pm | Platform: Zoom
       <br>      
       <br>PSWLF committee has invited PEERS Office to consider hosting a virtual sharing session about the Partners Engaging and Empowering Rough Sleepers (PEERS) Network. The committee is finding this to be very relevant for the theme on “Work – Transforming how we serve citizens and businesses as One Public Service”, particularly on how MSF works closely with social service agencies and community groups to support ground-up initiatives for homeless persons and rough sleepers. As our Public Service moves towards increased collaboration and co-creation between agencies, and with external stakeholders, the committee has assessed that the PEERS Network will be a good learning point for other agencies who are thinking of similar initiatives. Additionally, the COVID-19 situation has brought about new challenges that would be interesting areas of learning, especially in navigating the way we work. For the PSWLF virtual sharing session, some key points that would be useful to include are what the PEERS Network is about, key considerations to make in a multi-stakeholder collaboration, some of the challenges faced (and how to overcome them), as well as highlighting some memorable experiences that have arisen from this initiative
       <br>Learning outcomes/Key takeaways:
-          <br>1. Working towards a common goal, built on trust
-          <br>2. Delivering better outcomes to citizens based on guiding principles
-          <br>3. No one-size fits all approach when working with/managing stakeholders
-     <br>Learning objectives:
-          <br>1. Gain insights on how to work collaboratively and co-create solutions with external stakeholders to deliver better services to citizens 
-          <br>2. Understand the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them
+      <br>1. Working towards a common goal, built on trust
+      <br>2. Delivering better outcomes to citizens based on guiding principles
+      <br>3. No one-size fits all approach when working with/managing stakeholders
+      <br>Learning objectives:
+      <br>1. Gain insights on how to work collaboratively and co-create solutions with external stakeholders to deliver better services to citizens 
+      <br>2. Understand the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -222,54 +223,58 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>	
     <td>
       <b>Participatory Design - From Working For to Working With</b>
-      <br>30 October 2020, 3:00pm - 5:00pm | Platform: Zoom
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session is an introduction to the method known as Participatory Design or PD. The session will also provide a brief overview of PD tools. It will also look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM).
       <br>Learning outcomes:
-      <br>• To be able to recognise what PD is and is not.
+      <br>•To be able to recognise what PD is and is not.
       <br>•To explain how PD involves working with citizens in the development of infrastructure and content 
       <br>•To recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
-	<td>		
-<table>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
-      <br>23 October, 4-5pm | Platform: Zoom
+      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>The sharing would have the following components: 
-          <br>∙[Intro] A brief discussion on the EduTrust Certification Scheme which is for Private Education Institutes (PEI) in Singapore and its role in raising the standard of private education here 
-          <br>∙[Context] The administrative burden that the preparation for this assessment was causing to PEIs
-          <br>∙[Process] The process which we took to find out from the PEIs on the reasons and pain points 
-          <br>∙[Outcomes] The enhancements that resulted from the review 
-          <br>∙[Engagement] Open sharing by participants on what they can do to improve their own agencies' processes
-          <br>∙[Conclusion] Implemenation of the enhancements, and subsequent feedback that we have received from the PEis and future plans
+      <br>∙[Intro] A brief discussion on the EduTrust Certification Scheme which is for Private Education Institutes (PEI) in Singapore and its role in raising the standard of private education here 
+      <br>∙[Context] The administrative burden that the preparation for this assessment was causing to PEIs
+      <br>∙[Process] The process which we took to find out from the PEIs on the reasons and pain points 
+      <br>∙[Outcomes] The enhancements that resulted from the review 
+      <br>∙[Engagement] Open sharing by participants on what they can do to improve their own agencies' processes
+      <br>∙[Conclusion] Implemenation of the enhancements, and subsequent feedback that we have received from the PEis and future plans
       <br>Learning outcomes:
       <br>∙ The role that regulators have in engaging with the sector that we regulate and the continuous drive to ensure our regulations and schemes are relevant and effective to the sector.
       <br>∙ Understanding a possible approach to improving business processes
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
+    </td>   
 <td>
      <img src="/images/geospatial.jpg">
     </td> 
-	<table>
+</tr>
 <tr>
     <td>
       <b>Transforming How IRAS & ACRA Serve Businesses</b>
-      <br>20 October 2020, 10am - 11.15am | Platform: Zoom
+      <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
       <br>How could we simplify regulatory compliance, as well as collaborate and co-create solutions with the ecosystem to better serve businesses as one public service? 
       <br> Come learn from IRAS and ACRA’s PST award-winning projects in Engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and Easing GST registration compliance (PST Regulatory Excellence Award)
       <br>Learning outcomes:
       <br>∙ Learn about helping businesses through:
-      <br>∙ Design-thinking – engaging stakeholders to understand their needs and their pain points, co-create and collaborate with them
-      <br>∙ Digitalisation – introducing digital solutions to improve operational efficiency and productivity for businesses
-      <br>∙ Regulatory Excellence – simplifying rules to lower compliance costs for businesses 
+      <br> 1.Design-thinking – engaging stakeholders to understand their needs and their pain points, co-create and collaborate with them
+      <br> 2.Digitalisation – introducing digital solutions to improve operational efficiency and productivity for businesses
+      <br> 3.Regulatory Excellence – simplifying rules to lower compliance costs for businesses 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-    <td>
+<td>
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
