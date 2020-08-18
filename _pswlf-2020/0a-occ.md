@@ -113,7 +113,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Overview of GeoSpace</b>
-      <br>23 October 2020, 3-5pm | Platform: Zoom
+      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
       <br>Learning outcomes:
@@ -166,7 +166,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
       <b>Designing Spaces with Virtual Reality</b>
-      <br>15 October 2020, 10:00am - 11:15am | Platform: Zoom
+      <br>15 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
       <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
       <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
@@ -182,8 +182,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-       <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
-      <br>16 October 2020, 4:00pm - 5:00pm | Platform: Zoom
+      <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>Pick up tips from the experience of the cross-agency team that ran the Citizens’ Panel on Work-Life Harmony in 2019. 
       <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be a useful topic and approach? How do you go about doing so?
