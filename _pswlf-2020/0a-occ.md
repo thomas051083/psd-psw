@@ -334,4 +334,27 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
+<td>	     
+	    <b>LEARN modules</b>
+     	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Improving and Innovating Continuously.
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/24922">(Regulation 101) Foundations of Smart Regulation</a><br>
+- <a href="learn.gov.sg/dlp/student/course/12402">(Regulation 101) Research Paper: Regulation Disrupted</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/142109">A Playbook to Policy Gaming</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/135158">Behavioural Insights: Applications</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/135145">Behavioural Insights: Getting Started</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2029">Creativity, Design Thinking, and Innovation for Business</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2211">Defining a Digital Transformation Roadmap</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/89639">Gamification in the Workplace</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/52717">How to Move from Self-Awareness to Self-Improvement</a>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3169">Innovation Master Class</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/13397">Introduction to Chatbots</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8802">Introduction to RPA (Robotic Process Automation)</a>
+    </td>
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
+    </td>
+</tr>
+</table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 
