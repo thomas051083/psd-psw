@@ -54,12 +54,12 @@ Registration will commence on **1 September 2020** and will close either when al
 
 For any further questions and information, please email to the respective contacts below:
 
-**3 Ws for Transformation: <Requires Peter to provide contact>**
-
-**Breakout Sessions for Directors and above: <Require Jenny to provide contact>**
+**Insights from Outside: <a href="tan_xue_yan@caas.gov.sg">tan_xue_yan@caas.gov.sg</a>**
 
 **Learning Sessions:  <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>**
 
+**Breakout Sessions for Directors and above:<Require Jenny to provide contact>**
+ 
 
 ### We wish you a beneficial learning experience!
 
