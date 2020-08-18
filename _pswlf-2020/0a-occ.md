@@ -262,5 +262,60 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+#### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
+<table>
+       <col width="70%"> 
+            <col width="30%"> 
+<table>
+<tr>
+    <td>
+      <b>Future-ready Service Transformation@MOE</b>
+      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
+      <br>       
+      <br>The session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
+      <br>Learning outcomes:
+      <br>∙ Obtain insights on how technology and service innovations improve both customer and internal stakeholders’ experiences 
+      <br>∙ Gain awareness of the challenges faced by the MOE Customer Services team in their transformation journey and how the team overcame these challenges
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/innovationtest3.png">
+    </td>
+</tr>
+<tr>
+    <td>
+       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
+      <br>∙ Recognise the need to  adopt best practices from the planning to the development to the idissemination of data outputs.
+      <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
+      <br>    
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Digital2.jpg">
+    </td>
+</tr>
+<tr>   
+<td>
+      <b>Introduction to OneMap – the authoritative map of Singapore</b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3D map. It will cover the current usage of OneMap, and how it is presently being used by different sectors and the new improvements to come.
+      <br>Learning outcomes:
+      <br>∙ Understand what OneMap is
+      <br>∙ Recognise the various functionality within OneMap 
+      <br>∙ Identify features and application for users
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/SkillUp2.jpg">
+    </td>
+</tr>
 
 
