@@ -12,7 +12,7 @@ We have put together a lineup of virtual learning sessions hosted by government 
 ### <font color="orangered"><b>JOIN A LEARNING WORKOUT</b></font>
 Explore the learning sessions (also known as “Workouts”) by selecting any of the four categories below.
 
-<b>+ View by the 3Ws of Transformation:</b> (MOT’s to provide inputs)
++ <a href="/pswlf-2020/all-workouts/4b-3ws-of-transformation/"><b>View by the 3Ws of Transformation:</b></a> (MOT’s to provide inputs)
 
 + <a href="/pswlf-2020/all-workouts/occ/"><b>View by OCC in Action:</b></a>
 These virtual sessions are hosted by different agencies and each demonstrates one of Our Core Competencies (OCC) in action. If you would like to pick up a new skill to develop a specific core competency, choose from a series of bite-sized LEARN modules specially curated for your learning.
