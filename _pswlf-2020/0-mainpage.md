@@ -14,7 +14,7 @@ Explore the learning sessions (also known as “Workouts”) by selecting any of
 
 <b>+ View by the 3Ws of Transformation:</b> (MOT’s to provide inputs)
 
-<b>+ <a href="//pswlf-2020/all-workouts/occ/">View by OCC in Action:</a></b>
++ <a href="/pswlf-2020/all-workouts/occ/"><b>View by OCC in Action:</b></a>
 These virtual sessions are hosted by different agencies and each demonstrates one of Our Core Competencies (OCC) in action. If you would like to pick up a new skill to develop a specific core competency, choose from a series of bite-sized LEARN modules specially curated for your learning.
  
 <b>+ View by Job Specific Skills (hyperlink):</b>
