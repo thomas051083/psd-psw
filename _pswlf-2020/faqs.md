@@ -67,7 +67,12 @@ For any further questions and information, please email to the respective contac
 
 **Learning Sessions:  <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>**
 
-**Breakout Sessions for Directors and above:<Require Jenny to provide contact>**
+**Breakout Sessions for Directors and above:**
+ <br>∙ Session 1 - 
+ <br>∙ Session 2 - 
+ <br>∙ Session 3 - 
+ <br>∙ Session 4 - 
+ <br>∙ Session 5 - 
  
 
 ### We wish you a beneficial learning experience!
