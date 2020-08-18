@@ -501,14 +501,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Stewarding Systems for Today and Tomorrow.
 	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/226"> Analytics Driven Government- The New Normal</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/198>Attending To Group Dynamics In Teams </a><br>	 
+- <a href="https://www.learn.gov.sg/dlp/student/course/198">Attending To Group Dynamics In Teams </a><br>	 
 - <a href="https://www.learn.gov.sg/dlp/student/course/19780”>Building Innovation Capabilities</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2629"> Facilitate Innovation and Manage Change Effectively </a><br>
 - <a href=“https://www.learn.gov.sg/dlp/student/externalcourse/3571”> Leadership: Practical Leadership Skills</a><br>
-- <a href=" https://www.learn.gov.sg/dlp/student/externalcourse/58208 "> Making Learning a Part of Everyday Work</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/58208 "> Making Learning a Part of Everyday Work</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/36073"> Public Service Innovation Framework </a>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
-
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
@@ -527,15 +525,15 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Caring for, Developing and Inspiring Staff (For Supervisors).
 	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8032">A Tool for Effective Feedback</a><br>
-- <a href=" https://www.learn.gov.sg/dlp/student/course/8055"> Connecting With My Team </a><br>
-- <a href= “https://www.learn.gov.sg/dlp/student/course/302”> Encountering Resistance To Change From Staff </a><br>
-- <a href=" https://www.learn.gov.sg/dlp/student/course/8059”> Having a Growth Mindset </a><br>			 
-- <a href=" https://www.learn.gov.sg/dlp/student/course/11895”> How to Embrace Change Using Emotional Intelligence </a><br>
-- <a href= “https://www.learn.gov.sg/dlp/student/course/7939”> Learning to Learn from Experience </a><br>
-- <a href=" https://www.learn.gov.sg/dlp/student/course/8057"> Start With the 'Why' - The Purpose of the Journey </a><br>
-- <a href=" https://www.learn.gov.sg/dlp/student/course/7976"> The Do's and Don'ts of Performance Reviews </a><br>
-- <a href= https://www.learn.gov.sg/dlp/student/course/8062”> Understanding My Leadership Style </a><br>
-- <a href= “https://www.learn.gov.sg/dlp/student/course/7974”> What’s Next after Performance Review?</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/8055">Connecting With My Team </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/302”>Encountering Resistance To Change From Staff </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8059”>Having a Growth Mindset </a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/course/11895”>How to Embrace Change Using Emotional Intelligence </a><br>
+- <a href=“https://www.learn.gov.sg/dlp/student/course/7939”>Learning to Learn from Experience </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8057">Start With the 'Why' - The Purpose of the Journey </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/7976">The Do's and Don'ts of Performance Reviews </a><br>
+- <a href=="https://www.learn.gov.sg/dlp/student/course/8062”>Understanding My Leadership Style</a><br>
+- <a href=“https://www.learn.gov.sg/dlp/student/course/7974”>What’s Next after Performance Review?</a><br>	
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
