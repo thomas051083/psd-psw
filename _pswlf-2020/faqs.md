@@ -51,6 +51,15 @@ Registration will commence on **1 September 2020** and will close either when al
 <b>11. How do I cancel a registration?</b>
 <br>There is an option to Cancel Order, under My Tickets in Eventbrite. If you are unable to do so, you can also email us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> to cancel your registration.
 
+<b>12. How can I find out more about AUPE membership benefits and application?ow do I cancel a registration?</b>
+<br>AUPE is the largest public sector union in Singapore, representing employees in more than 50 ministries, statutory boards and organs of state. It works closely with Public Service Division and public agencies’ managements to co-create initiatives and solutions to address concerns, enhance workplace experiences and develop officers' careers. In addition, AUPE members enjoy an extensive range of benefits, ranging from training subsidies, welfare benefits to lifestyle privileges.
+
+For more information about AUPE & how to apply, please visit <a href="bit.ly/aupe-mshipguide">bit.ly/aupe-mshipguide</a>
+
+To sign up for AUPE membership:
+·       Apply online at <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform">https://www.ntuc.org.sg/wps/portal/aupe/home/signupform</a>; or
+·       Download the form from <a href="bit.ly/mshipform">bit.ly/mshipform</a>, complete and post it to us.
+
 
 For any further questions and information, please email to the respective contacts below:
 
