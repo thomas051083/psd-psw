@@ -86,7 +86,7 @@ third_nav_title: All Workouts
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/Engage3.jpeg">
+     <img src="/images/Engage4.jpg">
     </td>
 </tr>
 <tr>
