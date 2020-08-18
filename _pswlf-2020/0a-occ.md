@@ -146,7 +146,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>Working Effectively with Citizens and Stakeholders</b></font><a name="workingeffectively"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -187,7 +187,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -228,7 +228,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>Keep Learning and Putting Skills into Action</b></font><a name="keep"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -269,7 +269,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>Stewarding Systems for Today and Tomorrow (For Supervisors)</</b></font><a name="stewarding"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -310,7 +310,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>Caring for, Developing and Inspiring Staff (For Supervisors)</b></font><a name="caring"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -351,3 +351,4 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+<br> Click <a href="/pswlf-2020/faqs">here</a> if you have any questions.
