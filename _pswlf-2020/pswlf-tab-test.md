@@ -3,7 +3,6 @@ title: Test Page
 permalink: /_pswlf-2020/pswlf-tab-test
 ---
 # [Lishi is testing]
-![Flex Your Learning Muscles](/images/pswlflearningmuscles.png "Virtual Gym")
 #### OCC Video Test
 
 Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps. 
