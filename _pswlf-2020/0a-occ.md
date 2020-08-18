@@ -44,24 +44,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-      <br>∙ Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-      <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-</tr>
-<tr>   
+<tr> 
     <td>	     
       <b>LEARN modules</b>
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
@@ -182,7 +165,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
 <tr>
     <td>
-         <b>Designing Spaces with Virtual Reality</b>
+      <b>Designing Spaces with Virtual Reality</b>
       <br>15 October 2020, 10:00am - 11:15am | Platform: Zoom
       <br>       
       <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
@@ -197,8 +180,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-	
-<table>
 <tr>
     <td>
        <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
