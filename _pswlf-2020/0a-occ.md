@@ -8,11 +8,9 @@ third_nav_title: All Workouts
 Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Develop your core competencies by selecting from the list of LEARN modules. 
 
 ![OCC Running Man](/images/occrunningman.png)
+<br>
 <div class="row">
     <div class="col is-8"> testing
-	    <figure style="margin:0;">
-	     <img src="/images/financialliteracy.jpg">			    <figcaption><b>Human Resource</b></figcaption>
-		</figure>
     </div>
     <div class="col is-4"><div class="resp-container">
 	<iframe title="vimeo-player" src="https://player.vimeo.com/video/448413622" width="640" height="360" frameborder="0" allowfullscreen></iframe>
