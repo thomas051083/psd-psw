@@ -134,7 +134,7 @@ third_nav_title: All Workouts
       <br>∙ Understand why people of different generations behave differently
       <br>∙ See strengths instead of weaknesses in people
       <br>∙ Work better with team members and colleagues
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+      <br><a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
      <img src="/images/change3.jpg">
