@@ -30,7 +30,7 @@ Get quick tips and pointers for work and life no matter what career or life stag
 <b>Who can sign up for this Learning Festival?</b><br>
 This event is open to all public officers for free. Register for the session that you are interested in. To ensure an optimal learning experience for you, seats are limited and are offered on a first-come, first-served basis.
 
-Find out more about AUPE here (hyperlink to AUPE webpage).
+Find out more about AUPE **[here](https://www.aupe.org.sg/)**.
 
 (Note: To insert MOT's logo into the footer)
 <br>
