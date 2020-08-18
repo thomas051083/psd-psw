@@ -57,7 +57,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr> 
     <td>	     
       <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Thinking Clearly and Making Sound Judgements.
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Thinking Clearly and Making Sound Judgements.
 	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
@@ -83,7 +83,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Serving with Heart, Commitment and Purpose.
+     	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Serving with Heart, Commitment and Purpose.
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8047">Growing My Self-Awareness</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8037">Making Sense of My Leadership Transition</a><br>
@@ -107,9 +107,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Serving with Heart, Commitment and Purpose.
+     	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Working As One Public Service.
 		<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration<br>
+		- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/202">Forming Collaborative Teams</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
