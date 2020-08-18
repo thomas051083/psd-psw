@@ -36,4 +36,5 @@ Find out more about AUPE here (hyperlink to AUPE webpage).
 
 <br>
 ![PSC2020](/images/PSWLF_Microsite_Footer.jpg)(https://www.csc.gov.sg/)
-![PSC2020](/images/AUPEunion.png)
+![AUPE](/images/AUPEunion.png)
+
