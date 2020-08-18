@@ -20,9 +20,9 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 
  [Our Core Competencies (For Officers)](https://www.learn.gov.sg/dlp/student/course/232)
 <br>
-<font color="orange"><b>Don't have a LEARN account?</b></font>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
-**Lishi: Please dont replace content page link**
+
 <h2 id="top"></h2>
 	
 ### <font color="orangered"><b>View Learning Sessions by the OCC</b></font>
