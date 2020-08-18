@@ -478,8 +478,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-<div style="text-align: right"><a href="#top">Back to top</a></div>
-
 #### <font color="darkorange"><b>6. Keep Learning and Putting Skills into Action</b></font><a name="keep"></a>
 <table>
        <col width="70%"> 
