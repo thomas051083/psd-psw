@@ -76,7 +76,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font> <a name="serving"></a>
+#### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font><a name="serving"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -100,7 +100,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
+#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -122,7 +122,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font> <a name="workingeffectively"></a>
+#### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font><a name="workingeffectively"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -258,8 +258,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/21067">Introduction to Citizens' Jury</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/7450">Library@Chinatown</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/5451">Service Design: Designing for Experience Over Time </a><br>
-- <a href=" https://www.learn.gov.sg/dlp/student/course/17008"> What is Citizen-Centred Service? Why is it important?	</a>
-			
+- <a href=" https://www.learn.gov.sg/dlp/student/course/17008"> What is Citizen-Centred Service? Why is it important?	</a>		
     </td>
     <td>
 	    <img src="images/learnlogowhitebg.jpg">
