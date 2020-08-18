@@ -38,8 +38,8 @@ Learn how to safeguard yourself and others against online falsehoods by using th
 </p>
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <table>
-        <col width="80%"> 
-            <col width="20%"> 
+        <col width="65%"> 
+            <col width="35%"> 
 <tr>
     <td>
       <b>AI for Everyone</b>
