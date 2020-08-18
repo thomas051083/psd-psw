@@ -98,7 +98,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/8051">Understanding My Corporate Responsibilities</a>	
     </td>
     <td>
-	    <img src="images/learnlogowhitebg.jpg">
+     <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
