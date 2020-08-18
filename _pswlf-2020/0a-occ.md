@@ -8,7 +8,7 @@ third_nav_title: All Workouts
 Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Select from the list of LEARN modules specially curated to help you develop your core competencies. 
 
 ![OCC Running Man](/images/occrunningman.png)
-<b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Watch this video (link) to find out more about the OCC.
+<b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Watch this video (link) to find out more about the OCC. Retaining the core strengths of the AIM, the OCC has 6 core competencies and 2 additional competencies for supervisors and leaders.
  [Our Core Competencies (For Officers)](https://www.learn.gov.sg/dlp/student/course/232)
 <br>
 <font color="orange"><b>Don't have a LEARN account?</b></font>
@@ -16,15 +16,15 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 **Lishi: Please dont replace content page link**
 <h2 id="top"></h2>
 	
-### <font color="orangered"><b>View Learning Sessions by the 6 OCC for all officers and 2 additional competencies for supervisors and leaders (indicated by *)</b></font>
+### <font color="orangered"><b>View Learning Sessions by the OCC</b></font>
 1. <a href="#thinking">Thinking Clearly and Making Sound Judgements</a><br>
 2. <a href="#serving">Serving with Heart, Commitment and Purpose</a><br>
 3. <a href="#workingone">Working As One Public Service</a><br>
 4. <a href="#workingeffectively">Working Effectively with Citizens and Stakeholders</a><br>
 5. <a href="#improving">Improving and Innovating Continuously</a><br>
 6. <a href="#keep">Keep Learning and Putting Skills into Action</a><br>
-7. <a href="#stewarding">Stewarding Systems for Today and Tomorrow*</a><br>
-8. <a href="#caring">Caring for, Developing and Inspiring Staff*</a><br>
+7. <a href="#stewarding">Stewarding Systems for Today and Tomorrow (For Supervisors)</a><br>
+8. <a href="#caring">Caring for, Developing and Inspiring Staff (For Supervisors)</a><br>
 
 #### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font><a name="thinking"></a>
 <table>
