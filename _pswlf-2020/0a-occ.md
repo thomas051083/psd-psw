@@ -118,42 +118,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font> <a name="workingone"></a>
+#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
 <table>
-<tr>
-    <td>
-      <b>Overview of GeoSpace</b>
-      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces GeoSpace, a Whole of Government geospatial platform. It willcover the benefits of sharing the data with whole of government via GeoSpace. This session will also introduce the data contributed by various government agencies and functionalities that are available on GeoSpace.
-      <br>Learning outcomes:
-      <br>∙ Understand what is GeoSpace and is benefits
-      <br>∙ Know how to share or consume geospatial data from GeoSpace.
-      <br>∙ Recognize how GeoSpace help agency users on their projects or operation works.
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-<td>
-        <img src="/images/geospatial.jpg">
-    </td> 
-</tr>
-<tr>
-    <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>30 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>- Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-    <br>-Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-    <br>-Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-</tr>
 <tr>   
 	<td>	     
 	    <b>LEARN modules</b>
@@ -164,7 +130,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/7944">Tackling Challenges with Collaborative Work</a><br>		
-    <td>
+    </td>
+	 <td>   
 	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
