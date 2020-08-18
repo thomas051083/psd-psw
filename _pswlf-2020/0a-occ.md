@@ -171,7 +171,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/7944">Tackling Challenges with Collaborative Work</a><br>		
-    </td>
     <td>
 	    <img src="images/learnlogowhitebg.jpg">
     </td>
@@ -184,7 +183,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
     <td>
          <b>Designing Spaces with Virtual Reality</b>
-      <br>15 October, 10-11.15am| Platform: Zoom
+      <br>15 October 2020, 10:00am - 11:15am | Platform: Zoom
       <br>       
       <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
       <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
@@ -239,12 +238,10 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/geospatial.jpg">
     </td> 
 </tr>
-<tr>
-<table>
 <tr>	
     <td>
       <b>Participatory Design - From Working For to Working With</b>
-      <br>30 October, 3-5pm | Platform: Zoom
+      <br>30 October 2020, 3:00pm - 5:00pm | Platform: Zoom
       <br>       
       <br>This session is an introduction to the method known as Participatory Design or PD. The session will also provide a brief overview of PD tools. It will also look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM).
       <br>Learning outcomes:
