@@ -179,7 +179,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
-     <img src="/images/Engage2.jpeg">
+     <img src="/images/engage6.jpg">
     </td>
 	</tr>
 <tr>
@@ -216,7 +216,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/.jpg">
+     <img src="/images/engage6.jpg">
     </td>
 </tr>			
 <tr> 
