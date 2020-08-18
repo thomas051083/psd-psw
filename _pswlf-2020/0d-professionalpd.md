@@ -84,6 +84,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
 <table>
@@ -140,6 +141,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
 <table>
@@ -204,6 +206,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
 <table>
@@ -225,6 +228,7 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Managing Life Transition</b></font><a name="life"></a>
 <table>
@@ -249,3 +253,4 @@ third_nav_title: All Workouts
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
