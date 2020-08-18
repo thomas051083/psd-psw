@@ -148,23 +148,80 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%"> 
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>Designing Spaces with Virtual Reality</b>
+      <br>15 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
+      <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ Determine areas in which the VR technology can be helpful to plan for effective citizen and stakeholder engagements. 
+      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/geospatial.jpg">
+     <img src="/images/digital7.jpg">
     </td>
 </tr>
+<tr>
+	<td>
+      <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>Pick up tips from the experience of the cross-agency team that ran the Citizens’ Panel on Work-Life Harmony in 2019. 
+      <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be a useful topic and approach? How do you go about doing so?
+      <br>Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony 2019. This session will help provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>Learning outcomes:
+      <br>∙ Learn about how a deliberative engagement process can help us better work together with citizens to tackle certain issues, and the pros and cons of the Citizens’ Panel approach
+      <br>∙Learn how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
+      <br>∙Learn what are the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+	</tr>
+<tr>
+    <td>
+      <b>Multi-Stakeholder Collaboration - Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
+      <br>22 October 2020,  3.00pm - 5.00pm | Platform: Zoom
+      <br>      
+      <br>PSWLF committee has invited PEERS Office to consider hosting a virtual sharing session about the Partners Engaging and Empowering Rough Sleepers (PEERS) Network. The committee is finding this to be very relevant for the theme on “Work – Transforming how we serve citizens and businesses as One Public Service”, particularly on how MSF works closely with social service agencies and community groups to support ground-up initiatives for homeless persons and rough sleepers. As our Public Service moves towards increased collaboration and co-creation between agencies, and with external stakeholders, the committee has assessed that the PEERS Network will be a good learning point for other agencies who are thinking of similar initiatives. Additionally, the COVID-19 situation has brought about new challenges that would be interesting areas of learning, especially in navigating the way we work. For the PSWLF virtual sharing session, some key points that would be useful to include are what the PEERS Network is about, key considerations to make in a multi-stakeholder collaboration, some of the challenges faced (and how to overcome them), as well as highlighting some memorable experiences that have arisen from this initiative
+      <br>Learning outcomes/Key takeaways:
+      <br>1. Working towards a common goal, built on trust
+      <br>2. Delivering better outcomes to citizens based on guiding principles
+      <br>3. No one-size fits all approach when working with/managing stakeholders
+      <br>Learning objectives:
+      <br>1. Gain insights on how to work collaboratively and co-create solutions with external stakeholders to deliver better services to citizens 
+      <br>2. Understand the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital7.jpg">
+    </td> 
+</tr>
+<tr>	
+    <td>
+      <b>Participatory Design - From Working For to Working With</b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session is an introduction to the method known as Participatory Design or PD. The session will also provide a brief overview of PD tools. It will also look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM).
+      <br>Learning outcomes:
+      <br>•To be able to recognise what PD is and is not.
+      <br>•To explain how PD involves working with citizens in the development of infrastructure and content 
+      <br>•To recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/.jpg">
+    </td>
+</tr>			
 <tr> 
     <td>	     
-      <b>LEARN modules</b>
+      <b>LEARN modules</b> STOP HERE
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
 	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
@@ -183,6 +240,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 #### <font color="darkorange"><b>Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
        <col width="70%"> 
