@@ -8,7 +8,7 @@ third_nav_title: All Workouts
 Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Develop your core competencies by selecting from the list of LEARN modules. 
 
 ![OCC Running Man](/images/occrunningman.png)
-<br>
+<p>
 <div class="row">
     <div class="col is-8"> 
 	    <font size="6"><b>About OCC:</b> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Watch the video to find out more about the OCC. Retaining the core strengths of the AIM, the OCC has 6 core competencies and 2 additional competencies for supervisors and leaders.</font>
@@ -17,9 +17,8 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 	<iframe title="vimeo-player" src="https://player.vimeo.com/video/448413622" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
-
- [Our Core Competencies (For Officers)](https://www.learn.gov.sg/dlp/student/course/232)
-<br>
+	</p>
+	
 ##### <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 
