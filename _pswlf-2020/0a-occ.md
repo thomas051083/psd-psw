@@ -233,7 +233,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
 <td>
-     <img src="/images/innovationtest1.jpg">
+     <img src="/images/Innovate1.jpg">
     </td>
 </tr>	
 
