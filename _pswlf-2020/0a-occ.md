@@ -265,8 +265,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
        <col width="70%"> 
-            <col width="30%"> 
-<table>
+            <col width="30%">
 <tr>
     <td>
       <b>Future-ready Service Transformation@MOE</b>
@@ -317,5 +316,22 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/SkillUp2.jpg">
     </td>
 </tr>
-
+<tr>   
+<td>
+<b>IRAS’ Workforce Transformation Journey</b>
+      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees.
+      <br>Workforce Transformation can often be a complex and challenging journey for any organisation. In this case sharing, learn how IRAS is taking a phased and iterative approach to Workforce Transformation, anchored by IRAS’ transformation journey called “The LEA:D Movement”.
+      <br>Learning outcomes:
+      <br>∙ 1. Learn about the importance to anchor Workforce Transformation on the organisation’s business transformation.
+      <br>∙ 2. Learn about IRAS’ Workforce Transformation framework, objectives, and broad implementation plan.
+      <br>∙ 3. Learn how IRAS took a phased and  iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>  
+      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/SkillUp1.jpg">
+    </td>
+</tr>
 
