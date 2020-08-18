@@ -57,7 +57,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr> 
     <td>	     
       <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Thinking Clearly and Making Sound Judgements.
 	<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
@@ -83,12 +83,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Serving with Heart, Commitment and Purpose.
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Serving with Heart, Commitment and Purpose.
 		<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/8032">A Tool for Effective Feedback</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/8053">Aligning Expectations With My Supervisor</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/28350">Applying Agile Scrum to your workplace</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/8043">Conversations That Inspire and Engage</a><br>		
 - <a href="https://www.learn.gov.sg/dlp/student/course/8047">Growing My Self-Awareness</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8037">Making Sense of My Leadership Transition</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8045">Making Time for Reflection</a><br>
@@ -110,17 +106,17 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%"> 
 <tr> 
     <td>	     
-      <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
-	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration</a><br>
+     <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Working As One Public Service.
+		<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration/a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/202">Forming Collaborative Teams</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/7944">Tackling Challenges with Collaborative Work</a><br>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/7944">Tackling Challenges with Collaborative Work</a><br>		
     </td>
-	<td>
-     <img src="/images/learnlogowhitebg.jpg">
+	 <td>   
+	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
@@ -247,20 +243,26 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 		
 <tr> 
     <td>	     
-      <b>LEARN modules</b> STOP HERE
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Working Effectively with Citizens and Stakeholders.
-	<br><br>
+      <b>LEARN modules</b>
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Working Effectively with Citizens and Stakeholders.
+		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/24922">(Regulation 101) 1. Foundations of Smart Regulation</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/31089">(Regulation 101) 2. Designing Regulations</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/31094">(Regulation 101) 3. Compliance Strategy</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/31094">(Regulation 101) 3. Compliance Strategy</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/167"> (1/3) What is citizen engagement?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/172"> (2/3) Why does citizen engagement matter?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/180">(3/3) Modes of Citizen Engagement</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/38020">A Guide to Managing a Volunteer Workforce</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/29455">Citizen-centric Governance, Citizen-centric Communications</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/10944">Customer Journey Mapping</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/21067">Introduction to Citizens' Jury</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/7450">Library@Chinatown</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/5451">Service Design: Designing for Experience Over Time </a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/17008"> What is Citizen-Centred Service? Why is it important?	</a>
+			
     </td>
-	<td>
-     <img src="/images/learnlogowhitebg.jpg">
+    <td>
+	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
@@ -454,7 +456,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>   
 	<td>	     
 	    <b>LEARN modules</b>
-     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Improving and Innovating Continuously.
+     	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Improving and Innovating Continuously.
 		<br><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/24922">(Regulation 101) Foundations of Smart Regulation</a><br>
 - <a href="learn.gov.sg/dlp/student/course/12402">(Regulation 101) Research Paper: Regulation Disrupted</a><br>
@@ -467,13 +469,15 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/52717">How to Move from Self-Awareness to Self-Improvement</a>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3169">Innovation Master Class</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/13397">Introduction to Chatbots</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/8802">Introduction to RPA (Robotic Process Automation)</a>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/8802">Introduction to RPA (Robotic Process Automation)</a>
     </td>
     <td>
 	    <img src="images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>6. Keep Learning and Putting Skills into Action</b></font><a name="keep"></a>
@@ -499,18 +503,20 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	</tr>
 <tr> 
     <td>	     
-      <b>LEARN modules</b> STOP HERE
+      <b>LEARN modules</b> 
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Keep Learning and Putting Skills into Action.
 	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/399">8 Common Challenges In Digital Transformation Projects </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28350">Applying Agile Scrum to your workplace</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28620 "> Blending Design Thinking, Lean and Agile in the workplace</a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2629"> Facilitate Innovation and Manage Change Effectively </a><br>
+- <a href=”https://www.learn.gov.sg/dlp/student/externalcourse/187515"> How to Be Resilient in the Face of Harsh Criticism </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/7493">Introduction to Digital Transformation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28613">Lean methodology and tools</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/89494"> Mindfulness for Resilience </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/266"> Ryan Sleeper: A Data Rockstar </a>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28908">Reframing Yourself</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6011"> The Complete Personal Productivity Course - Business & Life </a><br>			
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
@@ -518,40 +524,27 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-#### <font color="darkorange"><b>Stewarding Systems for Today and Tomorrow (For Supervisors)</</b></font><a name="stewarding"></a>
+	
+#### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow (For Supervisors)</</b></font><a name="stewarding"></a>
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
-      <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
-    </td>
-</tr>
 <tr> 
     <td>	     
       <b>LEARN modules</b>
-      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
+      <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Stewarding Systems for Today and Tomorrow.
 	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/399">8 Common Challenges In Digital Transformation Projects </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28350">Applying Agile Scrum to your workplace</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28620 "> Blending Design Thinking, Lean and Agile in the workplace</a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2629"> Facilitate Innovation and Manage Change Effectively </a><br>
+- <a href=”https://www.learn.gov.sg/dlp/student/externalcourse/187515"> How to Be Resilient in the Face of Harsh Criticism </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/7493">Introduction to Digital Transformation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28613">Lean methodology and tools</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/89494"> Mindfulness for Resilience </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/266"> Ryan Sleeper: A Data Rockstar </a>
+- <a href="https://www.learn.gov.sg/dlp/student/course/28908">Reframing Yourself</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6011"> The Complete Personal Productivity Course - Business & Life </a><br>		
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
@@ -559,6 +552,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+	
 #### <font color="darkorange"><b>Caring for, Developing and Inspiring Staff (For Supervisors)</b></font><a name="caring"></a>
 <table>
        <col width="70%"> 
