@@ -129,15 +129,11 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <b>LEARN modules</b>
       <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your compentency in Thinking Clearly and Making Sound Judgements.
 	<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/135138">Introduction to Evidence-based Policymaking</a><br>			 
-- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/138926">Theory of Change</a>			
+- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration/a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/202">Forming Collaborative Teams</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
+- <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/7944">Tackling Challenges with Collaborative Work</a><br>			
     </td>
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
