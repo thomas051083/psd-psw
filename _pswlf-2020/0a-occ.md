@@ -109,7 +109,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <b>LEARN modules</b>
      	    <br>Want to learn more at your own pace? You can now do it on LEARN! Click on the curated LEARN modules below to build your competency in Working As One Public Service.
 		<br><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration/a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration<br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/202">Forming Collaborative Teams</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/166">Leading Cross-Functional Teams</a><br>						 
 - <a href="https://www.learn.gov.sg/dlp/student/course/7972">Leading your Team in Successful Collaborations</a><br>
