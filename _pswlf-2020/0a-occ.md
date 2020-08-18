@@ -513,14 +513,15 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     <td>
      <img src="/images/Engage1.jpg">
     </td>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+   <td>
+      <b>Public Service Career  Coaching Services</b>
+      <br>14 - 30 October, (50 one-to-one coaching session up for grab) | Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Manage your Career Planning Better with Career Coaching
       <br>Learning outcomes:
-      <br>-Understand what geospatial information is and its uses.
-      <br>-Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>∙ How do I plan and grow my career? How do I make informed career decisions?
+      <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
+      <br>∙ If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
