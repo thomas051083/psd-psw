@@ -82,7 +82,7 @@ Build on your existing strengths in areas such as co-ordination, monitoring and 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 	
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font> <a name="community"></a>
-<Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:
+Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:
 <table>
        <col width="70%"> 
             <col width="30%">
