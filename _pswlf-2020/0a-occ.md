@@ -152,9 +152,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/engage8.jpg">
     </td>
 	      </tr>       
-<tr>	
-    <td>
-      <b><tr>	
+<tr>		
     <td>
       <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
       <br>22 October 2020, 3.00pm - 5.0pm | Platform: Zoom
