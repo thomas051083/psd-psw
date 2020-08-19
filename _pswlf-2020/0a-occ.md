@@ -258,7 +258,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/digital7.jpg">
     </td>
 </tr>
-	<tr>		
+<tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b>
       <br>14 October 2020, 3.00pm - 4.00pm | Platform: Zoom
@@ -573,8 +573,41 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	<td>
      <img src="/images/engage8.jpg">
     </td>
-</tr>   
-<tr>
+</tr> 
+<tr>		
+    <td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
+      <br>14 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
+      <br>Learning outcomes:
+      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
+      <br>• Build WOG service delivery – beyond the no wrong-door approach
+      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>  
+<tr>		
+    <td>
+      <b>What is the Best Way to Scope a User Centric Project?</b>
+      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: JJobs To Be Done tools, Philosophy Statement and How Might We Question.
+      <br>Learning outcomes:
+      <br>• Learn about HCI process and sharing on UXC cases.
+      <br>• Be introduced to UXC tools on how to define project scope.
+      <br>• Craft a philosophy statement that will guide the project direction.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/innovationtest3.png">
+    </td>
+</tr> 
 <td>	     
 	    <b>LEARN modules</b>
      	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Improving and Innovating Continuously.
