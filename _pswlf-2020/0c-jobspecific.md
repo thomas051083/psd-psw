@@ -14,7 +14,7 @@ third_nav_title: All Workouts
 		<font size="4"><b><i>Corporate Admin</i></b></font>
 		</figure>
 <br> Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. 
-<br> Future-proof yourself by learning to harness technology effectively.  Gain pointers from the offerings below to become an even greater asset to your team.
+<br> Future-proof yourself by learning to harness technology effectively.  Gain pointers from the offerings below to become an even greater asset to your team.<br>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
@@ -22,7 +22,7 @@ third_nav_title: All Workouts
 		<font size="4"><b><i>Community Engagement and Partnership</i></b></font>
 		</figure>
 <br> Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:
-## <Insert adapted Partnership and Engagement Training Roadmap; to be provided>
+XXX<Insert adapted Partnership and Engagement Training Roadmap; to be provided><br>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
@@ -33,7 +33,7 @@ third_nav_title: All Workouts
 <br>• Managing Multi-generational Workplaces
 <br>• HR Analytics
 <br>• Use of Technology to Increase Productivity of HR Functions
-## <Insert adapted HR Training Roadmap; to be provided>
+XXX <Insert adapted HR Training Roadmap; to be provided><br>
     </div>
 </div>
 <div class="row">
@@ -45,7 +45,7 @@ third_nav_title: All Workouts
 		  <font size="4"><b><i>Regulation and Enforcement</i></b></font>
 		</figure>
 <br> You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.
-## <Insert adapted Reg & Enforcement Training Roadmap; to be provided>
+XXX <Insert adapted Reg & Enforcement Training Roadmap; to be provided><br>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
@@ -53,12 +53,12 @@ third_nav_title: All Workouts
 		 <font size="4"><b><i>Accounting and Finance</i></b></font>
 		</figure>
 <br> With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.
-## <Insert adapted Acct & FI Training Roadmap; to be provided>
+XXX <Insert adapted Acct & FI Training Roadmap; to be provided><br>
     </div>
     <div class="col is-2">
     </div>
 </div>
-	    </div>
+</div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#accounting"><img src="/images/accounting.jpg"></a>
@@ -66,7 +66,18 @@ third_nav_title: All Workouts
 		</figure>
 <br> These are exciting times to be involved in service planning and delivery work.
 <br> Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the Virtual Learning Series - Building A Future-Ready Service Community happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from DBS, HDB and workshops by Ron Kaufman and Rohei).
-## <Insert link to details of Learning Series or contact person information; to be provided.>
+XXX <Insert link to details of Learning Series or contact person information; to be provided.><br>
+    </div>
+    <div class="col is-2">
+    </div>
+	    </div>
+    <div class="col is-4">
+	    <figure style="margin:0;">
+	    <a href="#accounting"><img src="/images/accounting.jpg"></a>
+		 <font size="4"><b><i>Science Tech & Engineering</i></b></font>
+		</figure>
+<br> The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.
+XXX <Insert list of sessions curated for this job family; tbc><br>
     </div>
     <div class="col is-2">
     </div>
