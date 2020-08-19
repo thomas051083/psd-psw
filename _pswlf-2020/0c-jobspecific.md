@@ -39,7 +39,7 @@ third_nav_title: All Workouts
     <div class="col is-3">
 	     <figure style="margin:0;">
 	    <a href="#regulation"><img src="/images/regulation.jpg"></a>
-		  < font size="4"><b><i>Regulation and Enforcement</i></b></font>
+		  <font size="4"><b><i>Regulation and Enforcement</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
