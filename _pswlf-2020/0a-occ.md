@@ -461,20 +461,20 @@ Sign up for a free LEARN account here. You will be given access to the full rang
        <col width="70%"> 
             <col width="30%">
 <tr>
-    <td>
+<td>
       <b>A Product Management Approach to Building a National Digital Platform</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>•  Articulate what the National Digital Identity programme is about
       <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
       <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/digital4.jpg">
     </td>
 </tr>
@@ -485,13 +485,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>How to conduct ideation and use ideation tools.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Be introduced to structured online tools for ideation and coming up with creative ideas 
       <br>• Be introduced to the process of brainstorming
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/innovate1.jpg">
     </td>
 </tr>
@@ -502,13 +502,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
       <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
@@ -518,14 +518,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>How to conduct stakeholder analysis in project scoping.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>∙ Be introduced to stakeholder analysis. 
       <br>∙ Know who to engage with in order to achieve successful implementation of their projects/policies. 
       <br>∙ Learn about defining the project scope.
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-    <td>
+<td>
      <img src="/images/project1.jpg">
     </td>
 </tr>
@@ -536,14 +536,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/digital5.jpg">
     </td>
 </tr>
@@ -553,6 +553,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
+      <br>
       <br>Learning Outcomes:
       <br>•  Understand what OneMap is
       <br>• Recognise the various functionalities within OneMap
@@ -560,7 +561,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/Engage2.jpeg">
     </td>
 	</tr>
