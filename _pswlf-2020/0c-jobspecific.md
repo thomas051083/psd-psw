@@ -59,27 +59,7 @@ third_nav_title: All Workouts
 </div>
 #### <font color="darkorange"><b>Corporate Admin</b></font><a name="corpadmin"></a>
 Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.
-<table>
-       <col width="70%"> 
-            <col width="30%">
-<tr>		
-    <td>
-      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
-      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
-      <br>• Articulate the lessons learnt in improving business processes 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
-	</table>
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 	
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font> <a name="community"></a>
@@ -135,6 +115,28 @@ These are exciting times to be involved in service planning and delivery work. S
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
 You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.
+
+<table>
+       <col width="70%"> 
+            <col width="30%">
+<tr>		
+    <td>
+      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
+      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
+      <br>• Articulate the lessons learnt in improving business processes 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+	</table>
 
 #### <font color="darkorange"><b>Accounting and Finance</b></font> <a name="accounting"></a>
 With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.
