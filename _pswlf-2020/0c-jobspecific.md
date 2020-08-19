@@ -55,7 +55,6 @@ third_nav_title: All Workouts
 		</figure>
     <div class="col is-2">
 	</div>
-    </div>
 </div>
 #### <font color="darkorange"><b>Corporate Admin</b></font> <a name=<"corpadmin"></a>
 br> Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.
