@@ -141,6 +141,7 @@ third_nav_title: All Workouts
       <br>15 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
+      <br>      
       <br>Learning Outcomes:
       <br>∙ Re-discover your interests, strengths and skills
       <br>∙ Learn how to take stock of yourself and plan 5, 10 and 20 years ahead
@@ -158,6 +159,7 @@ third_nav_title: All Workouts
       <br>19 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>            
       <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
+      <br>      
       <br>Learning Outcomes:
       <br>• Understand why people of different generations behave differently
       <br>• Learn to identify strengths instead of weaknesses in people we work with
@@ -185,6 +187,7 @@ third_nav_title: All Workouts
       <br>26 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
+      <br>      
       <br>Learning Outcomes:
       <br>• Have a clearer vision on how to start your financial planning
       <br>• Take action to find out where you are now and how to meet your goals
@@ -211,6 +214,7 @@ third_nav_title: All Workouts
       <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
       <br>       
       <br>Manage your Career Planning Better with Career Coaching
+      <br>      
       <br>Learning Outcomes:
       <br>∙ How do I plan and grow my career? How do I make informed career decisions?
       <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
@@ -236,13 +240,14 @@ third_nav_title: All Workouts
       <br>29 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone.
+      <br>      
       <br>Learning outcomes:
       <br>• Understand the benefits of volunteering
       <br>• Make new friends who are championing the same cause
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
