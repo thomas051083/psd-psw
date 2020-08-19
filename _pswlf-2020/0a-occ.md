@@ -456,12 +456,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
        <col width="70%"> 
             <col width="30%">
 <tr>
-<td>
+    <td>
       <b>A Product Management Approach to Building a National Digital Platform</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
