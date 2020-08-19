@@ -153,7 +153,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <tr>		
     <td>
       <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
-      <br>22 October 2020, 3.00pm - 5.0pm | Platform: Zoom
+      <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>Learning outcomes:
@@ -210,13 +210,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	<tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b>
-      <br>22 October 2020, 3.00pm - 5.0pm | Platform: Zoom
+      <br>14 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
       <br>Learning outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
-     <br>• Build WOG service delivery – beyond the no wrong-door approach
-     <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
+      <br>• Build WOG service delivery – beyond the no wrong-door approach
+      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -246,6 +246,22 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>	
+    <td>
+      <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
+      <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
+      <br>Learning outcomes:
+      <br>• Be aware of the challenges faced in the global drug landscape and 
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Designing Spaces with Virtual Reality</b>
@@ -260,9 +276,75 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/digital7.jpg">
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Participatory Design - From Working For to Working With</b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
+      <br>Learning outcomes:
+      <br>• Recognise what PD is and is not
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
+      <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
+      <br>Learning outcomes:
+      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>  
+<tr>		
+    <td>
+      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
+      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
+      <br>Learning outcomes:
+      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
+      <br>• Articulate the lessons learnt in improving business processes 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage9.jpg">
+    </td>
+</tr> 
+<tr>		
+    <td>
+      <b>Transforming How IRAS & ACRA Serve Businesses</b>
+      <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>       
+      <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
+      <br>Learning outcomes:
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage10.jpg">
+    </td>
+</tr> 
 <tr>
 	<td>
       <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
