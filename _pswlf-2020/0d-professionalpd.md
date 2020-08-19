@@ -92,6 +92,13 @@ third_nav_title: All Workouts
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
+
+<font size="4"><br> In today's rapidly changing environment and workplace, being resilient and agile is essential to thrive and adapt to greater demands and challenges. 
+<br> Learn practical pointers on:
+<br>• Embracing and managing change at the workplace
+<br>• Developing a growth mindset to strengthen your own learn-ability
+<br>• Learning to work agilely and engage in constant innovation and learning</font>
+<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -165,6 +172,11 @@ third_nav_title: All Workouts
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Financial Literacy</b></font><a name="financial"></a>
+<font size="4"> <br> How savvy are you about managing your finances and stretching your dollar? No matter what your life-stage and life goals are, it is never too early to:	    
+<br>• take charge of your savings and spending, 
+<br>• secure insurance to protect you and your family,
+<br>• Invest any spare income to yield higher returns</font>
+<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -189,6 +201,9 @@ third_nav_title: All Workouts
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 #### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
+<font size="4"> <br> It is never too early or late to take stock of your career health, whether you are starting a new role, experiencing persistent frustration in your current role, or exploring a new role.
+<br> Gain pointers on active management of your career to achieve personal and professional fulfilment, work/life balance, as well as financial security.</font>
+<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -213,6 +228,8 @@ third_nav_title: All Workouts
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Managing Life Transition</b></font><a name="life"></a>
+<font size="4"> <br>Learn practical pointers and tips to cope with potential anxieties about ageing and retirement. Take care of your mental and physical well-being to enjoy the golden years of your life. </font>
+<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
