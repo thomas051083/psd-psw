@@ -56,15 +56,14 @@ third_nav_title: All Workouts
     <div class="col is-2">
 	</div>
 </div>
-#### <font color="darkorange"><b>Corporate Admin</b></font> <a name=<"corpadmin"></a>
+#### <font color="darkorange"><b>Corporate Admin</b></font><a name="corpadmin"></a>
 <br> Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.
 <table>
        <col width="70%"> 
             <col width="30%">
-<tr>
+<tr>		
     <td>
-      <b>Multi stakeholder groups for EduTrust Certification Scheme</b>
-      <br>22 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
       <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
@@ -73,14 +72,9 @@ third_nav_title: All Workouts
       <br>• Articulate the lessons learnt in improving business processes 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
-      <br>Learning outcomes:
-      <br>∙ Gain insights on how to work collaboratively and co-create solutions with external stakeholders to deliver better services to citizens 
-      <br>∙ Understand the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
-	    <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/Engage2.jpeg">
+     <img src="/images/engage9.jpg">
     </td>
 </tr>
 	</table>
@@ -133,6 +127,12 @@ third_nav_title: All Workouts
 <br>• Managing Multi-generational Workplaces
 <br>• HR Analytics
 <br>• Use of Technology to Increase Productivity of HR Functions
+
+
+
+
+
+
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
 <br> You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.
