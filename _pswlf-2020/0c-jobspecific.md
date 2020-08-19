@@ -63,6 +63,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
 	
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font> <a name="community"></a>
 <font size="4">Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:</font>
+<br>
 <table>
        <col width="70%"> 
             <col width="30%">
@@ -144,7 +145,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
 <font size="4">You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.</font>
-
+<br>
 <table>
        <col width="70%"> 
             <col width="30%">
