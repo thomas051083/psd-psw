@@ -5,15 +5,6 @@ breadcrumb: 'Professional & Personal Development'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
-<font size="4"><b><i>Digital Literacy</i></b></font>
-<br> With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. 
-<br> Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. 
-<br> Learn about applications of trending areas such as:
-<br>∙Computational thinking
-<br>∙Use data analytics and data visualisation
-<br>∙Robotic Process Automation (RPA)
-<br>∙Blockchain
-<br>∙Online collaboration and productivity tools 
 <p>
 <div class="row">
     <div class="col is-4">
@@ -21,12 +12,25 @@ third_nav_title: All Workouts
 	     <a href="#digital"><img src="/images/digitalliteracy.jpg"></a>
 		     <font size="4"><b><i>Digital Literacy</i></b></font>
 		</figure>
+<br> With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. 
+<br> Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. 
+<br> Learn about applications of trending areas such as:
+	<br>∙Computational thinking
+	<br>∙Use data analytics and data visualisation
+	<br>∙Robotic Process Automation (RPA)
+	<br>∙Blockchain
+	<br>∙Online collaboration and productivity tools<br>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 	     <a href="#change"><img src="/images/changeagility.jpg"></a>
 		    <font size="4"><b><i>Change Agility</i></b></font>
 		</figure>
+<br> In today's rapidly changing environment and workplace, being resilient and agile is essential to thrive and adapt to greater demands and challenges. 
+<br> Learn practical pointers on:
+	<br>∙Embracing and managing change at the workplace
+	<br>∙Developing a growth mindset to strengthen your own learn-ability
+	<br>∙Learning to work agilely and engage in constant innovation and learning<br>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
