@@ -27,7 +27,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 
 <h2 id="top"></h2>
 	
-### <font color="orangered"><b>View Learning Sessions by the OCC</b></font>
+### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
 1. <a href="#thinking">Thinking Clearly and Making Sound Judgements</a><br>
 2. <a href="#serving">Serving with Heart, Commitment and Purpose</a><br>
 3. <a href="#workingone">Working As One Public Service</a><br>
@@ -48,7 +48,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>
-	  <br>Learning outcomes:
+	  <br>Learning Outcomes:
       <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
@@ -65,7 +65,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
-      <br>Learning outcomes:
+      <br> 
+			<br>Learning Outcomes:
       <br>• Recognise what PD is and is not
       <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
       <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
@@ -108,7 +109,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
-      <br>Learning outcomes:
+			<br>
+      <br>Learning Outcomes:
       <br>• Be aware of the challenges faced in the global drug landscape and 
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
@@ -120,12 +122,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
+      <b>Involving Citizens in Policy-making – Insights From the Citizens’ Panel on Work-Life Harmony</b>
       <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How might you go about doing so? Join NPTD and MOM as they share their experiences in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
-      <br>Learning outcomes:
-      <br>• Idenitfy the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues
+      <br>
+			<br>Learning Outcomes:
+      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues
      <br>• Explain how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
       <br>
@@ -137,11 +140,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Introduction to OneMap – the authoritative map of Singapore</b>
+      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
       <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>•  Understand what OneMap is
       <br>• Recognise the various functionalities within OneMap
       <br>•  Identify features and application for users
@@ -154,11 +158,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>	
     <td>
-      <b>Is there room for emotional design in public service?</b>
+      <b>Is There Room for Emotional Design in Public Service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Learn the value of developing empathy in the public service
       <br>• Know about developing empathy through emotional design
       <br>
@@ -170,11 +175,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 	      </tr>   
 <tr>
     <td>
-      <b>MOH’s regulatory sandbox: Telemedicine</b>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
       <br>•  Recognise the mindsets that smart regulators need.
       <br>•   Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
@@ -187,11 +193,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>A Product Management approach to building a National Digital Platform</b>
+      <b>A Product Management Approach to Building a National Digital Platform</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>•  Articulate what the National Digital Identity programme is about
       <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
       <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
@@ -208,6 +215,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
+			<br>
       <br>Learning outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
@@ -248,7 +256,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces GeoSpace, a Whole of Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Understand what GeoSpace is and its benefits
       <br>• Understand how to share or consume geospatial data from GeoSpace
       <br>• Recognize how GeoSpace helps agency users on their projects or operations
@@ -265,7 +274,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>14 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
-      <br>Learning outcomes:
+      <br>
+			<br>Learning outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
       <br>• Build WOG service delivery – beyond the no wrong-door approach
       <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
@@ -304,7 +314,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Be aware of the challenges faced in the global drug landscape and 
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
@@ -321,7 +332,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
       <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>∙ Determine areas in which the VR technology can be helpful to plan for effective citizen and stakeholder engagements. 
       <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
@@ -337,7 +349,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Recognise what PD is and is not
       <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
       <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
@@ -354,7 +367,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
       <br>
@@ -366,11 +380,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>  
 <tr>		
     <td>
-      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
+      <b>SSG's Multi Stakeholder Groups for Edutrust Certification Scheme</b>
       <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
       <br>• Articulate the lessons learnt in improving business processes 
       <br>
@@ -386,7 +401,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
       <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
       <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
       <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
@@ -399,11 +415,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr> 
 <tr>		
     <td>
-      <b>What is the Best Way to Scope a User Centric Project?</b>
+      <b>What Is the Best Way to Scope a User Centric Project?</b>
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
-      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: JJobs To Be Done tools, Philosophy Statement and How Might We Question.
-      <br>Learning outcomes:
+      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
+      <br>
+			<br>Learning Outcomes:
       <br>• Learn about HCI process and sharing on UXC cases.
       <br>• Be introduced to UXC tools on how to define project scope.
       <br>• Craft a philosophy statement that will guide the project direction.
@@ -445,11 +462,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%">
 <tr>
     <td>
-      <b>A Product Management approach to building a National Digital Platform</b>
+      <b>A Product Management Approach to Building a National Digital Platform</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>•  Articulate what the National Digital Identity programme is about
       <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
       <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
@@ -462,11 +480,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Do you get stuck when you are trying to come up creative ideas in your team?</b>
+      <b>Do You Get Stuck When You Are Trying to Come up Creative Ideas in Your Team?</b>
       <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>How to conduct ideation and use ideation tools.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Be introduced to structured online tools for ideation and coming up with creative ideas 
       <br>• Be introduced to the process of brainstorming
       <br>
@@ -478,11 +497,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Future-ready Service Transformation@MOE</b>
+      <b>Future-Ready Service Transformation@MOE</b>
       <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
       <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
       <br>
@@ -493,11 +513,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr>
 <td>
-<b>How do you identify different stakeholders in your project?</b>
+<b>How Do You Identify Different Stakeholders in Your Project?</b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
       <br>       
       <br>How to conduct stakeholder analysis in project scoping.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>∙ Be introduced to stakeholder analysis. 
       <br>∙ Know who to engage with in order to achieve successful implementation of their projects/policies. 
       <br>∙ Learn about defining the project scope.
@@ -510,11 +531,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <b>Improving Data Quality – Statistical Best Practices From Planning, Collection to Dissemination</b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
@@ -527,11 +549,11 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>Introduction to OneMap – the authoritative map of Singapore</b>
+      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
       <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>•  Understand what OneMap is
       <br>• Recognise the various functionalities within OneMap
       <br>•  Identify features and application for users
@@ -548,7 +570,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>∙ Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
       <br>∙  Learn about how IRAS carried out its Workforce Transformation
       <br>∙  Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
@@ -561,11 +583,11 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>	
     <td>
-      <b>Is there room for emotional design in public service?</b>
+      <b>Is There Room for Emotional Design in Public Service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Learn the value of developing empathy in the public service
       <br>• Know about developing empathy through emotional design
       <br>
@@ -581,7 +603,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>14 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
       <br>• Build WOG service delivery – beyond the no wrong-door approach
       <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
@@ -598,7 +621,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: JJobs To Be Done tools, Philosophy Statement and How Might We Question.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>• Learn about HCI process and sharing on UXC cases.
       <br>• Be introduced to UXC tools on how to define project scope.
       <br>• Craft a philosophy statement that will guide the project direction.
@@ -615,7 +639,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>•  Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators 
       <br>• Identify ways to ensure regulatory rules are risk calibrated 
       <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry
@@ -660,8 +685,9 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <b>Public Service Career Coaching Services</b>
       <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
       <br>       
-      <br>Manage your Career Planning Better with Career Coaching
-      <br>Learning outcomes:
+      <br>Manage Your Career Planning Better With Career Coaching
+      <br>
+			<br>Learning Outcomes:
       <br>∙ How do I plan and grow my career? How do I make informed career decisions?
       <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
       <br>∙ If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
@@ -702,11 +728,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%"> 
 <tr>
     <td>
-      <b>Future-ready Service Transformation@MOE</b>
+      <b>Future-Ready Service Transformation@MOE</b>
       <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
-      <br>Learning outcomes:
+      <br>
+			<br>Learning Outcomes:
       <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
       <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
       <br>
