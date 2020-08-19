@@ -68,7 +68,8 @@ Build on your existing strengths in areas such as co-ordination, monitoring and 
       <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>Learning outcomes:
+      <br>      
+      <br>Learning Outcomes:
       <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
       <br>• Articulate the lessons learnt in improving business processes 
       <br>
@@ -92,7 +93,7 @@ Engaging and partnering citizens actively to co-create solutions will be the way
       <br>14 Oct 2020, 10.00am – 12.00pm | Platform: Zoom
       <br>       
       <br>Based on NACLI’s WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>∙ Understand the basics of communication
       <br>∙ Engage in more meaningful and purposeful conversations with colleagues and stakeholders
 	    <br>
@@ -109,7 +110,7 @@ Engaging and partnering citizens actively to co-create solutions will be the way
       <br>22 Oct 2020, 9.00am – 11.00pm | Platform: Zoom
       <br>       
       <br>Ever wondered how we can continue to engage our citizens in the COVID-19 world and beyond?  Or rather, how might we leverage technology and continue to engage our citizens in interesting ways using virtual tools like Zoom? In this 2-hour workshop, you will learn how to increase engagement through virtual platforms, including some good practices by the People’s Association on how  virtual tools are used for residents’ gathering.  Join us for some practical tips and some fun on virtual community engagement!
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>∙ Execute the basic functions of Zoom as a host in citizen engagement
       <br>∙ Learn tips to engage citizens through interactive virtual activities
       <br>∙ Learn how PA tapped on Zoom for virtual community engagement
