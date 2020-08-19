@@ -444,65 +444,113 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%">
 <tr>
     <td>
-      <b>Future-ready Service Transformation@MOE</b>
-      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
+      <b>A Product Management approach to building a National Digital Platform</b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
-      <br>The session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
+      <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
       <br>Learning outcomes:
-      <br>∙ Obtain insights on how technology and service innovations improve both customer and internal stakeholders’ experiences 
-      <br>∙ Gain awareness of the challenges faced by the MOE Customer Services team in their transformation journey and how the team overcame these challenges
+      <br>•  Articulate what the National Digital Identity programme is about
+      <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
+      <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/innovationtest3.png">
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
 <tr>
     <td>
-       <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <b>Do you get stuck when you are trying to come up creative ideas in your team?</b>
+      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>How to conduct ideation and use ideation tools.
       <br>Learning outcomes:
-      <br>∙ Identify data quality dimensions and the relevant statistical processes to engage in when producing data outputs.
-      <br>∙ Recognise the need to  adopt best practices from the planning to the development to the idissemination of data outputs.
-      <br>∙ Understand the requirements needed to manage and assure data of high quality are produced 
-      <br>    
+      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas 
+      <br>• Be introduced to the process of brainstorming
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/innovate1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Future-ready Service Transformation@MOE</b>
+      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
+      <br>       
+      <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
+      <br>Learning outcomes:
+      <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
+      <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/Serve2.jpg">
+    </td>
+</tr>
+<td>
+<b>How do you identify different stakeholders in your project?</b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping.
+      <br>Learning outcomes:
+      <br>∙ Be introduced to stakeholder analysis. 
+      <br>∙ Know who to engage with in order to achieve successful implementation of their projects/policies. 
+      <br>∙ Learn about defining the project scope.
+      <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
     <td>
-     <img src="/images/Digital2.jpg">
+     <img src="/images/project1.jpg">
     </td>
 </tr>
-<tr>   
-<td>
+<tr>	
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
       <b>Introduction to OneMap – the authoritative map of Singapore</b>
       <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3D map. It will cover the current usage of OneMap, and how it is presently being used by different sectors and the new improvements to come.
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
       <br>Learning outcomes:
-      <br>∙ Understand what OneMap is
-      <br>∙ Recognise the various functionality within OneMap 
-      <br>∙ Identify features and application for users
+      <br>•  Understand what OneMap is
+      <br>• Recognise the various functionalities within OneMap
+      <br>•  Identify features and application for users
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/Engage2.jpeg">
     </td>
-    <td>
-     <img src="/images/SkillUp2.jpg">
-    </td>
-</tr>
+	</tr>
 <tr>   
 <td>
 <b>IRAS’ Workforce Transformation Journey</b>
       <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
-      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees.
-      <br>Workforce Transformation can often be a complex and challenging journey for any organisation. In this case sharing, learn how IRAS is taking a phased and iterative approach to Workforce Transformation, anchored by IRAS’ transformation journey called “The LEA:D Movement”.
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
       <br>Learning outcomes:
-      <br>∙ 1. Learn about the importance to anchor Workforce Transformation on the organisation’s business transformation.
-      <br>∙ 2. Learn about IRAS’ Workforce Transformation framework, objectives, and broad implementation plan.
-      <br>∙ 3. Learn how IRAS took a phased and  iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>∙ Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
+      <br>∙  Learn about how IRAS carried out its Workforce Transformation
+      <br>∙  Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -510,7 +558,23 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
-	<tr>
+<tr>	
+    <td>
+      <b>Is there room for emotional design in public service?</b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
+      <br>Learning outcomes:
+      <br>• Learn the value of developing empathy in the public service
+      <br>• Know about developing empathy through emotional design
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr>   
+<tr>
 <td>	     
 	    <b>LEARN modules</b>
      	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Improving and Innovating Continuously.
