@@ -1,6 +1,6 @@
 ---
 title: Test Page
-permalink: /_jobspecific-details/pswlf-test
+permalink: /_pswlf-2020/pswlf-test
 ---
 # [Lishi is testing]
 #### OCC Video Test
