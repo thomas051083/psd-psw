@@ -45,7 +45,7 @@ third_nav_title: All Workouts
 </div>
 
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
-<font size="3"><br> With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. 
+<font size="4"><br> With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. 
 <br> Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. 
 <br> Learn about applications of trending areas such as:
 <br>• Computational thinking
@@ -53,7 +53,7 @@ third_nav_title: All Workouts
 <br>• Robotic Process Automation (RPA)
 <br>• Blockchain
 <br>• Online collaboration and productivity tools</font>
-
+<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
