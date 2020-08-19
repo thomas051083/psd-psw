@@ -67,19 +67,12 @@ XXX <Insert adapted Acct & FI Training Roadmap; to be provided><br>
 <br> These are exciting times to be involved in service planning and delivery work.
 <br> Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the Virtual Learning Series - Building A Future-Ready Service Community happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from DBS, HDB and workshops by Ron Kaufman and Rohei).
 XXX <Insert link to details of Learning Series or contact person information; to be provided.><br>
-    </div>
-    <div class="col is-2">
-    </div>
-	    </div>
-    <div class="col is-4">
 	    <figure style="margin:0;">
 	    <a href="#accounting"><img src="/images/accounting.jpg"></a>
 		 <font size="4"><b><i>Science Tech & Engineering</i></b></font>
 		</figure>
 <br> The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.
 XXX <Insert list of sessions curated for this job family; tbc><br>
-    </div>
-    <div class="col is-2">
     </div>
 </div>
 #### <font color="darkorange"><b>Corporate Admin</b></font> <a name="corpadmin"></a>
