@@ -43,6 +43,23 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%"> 
 <tr>	
     <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
       <b>Participatory Design - From Working For to Working With</b>
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
@@ -56,23 +73,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>    
 	<td>
      <img src="/images/engage7.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs;
-      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digital5.jpg">
     </td>
 </tr>
 <tr> 
@@ -101,6 +101,38 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>	
+    <td>
+      <b>CNB’s PDE Approach & Its Dadah Itu Haram Campaign</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
+      <br>Learning outcomes:
+      <br>• Be aware of the challenges faced in the global drug landscape and 
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
+      <br>28 October 2020, 10.00pm - 11.30am | Platform: Zoom
+      <br>       
+      <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
+      <br>Learning outcomes:
+      <br>• Be aware of the challenges faced in the global drug landscape  
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
