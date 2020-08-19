@@ -5,7 +5,8 @@ breadcrumb: 'Job Specific Skills'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Job Specific Skills</b></font>
-"Workouts" are available for officers in the following job families. Each "Workout" is intended to support development of a skill you need to thrive at work, as well as life skills that will help you manage career and life transitions.
+Workouts are available for officers in the following job families. Each ‘exercise’ is curated to help you stay in tip-top shape to cope with rapid changes in your work and workplace requirements. 
+
 
 <div class="row">
     <div class="col is-3">
@@ -83,7 +84,22 @@ Engaging and partnering citizens actively to co-create solutions will be the way
      <img src="/images/Engage4.jpg">
     </td>
 </tr>
-	
+<tr>
+    <td>
+      <b>Public Engagement Network webinar</b>
+      <br>22 Oct 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>In this PEN session, participants will gain deeper understanding of the Emerging Stronger Conversation (ESC) journey where in-service senior practitioners will share rich insights and anecdotes on the conceptualisation and strategies of ESC, the behind-the-scenes Whole of Government and Whole of Nation coordination and challenges.
+      <br>Learning outcomes:
+      <br>• Understand what Emerging Stronger Conversation (ESC) is about
+      <br>• Understand how to plan and execute engagements with stakeholders and citizens virtually
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>	
 <tr>
     <td>
       <b>Virtualising Community Engagement</b>
@@ -98,7 +114,22 @@ Engaging and partnering citizens actively to co-create solutions will be the way
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Engage1.jpg">
+     <img src="/images/engage8.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides (CRDCE10)</b>
+      <br>15 Oct 2020 (9.00am - 11.30am); 28 Oct 2020 (9.00am - 11.30am) | Platform: Zoom
+      <br>       
+      <br>In this interactive session, participants will get to explore and learn how to use and apply digital tools such as Zoom, Padlet and Google Slides in their engagements with citizens and stakeholders.
+      <br>Learning outcomes:
+      <br>• Learn and apply digital tools in their engagements with citizens and stakeholders.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate1.jpg">
     </td>
 </tr>
 </table>
