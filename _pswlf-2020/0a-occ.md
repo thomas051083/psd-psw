@@ -48,14 +48,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>
-	  <br>Learning Outcomes:
+			<br>Learning Outcomes:
       <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+		<td>
      <img src="/images/digital5.jpg">
     </td>
 </tr>
@@ -451,7 +451,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href=" https://www.learn.gov.sg/dlp/student/course/17008"> What is Citizen-Centred Service? Why is it important?	</a>		
     </td>
     <td>
-	    <img src="images/learnlogowhitebg.jpg">
+	 <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
