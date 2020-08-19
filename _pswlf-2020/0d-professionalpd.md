@@ -65,7 +65,6 @@ third_nav_title: All Workouts
 		    <font size="4"><b><i>Managing Life Transition</i></b></font>
 		</figure>
 <br> Learn practical pointers and tips to cope with potential anxieties about ageing and retirement. Take care of your mental and physical well-being to enjoy the golden years of your life. 
-    </div>
 </div>
 </p>
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
