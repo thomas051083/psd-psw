@@ -136,8 +136,6 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>	
     <td>
-      <b><tr>	
-    <td>
       <b>Is there room for emotional design in public service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
@@ -165,7 +163,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/engage4.jpg">
+     <img src="/images/engage7.jpg">
     </td>
 	      </tr>  
 <tr>
