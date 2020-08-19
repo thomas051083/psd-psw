@@ -130,9 +130,7 @@ Regardless of your role in the HR value-chain, boost your fitness in foundationa
 <br>• Use of Technology to Increase Productivity of HR Functions
 
 #### <font color="darkorange"><b>Service Delivery</b></font> <a name="service"></a>
-These are exciting times to be involved in service planning and delivery work.
-<br>
-<br>Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the <b><i>Virtual Learning Series - Building A Future-Ready Service Community</i></b> happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from DBS, HDB and workshops by Ron Kaufman and Rohei).
+These are exciting times to be involved in service planning and delivery work. Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the <b><i>Virtual Learning Series - Building A Future-Ready Service Community</i></b> happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from DBS, HDB and workshops by Ron Kaufman and Rohei).
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
 You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.
