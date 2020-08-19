@@ -19,10 +19,10 @@ Featuring guest speakers who are practice leaders in their respective fields, th
 These virtual sessions and modules are curated for all public officers. You will hear from agencies on how they have demonstrated Our Core Competencies (OCC) and/or you can choose a LEARN module to develop your core competencies. 
  
 + <a href="/pswlf-2020/all-workouts/jobspecific/"><b>View by Job Specific Skills:</b></a>
-Workout sessions are curated by job families. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions. (Extracted from previous UX write-up; WD to confirm.)
+Workout sessions are curated by job families. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions.
 
 + <a href="/pswlf-2020/all-workouts/professionalpd/"><b>View by Professional & Personal Development:</b></a>
-Get quick tips and pointers for work and life no matter what career or life stage you are at, including digital and financial literacy and career management. (Extracted from previous UX write-up; WD to confirm.)
+Get quick tips and pointers for work and life no matter what career or life stage you are at, including digital and financial literacy and career management. 
 
 <br>
 <b>Registration for these virtual offerings will begin on 1 September 2020. Check back this space for more information.</b>
