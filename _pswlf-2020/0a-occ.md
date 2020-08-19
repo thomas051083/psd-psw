@@ -41,20 +41,38 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
+<tr>	
     <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <b>Participatory Design - From Working For to Working With</b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>Learn about Geospatial information & technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
       <br>Learning outcomes:
-      <br>∙ Understand what geospatial information is and its uses.
-      <br>∙ Recognise how SLA drive geospatial awareness and capacity building for the government, people and industry.
+      <br>• Recognise what PD is and is not
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/geospatial.jpg">
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learning outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs;
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
     </td>
 </tr>
 <tr> 
