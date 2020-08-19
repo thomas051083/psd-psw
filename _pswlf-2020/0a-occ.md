@@ -571,6 +571,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
+      <br>
       <br>Learning Outcomes:
       <br>∙ Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
       <br>∙  Learn about how IRAS carried out its Workforce Transformation
@@ -578,7 +579,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
-    <td>
+<td>
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
@@ -588,13 +589,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
+      <br>
       <br>Learning Outcomes:
       <br>• Learn the value of developing empathy in the public service
       <br>• Know about developing empathy through emotional design
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage8.jpg">
     </td>
 </tr> 
@@ -605,14 +607,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
       <br>• Build WOG service delivery – beyond the no wrong-door approach
       <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
@@ -623,14 +625,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: JJobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Learn about HCI process and sharing on UXC cases.
       <br>• Be introduced to UXC tools on how to define project scope.
       <br>• Craft a philosophy statement that will guide the project direction.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/innovationtest3.png">
     </td>
 </tr> 
@@ -641,14 +643,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>•  Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators 
       <br>• Identify ways to ensure regulatory rules are risk calibrated 
       <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/innovationtest3.png">
     </td>
 </tr> 
@@ -671,7 +673,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 - <a href="https://www.learn.gov.sg/dlp/student/course/8802">Introduction to RPA (Robotic Process Automation)</a>
     </td>
     <td>
-	    <img src="images/learnlogowhitebg.jpg">
+	    <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
@@ -688,14 +690,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Manage Your Career Planning Better With Career Coaching
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>∙ How do I plan and grow my career? How do I make informed career decisions?
       <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
       <br>∙ If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
-    <td>
+<td>
      <img src="/images/coaching.jpg">
     </td>
 	</tr>
@@ -734,13 +736,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
       <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
