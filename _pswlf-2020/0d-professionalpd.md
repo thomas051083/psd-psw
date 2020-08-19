@@ -156,8 +156,7 @@ third_nav_title: All Workouts
      <td>
       <b>Working in Multigenerational Workplace</b>
       <br>19 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>       
+      <br>            
       <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
       <br>Learning Outcomes:
       <br>• Understand why people of different generations behave differently
