@@ -38,9 +38,9 @@ third_nav_title: All Workouts
 		    <font size="4"><b><i>Financial Literacy</i></b></font>
 		</figure>
 <br> How savvy are you about managing your finances and stretching your dollar? No matter what your life-stage and life goals are, it is never too early to:	    
-	<br>∙take charge of your savings and spending, 
-	<br>∙secure insurance to protect you and your family,
-	<br>∙Invest any spare income to yield higher returns
+<br>•take charge of your savings and spending, 
+<br>•secure insurance to protect you and your family,
+<br>•Invest any spare income to yield higher returns
 <p>
     </div>
 </div>
