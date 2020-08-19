@@ -38,13 +38,12 @@ third_nav_title: All Workouts
 		    <font size="4"><b><i>Financial Literacy</i></b></font>
 		</figure>
 <br> How savvy are you about managing your finances and stretching your dollar? No matter what your life-stage and life goals are, it is never too early to:	    
-<br>•take charge of your savings and spending, 
-<br>•secure insurance to protect you and your family,
-<br>•Invest any spare income to yield higher returns
+<br>• take charge of your savings and spending, 
+<br>• secure insurance to protect you and your family,
+<br>• Invest any spare income to yield higher returns
 <p>
     </div>
 </div>
-
 <div class="row">
     <div class="col is-4">
 	     <figure style="margin:0;">
@@ -57,12 +56,15 @@ third_nav_title: All Workouts
 		<a href="#career"><img src="/images/careermanagement1.jpg"></a>
 		   <font size="4"><b><i>Career Management</i></b></font>
 		</figure>
+<br> It is never too early or late to take stock of your career health, whether you are starting a new role, experiencing persistent frustration in your current role, or exploring a new role.
+<br> Gain pointers on active management of your career to achieve personal and professional fulfilment, work/life balance, as well as financial security.<br>
     </div>
     <div class="col is-4">
 	    <figure style="margin:0;">
 		<a href="#life"><img src="/images/lifetransition.jpg"></a>		    
 		    <font size="4"><b><i>Managing Life Transition</i></b></font>
 		</figure>
+<br> Learn practical pointers and tips to cope with potential anxieties about ageing and retirement. Take care of your mental and physical well-being to enjoy the golden years of your life. 
     </div>
 </div>
 </p>
