@@ -43,11 +43,12 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%"> 
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical best practices from planning, collection to dissemination</b>
+      <b>Improving Data Quality – Statistical Best Practices From Planning, Collection to Dissemination</b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>Learning outcomes:
+      <br>
+	  <br>Learning outcomes:
       <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
