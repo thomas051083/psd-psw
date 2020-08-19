@@ -75,7 +75,7 @@ Build on your existing strengths in areas such as co-ordination, monitoring and 
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/engage9.jpg">
+     <img src="/images/engage7.jpg">
     </td>
 </tr>
 	</table>
