@@ -241,7 +241,7 @@ third_nav_title: All Workouts
       <br>       
      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone.
       <br>      
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Understand the benefits of volunteering
       <br>• Make new friends who are championing the same cause
 	    <br>
