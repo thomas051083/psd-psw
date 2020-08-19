@@ -28,7 +28,7 @@ third_nav_title: All Workouts
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#hr"><img src="/images/service2.jpg"></a>
+	    <a href="#service"><img src="/images/service2.jpg"></a>
 		  <font size="4"><b><i>Service Delivery</i></b></font>
 		</figure>
     </div>
@@ -50,7 +50,7 @@ third_nav_title: All Workouts
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#accounting"><img src="/images/science1.jpg"></a>
+	    <a href="#science"><img src="/images/science1.jpg"></a>
 		 <font size="4"><b><i>Science Tech & Engineering</i></b></font>
 		</figure>
 	</div>
