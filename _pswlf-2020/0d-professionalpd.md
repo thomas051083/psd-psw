@@ -165,12 +165,12 @@ third_nav_title: All Workouts
       <b>Financial Adequacy</b>
       <br>26 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
-      <br>Do you have enough savings to see you through your retirement years? Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.     
+      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
       <br>Learning outcomes:
-      <br>∙ Have a clearer vision on how to start your financial planning
-      <br>∙ Take action to find out where you are now and how to meet your goals
-      <br>∙ Plan for other sources of income to support your financial goals 
-      <br>∙ When you are prepared, you will be more confident of your future
+      <br>• Have a clearer vision on how to start your financial planning
+      <br>• Take action to find out where you are now and how to meet your goals
+      <br>• Plan for other sources of income to support your financial goals 
+      <br>• When you are prepared, you will be more confident
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -255,12 +255,10 @@ third_nav_title: All Workouts
       <b>Be a Volunteer</b>
       <br>29 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
-      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone. 
+     <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone.
       <br>Learning outcomes:
-      <br>∙ Helping others bring immeasurable happiness not only to the beneficiaries but also to yourself 
-      <br>∙ When you do good, you feel good
-      <br>∙ Opportunity for family engagement when you involve them 
-      <br>∙ Make new friends who are championing the same cause
+      <br>• Understand the benefits of volunteering
+      <br>• Make new friends who are championing the same cause
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
