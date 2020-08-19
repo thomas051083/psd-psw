@@ -53,9 +53,10 @@ third_nav_title: All Workouts
       <b>AI for Everyone</b>
       <br>20 Oct 2020, 10.00am – 1.00pm| Platform: Zoom
       <br>       
-      <br>AI for Everyone will introduce anyone to modern AI technologies and applications so that you can be savvy consumers of AI products and services. The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
-      <br>Learning outcome:
-      <br>∙ Gain an overview of Artificial Intelligence (AI), its capabilities and examples of current applications.
+       <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
+      <br>Learning outcomes:
+      <br>∙ Understand what Artificial Intelligence (AI) is and its capabilities.
+      <br>∙ Recognise examples of AI.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -69,8 +70,8 @@ third_nav_title: All Workouts
       <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
       <br>       
       <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
-      <br>Learning outcome:
-      <br>∙ Learn about Artificial Intelligence (AI), its capabilities and examples of current applications.
+      <br>Learning outcomes:
+      <br>• Understand Singapore's AI Data Appreciation Programme and the pre-requisites
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -92,14 +93,30 @@ third_nav_title: All Workouts
       <br>       
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
       <br>Learning outcomes:
-      <br>∙ Overcome fear and uncertainty of the future
-      <br>• Take action to be future ready
-      <br>• Embrace change with positive mind-set
+      <br>• Learn how to overcome fear and uncertainty of the future
+      <br>• Understand how technological developments change the way we live and work; and the impact it has on you
+      <br>
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
     <td>
      <img src="/images/change1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Importance of Growth Mindset in a VUKA Environment</b>
+      <br>20 or 23 Oct 2020 | Platform: Zoom
+      <br>       
+      <br>Understand about growth mindset and pick up tips to develop a growth mindset.
+      <br>Learning outcomes:
+      <br>• Understand the differences between a growth mindset and a fixed mindset
+      <br>• Pick up tips to develop a growth mindset
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/Engage1.jpg">
     </td>
 </tr>
 <tr>
@@ -110,7 +127,7 @@ third_nav_title: All Workouts
       <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
       <br>Learning outcomes:
       <br>∙ Re-discover your interests, strengths and skills
-      <br>∙ Take stock of yourself and plan 5, 10 and 20 years ahead
+      <br>∙ Learn how to take stock of yourself and plan 5, 10 and 20 years ahead
       <br>∙ Find your motivation and reframe your mind
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
@@ -122,17 +139,18 @@ third_nav_title: All Workouts
 <tr>
      <td>
       <b>Working in Multigenerational Workplace</b>
-      <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
+      <br>19 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
-      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.  
+     <br>       
+      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
       <br>Learning outcomes:
-      <br>∙ Understand why people of different generations behave differently
-      <br>∙ See strengths instead of weaknesses in people
-      <br>∙ Work better with team members and colleagues
-      <br><a href="http://www.csc.gov.sg">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/change3.jpg">
+      <br>• Understand why people of different generations behave differently
+      <br>•  Learn to identify strengths instead of weaknesses in people we work with
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Engage1.jpg">
     </td>
 </tr>
 </table>
@@ -145,7 +163,7 @@ third_nav_title: All Workouts
 <tr>
     <td>
       <b>Financial Adequacy</b>
-      <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>26 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Do you have enough savings to see you through your retirement years? Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.     
       <br>Learning outcomes:
