@@ -23,7 +23,7 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 	</p>
 	
 ##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-Sign up for a free LEARN account here. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
+Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
 
 <h2 id="top"></h2>
 	
