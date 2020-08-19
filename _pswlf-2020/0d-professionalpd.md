@@ -5,7 +5,10 @@ breadcrumb: 'Professional & Personal Development'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
-(Insert write-up from WD)
+<font size="4"><b><i>Digital Literacy</i></b></font>
+
+<b> With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. 
+<b> Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. 
 <p>
 <div class="row">
     <div class="col is-4">
