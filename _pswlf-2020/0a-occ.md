@@ -257,14 +257,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session introduces GeoSpace, a Whole of Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Understand what GeoSpace is and its benefits
       <br>• Understand how to share or consume geospatial data from GeoSpace
       <br>• Recognize how GeoSpace helps agency users on their projects or operations
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/digital7.jpg">
     </td>
 </tr>
@@ -275,14 +275,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
       <br>
-			<br>Learning outcomes:
+      <br>Learning outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
       <br>• Build WOG service delivery – beyond the no wrong-door approach
       <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
@@ -315,13 +315,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Be aware of the challenges faced in the global drug landscape and 
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/drug1.jpg">
     </td>
 </tr>
@@ -333,13 +333,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
       <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>∙ Determine areas in which the VR technology can be helpful to plan for effective citizen and stakeholder engagements. 
       <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/digital4.jpg">
     </td>
 </tr>
@@ -350,14 +350,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Recognise what PD is and is not
       <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
       <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage7.jpg">
     </td>
 </tr>	
@@ -368,13 +368,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>
-			<br>Learning outcomes:
+      <br>Learning outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
@@ -385,13 +385,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
       <br>• Articulate the lessons learnt in improving business processes 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage9.jpg">
     </td>
 </tr> 
@@ -402,14 +402,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
       <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
       <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage10.jpg">
     </td>
 </tr> 
@@ -420,14 +420,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Learn about HCI process and sharing on UXC cases.
       <br>• Be introduced to UXC tools on how to define project scope.
       <br>• Craft a philosophy statement that will guide the project direction.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/innovationtest3.png">
     </td>
 </tr> 
