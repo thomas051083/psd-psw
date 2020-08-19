@@ -111,7 +111,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>
       <br>Learning Outcomes:
-      <br>• Be aware of the challenges faced in the global drug landscape and 
+      <br>• Understand the challenges faced in the global drug landscape
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
@@ -130,7 +130,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>Learning Outcomes:
       <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues
      <br>• Explain how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
-     <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
+     <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and the ways to overcome the challenges
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -161,7 +161,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <b>Is There Room for Emotional Design in Public Service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
-      <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
       <br>
       <br>Learning Outcomes:
       <br>• Learn the value of developing empathy in the public service
@@ -181,9 +181,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
-      <br>•  Recognise the mindsets that smart regulators need.
-      <br>•   Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
+      <br>•  Recognise the mindsets that smart regulators need
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -199,9 +199,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
       <br>
       <br>Learning Outcomes:
-      <br>•  Articulate what the National Digital Identity programme is about
-      <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
-      <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
+      <br>•  Articulate what the National Digital Identity programme is
+      <br>•  Describe how the Govtech team developed the SingPass Mobile app into a multi-function “everyday” app                                                   
+      <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -216,9 +216,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
-      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -275,7 +275,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
       <br>
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
       <br>• Build WOG service delivery – beyond the no wrong-door approach
       <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
@@ -316,7 +316,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>
       <br>Learning Outcomes:
-      <br>• Be aware of the challenges faced in the global drug landscape and 
+      <br>• Understand the challenges faced in the global drug landscape  
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
@@ -330,12 +330,11 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <b>Designing Spaces with Virtual Reality</b>
       <br>15 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
-      <br>Learn how you can leverage the virtual reality tool to hold a more effective design workshop, onsite and online. 
-      <br>How could the Virtual Reality technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the- scene preparation work to set up the VR canvas for co-designing. 
+      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>∙ Determine areas in which the VR technology can be helpful to plan for effective citizen and stakeholder engagements. 
-      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders.
+      <br>∙ Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
+      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -348,7 +347,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <b>Participatory Design - From Working For to Working With</b>
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
+      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
       <br>
       <br>Learning Outcomes:
       <br>• Recognise what PD is and is not
@@ -370,7 +369,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>
       <br>Learning outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
-      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -386,7 +385,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
       <br>
       <br>Learning Outcomes:
-      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
+      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector
       <br>• Articulate the lessons learnt in improving business processes 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
@@ -403,9 +402,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
       <br>
       <br>Learning Outcomes:
-      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
-      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
-      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -421,9 +420,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases.
-      <br>• Be introduced to UXC tools on how to define project scope.
-      <br>• Craft a philosophy statement that will guide the project direction.
+      <br>• Learn about HCI process and sharing on UXC cases
+      <br>• Be introduced to UXC tools on how to define project scope
+      <br>• Craft a philosophy statement that will guide the project direction
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -470,7 +469,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
       <br>
       <br>Learning Outcomes:
-      <br>•  Articulate what the National Digital Identity programme is about
+      <br>•  Articulate what the National Digital Identity programme is
       <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
       <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
       <br>
@@ -505,8 +504,8 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>
       <br>Learning Outcomes:
-      <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
-      <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
+      <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences
+      <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -521,9 +520,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>How to conduct stakeholder analysis in project scoping.
       <br>
       <br>Learning Outcomes:
-      <br>∙ Be introduced to stakeholder analysis. 
-      <br>∙ Know who to engage with in order to achieve successful implementation of their projects/policies. 
-      <br>∙ Learn about defining the project scope.
+      <br>∙ Be introduced to stakeholder analysis 
+      <br>∙ Know who to engage with in order to achieve successful implementation of their projects/policies
+      <br>∙ Learn about defining the project scope
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -576,8 +575,8 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>
       <br>Learning Outcomes:
       <br>∙ Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
-      <br>∙  Learn about how IRAS carried out its Workforce Transformation
-      <br>∙  Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
+      <br>∙ Learn about how IRAS carried out its Workforce Transformation
+      <br>∙ Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -590,7 +589,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <b>Is There Room for Emotional Design in Public Service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
-      <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
       <br>
       <br>Learning Outcomes:
       <br>• Learn the value of developing empathy in the public service
@@ -625,12 +624,12 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <b>What is the Best Way to Scope a User Centric Project?</b>
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
-      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: JJobs To Be Done tools, Philosophy Statement and How Might We Question.
+      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases.
-      <br>• Be introduced to UXC tools on how to define project scope.
-      <br>• Craft a philosophy statement that will guide the project direction.
+      <br>• Learn about HCI process and sharing on UXC cases
+      <br>• Be introduced to UXC tools on how to define project scope
+      <br>• Craft a philosophy statement that will guide the project direction
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -646,7 +645,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
       <br>
       <br>Learning Outcomes:
-      <br>•  Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators 
+      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators 
       <br>• Identify ways to ensure regulatory rules are risk calibrated 
       <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry
       <br>
