@@ -103,8 +103,8 @@ Sign up for a free LEARN account here. You will be given access to the full rang
             <col width="30%"> 
 <tr>	
     <td>
-      <b>CNB’s PDE Approach & Its Dadah Itu Haram Campaign</b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
+      <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>Learning outcomes:
@@ -119,13 +119,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 </tr>
 <tr>
     <td>
-      <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
-      <br>28 October 2020, 10.00pm - 11.30am | Platform: Zoom
+      <b>Involving Citizens in Policy-making – Insights from the Citizens’ Panel on Work-Life Harmony</b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
+      <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How might you go about doing so? Join NPTD and MOM as they share their experiences in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
       <br>Learning outcomes:
-      <br>• Be aware of the challenges faced in the global drug landscape  
-      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>• Idenitfy the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues
+     <br>• Explain how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
+     <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -133,6 +134,42 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/drug1.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b><tr>	
+    <td>
+      <b>Is there room for emotional design in public service?</b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
+      <br>Learning outcomes:
+      <br>• Learn the value of developing empathy in the public service
+      <br>• Know about developing empathy through emotional design
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage8.jpg">
+    </td>
+	      </tr>       
+<tr>	
+    <td>
+      <b><tr>	
+    <td>
+      <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
+      <br>22 October 2020, 3.00pm - 5.0pm | Platform: Zoom
+      <br>       
+      <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
+      <br>Learning outcomes:
+      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage4.jpg">
+    </td>
+	      </tr>  
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
