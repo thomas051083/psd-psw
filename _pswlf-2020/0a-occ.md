@@ -109,14 +109,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
-			<br>
+      <br>
       <br>Learning Outcomes:
       <br>• Be aware of the challenges faced in the global drug landscape and 
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/drug1.jpg">
     </td>
 </tr>
@@ -127,14 +127,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How might you go about doing so? Join NPTD and MOM as they share their experiences in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues
      <br>• Explain how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage5.jpg">
     </td>
 </tr>
@@ -145,14 +145,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>•  Understand what OneMap is
       <br>• Recognise the various functionalities within OneMap
       <br>•  Identify features and application for users
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
@@ -163,13 +163,13 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session is a brief Introduction on Empathy, and how to connect to Emotion Design.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Learn the value of developing empathy in the public service
       <br>• Know about developing empathy through emotional design
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage8.jpg">
     </td>
 	      </tr>   
@@ -180,14 +180,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
       <br>•  Recognise the mindsets that smart regulators need.
       <br>•   Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/innovationtest3.png">
     </td>
 </tr>
@@ -198,14 +198,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
       <br>
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>•  Articulate what the National Digital Identity programme is about
       <br>•  Describe how the Govtech team develop the SingPass Mobile app into a multi-function “everyday” app                                                   
       <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/digital4.jpg">
     </td>
 </tr>
@@ -215,17 +215,17 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
-			<br>
+      <br>
       <br>Learning outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation as well) and how to navigate them 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage7.jpg">
     </td>
-	      </tr>  
+</tr>  
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
