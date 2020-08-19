@@ -15,7 +15,7 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 ∙ <a href="https://www.learn.gov.sg/dlp/student/course/143239">[For Officers] Our Core Competencies</a><br>
 ∙ <a href="https://www.learn.gov.sg/dlp/student/course/163954">[For Supervisors] Our Core Competencies</a><br></font><br>
 	    <font size="3"><i>*Supervisors are to complete both modules.</i></font>
-    </div
+	</div>
     <div class="col is-4"><div class="resp-container">
 	<iframe title="vimeo-player" src="https://player.vimeo.com/video/448413622" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 	    </div></div>
