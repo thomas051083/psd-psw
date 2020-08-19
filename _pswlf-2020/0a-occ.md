@@ -626,6 +626,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
     </td>
 </tr> 
 <tr>
+	<td>
 	    <b>LEARN modules</b>
      	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Improving and Innovating Continuously.
 		<br><br>
@@ -698,6 +699,22 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>
+    <td>
+      <b>Future-ready Service Transformation@MOE</b>
+      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
+      <br>       
+      <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
+      <br>Learning outcomes:
+      <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
+      <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/Serve2.jpg">
+    </td>
+</tr>
 <tr> 
     <td>	     
       <b>LEARN modules</b>
