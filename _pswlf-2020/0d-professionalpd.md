@@ -46,8 +46,8 @@ third_nav_title: All Workouts
 
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <font size="4">With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. 
-<br> Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. 
-<br> Learn about applications of trending areas such as:
+<br>Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. 
+<br>Learn about applications of trending areas such as:
 <br>• Computational thinking
 <br>• Use data analytics and data visualisation
 <br>• Robotic Process Automation (RPA)
@@ -62,13 +62,14 @@ third_nav_title: All Workouts
       <br>20 Oct 2020, 10.00am – 1.00pm| Platform: Zoom
       <br>       
        <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
-      <br>Learning outcomes:
-      <br>∙ Understand what Artificial Intelligence (AI) is and its capabilities.
-      <br>∙ Recognise examples of AI.
+      <br>
+      <br>Learning Outcomes:
+      <br>∙ Understand what Artificial Intelligence (AI) is and its capabilities
+      <br>∙ Recognise examples of AI
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/digital3.jpg">
     </td>
 </tr>
@@ -78,7 +79,8 @@ third_nav_title: All Workouts
       <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
       <br>       
       <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
-      <br>Learning outcomes:
+      <br>      
+      <br>Learning Outcomes:
       <br>• Understand Singapore's AI Data Appreciation Programme and the pre-requisites
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
@@ -92,8 +94,7 @@ third_nav_title: All Workouts
 
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
 
-<font size="4"><br> In today's rapidly changing environment and workplace, being resilient and agile is essential to thrive and adapt to greater demands and challenges. 
-<br> Learn practical pointers on:
+<font size="4"><br> In today's rapidly changing environment and workplace, being resilient and agile is essential to thrive and adapt to greater demands and challenges. Learn practical pointers on:
 <br>• Embracing and managing change at the workplace
 <br>• Developing a growth mindset to strengthen your own learn-ability
 <br>• Learning to work agilely and engage in constant innovation and learning<br><br></font>
@@ -106,13 +107,14 @@ third_nav_title: All Workouts
       <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
-      <br>Learning outcomes:
+      <br>      
+      <br>Learning Outcomes:
       <br>• Learn how to overcome fear and uncertainty of the future
       <br>• Understand how technological developments change the way we live and work; and the impact it has on you
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-    <td>
+<td>
      <img src="/images/change1.jpg">
     </td>
 </tr>
@@ -122,13 +124,14 @@ third_nav_title: All Workouts
       <br>20 or 23 Oct 2020 | Platform: Zoom
       <br>       
       <br>Understand about growth mindset and pick up tips to develop a growth mindset.
-      <br>Learning outcomes:
+      <br>      
+      <br>Learning Outcomes:
       <br>• Understand the differences between a growth mindset and a fixed mindset
       <br>• Pick up tips to develop a growth mindset
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/Innovate1.jpg">
     </td>
 </tr>
