@@ -53,6 +53,7 @@ third_nav_title: All Workouts
 	    <a href="#accounting"><img src="/images/science1.jpg"></a>
 		 <font size="4"><b><i>Science Tech & Engineering</i></b></font>
 		</figure>
+	</div>
     <div class="col is-2">
 	</div>
 </div>
