@@ -1,6 +1,6 @@
 ---
 title: Public Service Week Trial
-permalink: /_jobspecific-details/trial_psw
+permalink: /_pswlf-2020/trial_psw
 ---
 Testing page for PSW
 
