@@ -461,6 +461,7 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%">
+
 <tr>
     <td>
       <b>A Product Management Approach to Building a National Digital Platform</b>
