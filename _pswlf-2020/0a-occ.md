@@ -207,6 +207,23 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/digital7.jpg">
     </td>
 </tr>
+	<tr>		
+    <td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
+      <br>22 October 2020, 3.00pm - 5.0pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
+      <br>Learning outcomes:
+      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
+     <br>• Build WOG service delivery – beyond the no wrong-door approach
+     <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>  
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
