@@ -141,7 +141,7 @@ third_nav_title: All Workouts
       <br>15 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>∙ Re-discover your interests, strengths and skills
       <br>∙ Learn how to take stock of yourself and plan 5, 10 and 20 years ahead
       <br>∙ Find your motivation and reframe your mind
@@ -159,9 +159,9 @@ third_nav_title: All Workouts
       <br>       
      <br>       
       <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Understand why people of different generations behave differently
-      <br>•  Learn to identify strengths instead of weaknesses in people we work with
+      <br>• Learn to identify strengths instead of weaknesses in people we work with
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -186,7 +186,7 @@ third_nav_title: All Workouts
       <br>26 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Have a clearer vision on how to start your financial planning
       <br>• Take action to find out where you are now and how to meet your goals
       <br>• Plan for other sources of income to support your financial goals 
@@ -212,7 +212,7 @@ third_nav_title: All Workouts
       <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
       <br>       
       <br>Manage your Career Planning Better with Career Coaching
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>∙ How do I plan and grow my career? How do I make informed career decisions?
       <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
       <br>∙ If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
