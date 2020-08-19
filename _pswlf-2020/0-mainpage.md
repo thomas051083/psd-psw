@@ -28,7 +28,7 @@ Get quick tips and pointers for work and life no matter what career or life stag
 <b>Registration for these virtual offerings will begin on 1 September 2020. Check back this space for more information.</b>
 <br>
 
-(Note: To insert MOT's logo into the footer)
+
 <br>
 <br>
 <a href="https://www.csc.gov.sg/"><img src="/images/PSWLF_Microsite_Footer_CSC&AUPE.jpg"></a>
