@@ -6,6 +6,7 @@ third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>Professional and Personal Development</b></font>
 <p>
+<tr>
 <div class="row">
     <div class="col is-4">
 	     <figure style="margin:0;">
@@ -42,6 +43,7 @@ third_nav_title: All Workouts
 <br>• secure insurance to protect you and your family,
 <br>• Invest any spare income to yield higher returns
 <p>
+</tr>
     </div>
 </div>
 <div class="row">
