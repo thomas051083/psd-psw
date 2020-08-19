@@ -58,7 +58,7 @@ third_nav_title: All Workouts
 	</div>
 </div>
 #### <font color="darkorange"><b>Corporate Admin</b></font><a name="corpadmin"></a>
-<br> Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.
+Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.
 <table>
        <col width="70%"> 
             <col width="30%">
@@ -82,7 +82,7 @@ third_nav_title: All Workouts
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 	
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font> <a name="community"></a>
-<br> Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:
+<Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:
 <table>
        <col width="70%"> 
             <col width="30%">
@@ -124,23 +124,23 @@ third_nav_title: All Workouts
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Human Resource</b></font> <a name="hr"></a>
-<br> Regardless of your role in the HR value-chain, boost your fitness in foundational competencies applicable to all HR officers. Learn about trending topics in areas such as:
+Regardless of your role in the HR value-chain, boost your fitness in foundational competencies applicable to all HR officers. Learn about trending topics in areas such as:
 <br>• Managing Multi-generational Workplaces
 <br>• HR Analytics
 <br>• Use of Technology to Increase Productivity of HR Functions
 
 #### <font color="darkorange"><b>Service Delivery</b></font> <a name="service"></a>
-<br> These are exciting times to be involved in service planning and delivery work.
+These are exciting times to be involved in service planning and delivery work.
 <br>
 <br>Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the <b><i>Virtual Learning Series - Building A Future-Ready Service Community</i></b> happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from DBS, HDB and workshops by Ron Kaufman and Rohei).
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
-<br> You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.
+You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.
 
 #### <font color="darkorange"><b>Accounting and Finance</b></font> <a name="accounting"></a>
-<br> With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.
+With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.
 
 #### <font color="darkorange"><b>Science Tech & Engineering</b></font> <a name="science"></a>
-<br> The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.
+The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.
 
 
