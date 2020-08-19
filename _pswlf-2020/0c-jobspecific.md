@@ -57,13 +57,12 @@ Workouts are available for officers in the following job families. Each ‘exerc
 	</div>
 </div>
 #### <font color="darkorange"><b>Corporate Admin</b></font><a name="corpadmin"></a>
-<font size="4">Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.</font>
+<font size="4">Build on your existing strengths in areas such as co-ordination, monitoring and prioritising. Future-proof yourself by learning to harness technology effectively. Gain pointers from the offerings below to become an even greater asset to your team.<br></font>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 	
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font> <a name="community"></a>
-<font size="4">Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:</font>
-<br>
+<font size="4">Engaging and partnering citizens actively to co-create solutions will be the way forward for effective governance. Acquire useful pointers and tools to do so virtually in the Covid-19 new norm with the following sessions and resources:<br></font>
 <table>
        <col width="70%"> 
             <col width="30%">
@@ -138,13 +137,13 @@ Workouts are available for officers in the following job families. Each ‘exerc
 <font size="4">Regardless of your role in the HR value-chain, boost your fitness in foundational competencies applicable to all HR officers. Learn about trending topics in areas such as:
 <br>• Managing Multi-generational Workplaces
 <br>• HR Analytics
-<br>• Use of Technology to Increase Productivity of HR Functions</font>
+<br>• Use of Technology to Increase Productivity of HR Functions<br></font>
 
 #### <font color="darkorange"><b>Service Delivery</b></font> <a name="service"></a>
 <font size="4">These are exciting times to be involved in service planning and delivery work. Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the <b><i>Virtual Learning Series - Building A Future-Ready Service Community</i></b> happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from DBS, HDB and workshops by Ron Kaufman and Rohei).</font>
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
-<font size="4">You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.</font>
+<font size="4">You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.<br></font>
 <br>
 <table>
        <col width="70%"> 
@@ -169,9 +168,9 @@ Workouts are available for officers in the following job families. Each ‘exerc
 	</table>
 
 #### <font color="darkorange"><b>Accounting and Finance</b></font> <a name="accounting"></a>
-<font size="4">With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.</font>
+<font size="4">With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.<br></font>
 
 #### <font color="darkorange"><b>Science Tech & Engineering</b></font> <a name="science"></a>
-<font size="4">The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.</font>
+<font size="4">The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.<br></font>
 
 
