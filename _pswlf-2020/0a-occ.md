@@ -66,14 +66,14 @@ Sign up for a free LEARN account here. You will be given access to the full rang
       <br>       
       <br>This is an introduction to the method known as Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
       <br> 
-			<br>Learning Outcomes:
+      <br>Learning Outcomes:
       <br>• Recognise what PD is and is not
       <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
       <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
-	<td>
+<td>
      <img src="/images/engage7.jpg">
     </td>
 </tr>
