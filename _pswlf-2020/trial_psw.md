@@ -7,17 +7,16 @@ Testing page for PSW
 ![OCC Running Man](/images/occrunningman.png)
 
 ### Testing page 3 for PSW
+Job Specific
 <tr>
     <td>
-      <b>Virtualising Community Engagement</b>
-      <br>22 Oct 2020, 9.00am – 11.00pm | Platform: Zoom
+      <b>Public Engagement Network webinar</b>
+      <br>22 October 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
-      <br>Ever wondered how we can continue to engage our citizens in the COVID-19 world and beyond?  Or rather, how might we leverage technology and continue to engage our citizens in interesting ways using virtual tools like Zoom? In this 2-hour workshop, you will learn how to increase engagement through virtual platforms, including some good practices by the People’s Association on how  virtual tools are used for residents’ gathering.  Join us for some practical tips and some fun on virtual community engagement!
+      <br>In this PEN session, participants will gain deeper understanding of the Emerging Stronger Conversation (ESC) journey where in-service senior practitioners will share rich insights and anecdotes on the conceptualisation and strategies of ESC, the behind-the-scenes Whole of Government and Whole of Nation coordination and challenges.
       <br>Learning outcomes:
-      <br>∙ Execute the basic functions of Zoom as a host in citizen engagement
-      <br>∙ Learn tips to engage citizens through interactive virtual activities
-      <br>∙ Learn how PA tapped on Zoom for virtual community engagement
-	    <br>
+      <br>∙ This session aims to equip officers in the Partnership and Engagement Community with knowledge and skills in planning and executing engagements with citizens and stakeholders in a virtual platform.
+      <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
