@@ -190,6 +190,23 @@ Sign up for a free LEARN account here. You will be given access to the full rang
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>	
+    <td>
+      <b>Overview of GeoSpace</b>
+      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces GeoSpace, a Whole of Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>Learning outcomes:
+      <br>• Understand what GeoSpace is and its benefits
+      <br>• Understand how to share or consume geospatial data from GeoSpace
+      <br>• Recognize how GeoSpace helps agency users on their projects or operations
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital7.jpg">
+    </td>
+</tr>
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
