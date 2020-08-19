@@ -608,7 +608,24 @@ Sign up for a free LEARN account here. You will be given access to the full rang
      <img src="/images/innovationtest3.png">
     </td>
 </tr> 
-<td>	     
+<tr>		
+    <td>
+      <b>Streamlining: MAS (Future ready regulations for innovation and growth in payment services)</b>
+      <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
+      <br>Learning outcomes:
+      <br>•  Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators 
+      <br>• Identify ways to ensure regulatory rules are risk calibrated 
+      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/innovationtest3.png">
+    </td>
+</tr> 
+<tr>
 	    <b>LEARN modules</b>
      	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Improving and Innovating Continuously.
 		<br><br>
