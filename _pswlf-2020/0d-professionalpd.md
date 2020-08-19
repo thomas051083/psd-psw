@@ -53,7 +53,6 @@ third_nav_title: All Workouts
 <br>• Robotic Process Automation (RPA)
 <br>• Blockchain
 <br>• Online collaboration and productivity tools</font>
-<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -98,7 +97,6 @@ third_nav_title: All Workouts
 <br>• Embracing and managing change at the workplace
 <br>• Developing a growth mindset to strengthen your own learn-ability
 <br>• Learning to work agilely and engage in constant innovation and learning</font>
-<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -176,7 +174,6 @@ third_nav_title: All Workouts
 <br>• take charge of your savings and spending, 
 <br>• secure insurance to protect you and your family,
 <br>• Invest any spare income to yield higher returns</font>
-<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -229,7 +226,6 @@ third_nav_title: All Workouts
 
 #### <font color="darkorange"><b>Managing Life Transition</b></font><a name="life"></a>
 <font size="4"> <br>Learn practical pointers and tips to cope with potential anxieties about ageing and retirement. Take care of your mental and physical well-being to enjoy the golden years of your life. </font>
-<br>
 <table>
        <col width="70%"> 
             <col width="30%"> 
