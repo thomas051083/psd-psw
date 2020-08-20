@@ -121,24 +121,6 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
      <img src="/images/drug1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
-      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
-      <br>
-      <br>Learning Outcomes:
-      <br>•  Understand what OneMap is
-      <br>• Recognise the various functionalities within OneMap
-      <br>•  Identify features and application for users
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-</tr>
 <tr>	
     <td>
       <b>Is There Room for Emotional Design in Public Service?</b>
@@ -288,6 +270,24 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
     </td>    
 <td>
      <img src="/images/innovationtest3.png">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand what OneMap is
+      <br>• Recognise the various functionalities within OneMap
+      <br>•  Identify features and application for users
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Engage2.jpeg">
     </td>
 </tr>
 <tr>
