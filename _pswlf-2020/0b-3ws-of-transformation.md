@@ -6,7 +6,6 @@ third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>The 3 Ws of Transformation: Insights from Outside</b></font>
 Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.
-<tr>
 <br>
 <table>
        <col width="70%"> 
@@ -60,7 +59,6 @@ Be inspired by stories of transformation from the private sector! Featuring gues
     <td>
      <img src="/images/3Ws_Speaker3.jpg">
     </td>
-</tr>
 </table>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
