@@ -18,7 +18,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <br>       
       <br>(insert blurb)
       <br>
-      <br>Facilitator: (Name of Facilitator1),Facilitator1's Designation, Organisation
+      <br>Facilitator: (Name of Facilitator1), Facilitator1's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a> 
@@ -52,7 +52,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <br>       
       <br>(insert blurb)
       <br>      
-      <br>Facilitator: (Name of Facilitator3),Facilitator3's Designation, Organisation
+      <br>Facilitator: (Name of Facilitator3), Facilitator3's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
