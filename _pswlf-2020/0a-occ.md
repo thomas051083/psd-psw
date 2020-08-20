@@ -478,6 +478,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
      <img src="/images/digital4.jpg">
     </td>
 </tr>
+	
 <tr>
     <td>
       <b>Do You Get Stuck When You Are Trying to Come up Creative Ideas in Your Team?</b>
@@ -495,6 +496,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
      <img src="/images/innovate1.jpg">
     </td>
 </tr>
+
 <tr>
     <td>
       <b>Future-Ready Service Transformation@MOE</b>
@@ -512,8 +514,9 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
-<td>
-<b>How Do You Identify Different Stakeholders in Your Project?</b>
+<tr>
+    <td>
+      <b>How Do You Identify Different Stakeholders in Your Project?</b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
       <br>       
       <br>How to conduct stakeholder analysis in project scoping.
