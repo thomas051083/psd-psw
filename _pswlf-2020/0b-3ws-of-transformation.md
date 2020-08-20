@@ -5,4 +5,4 @@ breadcrumb: 'The 3 Ws of Transformation'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>The 3 Ws of Transformation</b></font>
-Over to MOT to build this page.  
+Coming soon.
