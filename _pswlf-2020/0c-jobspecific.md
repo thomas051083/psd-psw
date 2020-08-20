@@ -85,7 +85,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
 </tr>
 <tr>
     <td>
-      <b>Public Engagement Network webinar</b>
+      <b>Public Engagement Network Webinar</b>
       <br>22 Oct 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>In this PEN session, participants will gain deeper understanding of the Emerging Stronger Conversation (ESC) journey where in-service senior practitioners will share rich insights and anecdotes on the conceptualisation and strategies of ESC, the behind-the-scenes Whole of Government and Whole of Nation coordination and challenges.
@@ -152,7 +152,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
             <col width="30%">
 <tr>		
     <td>
-      <b>SSG's Multi stakeholder groups for EduTrust Certification Scheme</b>
+      <b>SSG's Multi Stakeholder Groups for EduTrust Certification Scheme</b>
       <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
