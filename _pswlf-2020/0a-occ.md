@@ -459,7 +459,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 <td>
      <img src="/images/digital4.jpg">
     </td>
-</tr
+	</tr>
 <tr>
     <td>
       <b>A Product Management Approach to Building a National Digital Platform</b>
