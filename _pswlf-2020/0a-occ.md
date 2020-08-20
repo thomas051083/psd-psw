@@ -42,6 +42,22 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>
+    <td>
+      <b>Building a Geospatial Ecosystem</b>
+      <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>Learning outcomes:
+      <br>∙ Understand what geospatial information is and its uses
+      <br>∙ Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. government, people and industry
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>Improving Data Quality – Statistical Best Practices From Planning, Collection to Dissemination</b>
