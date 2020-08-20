@@ -123,24 +123,6 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 </tr>
 <tr>
     <td>
-      <b>Involving Citizens in Policy-making – Insights From the Citizens’ Panel on Work-Life Harmony</b>
-      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How might you go about doing so? Join NPTD and MOM as they share their experiences in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will provide you with insights into organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues
-     <br>• Explain how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider all possible trade-offs and exercise rigour in their deliberations
-     <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and the ways to overcome the challenges
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage5.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
       <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
       <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
