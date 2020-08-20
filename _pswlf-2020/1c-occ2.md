@@ -1,6 +1,6 @@
 ---
 title: OCC 2. Serving with Heart, Commitment and Purpose
-permalink: /pswlf-2020/occ/1c-serving/
+permalink: /pswlf-2020/occ/1c-occ2
 breadcrumb: 'OCC 2. Serving with Heart, Commitment and Purpose'
 third_nav_title: Our Core Competencies
 ---
