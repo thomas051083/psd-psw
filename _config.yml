@@ -19,6 +19,8 @@ collections:
         output: true
     jobspecific-details:
         output: true
+    occ:
+        output: true
     pstac-2020:
         output: true
     psc-2020:
