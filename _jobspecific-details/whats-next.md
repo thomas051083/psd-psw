@@ -1,10 +1,7 @@
 ---
 title: What's Next
-permalink: /_jobspecific-details/whats-next
-
-
-_jobspecific-details/accounting.md
-
+permalink: /_jobspecific-details/whats-next/
+breadcrumb: 'What's Next'
 ---
 
 
