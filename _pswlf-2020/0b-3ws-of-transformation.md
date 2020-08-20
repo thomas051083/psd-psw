@@ -23,7 +23,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <a href="http://www.registrationlink">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Speaker1.jpg">
+     <img src="/images/3Ws_Speaker1.jpg">
     </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <a href="http://www.registrationlink">Click here to register.</a>   
     </td>
     <td>
-     <img src="/images/Speaker2.jpg">
+     <img src="/images/3Ws_Speaker2.jpg">
     </td>
 </tr>
 <tr>
@@ -57,6 +57,6 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <a href="http://www.registrationlink">Click here to register.</a>   
     </td>
     <td>
-     <img src="/images/Speaker3.jpg">
+     <img src="/images/3Ws_Speaker3.jpg">
     </td>
 </tr>
