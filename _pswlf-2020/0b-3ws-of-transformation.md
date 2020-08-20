@@ -5,7 +5,7 @@ breadcrumb: 'The 3 Ws of Transformation'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>The 3 Ws of Transformation</b></font>
-<font size="4">What are we transforming?
+<font size="4"><b>What are we transforming?</b><br>
 <br><b>• Work:</b>
 Transform how we work, to be even more effective in serving Singaporeans, and in Building our Future Singapore.
 <br><b>• Workforce:</b>
