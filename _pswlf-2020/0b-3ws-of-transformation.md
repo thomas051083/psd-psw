@@ -59,6 +59,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
     <td>
      <img src="/images/3Ws_Speaker3.jpg">
     </td>
+</tr>
 </table>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
