@@ -7,17 +7,18 @@ third_nav_title: All Workouts
 ### <font color="orangered"><b>The 3 Ws of Transformation: Insights from Outside</b></font>
 Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.
 <tr>
+<tr>
 <table>
        <col width="70%"> 
             <col width="30%"> 
     <td>
       <b>Future of Work</b>
-      <br><b>feat. Tan Ming Liang</b>     Co-founder and CEO, Razer Inc | CEO, THX
+      <br><b>feat. Speaker1</b>     Speaker1's Designation, Organisation</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>
-      <br>Facilitator: Aaron Maniam, DS (Industry & Info), MCI
+      <br>Facilitator: Facilitator1's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a> 
@@ -29,12 +30,12 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workforce</b>
-      <br><b>feat. Joel Fastenberg</b>     MD, Head of HR (Singapore and ASEAN), Citibank</b>
+      <br><b>feat. Speaker2</b>     Speaker2's Designation, Organisation</b>
       <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>      
-      <br>Facilitator: Low Peck Kern, Government CHRO | Snr Dir (Workforce Dev), PSD | President, SHRI
+      <br>Facilitator: Facilitator2's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
@@ -46,12 +47,12 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workplace </b>
-      <br><b>feat. Kevin Kok</b>   COO, Doctor Anywhere</b>
+      <br><b>feat. Speaker3</b>   Speaker3's Designation, Organisation</b>
       <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>      
-      <br>Facilitator: Tay Choon Hong, Snr Dir (Youth), MCCY | Dy CE, NYC
+      <br>Facilitator: Facilitator3's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
