@@ -103,7 +103,7 @@ third_nav_title: Our Core Competencies
       <br>       
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
       <br>
