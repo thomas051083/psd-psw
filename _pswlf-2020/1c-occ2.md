@@ -5,7 +5,7 @@ breadcrumb: 'OCC 2. Serving with Heart, Commitment and Purpose'
 third_nav_title: Our Core Competencies
 ---
 
-#### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font><a name="serving"></a>
+#### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font>
 <table>
        <col width="70%"> 
             <col width="30%"> 
