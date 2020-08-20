@@ -158,24 +158,6 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 	      </tr>   
 <tr>
     <td>
-      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
-      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
-      <br>       
-      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
-      <br>
-      <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
-      <br>•  Recognise the mindsets that smart regulators need
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovationtest3.png">
-    </td>
-</tr>
-<tr>
-    <td>
       <b>A Product Management Approach to Building a National Digital Platform</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
@@ -306,6 +288,24 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
     </td>    
 <td>
      <img src="/images/drug1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
+      <br>•  Recognise the mindsets that smart regulators need
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovationtest3.png">
     </td>
 </tr>
 <tr>
@@ -620,6 +620,24 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
      <img src="/images/innovationtest3.png">
     </td>
 </tr> 
+<tr>
+    <td>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
+      <br>•  Recognise the mindsets that smart regulators need
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovationtest3.png">
+    </td>
+</tr>
 <tr>		
     <td>
       <b>Streamlining: MAS (Future ready regulations for innovation and growth in payment services)</b>
