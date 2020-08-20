@@ -11,7 +11,6 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
     <td>
       <b>Future of Work</b>
       <br><b>feat. (Name of Speaker1)</b>     Speaker1's Designation, Organisation</b>
@@ -61,6 +60,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
     <td>
      <img src="/images/3Ws_Speaker3.jpg">
     </td>
+</tr>
 </table>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
