@@ -12,16 +12,16 @@ Work out your “learning muscles” by selecting from a lineup of virtual learn
 ### <font color="orangered"><b>JOIN A LEARNING WORKOUT</b></font>
 Explore the learning sessions (also known as “Workouts”) by selecting any of the four categories below.
 
-+ <a href="/pswlf-2020/all-workouts/4b-3ws-of-transformation/"><b>View by the 3Ws of Transformation:</b></a>
++ <a href="/pswlf-2020/2-3ws-of-transformation/"><b>View by the 3Ws of Transformation:</b></a>
 Featuring guest speakers who are practice leaders in their respective fields, the ‘Insights from Outside’ sessions are windows to inspiring transformation journeys from the private sector. The three live sessions would also include candid discussions facilitated by senior public service leaders, to provide provocations on what success to them would look like for the public service transformation journey.
 
 + <a href="/pswlf-2020/occ/1a-what-is-occ/"><b>View by OCC in Action:</b></a>
 These virtual sessions and modules are curated for all public officers. You will hear from agencies on how they have demonstrated Our Core Competencies (OCC) and/or you can choose a LEARN module to develop your core competencies. 
  
-+ <a href="/pswlf-2020/jobspecific/"><b>View by Job Specific Skills:</b></a>
++ <a href="/pswlf-2020/3-jobspecific/"><b>View by Job Specific Skills:</b></a>
 Workout sessions are curated by job families. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions.
 
-+ <a href="/pswlf-2020/ /"><b>View by Professional & Personal Development:</b></a>
++ <a href="/pswlf-2020/4-ppdevelopment/"><b>View by Professional & Personal Development:</b></a>
 Get quick tips and pointers for work and life no matter what career or life stage you are at, including digital and financial literacy and career management. 
 
 <br>
