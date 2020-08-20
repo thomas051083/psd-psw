@@ -1,6 +1,6 @@
 ---
 title: OCC 6. Keep Learning and Putting Skills into Action
-permalink: /pswlf-2020/occ/1f-occ5/
+permalink: /pswlf-2020/occ/1g-occ6/
 breadcrumb: 'OCC 6. Keep Learning and Putting Skills into Action'
 third_nav_title: Our Core Competencies
 ---
