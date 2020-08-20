@@ -14,7 +14,7 @@ Transform <i>our individual and collective effectiveness as public officers,</i>
 <br>
 <br><b>• Workplace:</b>
 Transform our <i>physical workplace,</i> making <i>workplace processes and practices more efficient, flexible and productive,</i> and doing away with unnecessary work. We want our workplaces to be productive but also joyful.<br></font>
-
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Insights from Outside</b></font>
