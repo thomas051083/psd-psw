@@ -320,7 +320,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/digital4.jpg">
+     <img src="/images/digital8.jpg">
     </td>
 </tr>
 <tr>	
