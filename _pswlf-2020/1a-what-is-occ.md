@@ -25,14 +25,16 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 	
 ##### <font color="orange"><b>Don't have a LEARN account?</b></font>
 Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
-
+8
 ### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
-1. <a href="#thinking">Thinking Clearly and Making Sound Judgements</a><br>
-2. <a href="#serving">Serving with Heart, Commitment and Purpose</a><br>
-3. <a href="#workingone">Working As One Public Service</a><br>
-4. <a href="#workingeffectively">Working Effectively with Citizens and Stakeholders</a><br>
-5. <a href="#improving">Improving and Innovating Continuously</a><br>
-6. <a href="#keep">Keep Learning and Putting Skills into Action</a><br>
-7. <a href="#stewarding">Stewarding Systems for Today and Tomorrow (For Supervisors)</a><br>
-8. <a href="#caring">Caring for, Developing and Inspiring Staff (For Supervisors)</a><br>
+
+<a href="/events/learning-journeys/event-details/LA_DWP">
+1. <a href="/pswlf-2020/occ/1b-occ1">Thinking Clearly and Making Sound Judgements</a><br>
+2. <a href="/pswlf-2020/occ/1c-occ2">Serving with Heart, Commitment and Purpose</a><br>
+3. <a href="/pswlf-2020/occ/1d-occ3">Working As One Public Service</a><br>
+4. <a href="/pswlf-2020/occ/1e-occ4">Working Effectively with Citizens and Stakeholders</a><br>
+5. <a href="/pswlf-2020/occ/1f-occ5">Improving and Innovating Continuously</a><br>
+6. <a href="/pswlf-2020/occ/1g-occ6">Keep Learning and Putting Skills into Action</a><br>
+7. <a href="/pswlf-2020/occ/1h-occ7">Stewarding Systems for Today and Tomorrow (For Supervisors)</a><br>
+8. <a href="/pswlf-2020/occ/1i-occ8">Caring for, Developing and Inspiring Staff (For Supervisors)</a><br>
 
