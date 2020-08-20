@@ -7,6 +7,9 @@ third_nav_title: All Workouts
 ### <font color="orangered"><b>The 3 Ws of Transformation: Insights from Outside</b></font>
 Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.
 <tr>
+<table>
+       <col width="70%"> 
+            <col width="30%"> 
     <td>
       <b>Future of Work</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
