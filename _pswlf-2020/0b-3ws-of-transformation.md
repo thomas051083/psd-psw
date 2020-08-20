@@ -30,7 +30,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
     <td>
       <b>Future Workforce</b>
       <br><b>feat. Joel Fastenberg</b>     MD, Head of HR (Singapore and ASEAN), Citibank</b>
-      <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
+      <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>      
@@ -47,7 +47,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
     <td>
       <b>Future Workplace </b>
       <br><b>feat. Kevin Kok</b>   COO, Doctor Anywhere</b>
-      <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
+      <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>      
