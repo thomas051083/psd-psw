@@ -17,7 +17,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <br>       
       <br>(insert blurb)
       <br>
-      <br>Facilitator: Aaron Maniam,DS (Industry & Info), MCI
+      <br>Facilitator: Aaron Maniam, DS (Industry & Info), MCI
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a> 
