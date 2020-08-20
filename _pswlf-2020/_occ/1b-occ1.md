@@ -1,8 +1,8 @@
 ---
-title: What is OCC?
-permalink: /pswlf-2020/occ/1a-what-is-occ
-breadcrumb: 'What is OCC'
-third_nav_title: All Workouts
+title: Thinking Clearly and Making Sound Judgements
+permalink: /pswlf-2020/occ/1b-occ1
+breadcrumb: 'OCC 1'
+third_nav_title: Our Core Competencies
 ---
 ### <font color="orangered"><b>Our Core Competencies in Action</b></font>
 Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Develop your core competencies by selecting from the list of LEARN modules. 
