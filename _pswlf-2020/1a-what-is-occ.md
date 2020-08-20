@@ -1,6 +1,6 @@
 ---
 title: What is OCC?
-permalink: /pswlf-2020/all-workouts/occ/
+permalink: /pswlf-2020/occ/1a-what-is-occ/
 breadcrumb: 'What is OCC?'
 third_nav_title: Our Core Competencies in Action
 ---
