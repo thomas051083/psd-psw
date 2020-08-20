@@ -11,7 +11,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
        <col width="70%"> 
             <col width="30%"> 
     <td>
-      <b>Future of Work
+      <b>Future of Work</b>
       <br><b>feat. Tan Ming Liang</b>     Co-founder and CEO, Razer Inc | CEO, THX
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
@@ -29,7 +29,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workforce</b>
-      <br><b>feat. Joel Fastenberg</b>   MD, Head of HR (Singapore and ASEAN), Citibank</b>
+      <br><b>feat. Joel Fastenberg</b>     MD, Head of HR (Singapore and ASEAN), Citibank</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
