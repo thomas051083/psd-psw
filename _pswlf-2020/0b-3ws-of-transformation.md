@@ -13,12 +13,12 @@ Be inspired by stories of transformation from the private sector! Featuring gues
             <col width="30%"> 
     <td>
       <b>Future of Work</b>
-      <br><b>feat. Speaker1</b>     Speaker1's Designation, Organisation</b>
+      <br><b>feat. (Name of Speaker1)</b>     Speaker1's Designation, Organisation</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>
-      <br>Facilitator: Facilitator1's Designation, Organisation
+      <br>Facilitator: (Name of Facilitator1),Facilitator1's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a> 
@@ -30,12 +30,12 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workforce</b>
-      <br><b>feat. Speaker2</b>     Speaker2's Designation, Organisation</b>
+      <br><b>feat. (Name of Speaker2)</b>     Speaker2's Designation, Organisation</b>
       <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>      
-      <br>Facilitator: Facilitator2's Designation, Organisation
+      <br>Facilitator: (Name of Facilitator2), Facilitator2's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
@@ -47,12 +47,12 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workplace </b>
-      <br><b>feat. Speaker3</b>   Speaker3's Designation, Organisation</b>
+      <br><b>feat. (Name of Speaker3)</b>   Speaker3's Designation, Organisation</b>
       <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
       <br>      
-      <br>Facilitator: Facilitator3's Designation, Organisation
+      <br>Facilitator: (Name of Facilitator3),Facilitator3's Designation, Organisation
       <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
