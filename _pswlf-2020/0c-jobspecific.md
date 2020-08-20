@@ -89,6 +89,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
       <br>22 Oct 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>In this PEN session, participants will gain deeper understanding of the Emerging Stronger Conversation (ESC) journey where in-service senior practitioners will share rich insights and anecdotes on the conceptualisation and strategies of ESC, the behind-the-scenes Whole of Government and Whole of Nation coordination and challenges.
+      <br>      
       <br>Learning outcomes:
       <br>• Understand what Emerging Stronger Conversation (ESC) is about
       <br>• Understand how to plan and execute engagements with stakeholders and citizens virtually
@@ -105,6 +106,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
       <br>22 Oct 2020, 9.00am – 11.00pm | Platform: Zoom
       <br>       
       <br>Ever wondered how we can continue to engage our citizens in the COVID-19 world and beyond?  Or rather, how might we leverage technology and continue to engage our citizens in interesting ways using virtual tools like Zoom? In this 2-hour workshop, you will learn how to increase engagement through virtual platforms, including some good practices by the People’s Association on how  virtual tools are used for residents’ gathering.  Join us for some practical tips and some fun on virtual community engagement!
+      <br>      
       <br>Learning Outcomes:
       <br>∙ Execute the basic functions of Zoom as a host in citizen engagement
       <br>∙ Learn tips to engage citizens through interactive virtual activities
@@ -122,6 +124,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
       <br>15 Oct 2020 (9.00am - 11.30am); 28 Oct 2020 (9.00am - 11.30am) | Platform: Zoom
       <br>       
       <br>In this interactive session, participants will get to explore and learn how to use and apply digital tools such as Zoom, Padlet and Google Slides in their engagements with citizens and stakeholders.
+      <br>      
       <br>Learning outcomes:
       <br>• Learn and apply digital tools in their engagements with citizens and stakeholders.
       <br>
