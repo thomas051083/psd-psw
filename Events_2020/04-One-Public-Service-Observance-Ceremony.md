@@ -11,9 +11,10 @@ permalink: /opsoc-2020
 The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. This year, PSOC will be a fully virtual, service-wide ceremony with activities streamed to all officers.
 <br>
 <br>
-Date and Time: 16 October 2020, 10am - 11am<br>
-Online Platform: Workplace and Zoom<br>
-<i>Link will be shared nearer to the date</i><br>
+**Time and Date:** 16 October 2020, 10am - 11am<br>
+**Virtual Platform:** Workplace by Facebook and Zoom Webinar <br>
+**Registration Link** will be shared nearer to the date of event<br>
+
 <br>
 <b>What you can look forward to:</b><br>
 <table>
