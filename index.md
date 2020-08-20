@@ -12,13 +12,13 @@ sections:
       url: /what-is-psw/
       key_highlights:
         - title: 'Public Service Conference'
-          url: /events/psc-2020
+          url: /psc-2020
         - title: 'One Public Service Observance Ceremony'
-          url: /events/opsoc-2020/
+          url: /opsoc-2020/
         - title: 'Public Sector Transformation Awards Celebration'
-          url: /events/pstac-2020/
+          url: /pstac-2020/
         - title: 'Learning Festival'
-          url: /_pswlf-2020/
+          url: /pswlf-2020/0-mainpage
 ---
 
 
