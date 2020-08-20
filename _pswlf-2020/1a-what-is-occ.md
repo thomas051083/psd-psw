@@ -28,7 +28,6 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 8
 ### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
 
-<a href="/events/learning-journeys/event-details/LA_DWP">
 1. <a href="/pswlf-2020/occ/1b-occ1">Thinking Clearly and Making Sound Judgements</a><br>
 2. <a href="/pswlf-2020/occ/1c-occ2">Serving with Heart, Commitment and Purpose</a><br>
 3. <a href="/pswlf-2020/occ/1d-occ3">Working As One Public Service</a><br>
