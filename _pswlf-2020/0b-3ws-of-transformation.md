@@ -4,6 +4,8 @@ permalink: /pswlf-2020/all-workouts/4b-3ws-of-transformation/
 breadcrumb: 'The 3 Ws of Transformation'
 third_nav_title: All Workouts
 ---
+### <font color="orangered"><b>The 3 Ws of Transformation</b></font>
+<font size="4">(insert write-up on 3 Ws<br><br></font>
 ### <font color="orangered"><b>The 3 Ws of Transformation: Insights from Outside</b></font>
 <font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.<br><br></font>
 <table>
