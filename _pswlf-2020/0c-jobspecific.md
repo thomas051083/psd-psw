@@ -125,7 +125,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
       <br>       
       <br>In this interactive session, participants will get to explore and learn how to use and apply digital tools such as Zoom, Padlet and Google Slides in their engagements with citizens and stakeholders.
       <br>      
-      <br>Learning outcomes:
+      <br>Learning Outcomes:
       <br>• Learn and apply digital tools in their engagements with citizens and stakeholders.
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
