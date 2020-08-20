@@ -5,12 +5,12 @@ breadcrumb: 'FAQ'
 
 ---
 
-## <font color="orangered"> Frequently Asked Questions
+## <font color="orangered"> Frequently Asked Questions</font>
 1.[General](#general)<br>
 2.[LEARN Accounts](#learn)<br>
 3.[Registration](#registration)<br>
 
-#### **<ins>General</ins>** <a name="general"></a>
+#### <font color="darkorange">**<ins>General</ins>**</font> <a name="general"></a>
  
 <b>1. Where will PSW Learning Festival be held?</b>
 <br>PSW Learning Festival will be going fully virtual this year!
@@ -21,12 +21,12 @@ breadcrumb: 'FAQ'
 <b>3. Do I have to be a public officer to attend the Learning Session?</b>
 <br>Yes. The Learning Sessions are only open to public officers, and you are required to register using your work email address. 
 
-#### **<ins>LEARN Accounts</ins>** <a name="learn"></a>
+#### <font color="darkorange">**<ins>LEARN Accounts</ins>**</font> <a name="learn"></a>
 
 <b>4. My agency does not have a LEARN account. How can I sign up for an account and is it free?</b> 
 <br>For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register here if you would like to receive a free LEARN account <a href="https://form.gov.sg/5f33480010b0550011da45ff">https://form.gov.sg/5f33480010b0550011da45ff</a>. We will email you with more information upon confirmation. 
 
-#### **<ins>Registration</ins>** <a name="registration"></a>
+#### <font color="darkorange">**<ins>Registration</ins>**</font> <a name="registration"></a>
 <b>5. How do I register for a Learning Session?</b>
 <br>Registration is via Eventbrite, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the registration link. You are required to register using your work email, so that we can verify that you are a public officer.
 
