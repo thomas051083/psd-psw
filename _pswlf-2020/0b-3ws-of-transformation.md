@@ -14,7 +14,7 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <b>Future of Work</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
-      <b>Speaker: Tan Ming Liang
+      <br>Speaker: Tan Ming Liang
       <br>Co-Founder and CEO, Razer Inc | CEO, THX
       <br>
       <br>Facilitator: Aaron Maniam
