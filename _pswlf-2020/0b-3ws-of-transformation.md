@@ -5,10 +5,11 @@ breadcrumb: 'The 3 Ws of Transformation'
 third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>The 3 Ws of Transformation</b></font>
-<font size="4">What are we transforming?<br><br></font>
-+ <b>Work</b></a>
-+ <b>Workforce</b></a>
-+ <b>Workplace</b></a>
+<font size="4">What are we transforming?<br></font>
++ <b>Work:</b></a>
+Transform how we work, to be even more effective in serving Singaporeans, and in Building our Future Singapore.
++ <b>Workforce:</b></a>
++ <b>Workplace:</b></a>
 
 #### <font color="darkorange"><b>Insights from Outside</b></font>
 <font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.<br><br></font>
