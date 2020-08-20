@@ -17,8 +17,8 @@ Be inspired by stories of transformation from the private sector! Featuring gues
       <br>       
       <br>(insert blurb)
       <br>
-      <br>Facilitator: Aaron Maniam
-      <br>DS (Industry & Info), MCI
+      <br>Facilitator: Aaron Maniam,DS (Industry & Info), MCI
+      <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a> 
     </td>    
@@ -29,13 +29,13 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workforce</b>
+      <br><b>feat. Joel Fastenberg</b>   MD, Head of HR (Singapore and ASEAN), Citibank</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
-      <br>Speaker: Joel Fastenberg
-      <br>MD, Head of HR (Singapore and ASEAN), Citibank
+      <br>(insert blurb)
       <br>      
-      <br>Facilitator: Low Peck Kern
-      <br>Government CHRO | Snr Dir (Workforce Dev), PSD | President, SHRI
+      <br>Facilitator: Low Peck Kern, Government CHRO | Snr Dir (Workforce Dev), PSD | President, SHRI
+      <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
     </td>
@@ -46,13 +46,13 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <tr>
     <td>
       <b>Future Workplace </b>
+      <br><b>feat. Kevin Kok</b>   COO, Doctor Anywhere</b>
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
-      <br>Speaker: Kevin Kok
-      <br>COO, Doctor Anywhere
+      <br>(insert blurb)
       <br>      
-      <br>Facilitator: Tay Choon Hong
-      <br>Snr Dir (Youth), MCCY | Dy CE, NYC
+      <br>Facilitator: Tay Choon Hong, Snr Dir (Youth), MCCY | Dy CE, NYC
+      <br>
       <br>
       <a href="http://www.registrationlink">Click here to register.</a>   
     </td>
