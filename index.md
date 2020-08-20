@@ -18,7 +18,7 @@ sections:
         - title: 'Public Sector Transformation Awards Celebration'
           url: /events/pstac-2020/
         - title: 'Learning Festival'
-          url: /events/pswlf-2020
+          url: /_pswlf-2020/
 ---
 
 
