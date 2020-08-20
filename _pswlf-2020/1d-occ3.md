@@ -1,10 +1,10 @@
 ---
 title: OCC 3. Working As One Public Service
-permalink: /pswlf-2020/occ/1d-occ3.md
+permalink: /pswlf-2020/occ/1d-occ3/
 breadcrumb: 'OCC 3. Working As One Public Service'
 third_nav_title: Our Core Competencies
 ---
-#### <font color="darkorange"><b>3. Working As One Public Service</b></font><a name="workingone"></a>
+#### <font color="darkorange"><b>3. Working As One Public Service</b></font>
 <table>
        <col width="70%"> 
             <col width="30%"> 
