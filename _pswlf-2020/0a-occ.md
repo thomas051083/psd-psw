@@ -547,6 +547,24 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
      <img src="/images/digital7.jpg">
     </td>
 </tr>
+<tr>		
+    <td>
+      <b>Transforming How IRAS & ACRA Serve Businesses</b>
+      <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>       
+      <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
+      <br>
+      <br>Learning Outcomes:
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage10.jpg">
+    </td>
+</tr> 
 <tr>	
     <td>
       <b>Improving Data Quality – Statistical Best Practices From Planning, Collection to Dissemination</b>
