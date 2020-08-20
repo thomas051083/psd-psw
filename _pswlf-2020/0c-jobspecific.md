@@ -120,7 +120,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
 </tr>
 <tr>
     <td>
-      <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides (CRDCE10)</b>
+      <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides</b>
       <br>15 Oct 2020 (9.00am - 11.30am); 28 Oct 2020 (9.00am - 11.30am) | Platform: Zoom
       <br>       
       <br>In this interactive session, participants will get to explore and learn how to use and apply digital tools such as Zoom, Padlet and Google Slides in their engagements with citizens and stakeholders.
