@@ -9,7 +9,8 @@ Be inspired by stories of transformation from the private sector! Featuring gues
 <br>
 <table>
        <col width="70%"> 
-            <col width="30%"> 
+            <col width="30%">
+<tr>
     <td>
       <b>Future of Work</b>
       <br><b>feat. (Name of Speaker1)</b>     Speaker1's Designation, Organisation</b>
