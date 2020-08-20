@@ -251,13 +251,45 @@ third_nav_title: All Workouts
 </tr>
 <tr>
     <td>
+      <b>Mindfulness – The Key to Self-Awareness</b>
+      <br>23 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>The easiest way to understand mindfulness is to experientially focus all of your attention on your thoughts, feelings, and actions as they occur in order to see them more clearly, without making so many assumptions.  
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain the benefits of mindfulness and conduct simple exercises to boost the areas of the brain to cultivate focus
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Your Physical Well-being </b>
+      <br>28 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>	
+<tr>
+    <td>
       <b>Retirement and Re-employment Preparedness Programme</b>
       <br>13 Oct 2020, 10.00am – 11.00am | Platform: Zoom
       <br>       
       <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
       <br>      
       <br>Learning Outcomes:
-      <br>• You will be able to decribe the concept of re-employment and the re-employment policies in Public Service. You will also be able to use this knowledge to make informed decisions on re-employment and working beyond 62 when the time comes.
+      <br>• Describe the concept of re-employment and the re-employment policies in Public Service. You will also be able to use this knowledge to make informed decisions on re-employment and working beyond 62 when the time comes.
             <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
