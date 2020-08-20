@@ -443,7 +443,23 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 <table>
        <col width="70%"> 
             <col width="30%">
-
+<tr>
+    <td>
+      <b>Designing Spaces with Virtual Reality</b>
+      <br>15 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>       
+      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
+      <br>
+      <br>Learning Outcomes:
+      <br>∙ Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
+      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders
+      <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital4.jpg">
+    </td>
+</tr
 <tr>
     <td>
       <b>A Product Management Approach to Building a National Digital Platform</b>
