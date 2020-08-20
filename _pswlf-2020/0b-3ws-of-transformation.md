@@ -9,7 +9,9 @@ third_nav_title: All Workouts
 + <b>Work:</b></a>
 Transform how we work, to be even more effective in serving Singaporeans, and in Building our Future Singapore.
 + <b>Workforce:</b></a>
+Transform our individual and collective effectiveness as public officers, through better growth and development, skills upgrading including in digital, and organising ourselves to do our work better.
 + <b>Workplace:</b></a>
+Transform our physical workplace, making workplace processes and practices more efficient, flexible and productive, and doing away with unnecessary work. We want our workplaces to be productive but also joyful.
 
 #### <font color="darkorange"><b>Insights from Outside</b></font>
 <font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.<br><br></font>
