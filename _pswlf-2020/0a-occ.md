@@ -269,7 +269,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/innovationtest3.png">
+     <img src="/images/Innovate1.jpg">
     </td>
 </tr>
 <tr>
@@ -687,7 +687,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/innovationtest3.png">
+     <img src="/images/Innovate1.jpg">
     </td>
 </tr>
 <tr>		
@@ -705,7 +705,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/innovationtest3.png">
+     <img src="/images/pay1.jpg">
     </td>
 </tr> 
 <tr>
