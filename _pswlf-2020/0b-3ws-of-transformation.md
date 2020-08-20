@@ -8,8 +8,8 @@ third_nav_title: All Workouts
 Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.
 <tr>
 <table>
-       <col width="80%"> 
-            <col width="20%"> 
+       <col width="70%"> 
+            <col width="30%"> 
     <td>
       <b>Future of Work</b>
       <br><b>feat. Tan Ming Liang</b>     Co-founder and CEO, Razer Inc | CEO, THX
