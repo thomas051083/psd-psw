@@ -8,9 +8,11 @@ third_nav_title: All Workouts
 <font size="4"><b>What are we transforming?</b><br>
 <br><b>• Work:</b>
 Transform <i>how we work,</i> to be even more effective in serving Singaporeans, and in Building our Future Singapore.
-<br><br><b>• Workforce:</b>
+<br>
+<br><b>• Workforce:</b>
 Transform <i>our individual and collective effectiveness as public officers,</i> through better growth and development, skills upgrading including in digital, and organising ourselves to do our work better.
-<br><br><b>• Workplace:</b>
+<br>
+<br><b>• Workplace:</b>
 Transform our <i>physical workplace,</i> making <i>workplace processes and practices more efficient, flexible and productive,</i> and doing away with unnecessary work. We want our workplaces to be productive but also joyful.<br></font>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -23,7 +25,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future of Work</b>
-      <br><b>feat. (Name of Speaker1)</b>     Speaker1's Designation, Organisation</b>
+      <br><b>feat. (Name of Speaker1)</b>     Speaker1's Designation, Organisation
       <br>XX Nov 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
@@ -40,7 +42,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future Workforce</b>
-      <br><b>feat. (Name of Speaker2)</b>     Speaker2's Designation, Organisation</b>
+      <br><b>feat. (Name of Speaker2)</b>     Speaker2's Designation, Organisation
       <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
@@ -57,7 +59,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future Workplace </b>
-      <br><b>feat. (Name of Speaker3)</b>   Speaker3's Designation, Organisation</b>
+      <br><b>feat. (Name of Speaker3)</b>   Speaker3's Designation, Organisation
       <br>XX Oct 2020, XX.00pm – XX.00pm| Platform: Zoom
       <br>       
       <br>(insert blurb)
