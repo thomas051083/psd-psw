@@ -249,5 +249,21 @@ third_nav_title: All Workouts
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>Retirement and Re-employment Preparedness Programme</b>
+      <br>13 Oct 2020, 10.00am – 11.00am | Platform: Zoom
+      <br>       
+      <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• You will be able to decribe the concept of re-employment and the re-employment policies in Public Service. You will also be able to use this knowledge to make informed decisions on re-employment and working beyond 62 when the time comes.
+            <br>
+      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
