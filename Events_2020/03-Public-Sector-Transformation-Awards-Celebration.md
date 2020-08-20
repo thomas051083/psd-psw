@@ -14,9 +14,8 @@ The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle 
 
 ### Let's show our support for the PST Awards winners!<br>
 **Time and Date:** 21 October 2020, 3.30pm - 4.30pm<br>
-**Online Platform:** YouTube<br>
-**Registration Link:** (placeholder)<br>
-*The Awards Celebration is open to all officers. The YouTube link will be sent upon confirmation of your registration.*<br>
+**Virtual Platform:** Workplace by Facebook and Zoom Webinar <br>
+**Registration Link** will be shared nearer to the date of event<br>
 <br>
 
 80 winners from the following Award categories will be recognised at this PST Awards Celebration:<br>
