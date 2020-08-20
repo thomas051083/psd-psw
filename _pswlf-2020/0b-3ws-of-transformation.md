@@ -6,11 +6,11 @@ third_nav_title: All Workouts
 ---
 ### <font color="orangered"><b>The 3 Ws of Transformation</b></font>
 <font size="4">What are we transforming?<br></font>
-+ <b>Work:</b></a>
++ <b>Work:</b>
 Transform how we work, to be even more effective in serving Singaporeans, and in Building our Future Singapore.
-+ <b>Workforce:</b></a>
++ <b>Workforce:</b>
 Transform our individual and collective effectiveness as public officers, through better growth and development, skills upgrading including in digital, and organising ourselves to do our work better.
-+ <b>Workplace:</b></a>
++ <b>Workplace:</b>
 Transform our physical workplace, making workplace processes and practices more efficient, flexible and productive, and doing away with unnecessary work. We want our workplaces to be productive but also joyful.<br></font>
 
 #### <font color="darkorange"><b>Insights from Outside</b></font>
