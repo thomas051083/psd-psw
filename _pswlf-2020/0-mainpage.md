@@ -23,9 +23,10 @@ Workout sessions are curated by job families. Each workout is curated to support
 
 + <a href="/pswlf-2020/4-ppdevelopment/"><b>View by Professional & Personal Development:</b></a>
 Get quick tips and pointers for work and life no matter what career or life stage you are at, including digital and financial literacy and career management. 
-
 <br>
-<b>Registration for these virtual offerings will begin on 1 September 2020. Check back this space for more information.</b>
+<br> Click <a href="/pswlf-2020/5-faqs">here</a> if you have any questions.
+<br>
+<b>Registration for these virtual offerings will begin on <b>1 September 2020</b>. Check back this space for more information.</b>
 <br>
 
 
