@@ -711,7 +711,7 @@ Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. Yo
 </tr>
 <tr>		
     <td>
-      <b>Streamlining: MAS (Future ready regulations for innovation and growth in payment services)</b>
+      <b>Future ready regulations for innovation and growth in payment services</b>
       <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
