@@ -21,7 +21,7 @@ breadcrumb: 'FAQ'
 <b>3. Do I have to be a public officer to attend the Learning Sessions?</b>
 <br>Yes. The Learning Sessions are only open to public officers, and you are required to register using your work email address. 
 
-#### <font color="darkorange"><b><u>LEARN Accounts</u></b></font> <a name="learn"></a>
+#### <font color="darkorange"><b>LEARN Accounts</b></font> <a name="learn"></a>
 
 <b>4. My agency does not have a LEARN account. How can I sign up for an account and is it free?</b> 
 <br>For the period of the Public Service Week **(12 October 2020 to 30 October 2020)**, we will be providing free accounts on a sign-up basis. Register <a href="https://go.gov.sg/lv4xad">here</a> if you would like to receive a free LEARN account. We will email you with more information upon confirmation. 
