@@ -36,7 +36,7 @@ breadcrumb: 'FAQ'
 <br>Eventbrite is an online internet-based platform which provides event management and ticketing technology.
 
 <b>7. How do I know if my registration is successful?</b>
-<br>For sessions without priority access, you will receive an automated confirmation email from Eventbrite if the registration is successful. For any enquiries, you can contact us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> or <a href="tan_xue_yan@caas.gov.sg">tan_xue_yan@caas.gov.sg</a>** for sessions under the Insights from Outside Series.
+<br>For sessions without priority access, you will receive an automated confirmation email from Eventbrite if the registration is successful. For any enquiries, you can contact us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> or <a href="tan_xue_yan@caas.gov.sg">tan_xue_yan@caas.gov.sg</a> for sessions under the Insights from Outside Series.
 
 <b>8. When is the registration period?</b>
 <br>Registration for each Learning Session is based on a first-come, first-served basis and will close once it has reached full capacity.
