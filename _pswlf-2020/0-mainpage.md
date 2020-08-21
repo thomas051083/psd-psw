@@ -29,4 +29,4 @@ Get quick tips and pointers for work and life no matter what career or life stag
 <br>
 <b>Registration for these virtual offerings will begin on <b>1 September 2020</b>. Check back this space for more information.</b>
 <br>
-<a href="https://www.csc.gov.sg/"><img src="/images/PSWLF_Microsite_Footer_CSC&AUPE.jpg"></a>
+<a href="https://www.csc.gov.sg/"><img src="/images/PSWLF_Microsite_Footer_CSC,MOT&AUPE.jpg"></a>
