@@ -8,6 +8,16 @@ third_nav_title: Our Core Competencies
 Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Develop your core competencies by selecting from the list of LEARN modules. 
 
 ![OCC Running Man](/images/occrunningman.png)
+### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
+
+1. <a href="/pswlf-2020/occ/1b-occ1">Thinking Clearly and Making Sound Judgements</a><br>
+2. <a href="/pswlf-2020/occ/1c-occ2">Serving with Heart, Commitment and Purpose</a><br>
+3. <a href="/pswlf-2020/occ/1d-occ3">Working As One Public Service</a><br>
+4. <a href="/pswlf-2020/occ/1e-occ4">Working Effectively with Citizens and Stakeholders</a><br>
+5. <a href="/pswlf-2020/occ/1f-occ5">Improving and Innovating Continuously</a><br>
+6. <a href="/pswlf-2020/occ/1g-occ6">Keep Learning and Putting Skills into Action</a><br>
+7. <a href="/pswlf-2020/occ/1h-occ7">Stewarding Systems for Today and Tomorrow (For Supervisors)</a><br>
+8. <a href="/pswlf-2020/occ/1i-occ8">Caring for, Developing and Inspiring Staff (For Supervisors)</a><br>
 <p>
 <div class="row">
     <div class="col is-4"> 
