@@ -54,7 +54,7 @@ Registration will commence on **1 September 2020** and will close either when al
 <b>12. How can I find out more about AUPE membership benefits and application?</b>
 <br>AUPE is the largest public sector union in Singapore, representing employees in more than 50 ministries, statutory boards and organs of state. It works closely with Public Service Division and public agencies’ managements to co-create initiatives and solutions to address concerns, enhance workplace experiences and develop officers' careers. In addition, AUPE members enjoy an extensive range of benefits, ranging from training subsidies, welfare benefits to lifestyle privileges.
 
-For more information about AUPE & how to apply, please visit <a href="bit.ly/aupe-mshipguide">AUPE Membership Guide</a>.
+For more information about AUPE & how to apply, please visit <a href="http://bit.ly/aupe-mshipguide">AUPE Membership Guide</a>.
 
 To sign up for AUPE membership:
  <br>∙ Apply <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform">online</a>; or
