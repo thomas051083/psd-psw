@@ -67,7 +67,7 @@ For any further questions and information, please email to the respective contac
 **Learning Sessions:  <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>**
 
 
-#### <font color="darkorange">We wish you a beneficial learning experience!</font>
+#### <font color="darkorange"><b>We wish you a beneficial learning experience!</b></font>
 
  
   
