@@ -9,7 +9,6 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 
 ![OCC Running Man](/images/occrunningman.png)
 
-
 ### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
 1. <a href="/pswlf-2020/occ/1b-occ1">Thinking Clearly and Making Sound Judgements</a><br>
 2. <a href="/pswlf-2020/occ/1c-occ2">Serving with Heart, Commitment and Purpose</a><br>
