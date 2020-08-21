@@ -60,7 +60,6 @@ To sign up for AUPE membership:
  <br>∙ Apply <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform">online</a>; or
  <br>∙ Download the <a href="http://bit.ly/mshipform">form</a>, complete and post it to us.
  
- <br>∙ Download the <a href="bit.ly/mshipform">form</a>, complete and post it to us.
 
 For any further questions and information, please email to the respective contacts below:
 
