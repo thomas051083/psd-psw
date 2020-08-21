@@ -9,6 +9,8 @@ breadcrumb: 'FAQ'
 1.[General](#general)<br>
 2.[LEARN Accounts](#learn)<br>
 3.[Registration](#registration)<br>
+4.[About AUPE](#aupe)<br>
+
 
 #### <font color="darkorange"><b>General</b></font> <a name="general"></a>
  
@@ -44,12 +46,14 @@ Registration will commence on **1 September 2020** and will close either when al
 <br>Yes, you can register for more than 1 Learning Session. However, you are strongly encouraged to only attend 1 Learning Session to provide the opportunity for other officers to participate.
 
 <b>10. Is there a waitlist for the Learning Sessions that have reached full capacity?</b>
-<br>Yes. You will be automatically be placed on a waitlist (limited slots) if the Learning Session has reached full capacity. 
+<br>Yes. If your session registration is via Eventbrite, you will be automatically be placed on a waitlist (limited slots) if the Learning Session has reached full capacity. 
 
 **Note**: If you are on the waitlist, you will be notified via email from Eventbrite when there is an available ticket for the Learning Session.
 
 <b>11. How do I cancel a registration?</b>
-<br>There is an option to Cancel Order, under My Tickets in Eventbrite. If you are unable to do so, you can also email us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> to cancel your registration.
+<br>There is an option to Cancel Order, under My Tickets in Eventbrite. If you are unable to do so, you can also email the organiser stated in the email confirmation. 
+
+#### <font color="darkorange"><b>About AUPE</b></font> <a name="aupe"></a>
 
 <b>12. How can I find out more about AUPE membership benefits and application?</b>
 <br>AUPE is the largest public sector union in Singapore, representing employees in more than 50 ministries, statutory boards and organs of state. It works closely with Public Service Division and public agencies’ managements to co-create initiatives and solutions to address concerns, enhance workplace experiences and develop officers' careers. In addition, AUPE members enjoy an extensive range of benefits, ranging from training subsidies, welfare benefits to lifestyle privileges.
@@ -60,7 +64,7 @@ To sign up for AUPE membership:
  <br>∙ Apply <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform">online</a>; or
  <br>∙ Download the <a href="http://bit.ly/mshipform">form</a>, complete and post it to us.
  
-
+<br>
 For any further questions and information, please email to the respective contacts below:
 
 **Insights from Outside: <a href="tan_xue_yan@caas.gov.sg">tan_xue_yan@caas.gov.sg</a>**
