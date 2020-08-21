@@ -18,7 +18,7 @@ breadcrumb: 'FAQ'
 <br>PSW Learning Festival will be going fully virtual this year!
 
 <b>2. Do I need to pay to attend a Learning Session?</b>
-<br>The Learning Sessions are complimentary for all public officers to attend upon successful registration.
+<br>The Learning Sessions are complimentary for all public officers unless otherwise stated. 
 
 <b>3. Do I have to be a public officer to attend the Learning Sessions?</b>
 <br>Yes. The Learning Sessions are only open to public officers, and you are required to register using your work email address. 
@@ -30,13 +30,13 @@ breadcrumb: 'FAQ'
 
 #### <font color="darkorange"><b>Registration</b></font> <a name="registration"></a>
 <b>5. How do I register for a Learning Session?</b>
-<br>Registration is via Eventbrite, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and the registration link. You are required to register using your work email, so that we can verify that you are a public officer.
+<br>Registration is via Eventbrite or form.gov.sg, on a first-come, first-served basis. Please refer to the individual event pages on the PSW Microsite for information and respective registration link. You are required to register using your work email, so that we can verify that you are a public officer.
 
 <b>6. What is Eventbrite?</b>
 <br>Eventbrite is an online internet-based platform which provides event management and ticketing technology.
 
 <b>7. How do I know if my registration is successful?</b>
-<br>If your registration is successful, you will receive an automated confirmation email from Eventbrite with the session details. For any enquiries, you can contact us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a>. 
+<br>For sessions without priority access, you will receive an automated confirmation email from Eventbrite if the registration is successful. For any enquiries, you can contact us at <a href="mailto:CSCOLLEGE_PSW@cscollege.gov.sg">CSCOLLEGE_PSW@cscollege.gov.sg</a> or <a href="tan_xue_yan@caas.gov.sg">tan_xue_yan@caas.gov.sg</a>** for sessions under the Insights from Outside Series.
 
 <b>8. When is the registration period?</b>
 <br>Registration for each Learning Session is based on a first-come, first-served basis and will close once it has reached full capacity.
