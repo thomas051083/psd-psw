@@ -112,6 +112,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
       <br>∙ Learn how PA tapped on Zoom for virtual community engagement
 	    <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
+	<br><b>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</b><br>
     </td>    
 <td>
      <img src="/images/engage8.jpg">
