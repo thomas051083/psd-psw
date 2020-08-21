@@ -24,10 +24,8 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 	</div>
 </div>
 	</p>
-	
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.
-8
+
+
 ### <font color="orangered"><b>View Learning Sessions by OCC</b></font>
 
 1. <a href="/pswlf-2020/occ/1b-occ1">Thinking Clearly and Making Sound Judgements</a><br>
