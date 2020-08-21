@@ -27,7 +27,7 @@ Get quick tips and pointers for work and life no matter what career or life stag
 <br> Click <a href="/pswlf-2020/5-faqs">here</a> if you have any questions.
 <br>
 <br>
-<b>Registration for these virtual offerings will be progressively launched, starting from 1 September 2020<. Bookmark our website, and check back this space for more information!</b>
+<b>Registration for these virtual offerings will be progressively launched, starting from 1 September 2020. Bookmark our website, and check back this space for more information!</b>
 <br>
 <br>
 <a href="https://www.csc.gov.sg/"><img src="/images/PSWLF_Microsite_Footer_CSC,MOT&AUPE.jpg"></a>
