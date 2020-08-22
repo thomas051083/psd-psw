@@ -103,7 +103,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <td>
       <b>Virtualising Community Engagement</b>
       <br>22 Oct 2020, 9.00am – 11.00pm | Platform: Zoom
-      <br><font color="darkgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>Ever wondered how we can continue to engage our citizens in the COVID-19 world and beyond?  Or rather, how might we leverage technology and continue to engage our citizens in interesting ways using virtual tools like Zoom? In this 2-hour workshop, you will learn how to increase engagement through virtual platforms, including some good practices by the People’s Association on how  virtual tools are used for residents’ gathering.  Join us for some practical tips and some fun on virtual community engagement!
       <br>      
