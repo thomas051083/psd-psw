@@ -59,7 +59,7 @@ The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle 
       3.50pm
     </td>
     <td>
-      Award Presentation for WOG-level 
+      Presentation for WOG- and Agency-level Awards
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle 
       4.00pm
     </td>
     <td>
-      Award Presentation for Individual-level
+      Presentation for Individual-level Awards
     </td>
   </tr>
   </table>
