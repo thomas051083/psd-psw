@@ -8,7 +8,7 @@ permalink: /pstac-2020
 ## Public Sector Transformation Awards Celebration
 <i>The event is open to all public officers</i><br>
 
-![Events](/images/PSW Microsite Pictures-01.png)
+![Events](/images/psta2020.png)
 
 The Public Sector Transformation (PST) Awards is a Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The Awards are aligned with the focus areas of this phase of PST. 
 
