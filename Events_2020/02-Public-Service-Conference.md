@@ -15,7 +15,7 @@ permalink: /psc-2020
 The Public Service Conference 2020 will give insights on how public officers should be prepared to meet the demands of Public Service in 2025 through transformation of the 3 Ws - Work, Workforce and Workplace.
 
 **Date and Time:** 8 October 2020, 10.00AM - 11.00AM <br>
-**Virtual Platform:** Workplace by Facebook and Zoom Webinar <br>
+**Virtual Platform:** Zoom Webinar <br>
 **Registration Link** will be shared nearer to the date of event<br> 
   
 
