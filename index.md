@@ -11,13 +11,13 @@ sections:
       button: 'Learn More'
       url: /what-is-psw/
       key_highlights:
-        - title: 'Public Service Conference'
+        - title: 'Hear What's New?'
           url: /psc-2020
-        - title: 'One Public Service Observance Ceremony'
+        - title: 'Pledge as One'
           url: /opsoc-2020/
-        - title: 'Public Sector Transformation Awards Celebration'
+        - title: 'Celebrate Together'
           url: /pstac-2020/
-        - title: 'Learning Festival'
+        - title: 'Let's Learn'
           url: /pswlf-2020/0-mainpage
 ---
 
