@@ -7,7 +7,10 @@ permalink: /psc-2020
 
 
 ## Public Service Conference
-*The Conference is open to all public officers.*
+*The Conference is open to all public officers.* <br>
+
+![Events](/images/psc2020.png)
+
 
 The Public Service Conference 2020 will give insights on how public officers should be prepared to meet the demands of Public Service in 2025 through transformation of the 3 Ws - Work, Workforce and Workplace.
 
