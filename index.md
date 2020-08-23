@@ -14,9 +14,9 @@ sections:
         - title: 'Hear What's New?'
           url: /psc-2020
         - title: 'Pledge as One'
-          url: /opsoc-2020/
+          url: /opsoc-2020
         - title: 'Celebrate Together'
-          url: /pstac-2020/
+          url: /pstac-2020
         - title: 'Let's Learn'
           url: /pswlf-2020/0-mainpage
 ---
