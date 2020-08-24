@@ -5,7 +5,6 @@ breadcrumb: 'Job Specific Skills'
 ---
 ### <font color="orangered"><b>Job Specific Skills</b></font>
 Workouts are available for officers in the following job families. Each ‘exercise’ is curated to help you stay in tip-top shape to cope with rapid changes in your work and workplace requirements.<br>
-<b><i>*For sessions with limited capacity, we seek your understanding that priority will be given to officers from the job families that the programme is tagged to.</i></b>
 
 <div class="row">
     <div class="col is-3">
