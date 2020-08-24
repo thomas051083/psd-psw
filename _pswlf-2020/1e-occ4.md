@@ -69,8 +69,8 @@ third_nav_title: Our Core Competencies
       <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>∙ Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
-      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
