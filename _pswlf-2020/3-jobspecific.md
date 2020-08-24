@@ -4,7 +4,9 @@ permalink: /pswlf-2020/3-jobspecific
 breadcrumb: 'Job Specific Skills'
 ---
 ### <font color="orangered"><b>Job Specific Skills</b></font>
-Workouts are available for officers in the following job families. Each ‘exercise’ is curated to help you stay in tip-top shape to cope with rapid changes in your work and workplace requirements. 
+Workouts are available for officers in the following job families. Each ‘exercise’ is curated to help you stay in tip-top shape to cope with rapid changes in your work and workplace requirements.<br>
+<b><i>*For sessions with limited capacity, we seek your understanding that priority will be given to officers from the job families that the programme is tagged to.</i></b>
+
 <div class="row">
     <div class="col is-3">
 	     <figure style="margin:0;">		     
@@ -149,7 +151,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Service Delivery</b></font> <a name="service"></a>
-<font size="4">These are exciting times to be involved in service planning and delivery work.Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the <b><i>Virtual Learning Series - Building A Future-Ready Service Community</i></b>  happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from National Gallery, HDB and workshops by Ron Kaufman and Charlie Ang).<br ><br>
+<font size="4">These are exciting times to be involved in service planning and delivery work.Spotlighting core domains of the Refreshed Service Competency Framework 2020, check out the <b><i>Virtual Learning Series - Building A Future-Ready Service Community</i></b> happening from Sep – Nov 2020 featuring an invigorating line-up of varied speakers/trainers from the public and private sectors (e.g. speakers from National Gallery, HDB and workshops by Ron Kaufman and Charlie Ang).<br ><br>
 
 More details can be found on <a href="https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=8ef73fih3tkf7a7v9cukm5vhv1">CSC Programmes</a>. 
 	<br></font>
