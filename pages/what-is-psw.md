@@ -7,10 +7,9 @@ breadcrumb: 'What is PSW?'
 
 ### What is Public Service Week
 
-<b>Public Service Week was inaugurated in 2008 as an annual event for public officers to build pride and a sense of belonging to the Public Service core values and recognise the good work done by public officers and agencies. </b> The tagline of PSW "Serving the Nation and Proud of it" is a strong commitment for us to continue to maintain our ethos of doing our best for Singapore. 
-<br>
-<br>
-Public Service Week 2019 is aligned with the next phase of Public Sector Transformation, which emphasises the need for deep transformation to the core, to build a Future Public Service capable of building our Future Singapore. 
+The theme for Public Service Week 2020 is <b>Together, we can overcome as One Public Service</b>. PSW2020 emphasises on the transformation as One Public Service in 3 areas: Work, Workforce and Workplace, where we create Our Future Public Service together, working together with citizens and stakeholders to build a better tomorrow for ourselves, our family and our Singapore. 
 <br>
 <br>
 
+PSW2020 will be held virtually via Workplace by Facebook and Zoom Webinar*. 
+<i>*Priority will be given to officers who were not issued Workplace by Facebook accounts.</i>

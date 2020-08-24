@@ -1,4 +1,4 @@
-title: 'Public Service Week 2019'
+title: 'Public Service Week 2020'
 description: Description
 url: 'https://www.publicserviceweek.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
@@ -13,7 +13,17 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 
 collections:
-    events-2020:
+    pswlf-2020:
+        output: true
+    all-workouts:
+        output: true
+    jobspecific-details:
+        output: true
+    occ:
+        output: true
+    pstac-2020:
+        output: true
+    psc-2020:
         output: true
     
 resources_name: news
