@@ -13,7 +13,7 @@ third_nav_title: Our Core Competencies
       <b>Building a Geospatial Ecosystem</b>
       <br>16 Oct 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
-      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. 
+      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
       <br>Learning outcomes:
       <br>• Understand what geospatial information is and its uses
       <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. government, people and industry
