@@ -16,8 +16,8 @@ third_nav_title: Our Core Competencies
       <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>∙ Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
-      <br>∙ Plan and prepare for a VR engagement to co-design spaces with stakeholders
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -70,8 +70,8 @@ third_nav_title: Our Core Competencies
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>
       <br>Learning Outcomes:
-      <br>∙ Understand how technology and service innovations improve customers' and internal stakeholders’ experiences
-      <br>∙ Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges
+      <br>• Understand how technology and service innovations improve customers' and internal stakeholders’ experiences
+      <br>• Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
@@ -87,9 +87,9 @@ third_nav_title: Our Core Competencies
       <br>How to conduct stakeholder analysis in project scoping.
       <br>
       <br>Learning Outcomes:
-      <br>∙ Be introduced to stakeholder analysis 
-      <br>∙ Know who to engage with in order to achieve successful implementation of their projects/policies
-      <br>∙ Learn about defining the project scope
+      <br>• Be introduced to stakeholder analysis 
+      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies
+      <br>• Learn about defining the project scope
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
@@ -177,9 +177,9 @@ third_nav_title: Our Core Competencies
       <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
       <br>
       <br>Learning Outcomes:
-      <br>∙ Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
-      <br>∙ Learn about how IRAS carried out its Workforce Transformation
-      <br>∙ Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
+      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
+      <br>• Learn about how IRAS carried out its Workforce Transformation
+      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
       <br>  
       <a href="http://www.csc.gov.sg">Click here to register.</a>   
     </td>
