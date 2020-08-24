@@ -5,8 +5,8 @@ permalink: /
 notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
 sections:
   - hero:
-      title: 'Public Service Week 2020'
-      subtitle: 'Public Service Week is an annual event to create a greater appreciation for the work of the Public Service while inspiring public officers to live out her values and ethos. Public Service Week 2020 will run from 8 - 31 October.'
+      title: 'Together, we can overcome as One Public Service'
+      subtitle: 'Public Service Week 2020 will run from 8th - 30th October.'
       background: /images/PSWbanner2020.png
       button: 'Learn More'
       url: /what-is-psw/
