@@ -211,7 +211,7 @@ breadcrumb: 'Professional & Personal Development'
 <td>
       <b>Public Service Career Coaching Services</b>
       <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session.<br>
+	<br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session.
 	<br>1. Accounting & Finance
 	<br>2. Community Development, Partnership & Engagement
 	<br>3. Corporate Admin
