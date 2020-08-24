@@ -74,6 +74,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
       <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the HR and Corporate Admin job families for this session.</i></font> 
       <br>       
       <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
       <br>      
@@ -102,6 +103,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Change as Opportunity</b>
       <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
       <br>       
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
       <br>      
@@ -209,6 +211,12 @@ breadcrumb: 'Professional & Personal Development'
 <td>
       <b>Public Service Career Coaching Services</b>
       <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session.<br>
+	<br>1. Accounting & Finance
+	<br>2. Community Development, Partnership & Engagement
+	<br>3. Corporate Admin
+	<br>4. HR
+	<br>5. Regulation, Enforcement & Compliance </i></font>
       <br>       
       <br>Manage your Career Planning Better with Career Coaching
       <br>      
