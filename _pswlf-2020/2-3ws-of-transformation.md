@@ -1,6 +1,6 @@
 ---
 title: The 3 Ws of Transformation
-permalink: /pswlf-2020/4b-3ws-of-transformation/
+permalink: /pswlf-2020/2-3ws-of-transformation/
 breadcrumb: 'The 3 Ws of Transformation'
 ---
 ### <font color="orangered"><b>The 3 Ws of Transformation</b></font>
