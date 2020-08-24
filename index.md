@@ -6,7 +6,7 @@ notification: 'This website is in beta - your valuable <a href="https://www.goog
 sections:
   - hero:
       title: 'Together, we can overcome as One Public Service'
-      subtitle: 'Public Service Week 2020 will run from 8th - 30th October.'
+      subtitle: 'Public Service Week 2020, 8 - 30 October.'
       background: /images/PSWbanner2020.png
       button: 'Learn More'
       url: /what-is-psw/
