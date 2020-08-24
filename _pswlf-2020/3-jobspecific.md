@@ -69,6 +69,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <td>
       <b>Cafe Siu Dai</b>
       <br>14 Oct 2020, 10.00am – 12.00pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>Based on NACLI’s WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
       <br>
@@ -86,6 +87,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <td>
       <b>Public Engagement Network Webinar</b>
       <br>22 Oct 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>In this PEN session, participants will gain deeper understanding of the Emerging Stronger Conversation (ESC) journey where in-service senior practitioners will share rich insights and anecdotes on the conceptualisation and strategies of ESC, the behind-the-scenes Whole of Government and Whole of Nation coordination and challenges.
       <br>      
@@ -123,6 +125,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <td>
       <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides</b>
       <br>15 Oct 2020 (9.00am - 11.30am); 28 Oct 2020 (9.00am - 11.30am) | Platform: Zoom
+	 <br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>In this interactive session, participants will get to explore and learn how to use and apply digital tools such as Zoom, Padlet and Google Slides in their engagements with citizens and stakeholders.
       <br>      
@@ -158,6 +161,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <td>
       <b>SSG's Multi Stakeholder Groups for EduTrust Certification Scheme</b>
       <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
       <br>      
