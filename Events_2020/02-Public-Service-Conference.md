@@ -19,7 +19,7 @@ The Public Service Conference 2020 will give insights on how public officers sho
 **Registration Link** will be shared nearer to the date of event<br> 
   
 
-## Conference Programme
+## What you can look forward to:
 <table>
   <tr>
     <th>Time</th>
