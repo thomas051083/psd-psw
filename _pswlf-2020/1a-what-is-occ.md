@@ -22,4 +22,4 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 	    </div>
 
 
-<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</a>. Check back this space for more information!</i></b>
+<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</font>. Check back this space for more information!</i></b>
