@@ -6,7 +6,7 @@ breadcrumb: 'Job Specific Skills'
 ### <font color="orangered"><b>Job Specific Skills</b></font>
 Workouts are available for officers in the following job families. Each ‘exercise’ is curated to help you stay in tip-top shape to cope with rapid changes in your work and workplace requirements.<br>
 
-<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</a>. Check back this space for more information!</i></b><br>
+<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</font>. Check back this space for more information!</i></b><br>
 
 <div class="row">
     <div class="col is-3">
