@@ -43,7 +43,7 @@ breadcrumb: 'Professional & Personal Development'
     </div>
 </div>
 
-<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</a>. Check back this space for more information!</i></b>
+<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</font>. Check back this space for more information!</i></b>
 
 #### <font color="darkorange"><b>Digital Literacy</b></font><a name="digital"></a>
 <font size="4">With rapid advances in Artificial Intelligence, work will shift from being labour-centric to innovation-driven. Equip yourself to produce higher-value work requiring judgment, creativity and an interpersonal touch that cannot be easily replaced by machines. Learn about applications of trending areas such as:
