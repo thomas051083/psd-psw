@@ -79,7 +79,7 @@ The Public Service Observance Ceremony is an annual platform for officers to rec
       10.45am
     </td>
     <td>
-      Screening of #OPSGratitude2.0 video
+      Screening of a Video Appreciating Officers for their Work
     </td>
   </tr>
   <tr>
