@@ -11,13 +11,13 @@ sections:
       button: 'Learn More'
       url: /what-is-psw/
       key_highlights:
-        - title: 'Hear From Your Leaders'
+        - title: 'Be Inspired'
           url: /psc-2020/
         - title: 'Pledge as One'
           url: /opsoc-2020/
         - title: 'Celebrate Together'
           url: /pstac-2020/
-        - title: 'Lets Learn'
+        - title: 'Learn and Grow'
           url: /pswlf-2020/0-mainpage
 ---
 
