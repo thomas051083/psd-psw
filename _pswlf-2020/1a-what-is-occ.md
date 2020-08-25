@@ -21,3 +21,5 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 	<iframe title="vimeo-player" src="https://player.vimeo.com/video/448413622" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 	    </div>
 
+
+<b><i>Registration for virtual learning sessions will be progressively launched, starting from <font color="red">1 September 2020</a>. Check back this space for more information!</i></b>
