@@ -259,7 +259,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>		
     <td>
-      <b>Future Ready Regulations for Innovation and Growth in Payment Services</b>
+      <b>MAS- Future Ready Regulations for Innovation in Payment Services</b>
       <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
