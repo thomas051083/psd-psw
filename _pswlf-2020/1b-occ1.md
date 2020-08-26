@@ -26,7 +26,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical Best Practices From Planning, Collection to Dissemination</b>
+      <b>Improving Data Quality – Statistical Best Practices</b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
