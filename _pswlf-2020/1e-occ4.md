@@ -64,7 +64,7 @@ third_nav_title: Our Core Competencies
 <tr>
     <td>
       <b>Designing Spaces with Virtual Reality</b>
-      <br>15 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>29 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
       <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
