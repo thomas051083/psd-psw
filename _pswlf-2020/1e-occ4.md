@@ -150,15 +150,15 @@ third_nav_title: Our Core Competencies
 </tr> 
 <tr>
     <td>
-      <b>A Product Management Approach to Building a National Digital Platform</b>
+      <b>A Product Management approach to building Singapore’s National Digital Identity</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
-      <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
       <br>Learning Outcomes:
-      <br>•  Articulate what the National Digital Identity programme is
-      <br>•  Describe how the Govtech team developed the SingPass Mobile app into a multi-function “everyday” app                                                   
-      <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies
+      <br>• Articulate what makes a National Digital Identity
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
