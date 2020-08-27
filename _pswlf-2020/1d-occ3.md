@@ -20,7 +20,7 @@ third_nav_title: Our Core Competencies
       <br>• Understand how to share or consume geospatial data from GeoSpace
       <br>• Recognize how GeoSpace helps agency users on their projects or operations
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital7.jpg">
