@@ -20,7 +20,7 @@ third_nav_title: Our Core Competencies
       <br>• Understand the challenges faced in the global drug landscape
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/drug1.jpg">
@@ -37,7 +37,7 @@ third_nav_title: Our Core Competencies
       <br>• Learn the value of developing empathy in the public service
       <br>• Know about developing empathy through emotional design
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage8.jpg">
@@ -54,7 +54,7 @@ third_nav_title: Our Core Competencies
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage7.jpg">
