@@ -52,7 +52,7 @@ third_nav_title: Our Core Competencies
       <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
       <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital4.jpg">
