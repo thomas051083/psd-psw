@@ -10,6 +10,23 @@ third_nav_title: Our Core Competencies
             <col width="30%">
 <tr>
     <td>
+      <b>A Product Management approach to building Singapore’s National Digital Identity</b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Articulate what makes a National Digital Identity
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital4.jpg">
+    </td>
+</tr>	
+<tr>
+    <td>
       <b>Designing Spaces with Virtual Reality</b>
       <br>29 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
