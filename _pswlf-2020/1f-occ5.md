@@ -139,7 +139,7 @@ third_nav_title: Our Core Competencies
       <br>• Understand how to share or consume geospatial data from GeoSpace
       <br>• Recognize how GeoSpace helps agency users on their projects or operations
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital7.jpg">
@@ -157,7 +157,7 @@ third_nav_title: Our Core Competencies
       <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
       <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage10.jpg">
