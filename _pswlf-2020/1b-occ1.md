@@ -39,7 +39,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/digital5.jpg">
+     <img src="/images/project1.jpg">
     </td>
 </tr>
 <tr>	
