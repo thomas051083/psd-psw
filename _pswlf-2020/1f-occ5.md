@@ -24,7 +24,7 @@ third_nav_title: Our Core Competencies
 <td>
      <img src="/images/digital4.jpg">
     </td>
-	</tr>
+</tr>
 <tr>
     <td>
       <b>A Product Management approach to building Singapore’s National Digital Identity</b>
