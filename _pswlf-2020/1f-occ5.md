@@ -41,8 +41,7 @@ third_nav_title: Our Core Competencies
 <td>
      <img src="/images/digital4.jpg">
     </td>
-</tr>
-	
+</tr>	
 <tr>
     <td>
       <b>Do You Get Stuck When You Are Trying to Come up Creative Ideas in Your Team?</b>
@@ -60,7 +59,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/innovate1.jpg">
     </td>
 </tr>
-
 <tr>
     <td>
       <b>Future-Ready Service Transformation@MOE</b>
@@ -79,6 +77,23 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr>
+    <td>
+      <b>Generating Creative Ideas</b>
+      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct ideation and use ideation tools.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas. 
+      <br>• Be introduced to the process of brainstorming.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/generating-creative-ideas-tickets-117953390767">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/project1.jpg">
+    </td>
+</tr>
+<tr>	
     <td>
       <b>How Do You Identify Different Stakeholders in Your Project?</b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
