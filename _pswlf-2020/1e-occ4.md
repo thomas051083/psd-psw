@@ -19,7 +19,7 @@ third_nav_title: Our Core Competencies
       <br>• Understand the challenges faced in the global drug landscape  
       <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/drug1.jpg">
@@ -72,7 +72,7 @@ third_nav_title: Our Core Competencies
       <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
       <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital8.jpg">
@@ -90,7 +90,7 @@ third_nav_title: Our Core Competencies
       <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
       <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage7.jpg">
@@ -107,7 +107,7 @@ third_nav_title: Our Core Competencies
       <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
       <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/innovate3.jpg">
@@ -142,7 +142,7 @@ third_nav_title: Our Core Competencies
       <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
       <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage10.jpg">
