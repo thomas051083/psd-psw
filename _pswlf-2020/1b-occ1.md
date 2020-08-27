@@ -29,12 +29,12 @@ third_nav_title: Our Core Competencies
       <b>How do you identify different stakeholders in your project?</b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
       <br>       
-      <br>How to conduct stakeholder analysis in project scoping
+      <br>How to conduct stakeholder analysis in project scoping.
       <br>
       <br>Learning Outcomes:
-      <br> 1) Be introduced to stakeholder analysis. 
-      <br> 2) Know who to engage with in order to achieve successful implementation of their projects/policies. 
-      <br> 3) Learn about defining the project scope.
+      <br> Be introduced to stakeholder analysis. 
+      <br> Know who to engage with in order to achieve successful implementation of their projects/policies. 
+      <br> Learn about defining the project scope.
            <br>
       <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a> 
     </td>    
@@ -54,7 +54,7 @@ third_nav_title: Our Core Competencies
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
             <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital5.jpg">
@@ -72,7 +72,7 @@ third_nav_title: Our Core Competencies
       <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
       <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage7.jpg">
