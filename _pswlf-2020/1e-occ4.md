@@ -37,7 +37,7 @@ third_nav_title: Our Core Competencies
       <br>•  Recognise the mindsets that smart regulators need
       <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Innovate1.jpg">
@@ -55,7 +55,7 @@ third_nav_title: Our Core Competencies
       <br>• Recognise the various functionalities within OneMap
       <br>•  Identify features and application for users
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Engage2.jpeg">
@@ -124,7 +124,7 @@ third_nav_title: Our Core Competencies
       <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector
       <br>• Articulate the lessons learnt in improving business processes 
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/multi-stakeholder-groups-for-edutrust-certification-scheme-registration-117979769667">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage9.jpg">
@@ -160,7 +160,7 @@ third_nav_title: Our Core Competencies
       <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
       <br>
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="hhttps://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital4.jpg">
@@ -178,7 +178,7 @@ third_nav_title: Our Core Competencies
       <br>• Be introduced to UXC tools on how to define project scope
       <br>• Craft a philosophy statement that will guide the project direction
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage9.jpg">
