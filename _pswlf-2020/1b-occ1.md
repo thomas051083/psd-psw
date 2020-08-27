@@ -25,6 +25,24 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr>	
+    td>
+      <b>How do you identify different stakeholders in your project?</b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping
+      <br>
+      <br>Learning Outcomes:
+      <br> 1) Be introduced to stakeholder analysis. 
+      <br> 2) Know who to engage with in order to achieve successful implementation of their projects/policies. 
+      <br> 3) Learn about defining the project scope.
+           <br>
+      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>	
     <td>
       <b>Improving Data Quality – Statistical Best Practices</b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
