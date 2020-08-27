@@ -25,7 +25,7 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr>	
-    td>
+    <td>
       <b>How do you identify different stakeholders in your project?</b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
       <br>       
