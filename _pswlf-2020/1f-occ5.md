@@ -36,7 +36,7 @@ third_nav_title: Our Core Competencies
       <br>• Articulate what makes a National Digital Identity
       <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital4.jpg">
@@ -72,7 +72,7 @@ third_nav_title: Our Core Competencies
       <br>• Understand how technology and service innovations improve customers' and internal stakeholders’ experiences
       <br>• Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/future-ready-service-transformation-moe-tickets-117611626541">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Serve2.jpg">
@@ -90,7 +90,7 @@ third_nav_title: Our Core Competencies
       <br>• Know who to engage with in order to achieve successful implementation of their projects/policies
       <br>• Learn about defining the project scope
       <br>  
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a>   
     </td>
 <td>
      <img src="/images/project1.jpg">
@@ -144,7 +144,7 @@ third_nav_title: Our Core Competencies
       <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
       <br>• Understand the requirements needed to manage and assure that high quality data are produced
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital5.jpg">
@@ -162,7 +162,7 @@ third_nav_title: Our Core Competencies
       <br>• Recognise the various functionalities within OneMap
       <br>•  Identify features and application for users
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Engage2.jpeg">
@@ -180,7 +180,7 @@ third_nav_title: Our Core Competencies
       <br>• Learn about how IRAS carried out its Workforce Transformation
       <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
       <br>  
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
     </td>
 <td>
      <img src="/images/SkillUp1.jpg">
@@ -197,7 +197,7 @@ third_nav_title: Our Core Competencies
       <br>• Learn the value of developing empathy in the public service
       <br>• Know about developing empathy through emotional design
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage8.jpg">
@@ -215,7 +215,7 @@ third_nav_title: Our Core Competencies
       <br>• Build WOG service delivery – beyond the no wrong-door approach
       <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage7.jpg">
@@ -233,7 +233,7 @@ third_nav_title: Our Core Competencies
       <br>• Be introduced to UXC tools on how to define project scope
       <br>• Craft a philosophy statement that will guide the project direction
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/innovationtest3.png">
@@ -251,7 +251,7 @@ third_nav_title: Our Core Competencies
       <br>•  Recognise the mindsets that smart regulators need
       <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Innovate1.jpg">
@@ -259,7 +259,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>		
     <td>
-      <b>MAS- Future Ready Regulations for Innovation in Payment Services</b>
+      <b>MAS-Future Ready Regulations for Innovation in Payment Services</b>
       <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
@@ -269,7 +269,7 @@ third_nav_title: Our Core Competencies
       <br>• Identify ways to ensure regulatory rules are risk calibrated 
       <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/mas-future-ready-regulations-for-innovation-in-payment-services-tickets-117622978495">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/pay1.jpg">
