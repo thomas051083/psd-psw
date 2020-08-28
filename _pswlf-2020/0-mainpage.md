@@ -18,7 +18,7 @@ These virtual sessions and modules are curated for all public officers. You will
 + <a href="/pswlf-2020/2-3ws-of-transformation/"><b>View by the 3Ws of Transformation:</b></a>
 Learn what are the 3 Ws of Transformation, and join the ‘Insights from Outside’ sessions. Featuring guest speakers who are practice leaders in their respective fields, the ‘Insights from Outside’ sessions are windows to inspiring transformation journeys from the private sector. The three live sessions would also include candid discussions facilitated by senior public service leaders, to provide provocations on what success to them would look like for the public service transformation journey.
  
-+ <a href="/pswlf-2020/3-jobspecific"><b>View by Job Specific Skills:</b></a>
++ <a href="/pswlf-2020/3a-jobspecific/"><b>View by Job Specific Skills:</b></a>
 Workout sessions are curated by job families. Each workout is curated to support the development of a skill for you to thrive at work, as well as life skills to help you manage career and life transitions.
 
 + <a href="/pswlf-2020/4-ppdevelopment"><b>View by Professional & Personal Development:</b></a>
