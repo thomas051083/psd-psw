@@ -28,7 +28,7 @@ third_nav_title: Job Specific Skills
       <a href="https://improving-government-services-with-data.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/digital6.jpg">
     </td>
 </tr>
 <tr>		
@@ -44,7 +44,7 @@ third_nav_title: Job Specific Skills
       <a href="https://idd-implementation-journey.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
 <tr>		
@@ -62,11 +62,10 @@ third_nav_title: Job Specific Skills
       <a href="https://together-we-build-a-greener-tomorrow.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/green1.jpg">
     </td>
 </tr>
 	</table>
-
 
 
 
