@@ -12,7 +12,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
 <div class="row">
     <div class="col is-3">
 	     <figure style="margin:0;">		     
-	    <a href="#accounting"><img src="/images/accounting.jpg"></a>
+	    <a href="/pswlf-2020/job-specific-skills/3b-accounting/"><img src="/images/accounting.jpg"></a>
 		 <font size="4"><b><i>Accounting and Finance</i></b></font>     
 		</figure>
     </div>
