@@ -46,13 +46,13 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#s/pswlf-2020/job-specific-skills/3g-science/"><img src="/images/service2.jpg"></a>
+	    <a href="#s/pswlf-2020/job-specific-skills/3g-science/"><img src="/images/science1.jpg"></a>
 		  <font size="4"><b><i>Service Delivery</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="/pswlf-2020/job-specific-skills/3h-service/"><img src="/images/science1.jpg"></a>
+	    <a href="/pswlf-2020/job-specific-skills/3h-service/"><img src="/images/service2.jpg"></a>
 		 <font size="4"><b><i>Science Tech & Engineering</i></b></font>
 		</figure>
 	</div>
