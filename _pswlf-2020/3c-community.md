@@ -79,7 +79,7 @@ third_nav_title: Job Specific Skills
       <br>Learning Outcomes:
       <br>• Learn and apply digital tools in their engagements with citizens and stakeholders.
       <br>
-      <a href="https:/digital-tools-for-citizen-engagement-15_oct_2020.eventbrite.sg">Click here to register for 15 October session.</a><br>
+      <a href="https://digital-tools-for-citizen-engagement-15_oct_2020.eventbrite.sg">Click here to register for 15 October session.</a><br>
       <a href="https://digital-tools-for-citizen-engagement-28_oct_2020.eventbrite.sg">Click here to register for 28 October session.</a> 
     </td>    
 <td>
