@@ -115,23 +115,6 @@ third_nav_title: Our Core Competencies
 </tr>  
 <tr>		
     <td>
-      <b>SSG's Multi Stakeholder Groups for Edutrust Certification Scheme</b>
-      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>
-      <br>Learning Outcomes:
-      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector
-      <br>• Articulate the lessons learnt in improving business processes 
-      <br>
-      <a href="https://www.eventbrite.sg/e/multi-stakeholder-groups-for-edutrust-certification-scheme-registration-117979769667">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage9.jpg">
-    </td>
-</tr> 
-<tr>		
-    <td>
       <b>Transforming How IRAS & ACRA Serve Businesses</b>
       <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
