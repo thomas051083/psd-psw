@@ -20,8 +20,8 @@ third_nav_title: Job Specific Skills
       <br>Find out more about how you can benefit from FFP as well as how you can gain an understanding of Public Finance policies, Data Analytics, Code of conduct and ethics as a Public Finance Officer, and concepts of Procurement that will be useful to your role.  
       <br>
       <br>Learning Outcomes:
-      <br>∙ Describe the lessons to be learnt in FFP
-      <br>∙ Describe how FFP can help you in your work
+      <br>• Describe the lessons to be learnt in FFP
+      <br>• Describe how FFP can help you in your work
 	    <br>
       <a href="https://finance-foundation-programme.eventbrite.sg">Click here to register.</a> 
     </td>    
