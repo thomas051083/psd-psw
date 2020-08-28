@@ -33,6 +33,7 @@ third_nav_title: Job Specific Skills
      <img src="/images/hra1.jpg">
     </td>
 </tr>
+</table>
 
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
