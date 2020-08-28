@@ -1,5 +1,3 @@
-_ pswlf-2020/3g-science.md
-
 ---
 title: Science Tech & Engineering
 permalink: /pswlf-2020/job-specific-skills/3g-science/
