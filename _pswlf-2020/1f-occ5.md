@@ -16,8 +16,8 @@ third_nav_title: Our Core Competencies
       <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity
-      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
       <br>
       <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
     </td>    
@@ -32,8 +32,8 @@ third_nav_title: Our Core Competencies
       <br>       
       <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
       <br>Learning outcomes:
-      <br>• Understand what geospatial information is and its uses
-      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. government, people and industry
+      <br>• Understand what geospatial information is and its uses.
+      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. 
       <br>
       <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
     </td>    
@@ -49,8 +49,8 @@ third_nav_title: Our Core Competencies
       <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
-      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
       <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
@@ -60,14 +60,14 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>Future-Ready Service Transformation@MOE</b>
+      <b>Future-Ready Service Transformation @ MOE</b>
       <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
       <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
       <br>
       <br>Learning Outcomes:
-      <br>• Understand how technology and service innovations improve customers' and internal stakeholders’ experiences
-      <br>• Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges
+      <br>• Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
+      <br>• Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
       <br>
       <a href="https://www.eventbrite.sg/e/future-ready-service-transformation-moe-tickets-117611626541">Click here to register.</a> 
     </td>    
@@ -100,9 +100,9 @@ third_nav_title: Our Core Competencies
       <br>How to conduct stakeholder analysis in project scoping.
       <br>
       <br>Learning Outcomes:
-      <br>• Be introduced to stakeholder analysis 
-      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies
-      <br>• Learn about defining the project scope
+      <br>• Be introduced to stakeholder analysis.
+      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies.
+      <br>• Learn about defining the project scope.
       <br>  
       <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a>   
     </td>
@@ -115,12 +115,12 @@ third_nav_title: Our Core Competencies
       <b>Overview of GeoSpace</b>
       <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>This session introduces GeoSpace, a Whole of Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
       <br>
       <br>Learning Outcomes:
-      <br>• Understand what GeoSpace is and its benefits
-      <br>• Understand how to share or consume geospatial data from GeoSpace
-      <br>• Recognize how GeoSpace helps agency users on their projects or operations
+      <br>• Understand what GeoSpace is and its benefits.
+      <br>• Understand how to share or consume geospatial data from GeoSpace.
+      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
       <br>
       <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
     </td>    
@@ -136,9 +136,9 @@ third_nav_title: Our Core Competencies
       <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
       <br>
       <br>Learning Outcomes:
-      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them
-      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
-      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
       <br>
       <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
     </td>    
@@ -154,9 +154,9 @@ third_nav_title: Our Core Competencies
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>
       <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs
-      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
       <br>
       <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
     </td>    
@@ -172,9 +172,9 @@ third_nav_title: Our Core Competencies
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand what OneMap is
-      <br>• Recognise the various functionalities within OneMap
-      <br>•  Identify features and application for users
+      <br>• Understand what OneMap is.
+      <br>• Recognise the various functionalities within OneMap.
+      <br>• Identify features and application for users.
       <br>
       <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
     </td>    
@@ -190,9 +190,9 @@ third_nav_title: Our Core Competencies
       <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation
-      <br>• Learn about how IRAS carried out its Workforce Transformation
-      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership
+      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
+      <br>• Learn about how IRAS carried out its Workforce Transformation.
+      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
       <br>  
       <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
     </td>
@@ -208,8 +208,8 @@ third_nav_title: Our Core Competencies
       <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service
-      <br>• Know about developing empathy through emotional design
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
       <br>
       <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
     </td>    
@@ -226,8 +226,8 @@ third_nav_title: Our Core Competencies
       <br>
       <br>Learning Outcomes:
       <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
-      <br>• Build WOG service delivery – beyond the no wrong-door approach
-      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens
+      <br>• Build WOG service delivery – beyond the no wrong-door approach.
+      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
       <br>
       <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
     </td>    
@@ -243,9 +243,9 @@ third_nav_title: Our Core Competencies
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases
-      <br>• Be introduced to UXC tools on how to define project scope
-      <br>• Craft a philosophy statement that will guide the project direction
+      <br>• Learn about HCI process and sharing on UXC cases.
+      <br>• Be introduced to UXC tools on how to define project scope.
+      <br>• Craft a philosophy statement that will guide the project direction.
       <br>
       <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
     </td>    
@@ -261,9 +261,9 @@ third_nav_title: Our Core Competencies
       <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
-      <br>•  Recognise the mindsets that smart regulators need
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
+      <br>•  Understand how and why Smart Regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
       <br>
       <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
     </td>    
@@ -279,9 +279,9 @@ third_nav_title: Our Core Competencies
       <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
       <br>
       <br>Learning Outcomes:
-      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators 
-      <br>• Identify ways to ensure regulatory rules are risk calibrated 
-      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry
+      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators. 
+      <br>• Identify ways to ensure regulatory rules are risk calibrated.
+      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry.
       <br>
       <a href="https://www.eventbrite.sg/e/mas-future-ready-regulations-for-innovation-in-payment-services-tickets-117622978495">Click here to register.</a> 
     </td>    
