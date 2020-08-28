@@ -1,9 +1,7 @@
-_ pswlf-2020/3e-hr.md
-
 ---
-title: Accounting and Finance
+title: Human Resource
 permalink: /pswlf-2020/job-specific-skills/3e-hr/
-breadcrumb: 'Accounting and Finance'
+breadcrumb: 'Human Resource'
 third_nav_title: Job Specific Skills
 ---
 
