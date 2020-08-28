@@ -43,7 +43,7 @@ third_nav_title: Job Specific Skills
       <a href="https://tips-from-behavioural-sciences.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/engage5.jpg">
+     <img src="/images/engage6.jpg">
     </td>
 </tr>
 	</table>
