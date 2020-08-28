@@ -19,8 +19,8 @@ third_nav_title: Job Specific Skills
       <br>Based on NACLI’s WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
       <br>
       <br>Learning Outcomes:
-      <br>∙ Understand the basics of communication
-      <br>∙ Engage in more meaningful and purposeful conversations with colleagues and stakeholders
+      <br>• Understand the basics of communication
+      <br>• Engage in more meaningful and purposeful conversations with colleagues and stakeholders
 	    <br>
       <a href="https://cafe-siu-dai-14_oct_2020.eventbrite.sg">Click here to register for 14 October session.</a> <br>
       <a href="https://cafe-siu-dai-23_oct_2020.eventbrite.sg">Click here to register for 23 October session.</a> 
@@ -56,9 +56,9 @@ third_nav_title: Job Specific Skills
       <br>Ever wondered how we can continue to engage our citizens in the COVID-19 world and beyond?  Or rather, how might we leverage technology and continue to engage our citizens in interesting ways using virtual tools like Zoom? In this 2-hour workshop, you will learn how to increase engagement through virtual platforms, including some good practices by the People’s Association on how  virtual tools are used for residents’ gathering.  Join us for some practical tips and some fun on virtual community engagement!
       <br>      
       <br>Learning Outcomes:
-      <br>∙ Execute the basic functions of Zoom as a host in citizen engagement
-      <br>∙ Learn tips to engage citizens through interactive virtual activities
-      <br>∙ Learn how PA tapped on Zoom for virtual community engagement
+      <br>• Execute the basic functions of Zoom as a host in citizen engagement
+      <br>• Learn tips to engage citizens through interactive virtual activities
+      <br>• Learn how PA tapped on Zoom for virtual community engagement
 	 <br>
       <a href="https://virtualising-community-engagement-19_oct_2020.eventbrite.sg">Click here to register for 19 October session.</a><br>
       <a href="https://virtualising-community-engagement-22_oct_2020.eventbrite.sg">Click here to register for 22 October session.</a> 
