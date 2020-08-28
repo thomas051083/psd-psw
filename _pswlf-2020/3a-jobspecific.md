@@ -18,19 +18,19 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#community"><img src="images/communityengagement.jpg"></a>
+	    <a href="/pswlf-2020/job-specific-skills/3c-community/"><img src="images/communityengagement.jpg"></a>
 		<font size="4"><b><i>Community Engagement and Partnership</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	<a href="#corpadmin"><img src="/images/admin1.jpg"></a>
+	<a href="/pswlf-2020/job-specific-skills/3d-admin/"><img src="/images/admin1.jpg"></a>
 		<font size="4"><b><i>Corporate Admin</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#hr"><img src="/images/humanresource.jpg"></a>
+	    <a href="/pswlf-2020/job-specific-skills/3e-hr/"><img src="/images/humanresource.jpg"></a>
 		  <font size="4"><b><i>Human Resource</i></b></font>
 		</figure>
     </div>
@@ -40,19 +40,19 @@ Workouts are available for officers in the following job families. Each ‘exerc
 	</div>
     <div class="col is-3">
 	     <figure style="margin:0;">
-	    <a href="#regulation"><img src="/images/regulation.jpg"></a>
+	    <a href="/pswlf-2020/job-specific-skills/3f-regulation/"><img src="/images/regulation.jpg"></a>
 		  <font size="4"><b><i>Regulation and Enforcement</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#service"><img src="/images/service2.jpg"></a>
+	    <a href="#s/pswlf-2020/job-specific-skills/3g-service/"><img src="/images/service2.jpg"></a>
 		  <font size="4"><b><i>Service Delivery</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="#science"><img src="/images/science1.jpg"></a>
+	    <a href="/pswlf-2020/job-specific-skills/3h-science/"><img src="/images/science1.jpg"></a>
 		 <font size="4"><b><i>Science Tech & Engineering</i></b></font>
 		</figure>
 	</div>
