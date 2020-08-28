@@ -1,6 +1,6 @@
 ---
 title: Job Specific Skills
-permalink: /pswlf-2020/3-jobspecific
+permalink: /pswlf-2020/3a-jobspecific
 breadcrumb: 'Job Specific Skills'
 ---
 ### <font color="orangered"><b>Job Specific Skills</b></font>
