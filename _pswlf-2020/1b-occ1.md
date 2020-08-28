@@ -32,9 +32,9 @@ third_nav_title: Our Core Competencies
       <br>How to conduct stakeholder analysis in project scoping.
       <br>
       <br>Learning Outcomes:
-      <br> Be introduced to stakeholder analysis. 
-      <br> Know who to engage with in order to achieve successful implementation of their projects or policies. 
-      <br> Learn about defining the project scope.
+      <br>• Be introduced to stakeholder analysis. 
+      <br>• Know who to engage with in order to achieve successful implementation of their projects or policies. 
+      <br>• Learn about defining the project scope.
            <br>
       <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a> 
     </td>    
