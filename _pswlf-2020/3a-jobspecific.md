@@ -2,6 +2,7 @@
 title: Job Specific Skills
 permalink: /pswlf-2020/job-specific-skills/3a-jobspecific
 breadcrumb: 'Job Specific Skills'
+third_nav_title: Job Specific Skills
 ---
 ### <font color="orangered"><b>Job Specific Skills</b></font>
 Workouts are available for officers in the following job families. Each ‘exercise’ is curated to help you stay in tip-top shape to cope with rapid changes in your work and workplace requirements.<br>
