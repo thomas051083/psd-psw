@@ -60,23 +60,6 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>Do You Get Stuck When You Are Trying to Come up Creative Ideas in Your Team?</b>
-      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>How to conduct ideation and use ideation tools.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas 
-      <br>• Be introduced to the process of brainstorming
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovate1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
       <b>Future-Ready Service Transformation@MOE</b>
       <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
