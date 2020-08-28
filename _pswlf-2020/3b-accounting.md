@@ -26,7 +26,7 @@ third_nav_title: Job Specific Skills
       <a href="https://finance-foundation-programme.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Engage4.jpg">
+     <img src="/images/finance2.jpg">
     </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ third_nav_title: Job Specific Skills
       <a href="https://fundamentals-of-public-finance-management.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/finance1.jpg">
     </td>
 </tr>	
 </table>
