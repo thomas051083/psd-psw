@@ -16,8 +16,8 @@ third_nav_title: Our Core Competencies
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>
       <br>Learning Outcomes:
-      <br>• Understand the challenges faced in the global drug landscape  
-      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>• Understand the challenges faced in the global drug landscape.
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs.
       <br>
       <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
     </td>    
@@ -33,9 +33,9 @@ third_nav_title: Our Core Competencies
       <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
-      <br>•  Recognise the mindsets that smart regulators need
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
       <br>
       <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
     </td>    
@@ -51,9 +51,9 @@ third_nav_title: Our Core Competencies
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand what OneMap is
-      <br>• Recognise the various functionalities within OneMap
-      <br>•  Identify features and application for users
+      <br>• Understand what OneMap is.
+      <br>• Recognise the various functionalities within OneMap.
+      <br>• Identify features and application for users.
       <br>
       <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
     </td>    
@@ -69,8 +69,8 @@ third_nav_title: Our Core Competencies
       <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
-      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
       <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
@@ -86,9 +86,9 @@ third_nav_title: Our Core Competencies
       <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
       <br>
       <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
       <br>
       <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
     </td>    
@@ -104,8 +104,8 @@ third_nav_title: Our Core Competencies
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
-      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
+      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens. 
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them. 
       <br>
       <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
     </td>    
@@ -121,9 +121,9 @@ third_nav_title: Our Core Competencies
       <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
       <br>
       <br>Learning Outcomes:
-      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them
-      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
-      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
       <br>
       <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
     </td>    
@@ -139,7 +139,7 @@ third_nav_title: Our Core Competencies
       <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity
+      <br>• Articulate what makes a National Digital Identity.
       <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
       <br>
       <br>
@@ -157,9 +157,9 @@ third_nav_title: Our Core Competencies
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases
-      <br>• Be introduced to UXC tools on how to define project scope
-      <br>• Craft a philosophy statement that will guide the project direction
+      <br>• Learn about HCI process and sharing on UXC cases.
+      <br>• Be introduced to UXC tools on how to define project scope.
+      <br>• Craft a philosophy statement that will guide the project direction.
       <br>
       <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
     </td>    
