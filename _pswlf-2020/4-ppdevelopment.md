@@ -1,5 +1,3 @@
-PPD with sessions
-
 ---
 title: Professional & Personal Development
 permalink: /pswlf-2020/4-ppdevelopment
