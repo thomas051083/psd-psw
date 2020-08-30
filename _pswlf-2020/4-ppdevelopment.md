@@ -57,7 +57,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>AI for Everyone</b>
-      <br>20 Oct 2020, 10.00am – 1.00pm| Platform: Zoom
+      <br>20 October 2020, 10.00am – 1.00pm| Platform: Zoom
       <br>       
        <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
       <br>
@@ -84,13 +84,13 @@ breadcrumb: 'Professional & Personal Development'
       <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/digital3.jpg">
+     <img src="/images/rpa1.jpg">
     </td>
 </tr>
 <tr>
     <td>
       <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
-      <br>28 Oct 2020, 2.00pm – 3.00pm | Platform: Zoom
+      <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the HR and Corporate Admin job families for this session.</i></font> 
       <br>       
       <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
@@ -120,7 +120,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Change as Opportunity</b>
-      <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>22 October 2020, 1.00pm – 2.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
       <br>       
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
@@ -138,7 +138,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Creativity & Innovation at Work</b>
-      <br>15 Oct 2020, 10.00am – 12.00pm | Platform: Zoom
+      <br>15 October 2020, 10.00am – 12.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
       <br>       
       <br>This session aims to help participants to identify opportunities, generate ideas and overcome barriers to innovation and creative problem-solving.       <br>      
@@ -154,7 +154,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Importance of Growth Mindset in a VUKA Environment</b>
-      <br>20 Oct 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>20 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Understand about growth mindset and pick up tips to develop a growth mindset.
       <br>      
@@ -171,7 +171,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Prepare for Change </b>
-      <br>15 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>15 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
       <br>      
@@ -188,7 +188,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b>
-      <br>13 Oct 2020, 10.00am – 12.00pm | Platform: Zoom
+      <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
       <br>       
       <br>Behavioural Insights is the study that combines insights from psychology, cognitive science, and social science with empirically-tested results to discover how humans actually make choices. Gain an understanding of this concept and how habits can be nudged through design. 
@@ -235,7 +235,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Financial Adequacy</b>
-      <br>26 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
       <br>      
@@ -245,7 +245,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>• Plan for other sources of income to support your financial goals 
       <br>• When you are prepared, you will be more confident
 	    <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
      <img src="/images/pay1.jpg">
@@ -270,12 +270,11 @@ breadcrumb: 'Professional & Personal Development'
 	<br>4. HR
 	<br>5. Regulation, Enforcement & Compliance </i></font>
       <br>       
-      <br>Manage your Career Planning Better with Career Coaching
+      <br>Gain insights from personalised coaching with our career coaches to manage your career.
       <br>      
       <br>Learning Outcomes:
       <br>∙ How do I plan and grow my career? How do I make informed career decisions?
       <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
-      <br>∙ If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
@@ -294,7 +293,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Be a Volunteer</b>
-      <br>29 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>29 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone.
       <br>      
@@ -302,7 +301,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>• Understand the benefits of volunteering
       <br>• Make new friends who are championing the same cause
 	    <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://be-a-volunteer.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/volunteer.jpeg">
@@ -311,14 +310,14 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b>
-      <br>23 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>23 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
      <br>The easiest way to understand mindfulness is to experientially focus all of your attention on your thoughts, feelings, and actions as they occur in order to see them more clearly, without making so many assumptions.  
       <br>      
       <br>Learning Outcomes:
       <br>• Explain the benefits of mindfulness and conduct simple exercises to boost the areas of the brain to cultivate focus
 	    <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://mindfulness-key-to-self-awareness.eventbrite.sg/">Click here to register.</a> 
     </td>    
 	<td>
      <img src="/images/health1.jpg">
@@ -327,14 +326,14 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Your Physical Well-being </b>
-      <br>28 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
      <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
       <br>      
       <br>Learning Outcomes:
 	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
 	    <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
      <img src="/images/health2.jpg">
@@ -343,17 +342,18 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Retirement and Re-employment Preparedness Programme</b>
-      <br>13 Oct 2020, 10.00am – 11.00am | Platform: Zoom
+      <br>13 October 2020, 10.00am – 11.00am | Platform: Zoom
       <br>       
       <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
       <br>      
       <br>Learning Outcomes:
-      <br>• Describe the concept of re-employment and the re-employment policies in Public Service. You will also be able to use this knowledge to make informed decisions on re-employment and working beyond 62 when the time comes.
+      <br>• Describe the concept of re-employment and the re-employment policies in Public Service
+      <br>• Make informed decisions on re-employment and working beyond 62 when needed
             <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://retirement-and-reemployment.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/volunteer.jpeg">
+     <img src="/images/retirement1.jpg">
     </td>
 </tr>
 </table>
