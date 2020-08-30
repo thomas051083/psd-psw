@@ -72,7 +72,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>RPA (Robotic Process Automation) - What is it & How does it help you?/b>
+      <b>RPA (Robotic Process Automation) - What is it & How does it help you?</b>
       <br>16 Oct 2020, 9.00am – 11.00am| Platform: Zoom
       <br>       
        <br>The talk gives an introduction to RPA, its benefits and common applications of RPA at work.
