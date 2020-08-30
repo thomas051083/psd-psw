@@ -124,10 +124,10 @@ breadcrumb: 'Professional & Personal Development'
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
       <br>      
       <br>Learning Outcomes:
-      <br>• Learn how to overcome fear and uncertainty of the future
-      <br>• Understand how technological developments change the way we live and work; and the impact it has on you
+      <br>• Explain how technological development changes the way we live and work. 
+      <br>• Describe how to overcome fear and uncertainty of the future with a positive mindset
 	    <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://change-as-opportunities.eventbrite.sg/">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/change1.jpg">
@@ -152,15 +152,15 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Importance of Growth Mindset in a VUKA Environment</b>
-      <br>20 or 23 Oct 2020 | Platform: Zoom
+      <br>20 Oct 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Understand about growth mindset and pick up tips to develop a growth mindset.
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand the differences between a growth mindset and a fixed mindset
-      <br>• Pick up tips to develop a growth mindset
+      <br>• Appreciate the differences between a growth mindset and a fixed mindset
+      <br>•  Apply tips to develop a growth mindset
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://importance-of-growth-mindset.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/finance2.jpg">
@@ -174,11 +174,10 @@ breadcrumb: 'Professional & Personal Development'
       <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
       <br>      
       <br>Learning Outcomes:
-      <br>∙ Re-discover your interests, strengths and skills
-      <br>∙ Learn how to take stock of yourself and plan 5, 10 and 20 years ahead
-      <br>∙ Find your motivation and reframe your mind
+      <br>∙ Identify your interests, strengths and skills
+      <br>∙ Describe how to take stock of yourself and plan 5 - 20 years ahead
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+      <a href="https://prepare-for-changes.eventbrite.sg">Click here to register.</a>   
     </td>
     <td>
      <img src="/images/change2.jpg">
@@ -206,15 +205,15 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
      <td>
       <b>Working in Multigenerational Workplace</b>
-      <br>19 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>            
       <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand why people of different generations behave differently
-      <br>• Learn to identify strengths instead of weaknesses in people we work with
+      <br>• Explain why and how people of different generations behave differently
+      <br>• Identify strengths instead of weaknesses in people we work with
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage8.jpg">
