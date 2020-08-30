@@ -55,7 +55,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/digital4.jpg">
+     <img src="/images/digital8.jpg">
     </td>
 </tr>
 <tr>
