@@ -147,7 +147,7 @@ breadcrumb: 'Professional & Personal Development'
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Innovate1.jpg">
+     <img src="/images/finance1.jpg">
     </td>
 </tr>
 <tr>
