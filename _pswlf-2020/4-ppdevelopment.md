@@ -50,6 +50,7 @@ breadcrumb: 'Professional & Personal Development'
 <br>• Robotic Process Automation (RPA)
 <br>• Blockchain
 <br>• Online collaboration and productivity tools<br><br></font>
+
 <table>
        <col width="70%"> 
             <col width="30%"> 
@@ -66,7 +67,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>
       <a href="https://ai-for-everyone.eventbrite.sg">Click here to register.</a> 
     </td>    
-<td>
+	<td>
      <img src="/images/digital3.jpg">
     </td>
 </tr>
@@ -82,7 +83,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>
       <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
     </td>    
-<td>
+	<td>
      <img src="/images/digital3.jpg">
     </td>
 </tr>
@@ -104,6 +105,7 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 </table>
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
