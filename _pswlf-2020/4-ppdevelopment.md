@@ -64,7 +64,23 @@ breadcrumb: 'Professional & Personal Development'
       <br>∙ Understand what Artificial Intelligence (AI) is and its capabilities
       <br>∙ Recognise examples of AI
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://ai-for-everyone.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital3.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>RPA (Robotic Process Automation) - What is it & How does it help you?/b>
+      <br>16 Oct 2020, 9.00am – 11.00am| Platform: Zoom
+      <br>       
+       <br>The talk gives an introduction to RPA, its benefits and common applications of RPA at work.
+      <br>
+      <br>Learning Outcomes:
+      <br>∙ Understand what is RPA, what you can use it for and some common applications of RPA at work. 
+      <br>
+      <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital3.jpg">
@@ -81,7 +97,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>Learning Outcomes:
       <br>• Understand Singapore's AI Data Appreciation Programme and the pre-requisites
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a>   
+      <a href="https://sharing-on-ai-data-apprenticeship-programm.eventbrite.sg">Click here to register.</a>   
     </td>
     <td>
      <img src="/images/digital4.jpg">
