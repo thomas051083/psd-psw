@@ -14,7 +14,7 @@ Use this finance competency guide and learning roadmap to chart your career deve
  <br>
 Sign up for programmes based on four of the eleven technical finance competencies curated for this event.
 <br></font>
-<img src="/images/FinanceCompentecyMapping.jpeg">
+<img src="/images/FinanceCompetencyMapping.jpeg">
 <br>
 <table>
        <col width="70%"> 
