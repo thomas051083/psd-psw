@@ -54,6 +54,44 @@ Sign up for programmes based on four of the eleven technical finance competencie
 <td>
      <img src="/images/finance1.jpg">
     </td>
+</tr>
+	<tr>
+    <td>
+      <b>Microsoft Excel Intermediate</b>
+      <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session aims to show you what are some of the features available in MS Excel that allow you to work with data and present them in a chart.
+      <br>      
+      <br>Learning outcomes:
+      <br>• Demonstrate how charts can be automatically updated when new data are added
+      <br>
+      <a href="https://microsoft-excel-intermediate.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/excel1.jpg">
+    </td>
+</tr>	
+	<tr>
+    <td>
+      <b>NICF- RPA Design & Development</b>
+      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session will introduce you to programming basics, robotic process automation concepts and UiPath. You will also learn about emerging and future Trends in IT.
+      <br>      
+      <br>Learning outcomes:
+      <br>• Understand the basics of Robotic Process Automation 
+      <br>• Use and understand the various functionalities and features of UiPath Studio and Orchestrator 
+      <br>• Identify processes which can be automated 
+      <br>• Develop and deploy attended and unattended robots independently 
+      <br>• Know and apply the business best practices in RPA projects
+      <br>
+      <a href="https://rpa-design-and-development.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/rpa1.jpg">
+    </td>
 </tr>	
 </table>
 <br>
