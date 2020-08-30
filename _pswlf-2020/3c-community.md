@@ -13,7 +13,6 @@ To help you acquire the right tools, the Citizen Engagement (CE) Competency Fram
 Check out the programmes below, some of which are curated and offered only for this event. 
 <br><br></font>
  <img src="/images/CommunityCompetencyMapping.jpeg">
- <img src="/images/CommunityCompetencyMapping.png">
 <br>
 <table>
        <col width="70%"> 
