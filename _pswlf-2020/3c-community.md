@@ -10,7 +10,7 @@ third_nav_title: Job Specific Skills
 <br>
 To help you acquire the right tools, the Citizen Engagement (CE) Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide found here: https://www.hrportal.gov.sg/HR%20Resources/LearnCompet/Competency%20Bank/[Guide]%20Citizen%20Engagement%20Framework.pdf
 <br><br>
-Lishi is testing. For further details, please refer to the competency framework guide <a href="documents/Guide_Citizen Engagement Framework.pdf">here.</a>
+Lishi is testing. For further details, please refer to the competency framework guide <a href="/documents/Guide_Citizen Engagement Framework.pdf">here.</a>
 <br>
 	For further details, please refer to the competency framework guide [here](documents/Guide_Citizen Engagement Framework.pdf).
 endtest
