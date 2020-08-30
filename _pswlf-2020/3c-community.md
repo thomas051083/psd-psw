@@ -8,7 +8,11 @@ third_nav_title: Job Specific Skills
 #### <font color="darkorange"><b>Community Engagement and Partnership</b></font>
 <font size="4">Engagement and partnerships with our citizens are becoming more and more important to solve complex problems and deliver better services. Working with Singaporeans as part of Singapore Together means that we all have to be equipped with the right tools to engage, partner, and build trust.<br>
 <br>
-To help you acquire the right tools, the Citizen Engagement (CE) Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide on your intranet laptop found here: https://www.hrportal.gov.sg/HR%20Resources/LearnCompet/Competency%20Bank/[Guide]%20Citizen%20Engagement%20Framework.pdf
+To help you acquire the right tools, the Citizen Engagement (CE) Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide found here: https://www.hrportal.gov.sg/HR%20Resources/LearnCompet/Competency%20Bank/[Guide]%20Citizen%20Engagement%20Framework.pdf
+<br><br>
+Lishi is testing. For further details, please refer to the competency framework guide <a href="/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf">here.</a>
+endtest
+<br>
  
 Check out the programmes below, some of which are curated and offered only for this event. 
 <br><br></font>
