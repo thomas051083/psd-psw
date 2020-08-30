@@ -10,9 +10,9 @@ third_nav_title: Job Specific Skills
 <br>
 To help you acquire the right tools, the Citizen Engagement (CE) Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide found <a href="documents/Guide_Citizen Engagement Framework.pdf">here</a> or visit HR portal on your intranet laptop.
 <br>
- 
+<br> 
 Check out the programmes below, some of which are curated and offered only for this event. 
-<br><br></font>
+<br></font>
  <img src="/images/CommunityCompetencyMapping.jpeg">
 <br>
 <table>
