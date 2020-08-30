@@ -6,7 +6,7 @@ third_nav_title: Job Specific Skills
 ---
 
 #### <font color="darkorange"><b>Accounting and Finance</b></font> <a name="accounting"></a>
-<font size="4">AAs we move towards a lean, agile, and digital public service, finance will play a larger role in fiscal management and sustainability.
+<font size="4">As we move towards a lean, agile, and digital public service, finance will play a larger role in fiscal management and sustainability.
  <br>
  <br>
 Use this finance competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to the finance learning portal: https://intranet.mof.gov.sg/portal/Finance/Finance-Learning-Portal/Capability-Career-Development.aspx 
