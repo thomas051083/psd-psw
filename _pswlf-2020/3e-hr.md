@@ -12,7 +12,7 @@ Use this HR competency guide and learning roadmap to chart your career developme
 <br>
 Check out the programmes below, some of which are curated and offered only for this event. 
 <br><br></font>
-<img src="/images/HRCompetencyMapping.jpeg">
+<img src="/images/hrcompetencymapping.jpeg">
 
 
 <table>
