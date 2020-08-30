@@ -89,7 +89,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/generating-creative-ideas-tickets-117953390767">Click here to register.</a>   
     </td>
 <td>
-     <img src="/images/project1.jpg">
+     <img src="/images/innovationtest2.png">
     </td>
 </tr>
 <tr>	
