@@ -12,7 +12,7 @@ To help you acquire the right tools, the Citizen Engagement (CE) Competency Fram
 <br><br>
 Lishi is testing. For further details, please refer to the competency framework guide <a href="/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf">here.</a>
 <br>
-	For further details, please refer to the competency framework guide [here](/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf)
+	For further details, please refer to the competency framework guide [here](documents/Guide_Citizen Engagement Framework.pdf).
 endtest
 
 <br>
