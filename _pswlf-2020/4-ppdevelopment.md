@@ -273,8 +273,8 @@ breadcrumb: 'Professional & Personal Development'
       <br>Gain insights from personalised coaching with our career coaches to manage your career.
       <br>      
       <br>Learning Outcomes:
-      <br>∙ How do I plan and grow my career? How do I make informed career decisions?
-      <br>∙ How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
+       <br>• How do I plan and grow my career? How do I make informed career decisions?
+      <br>• How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
       <br>
       <a href="http://www.csc.gov.sg">Click here to register.</a> 
     </td>
