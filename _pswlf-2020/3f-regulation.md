@@ -11,7 +11,7 @@ third_nav_title: Job Specific Skills
 To help you embrace smart regulations, check out the programmes below, some of which are offered right here at the Learning Festival!
 <br><br></font>
 
- <img src="/images/RegulationCompetencyMapping.jpg">
+ <img src="/images/RegulationCompetencyMapping.jpeg">
 <br>
 
 <table>
