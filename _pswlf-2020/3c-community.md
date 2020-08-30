@@ -1,6 +1,6 @@
 ---
 title: Community Engagement and Partnership
-permalink: /pswlf-2020/job-specific-skills/3c-community/
+permalink: /pswlf-2020/job-specific-skills/3c-community/br>
 breadcrumb: 'Community Engagement and Partnership'
 third_nav_title: Job Specific Skills
 ---
@@ -11,7 +11,10 @@ third_nav_title: Job Specific Skills
 To help you acquire the right tools, the Citizen Engagement (CE) Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide found here: https://www.hrportal.gov.sg/HR%20Resources/LearnCompet/Competency%20Bank/[Guide]%20Citizen%20Engagement%20Framework.pdf
 <br><br>
 Lishi is testing. For further details, please refer to the competency framework guide <a href="/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf">here.</a>
+<br>
+	For further details, please refer to the competency framework guide [here](/documents/businesses/handbook-on-the-Application-procedures-for-a-certificate-of-origin-via-tradenet-and-related-administrative-matters-Jan-2020(2).pdf)
 endtest
+
 <br>
  
 Check out the programmes below, some of which are curated and offered only for this event. 
