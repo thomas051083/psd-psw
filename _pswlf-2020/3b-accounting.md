@@ -6,8 +6,14 @@ third_nav_title: Job Specific Skills
 ---
 
 #### <font color="darkorange"><b>Accounting and Finance</b></font> <a name="accounting"></a>
-<font size="4">With more pervasive use of technology to automate various finance and accounting functions, seize the opportunity to boost your skills in areas such data analytics to extract insights from data, advanced use of Excel for more effective analysis and reporting, and use of Robotic Process Automation to reduce human error.<br><br></font>
-
+<font size="4">As we move towards a lean, agile, and digital public service, finance will play a larger role in fiscal management and sustainability.
+ 
+Use this finance competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to the finance learning portal: https://intranet.mof.gov.sg/portal/Finance/Finance-Learning-Portal/Capability-Career-Development.aspx 
+ 
+Sign up for programmes based on four of the eleven technical finance competencies curated for this event.
+<br><br></font>
+<img src="/images/finance1.jpg">
+<br>
 <table>
        <col width="70%"> 
             <col width="30%">
