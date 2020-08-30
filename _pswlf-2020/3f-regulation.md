@@ -6,7 +6,14 @@ third_nav_title: Job Specific Skills
 ---
 
 #### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
-<font size="4">You support Singapore’s transformation to becoming a Smart Nation governed with enlightened and enabling policies and regulation. Learn how smart regulation principles are being applied by public sector agencies in policy-making and gain practical pointers for front-line enforcement officers handling increasingly challenging ground situations.<br><br></font>
+<font size="4">As the enterprise landscape transforms, the public sector needs to be more pro-active in anticipating business needs. Cross-cutting regulatory work across multiple agencies would be needed to facilitate a nimbler and more robust regulatory framework. 
+ 
+To help you embrace smart regulations, check out the programmes below, some of which are offered right here at the Learning Festival!
+<br><br></font>
+
+ <img src="/images/RegulationCompetencyMapping.jpg">
+<br>
+
 <table>
        <col width="70%"> 
             <col width="30%">
