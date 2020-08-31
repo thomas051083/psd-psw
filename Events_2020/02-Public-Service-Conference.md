@@ -16,7 +16,7 @@ The Public Service Conference 2020 will give insights on how public officers sho
 
 **Date and Time:** 8 October 2020, 10.00AM - 11.00AM <br>
 **Virtual Platform:** Zoom Webinar <br>
-**Registration Link** will be shared nearer to the date of event<br> 
+You may register <a href="https://gems.gevme.com/public-service-week-22695027">here</a>.<br> 
   
 
 ## What you can look forward to:
