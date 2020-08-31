@@ -22,7 +22,7 @@ Check out the programmes below, some of which are curated and offered only for t
     <td>
       <b>Cafe Siu Dai</b>
       <br>14 or 23 October 2020, 10.00am – 12.00pm |Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
+	<br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>Based on NACLI’s WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
       <br>
@@ -41,7 +41,7 @@ Check out the programmes below, some of which are curated and offered only for t
     <td>
       <b>Public Engagement Network Webinar</b>
       <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>In this PEN session, participants will gain deeper understanding of the Emerging Stronger Conversation (ESC) journey where in-service senior practitioners will share rich insights and anecdotes on the conceptualisation and strategies of ESC, the behind-the-scenes Whole of Government and Whole of Nation coordination and challenges.
       <br>      
@@ -59,7 +59,7 @@ Check out the programmes below, some of which are curated and offered only for t
     <td>
       <b>Virtualising Community Engagement</b>
       <br>19 or 22 October 2020, 9.00am – 11.00am | Platform: Zoom
-      <br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>Ever wondered how we can continue to engage our citizens in the COVID-19 world and beyond?  Or rather, how might we leverage technology and continue to engage our citizens in interesting ways using virtual tools like Zoom? In this 2-hour workshop, you will learn how to increase engagement through virtual platforms, including some good practices by the People’s Association on how  virtual tools are used for residents’ gathering.  Join us for some practical tips and some fun on virtual community engagement!
       <br>      
@@ -80,7 +80,7 @@ Check out the programmes below, some of which are curated and offered only for t
     <td>
       <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides</b>
       <br>15 or 28 October 2020 , 9.00am - 11.30am | Platform: Zoom
-	 <br><font color="dimgrey"><i>We will be prioritising officers from the Citizen Engagement and Community Development, Partnership & Engagement job family for this session.</i></font>
+	 <br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
       <br>In this interactive session, participants will get to explore and learn how to use and apply digital tools such as Zoom, Padlet and Google Slides in their engagements with citizens and stakeholders.
       <br>      
