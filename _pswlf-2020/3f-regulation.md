@@ -23,7 +23,8 @@ To help you embrace smart regulations, check out the programmes below, some of w
       <br>30 October 2020, 3.30pm - 5.30pm | Platform: Zoom
       <br>       
       <br>This session provides a case study on how smart regulations was applied in the Massage Establishment, Liqour Control and Arms & Explosives regime.
-      <br>Learning outcomes:
+      <br>
+	    <br>Learning outcomes:
       <br>• Describe how smart regulations can be applied in deriving regulatory regimes
       <br>
       <a href="https://risk-based-approach-licenses.eventbrite.sg/">Click here to register.</a> 
@@ -39,7 +40,7 @@ To help you embrace smart regulations, check out the programmes below, some of w
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br><br>      
+      <br>      
       <br>Learning Outcomes:
       <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
       <br>• Articulate the lessons learnt in improving business processes 
