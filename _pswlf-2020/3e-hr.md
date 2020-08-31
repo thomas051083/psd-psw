@@ -1,11 +1,11 @@
 ---
-title: Human Resource
+title: Human Resources
 permalink: /pswlf-2020/job-specific-skills/3e-hr/
-breadcrumb: 'Human Resource'
+breadcrumb: 'Human Resources'
 third_nav_title: Job Specific Skills
 ---
 
-#### <font color="darkorange"><b>Human Resource</b></font> <a name="hr"></a>
+#### <font color="darkorange"><b>Human Resources</b></font> <a name="hr"></a>
 <font size="4">As we move towards a lean, agile, and digital public service with skilled and adaptable leaders and officers, HR will play a key enabling role in this process. Our talent management strategy will have a major bearing on the success of our agencies’ transformation.
 <br><br>
 Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal (intranet): https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
