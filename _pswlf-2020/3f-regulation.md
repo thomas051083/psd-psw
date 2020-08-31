@@ -1,11 +1,11 @@
 ---
-title: Regulation and Enforcement
+title: Regulation, Enforcement & Compliance
 permalink: /pswlf-2020/job-specific-skills/3f-regulation/
-breadcrumb: 'Regulation and Enforcement'
+breadcrumb: 'Regulation, Enforcement & Compliance'
 third_nav_title: Job Specific Skills
 ---
 
-#### <font color="darkorange"><b>Regulation and Enforcement</b></font> <a name="regulation"></a>
+#### <font color="darkorange"><b>Regulation, Enforcement & Compliance</b></font> <a name="regulation"></a>
 <font size="4">As the enterprise landscape transforms, the public sector needs to be more pro-active in anticipating business needs. Cross-cutting regulatory work across multiple agencies would be needed to facilitate a nimbler and more robust regulatory framework. 
  
 To help you embrace smart regulations, check out the programmes below, some of which are offered right here at the Learning Festival!
