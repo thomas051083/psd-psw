@@ -266,8 +266,8 @@ breadcrumb: 'Professional & Personal Development'
 	<br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session.
 	<br>1. Accounting & Finance
 	<br>2. Community Development, Partnership & Engagement
-	<br>3. Corporate Admin
-	<br>4. HR
+	<br>3. Corporate Administration & Operations
+	<br>4. Human Resources
 	<br>5. Regulation, Enforcement & Compliance </i></font>
       <br>       
       <br>Gain insights from personalised coaching with our career coaches to manage your career.
