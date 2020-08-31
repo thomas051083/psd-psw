@@ -9,7 +9,7 @@ third_nav_title: Job Specific Skills
 <font size="4">As we move towards a lean, agile, and digital public service, finance will play a larger role in fiscal management and sustainability.
  <br>
  <br>
-Use this finance competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to the finance learning portal: https://intranet.mof.gov.sg/portal/Finance/Finance-Learning-Portal/Capability-Career-Development.aspx 
+Use this finance competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to the Finance Learning Portal (intranet): https://intranet.mof.gov.sg/portal/Finance/Finance-Learning-Portal/Capability-Career-Development.aspx 
  <br>
  <br>
 Sign up for programmes based on four of the eleven technical finance competencies curated for this event.
