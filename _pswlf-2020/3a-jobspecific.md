@@ -45,7 +45,7 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <div class="col is-3">
 	    <figure style="margin:0;">
 	    <a href="/pswlf-2020/job-specific-skills/3g-science/"><img src="/images/science1.jpg"></a>
-		  <font size="4"><b><i>Science, Techology & Engineering</i></b></font>
+		  <font size="4"><b><i>Science, Technology & Engineering</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
