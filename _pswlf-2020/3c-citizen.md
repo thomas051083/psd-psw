@@ -5,7 +5,7 @@ breadcrumb: 'title: Citizen Engagement'
 third_nav_title: Job Specific Skills
 ---
 
-#### <font color="darkorange"><b>title: Citizen Engagement</b></font>
+#### <font color="darkorange"><b>Citizen Engagement</b></font>
 <font size="4">Engagement and partnerships with our citizens are becoming more and more important to solve complex problems and deliver better services. Working with Singaporeans as part of Singapore Together means that we all have to be equipped with the right tools to engage, partner, and build trust.<br>
 <br>
 Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal (intranet): https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
