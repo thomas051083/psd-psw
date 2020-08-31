@@ -75,7 +75,7 @@ Sign up for programmes based on four of the eleven technical finance competencie
 	<tr>
     <td>
       <b>NICF- RPA Design & Development</b>
-      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>26 October 2020, 2.00pm - 3.00pm | Platform: Zoom
       <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
       <br>       
       <br>This session will introduce you to programming basics, robotic process automation concepts and UiPath. You will also learn about emerging and future Trends in IT.
