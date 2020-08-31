@@ -1,6 +1,6 @@
 ---
 title: Citizen Engagement
-permalink: /pswlf-2020/job-specific-skills/3c-citizen/
+permalink: /pswlf-2020/job-specific-skills/3c-community/
 breadcrumb: 'title: Citizen Engagement'
 third_nav_title: Job Specific Skills
 ---
