@@ -16,8 +16,8 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="/pswlf-2020/job-specific-skills/3c-community/"><img src="images/communityengagement.jpg"></a>
-		<font size="4"><b><i>Community Engagement and Partnership</i></b></font>
+	    <a href="/pswlf-2020/job-specific-skills/3c-citizen/"><img src="images/communityengagement.jpg"></a>
+		<font size="4"><b><i>Citizen Engagement</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
