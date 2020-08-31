@@ -91,7 +91,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
       <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the HR and Corporate Admin job families for this session.</i></font> 
+	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the Human Resources, Corporate Administration & Operations job families for this session.</i></font> 
       <br>       
       <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
       <br>      
@@ -121,7 +121,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Change as Opportunity</b>
       <br>22 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
+	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.
       <br>      
@@ -139,7 +139,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Creativity & Innovation at Work</b>
       <br>15 October 2020, 10.00am – 12.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
+	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
       <br>This session aims to help participants to identify opportunities, generate ideas and overcome barriers to innovation and creative problem-solving.       <br>      
       <br>Learning Outcomes:
@@ -189,7 +189,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b>
       <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>
+	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
       <br>Behavioural Insights is the study that combines insights from psychology, cognitive science, and social science with empirically-tested results to discover how humans actually make choices. Gain an understanding of this concept and how habits can be nudged through design. 
 <br>      
