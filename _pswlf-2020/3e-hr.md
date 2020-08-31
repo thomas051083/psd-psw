@@ -7,9 +7,9 @@ third_nav_title: Job Specific Skills
 
 #### <font color="darkorange"><b>Human Resource</b></font> <a name="hr"></a>
 <font size="4">As we move towards a lean, agile, and digital public service with skilled and adaptable leaders and officers, HR will play a key enabling role in this process. Our talent management strategy will have a major bearing on the success of our agencies’ transformation.
-<br>
-Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal: https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
-<br>
+<br><br>
+Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal (intranet): https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
+<br><br>
 Check out the programmes below, some of which are curated and offered only for this event. 
 <br><br></font>
 <img src="/images/hrcompetencymapping.jpeg">
