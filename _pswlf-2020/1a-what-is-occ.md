@@ -23,7 +23,7 @@ Choose from virtual sessions hosted by different agencies and/or bite-sized LEAR
 <font size="4.5"> Our Core Competencies (OCC) define the critical behaviours expected of all officers across the Public Service, from support officers to leaders. It will replace the AIM model and will be used for appraisal and development in the Civil Service from January 2021. Retaining the core strengths of the AIM, the OCC has 6 core competencies and 2 additional competencies for supervisors and leaders. Please visit www.ourcorecompetencies.gov.sg (intranet) for more details on OCC and training programmes.
 		    <br><br> Complete your OCC LEARN modules by end 2020:<br>
 ∙ <a href="https://www.learn.gov.sg/dlp/student/course/143239">[For Officers] Our Core Competencies</a><br>
-∙ <a href="https://www.learn.gov.sg/dlp/student/course/163954">[For Supervisors] Our Core Competencies</a><br></font>
+∙ <a href="https://www.learn.gov.sg/dlp/student/course/163954">[For Supervisors] Our Core Competencies</a><br></font><br>
 	    <font size="3"><i>*Supervisors are to complete both modules.</i></font>
 <br>
 <br>	
