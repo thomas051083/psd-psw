@@ -342,7 +342,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>Retirement and Re-employment Preparedness Programme</b>
-      <br>13 October 2020, 10.00am – 11.00am | Platform: Zoom
+      <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
       <br>       
       <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
       <br>      
