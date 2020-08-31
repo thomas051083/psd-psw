@@ -1,11 +1,11 @@
 ---
-title: Science Tech & Engineering
+title: Science, Technology & Engineering
 permalink: /pswlf-2020/job-specific-skills/3g-science/
-breadcrumb: 'Science Tech & Engineering'
+breadcrumb: 'Science, Technology & Engineering'
 third_nav_title: Job Specific Skills
 ---
 
-#### <font color="darkorange"><b>Science Tech & Engineering</b></font> <a name="science"></a>
+#### <font color="darkorange"><b>Science, Technology & Engineering</b></font> <a name="science"></a>
 <font size="4">The dramatic rise of powerful technologies is already transforming the way we live, work and play in Singapore. Keep abreast of how emerging and cutting-edge technologies are used in the public sector to strengthen our capacities in areas such as urban planning, smart facilities management, and the secure and seamless access of digital services and data.<br><br></font>
 <table>
        <col width="70%"> 
