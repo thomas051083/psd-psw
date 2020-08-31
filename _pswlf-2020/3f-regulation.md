@@ -21,6 +21,7 @@ To help you embrace smart regulations, check out the programmes below, some of w
     <td>
       <b>Risk based approach: Licences to massage establishment</b>
       <br>30 October 2020, 3.30pm - 5.30pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
       <br>       
       <br>This session provides a case study on how smart regulations was applied in the Massage Establishment, Liqour Control and Arms & Explosives regime.
       <br>
