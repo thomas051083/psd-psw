@@ -16,20 +16,20 @@ Workouts are available for officers in the following job families. Each ‘exerc
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
-	    <a href="/pswlf-2020/job-specific-skills/3c-citizen/"><img src="images/communityengagement.jpg"></a>
-		<font size="4"><b><i>Citizen Engagement</i></b></font>
+	    <a href="/pswlf-2020/job-specific-skills/3c-community/"><img src="images/communityengagement.jpg"></a>
+		<font size="4"><b><i>Community Development, Partnership & Engagement</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
 	<a href="/pswlf-2020/job-specific-skills/3d-admin/"><img src="/images/admin1.jpg"></a>
-		<font size="4"><b><i>Corporate Admin</i></b></font>
+		<font size="4"><b><i>Corporate Administration & Operations</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
 	    <a href="/pswlf-2020/job-specific-skills/3e-hr/"><img src="/images/humanresource.jpg"></a>
-		  <font size="4"><b><i>Human Resource</i></b></font>
+		  <font size="4"><b><i>Human Resources</i></b></font>
 		</figure>
     </div>
 </div>
@@ -39,13 +39,13 @@ Workouts are available for officers in the following job families. Each ‘exerc
     <div class="col is-3">
 	     <figure style="margin:0;">
 	    <a href="/pswlf-2020/job-specific-skills/3f-regulation/"><img src="/images/regulation.jpg"></a>
-		  <font size="4"><b><i>Regulation and Enforcement</i></b></font>
+		  <font size="4"><b><i>Regulation, Enforcement & Compliance</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
 	    <figure style="margin:0;">
 	    <a href="/pswlf-2020/job-specific-skills/3g-science/"><img src="/images/science1.jpg"></a>
-		  <font size="4"><b><i>Science Tech & Engineering</i></b></font>
+		  <font size="4"><b><i>Science, Techology & Engineering</i></b></font>
 		</figure>
     </div>
     <div class="col is-3">
