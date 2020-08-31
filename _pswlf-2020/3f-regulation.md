@@ -39,7 +39,7 @@ To help you embrace smart regulations, check out the programmes below, some of w
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
       <br>       
       <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>      
+      <br><br>      
       <br>Learning Outcomes:
       <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
       <br>• Articulate the lessons learnt in improving business processes 
