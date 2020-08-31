@@ -1,14 +1,14 @@
 ---
-title: Community Engagement and Partnership
-permalink: /pswlf-2020/job-specific-skills/3c-community/
-breadcrumb: 'Community Engagement and Partnership'
+title: Citizen Engagement
+permalink: /pswlf-2020/job-specific-skills/3c-citizen/
+breadcrumb: 'title: Citizen Engagement'
 third_nav_title: Job Specific Skills
 ---
 
-#### <font color="darkorange"><b>Community Engagement and Partnership</b></font>
+#### <font color="darkorange"><b>title: Citizen Engagement</b></font>
 <font size="4">Engagement and partnerships with our citizens are becoming more and more important to solve complex problems and deliver better services. Working with Singaporeans as part of Singapore Together means that we all have to be equipped with the right tools to engage, partner, and build trust.<br>
 <br>
-To help you acquire the right tools, the Citizen Engagement (CE) Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide <a href="documents/Guide_Citizen Engagement Framework.pdf">here</a> or visit HR portal on your intranet laptop.
+Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal (intranet): https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
 <br>
 <br> 
 Check out the programmes below, some of which are curated and offered only for this event. 
