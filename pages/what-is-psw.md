@@ -11,5 +11,5 @@ The theme for Public Service Week 2020 is <b>Together, we can overcome as One Pu
 <br>
 <br>
 
-PSW2020 will be held virtually via Workplace by Facebook and Zoom Webinar*. <br>
-<i>*Priority will be given to officers who were not issued Workplace by Facebook accounts.</i>
+PSW2020 will be held virtually via Zoom Webinar. <br>
+
