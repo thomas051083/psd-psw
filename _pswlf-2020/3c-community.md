@@ -24,7 +24,7 @@ Check out the programmes below, some of which are curated and offered only for t
       <br>14 or 23 October 2020, 10.00am – 12.00pm |Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
-      <br>Based on NACLI’s WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
+      <br>Based on National Community Leadership Institute's (NACLI) WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
       <br>
       <br>Learning Outcomes:
       <br>• Understand the basics of communication
