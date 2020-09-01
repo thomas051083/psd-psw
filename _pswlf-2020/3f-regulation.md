@@ -5,15 +5,24 @@ breadcrumb: 'Regulation, Enforcement & Compliance'
 third_nav_title: Job Specific Skills
 ---
 
-#### <font color="darkorange"><b>Regulation, Enforcement & Compliance</b></font> <a name="regulation"></a>
+#### <font color="darkorange"><b>Regulation, Enforcement & Compliance</b></font>
+##### <font color="darkorange"><b>Smart Regulation</b></font>
 <font size="4">As the enterprise landscape transforms, the public sector needs to be more pro-active in anticipating business needs. Cross-cutting regulatory work across multiple agencies would be needed to facilitate a nimbler and more robust regulatory framework. 
  
 To help you embrace smart regulations, check out the programmes below, some of which are offered right here at the Learning Festival!
-<br><br></font>
+<br></font>
 
  <img src="/images/RegulationCompetencyMapping.jpeg">
 <br>
+##### <font color="darkorange"><b>Enforcement</b></font>
+<font size="4">To address increasingly complex business and citizen needs, service officers need to collaborate closely within and across agencies to co-develop solutions to enhance enforcement effectiveness. We also need to engage citizens for better appreciation and co-operation with our enforcement efforts.
 
+To help you acquire the required proficiencies, the Enforcement Competency Framework has been developed and outlines 5 key competencies and associated descriptors. For further details, please refer to the competency framework guide (intranet) found here: https://www.hrportal.gov.sg/HR Resources/LearnCompet/Competency Bank/%5bGuide%5d Enforcement Competency Framework.pdf.
+ 
+Check out the programmes below, some of which are curated and offered only for this event.<br></font>
+
+<img src="/images/enforcementcompetencymapping.jpeg"> 
+<br>
 <table>
        <col width="70%"> 
             <col width="30%">
