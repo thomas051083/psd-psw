@@ -8,8 +8,7 @@ third_nav_title: Job Specific Skills
 #### <font color="darkorange"><b>Community Development, Partnership & Engagement</b></font>
 <font size="4">Engagement and partnerships with our citizens are becoming more and more important to solve complex problems and deliver better services. Working with Singaporeans as part of Singapore Together means that we all have to be equipped with the right tools to engage, partner, and build trust.<br>
 <br>
-Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal (intranet): https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
-<br>
+To help you acquire the right tools, the Citizen Engagement Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide (intranet) found here: https://www.hrportal.gov.sg/HR%20Resources/LearnCompet/Competency%20Bank/[Guide]%20Citizen%20Engagement%20Framework.pdf
 <br> 
 Check out the programmes below, some of which are curated and offered only for this event. 
 <br></font>
