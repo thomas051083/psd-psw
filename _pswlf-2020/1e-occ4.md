@@ -134,7 +134,7 @@ third_nav_title: Our Core Competencies
 <tr>
     <td>
       <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
-      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
       <br>       
       <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
