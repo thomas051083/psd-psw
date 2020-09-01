@@ -16,10 +16,10 @@ third_nav_title: Our Core Competencies
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>
       <br>Learning Outcomes:
-      <br>• Understand the challenges faced in the global drug landscape  
-      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>• Understand the challenges faced in the global drug landscape.
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/drug1.jpg">
@@ -33,11 +33,11 @@ third_nav_title: Our Core Competencies
       <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime
-      <br>•  Recognise the mindsets that smart regulators need
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Innovate1.jpg">
@@ -51,11 +51,11 @@ third_nav_title: Our Core Competencies
       <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand what OneMap is
-      <br>• Recognise the various functionalities within OneMap
-      <br>•  Identify features and application for users
+      <br>• Understand what OneMap is.
+      <br>• Recognise the various functionalities within OneMap.
+      <br>• Identify features and application for users.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/Engage2.jpeg">
@@ -64,15 +64,15 @@ third_nav_title: Our Core Competencies
 <tr>
     <td>
       <b>Designing Spaces with Virtual Reality</b>
-      <br>15 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>29 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
       <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements
-      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital8.jpg">
@@ -86,11 +86,11 @@ third_nav_title: Our Core Competencies
       <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
       <br>
       <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content 
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens) 
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage7.jpg">
@@ -104,32 +104,15 @@ third_nav_title: Our Core Competencies
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
-      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
+      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens. 
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them. 
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/innovate3.jpg">
     </td>
 </tr>  
-<tr>		
-    <td>
-      <b>SSG's Multi Stakeholder Groups for Edutrust Certification Scheme</b>
-      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>
-      <br>Learning Outcomes:
-      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector
-      <br>• Articulate the lessons learnt in improving business processes 
-      <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage9.jpg">
-    </td>
-</tr> 
 <tr>		
     <td>
       <b>Transforming How IRAS & ACRA Serve Businesses</b>
@@ -138,11 +121,11 @@ third_nav_title: Our Core Competencies
       <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
       <br>
       <br>Learning Outcomes:
-      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them
-      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses
-      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage10.jpg">
@@ -150,17 +133,17 @@ third_nav_title: Our Core Competencies
 </tr> 
 <tr>
     <td>
-      <b>A Product Management Approach to Building a National Digital Platform</b>
+      <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
-      <br>This session allows you to gain insights into the steps that GovTech took to develop the National Digital Platform.
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
       <br>Learning Outcomes:
-      <br>•  Articulate what the National Digital Identity programme is
-      <br>•  Describe how the Govtech team developed the SingPass Mobile app into a multi-function “everyday” app                                                   
-      <br>•  Explain how Govtech drove the growth and adoption of the National Digital platform, and supported the digitalisation of agencies and private sector companies
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/digital4.jpg">
@@ -174,11 +157,11 @@ third_nav_title: Our Core Competencies
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases
-      <br>• Be introduced to UXC tools on how to define project scope
-      <br>• Craft a philosophy statement that will guide the project direction
+      <br>• Learn about HCI process and sharing on UXC cases.
+      <br>• Be introduced to UXC tools on how to define project scope.
+      <br>• Craft a philosophy statement that will guide the project direction.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage9.jpg">

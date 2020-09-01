@@ -17,10 +17,10 @@ third_nav_title: Our Core Competencies
       <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
       <br>
       <br>Learning Outcomes:
-      <br>• Understand the challenges faced in the global drug landscape
-      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs
+      <br>• Understand the challenges faced in the global drug landscape.
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/drug1.jpg">
@@ -34,10 +34,10 @@ third_nav_title: Our Core Competencies
       <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service
-      <br>• Know about developing empathy through emotional design
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage8.jpg">
@@ -51,10 +51,10 @@ third_nav_title: Our Core Competencies
       <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens 
-      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them 
+      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens.
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them.
       <br>
-      <a href="http://www.csc.gov.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage7.jpg">

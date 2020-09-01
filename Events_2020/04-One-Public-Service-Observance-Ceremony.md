@@ -12,8 +12,8 @@ The Public Service Observance Ceremony is an annual platform for officers to rec
 <br>
 <br>
 **Time and Date:** 16 October 2020, 10am - 11am<br>
-**Virtual Platform:** Workplace by Facebook and Zoom Webinar <br>
-**Registration Link** will be shared nearer to the date of event<br>
+**Virtual Platform:** Zoom Webinar <br>
+You may register <a href="https://gems.gevme.com/public-service-week-22695027">here</a>.<br> 
 
 <br>
 <b>What you can look forward to:</b><br>
