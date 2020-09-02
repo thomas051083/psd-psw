@@ -8,7 +8,7 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr> 
+ <tr> 
 <td>	     
       <b>LEARN modules</b> 
       <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Keep Learning and Putting Skills into Action.
