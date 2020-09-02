@@ -8,9 +8,9 @@ third_nav_title: Job Specific Skills
 #### <font color="darkorange"><b>Community Development, Partnership & Engagement</b></font>
 <font size="4">Engagement and partnerships with our citizens are becoming more and more important to solve complex problems and deliver better services. Working with Singaporeans as part of Singapore Together means that we all have to be equipped with the right tools to engage, partner, and build trust.<br>
 <br>
-Use this HR competency guide and learning roadmap to chart your career development and boost your job mobility. For further details, please refer to HR Portal (intranet): https://www.hrportal.gov.sg/hrfundamentals/learncomp/comp/competencybankandrationalisation
-<br>
+To help you acquire the right tools, the Citizen Engagement Competency Framework outlines six key CE competencies and associated descriptors. For further details, please refer to the competency framework guide (intranet) found here: https://www.hrportal.gov.sg/HR%20Resources/LearnCompet/Competency%20Bank/[Guide]%20Citizen%20Engagement%20Framework.pdf
 <br> 
+	<br>
 Check out the programmes below, some of which are curated and offered only for this event. 
 <br></font>
  <img src="/images/CommunityCompetencyMapping.jpeg">
@@ -24,7 +24,7 @@ Check out the programmes below, some of which are curated and offered only for t
       <br>14 or 23 October 2020, 10.00am – 12.00pm |Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
-      <br>Based on NACLI’s WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
+      <br>Based on National Community Leadership Institute's (NACLI) WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
       <br>
       <br>Learning Outcomes:
       <br>• Understand the basics of communication

@@ -29,7 +29,7 @@ third_nav_title: Our Core Competencies
 <tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b>
-      <br>14 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
       <br>

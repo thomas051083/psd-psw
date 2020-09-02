@@ -259,29 +259,6 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-<td>
-      <b>Public Service Career Coaching Services</b>
-      <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session.
-	<br>1. Accounting & Finance
-	<br>2. Community Development, Partnership & Engagement
-	<br>3. Corporate Administration & Operations
-	<br>4. Human Resources
-	<br>5. Regulation, Enforcement & Compliance </i></font>
-      <br>       
-      <br>Gain insights from personalised coaching with our career coaches to manage your career.
-      <br>      
-      <br>Learning Outcomes:
-       <br>• How do I plan and grow my career? How do I make informed career decisions?
-      <br>• How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
-      <br>
-      <a href="https://go.gov.sg/bookcareercoaching">Click here to register.</a> 
-    </td>
-    <td>
-     <img src="/images/coaching.jpg">
-    </td>
-	</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
