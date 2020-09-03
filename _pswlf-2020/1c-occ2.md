@@ -26,7 +26,25 @@ third_nav_title: Our Core Competencies
      <img src="/images/drug1.jpg">
     </td>
 </tr>
-<tr>	
+<tr>
+    <td>
+      <b>Delivering CPF messages through community engagement</b>
+      <br>26 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>      
+      <br>The session will cover CPFB’s plans and impetus for engaging the community to help fellow Singaporeans appreciate and make good use of their CPF. They will share their challenges and learning points on developing a volunteer and partner programme.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how the Public Service can engage the community in spreading awareness on policies 
+      <br>• Recognise the challenges in community engagement and possible ways to navigate them
+      <br>• Discuss and explore new ways in which the Public Service can drive community engagement
+      <br>
+      <a href="https://www.eventbrite.sg">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
+<tr>
     <td>
       <b>Is There Room for Emotional Design in Public Service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
