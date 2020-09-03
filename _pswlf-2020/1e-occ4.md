@@ -47,7 +47,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport (TBC)</b>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b>
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
