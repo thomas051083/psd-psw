@@ -8,6 +8,24 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
+ <tr>	
+ <td>
+      <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
+      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
+      <br>       
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>
+      <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital4.jpg">
+    </td>
+</tr>	
 <tr>	
     <td>
       <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
@@ -188,24 +206,6 @@ third_nav_title: Our Core Competencies
     </td>
 </tr> 
 <tr>
-    <td>
-      <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
-      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
-      <br>       
-      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity.
-      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
-      <br>
-      <br>
-      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital4.jpg">
-    </td>
-</tr>
-<tr>		
     <td>
       <b>What Is the Best Way to Scope a User Centric Project?</b>
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
