@@ -19,7 +19,7 @@ third_nav_title: Our Core Competencies
       <br>
       <br>Learning Outcomes:
       <br>• Learn about the approach taken by IRAS to support leaders in developing a set of Leadership Principles 
-      <br>• Formualte ideas on how to engage the leadership team to strengthen the culture in the organisation. 
+      <br>• Formulate ideas on how to engage the leadership team to strengthen the culture in the organisation. 
       <br>
       <a href="https://www.eventbrite.sg/e/strengthening-leadership-culture-leading-iras-tickets-119203012419">Click here to register.</a> 
     </td>    
