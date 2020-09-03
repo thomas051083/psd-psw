@@ -148,6 +148,26 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr>	
+    <tr> 
+    <td>
+      <b>Joyful Efficient Meetings Workshop</b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
+<tr> 
     <td>
       <b>NLB Service DNA: Co-creating with Our Volunteers.</b>
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
@@ -184,6 +204,24 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr>		
+    <td>
+      <b>The Future of Grants</b>
+      <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Join GovTech’s OurSG Grants Portal as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
+      <br>
+      <br>Learning Outcomes:
+      <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
+      <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
+      <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
+      <br>• Insight into how we harnessed our platform to support COVID-19 relief efforts
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
     <td>
       <b>Transforming How IRAS & ACRA Serve Businesses</b>
       <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
