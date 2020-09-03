@@ -45,6 +45,25 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>  
 <tr>
+    <td>
+      <b>Joyful Efficient Meetings Workshop</b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
+<tr> 
 	<td>	     
 	    <b>LEARN modules</b>
      	    <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Working As One Public Service.
