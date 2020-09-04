@@ -38,7 +38,7 @@ third_nav_title: Our Core Competencies
       <br>• Recognise the challenges in community engagement and possible ways to navigate them
       <br>• Discuss and explore new ways in which the Public Service can drive community engagement
       <br>
-      <a href="https://www.eventbrite.sg">Click here to register.</a>
+      <a href="https://www.eventbrite.sg/e/delivering-cpf-messages-through-community-engagement-tickets-119548832777">Click here to register.</a>
     </td>    
 <td>
      <img src="/images/drug1.jpg">
