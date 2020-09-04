@@ -100,7 +100,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/Serve2.jpg">
     </td>
 </tr>
 <tr> 
@@ -121,7 +121,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/health2.jpg">
     </td>
 </tr>
 <tr> 
