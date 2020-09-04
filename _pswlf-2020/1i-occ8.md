@@ -28,6 +28,30 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr> 
+    <td>
+      <b>Wellbeing@Work: Being A Supportive Leader</b>
+      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom
+      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
+      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>       
+      <br>Specially for leaders, supervisors and those in HR roles, this workshop will equip participants with skills and knowledge to support and engage staff
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout) 
+      <br>• Start a conversation with staff and show appropriate supportive leadership (e.g. empathetic listening and responding)
+      <br>• Build a supportive workplace environment and encourage help-seeking behaviour
+      <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-1-tickets-118419282261">Click here to register for 20 October session.</a><br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-2-tickets-118420684455">Click here to register for 22 October session.</a><br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-3-tickets-118420925175">Click here to register for 27 October session.</a><br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-4-tickets-118423290249">Click here to register for 29 October session.</a><br>
+    </td>    
+<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
+<tr> 
     <td>	     
       <b>LEARN modules</b>
       <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Caring for, Developing and Inspiring Staff (For Supervisors).
