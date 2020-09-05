@@ -41,7 +41,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/delivering-cpf-messages-through-community-engagement-tickets-119548832777">Click here to register.</a>
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr>
