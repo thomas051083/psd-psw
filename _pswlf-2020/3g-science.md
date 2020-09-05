@@ -14,7 +14,7 @@ third_nav_title: Job Specific Skills
     <td>
       <b>Improving Government Services with Data</b>
       <br>15 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>Begin your data informed journey in the government’s digital services landscape utilizing the WOGAA (Whole-of-Government Application Analytics) platform.
       <br>      
@@ -33,7 +33,7 @@ third_nav_title: Job Specific Skills
     <td>
       <b>Integrated Digital Delivery Implementation Journey in Singapore</b>
       <br>13 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>Join us as we journey through Building Information Modelling, Virtual Design and Construction and Integrated Digitial Delivery implementation to transform Singapore's Built Environment industry. 
       <br>      
       <br>Learning Outcomes:
@@ -49,7 +49,7 @@ third_nav_title: Job Specific Skills
     <td>
       <b>Together, We Build a Greener Tomorrow</b>
       <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session provides participants with an overview of climate change, Singapore Green Building Masertplan plan and how the Public Sector is taking the lead in Environmental Sustainability for Green Buildings.  
       <br>      
