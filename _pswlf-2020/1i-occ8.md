@@ -48,7 +48,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-4-tickets-118423290249">Click here to register for 29 October session.</a><br>
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/engage8.jpg">
     </td>
 </tr>
 <tr> 
