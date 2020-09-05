@@ -149,7 +149,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/volunteer.jpeg">
     </td>
 </tr>
 <tr> 
