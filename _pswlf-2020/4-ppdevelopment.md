@@ -266,7 +266,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>Financial Resilience During COVID-19</b> <font color="salmon"> [NEW]</font>
+	    <b>Financial Resilience During COVID-19 </b><b><font color="salmon">   [NEW]</font></b>
       <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
