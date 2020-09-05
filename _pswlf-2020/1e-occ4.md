@@ -78,7 +78,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
 <tr> 
