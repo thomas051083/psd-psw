@@ -57,7 +57,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
 <tr> 
@@ -156,6 +156,7 @@ third_nav_title: Our Core Competencies
       <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
       <br>
       <br>Learning Outcomes:
+	    
       <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
       <br>• Understand how to design and run a joyful and efficient meeting from start to end.
       <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
