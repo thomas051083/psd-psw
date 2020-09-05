@@ -234,7 +234,7 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-	    <b>Assessing Your Insurance Needs  <font color="teal"> [NEW]</font>
+	    <b>Assessing Your Insurance Needs  <font color="teal"> [NEW]</font></b>
       <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants to assess how much coverage they need and the considerations when selecting suitable products. Participants will also learn how to use online portal compareFIRST to compare and select life insurance products.
