@@ -245,7 +245,7 @@ breadcrumb: 'Professional & Personal Development'
       <a href="https://assessing-your-insurance-needs.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/pay1.jpg">
+     <img src="/images/finance2.jpg">
     </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ breadcrumb: 'Professional & Personal Development'
       <a href="https://cpf-and-you.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/pay1.jpg">
+     <img src="/images/finance3.jpg">
     </td>
 </tr>
 <tr>
@@ -278,7 +278,7 @@ breadcrumb: 'Professional & Personal Development'
       <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/pay1.jpg">
+     <img src="/images/finance1.jpg">
     </td>
 </tr>
 
