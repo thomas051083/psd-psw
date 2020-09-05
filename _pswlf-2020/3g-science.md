@@ -34,7 +34,7 @@ third_nav_title: Job Specific Skills
       <b>Introduction to Web Application Hacking and Cross-site Scripting</b> <b><font color="salmon">[NEW]</font></b>
       <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
+      <br>     
       <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
       <br>      
       <br>Learning Outcomes:
