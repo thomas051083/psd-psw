@@ -250,7 +250,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>CPF & You </b>    <b><font color="teal">[NEW]</font></b>
+	    <b>CPF & You </b>    <b><font color="INDIANRED">[NEW]</font></b>
       <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help you understand how CPF prepares you for the future, the CPF rules applicable when you turn 55 and what CPF LIFE is.
@@ -266,7 +266,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>Financial Resilience During COVID-19</b> <font color="red"> [NEW]</font>
+	    <b>Financial Resilience During COVID-19</b> <font color="salmon"> [NEW]</font>
       <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
