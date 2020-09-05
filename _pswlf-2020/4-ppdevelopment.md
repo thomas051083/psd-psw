@@ -234,6 +234,38 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
+	    <b>Assessing Your Insurance Needs</b><font color="red">[NEW]</font>
+      <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants to assess how much coverage they need and the considerations when selecting suitable products. Participants will also learn how to use online portal compareFIRST to compare and select life insurance products.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Assess and compare life insurance products
+	    <br>
+      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>CPF & You</b><font color="red">[NEW]</font>
+      <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help you understand how CPF prepares you for the future, the CPF rules applicable when you turn 55 and what CPF LIFE is.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the 3 CPF Life Plans
+	    <br>
+      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
       <b>Financial Adequacy</b>
       <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
