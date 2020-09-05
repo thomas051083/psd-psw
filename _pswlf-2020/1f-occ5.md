@@ -164,7 +164,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/communityengagement.jpg">
     </td>
 </tr>
 <tr> 
