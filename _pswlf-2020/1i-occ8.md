@@ -24,7 +24,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/strengthening-leadership-culture-leading-iras-tickets-119203012419">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/change3.jpg">
     </td>
 </tr>
 <tr> 
