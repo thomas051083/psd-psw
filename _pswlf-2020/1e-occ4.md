@@ -113,7 +113,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/engage6.jpg">
     </td>
 </tr>
 <tr> 
