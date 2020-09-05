@@ -23,7 +23,7 @@ third_nav_title: Job Specific Skills
       <br>• Understand PWDs and their everyday struggles with technology
       <br>
       <a href="https://purple-hats-1.eventbrite.sg">Click here to register for 20 October session.</a> 
-	<a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
+	<br><a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
     </td>    
 	<td>
      <img src="/images/Digital1.jpeg">
