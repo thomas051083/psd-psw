@@ -234,7 +234,7 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-	    <b>Assessing Your Insurance Needs</b><font color="red">[NEW]</font>
+	    <b>Assessing Your Insurance Needs</b><font color="blue">[NEW]</font>
       <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants to assess how much coverage they need and the considerations when selecting suitable products. Participants will also learn how to use online portal compareFIRST to compare and select life insurance products.
@@ -242,7 +242,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>Learning Outcomes:
       <br>• Assess and compare life insurance products
 	    <br>
-      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+      <a href="https://assessing-your-insurance-needs.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
      <img src="/images/pay1.jpg">
@@ -250,7 +250,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>CPF & You</b><font color="red">[NEW]</font>
+	    <b>CPF & You</b><font color="blue">[NEW]</font>
       <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help you understand how CPF prepares you for the future, the CPF rules applicable when you turn 55 and what CPF LIFE is.
@@ -258,12 +258,30 @@ breadcrumb: 'Professional & Personal Development'
       <br>Learning Outcomes:
       <br>• Understand the 3 CPF Life Plans
 	    <br>
-      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+      <a href="https://cpf-and-you.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
      <img src="/images/pay1.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+	    <b>Financial Resilience During COVID-19</b><font color="blue">[NEW]</font>
+      <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Illustrate how to prepare a Crisis Budget, the implications of deferring mortgage and insurance payments
+      <br>• Explain the basic investing concepts
+	    <br>
+      <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+
 <tr>
     <td>
       <b>Financial Adequacy</b>
