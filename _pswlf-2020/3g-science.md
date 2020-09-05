@@ -12,6 +12,44 @@ third_nav_title: Job Specific Skills
             <col width="30%">
 <tr>		
     <td>
+      <b>Purple Hats – Improving Web Accessibility for Singapore</b> <b><font color="salmon">[NEW]</font></b>
+      <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview on web accessibility, HATS’ automated accessibility tool, and how people with disabilities deal with technology.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand web accessibility and HATS’ automated accessibility tool        
+      <br>• Understand PWDs and their everyday struggles with technology
+      <br>
+      <a href="https://purple-hats-1.eventbrite.sg">Click here to register for 20 October session.</a> 
+	<a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
+    </td>    
+	<td>
+     <img src="/images/Digital1.jpeg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>Introduction to Web Application Hacking and Cross-site Scripting</b> <b><font color="salmon">[NEW]</font></b>
+      <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand web accessibility and HATS’ automated accessibility tool        
+      <br>• Understand PWDs and their everyday struggles with technology
+      <br>
+      <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>	
+	
+<tr>		
+    <td>
       <b>Improving Government Services with Data</b>
       <br>15 October 2020, 3.00pm - 4.30pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
