@@ -43,7 +43,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/drug1.jpg">
+     <img src="/images/digital6.jpg">
     </td>
 </tr>
 <tr> 
