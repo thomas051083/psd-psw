@@ -52,7 +52,7 @@ Sign up for programmes based on four of the eleven technical finance competencie
       <a href="https://nicf-rpa-developer-foundation-training.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/digital3jpg">
+     <img src="/images/digital3.jpg">
     </td>
 </tr>
 
