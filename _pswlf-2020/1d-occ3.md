@@ -8,9 +8,28 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
-	<tr> 
+<tr>
     <td>
-      <b>Wellbeing@Work: Supporting our Peers</b> b><font color="crimson">[NEW]</font></b>
+      <b>Joyful Efficient Meetings Workshop</b><b><font color="crimson">[NEW]</font></b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/communityengagement.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Wellbeing@Work: Supporting our Peers</b> <b><font color="crimson">[NEW]</font></b>
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
@@ -35,7 +54,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> b><font color="crimson">[NEW]</font></b>
+      <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> <b><font color="crimson">[NEW]</font></b>
       <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
       <br>       
       <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
@@ -90,25 +109,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
-<tr>
-    <td>
-      <b>Joyful Efficient Meetings Workshop</b>
-      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
-      <br>       
-      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
-      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
-      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
-      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
-      <br>
-      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/communityengagement.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>Wellbeing@Work: Being A Supportive Leader</b>
