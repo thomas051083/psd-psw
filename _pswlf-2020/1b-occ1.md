@@ -8,7 +8,7 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr> 
+<tr>
     <td>
       <b>Wellbeing@Work: Supporting our Peers </b> <b><font color="crimson">[NEW]</font></b>
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
