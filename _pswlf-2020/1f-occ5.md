@@ -24,7 +24,7 @@ third_nav_title: Our Core Competencies
 <td>
      <img src="/images/digital4.jpg">
     </td>
-</tr>	
+</tr>
 <tr>
     <td>
       <b>Building a Geospatial Ecosystem</b>
