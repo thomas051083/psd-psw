@@ -19,6 +19,44 @@ Sign up for programmes based on four of the eleven technical finance competencie
 <table>
        <col width="70%"> 
             <col width="30%">
+<tr>		
+    <td>
+	    <b>Data Appreciation to Extract Business Value</b> <b><font color="crimson">[NEW]</font></b>
+      <br>12 October 2020, 2.00pm - 3.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>Find out what the five processes of data analytics are and how Microsoft Excel support each of the milestones.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand what the five processes of data analytics are and how Microsoft Excel features are being used in each milestone
+      <br>
+      <a href="https://data-appreciation-to-extract-business-value.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
+	    <b>NICF- RPA Developer Foundation Training</b> <b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session will introduce you to UiPath and advanced UI interaction.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn the basic concepts of Robotic Process Automation.
+      <br>• Understand processes which can be automated,
+      <br>• Identify key RPA Design and Development strategies and methodologies
+      <br>
+      <a href="https://nicf-rpa-developer-foundation-training.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital3jpg">
+    </td>
+</tr>
+
+
 <tr>
     <td>
       <b>[Teaser] Finance Foundation Programme (FFP)</b>
