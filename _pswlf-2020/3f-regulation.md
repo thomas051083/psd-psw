@@ -27,7 +27,7 @@ Check out the programmes below, some of which are curated and offered only for t
             <col width="30%">
 <tr>		
     <td>
-	    <b>The Heartware in Police Licensing</b> <b><font color="crimson">NEW</b>
+	    <b>The Heartware in Police Licensing</b> <b><font color="crimson">NEW</font></b>
       <br>27 October 2020, 3.00pm - 4.30pm | Platform: Skype
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
       <br>       
