@@ -8,6 +8,52 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
+	<tr> 
+    <td>
+      <b>Wellbeing@Work: Supporting our Peers</b> b><font color="crimson">[NEW]</font></b>
+      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
+      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
+      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom
+      <br>       
+      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
+      <br>• Initiate conversation with peers 
+      <br>• Listen and respond in an appropriate and supportive manner  
+      <br>• Encourage help seeking
+      <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-1-tickets-118424317321">Click here to register for 20 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-2-tickets-118425250111">Click here to register for 22 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
+    </td>    
+<td>
+     <img src="/images/Serve2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> b><font color="crimson">[NEW]</font></b>
+      <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
+      <br>       
+      <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn practical Active Health tips and the science behind being a “Health Millionaire”
+      <br>• Try simple fitness and health assessments, home-based exercises
+      <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
+      <br>
+      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
+    </td>    
+<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>Overview of GeoSpace</b>
@@ -87,52 +133,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage8.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>Wellbeing@Work: Supporting our Peers</b>
-      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
-      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
-      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
-      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom
-      <br>       
-      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
-      <br>• Initiate conversation with peers 
-      <br>• Listen and respond in an appropriate and supportive manner  
-      <br>• Encourage help seeking
-      <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-1-tickets-118424317321">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-2-tickets-118425250111">Click here to register for 22 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
-    </td>    
-<td>
-     <img src="/images/Serve2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b>
-      <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
-      <br>       
-      <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn practical Active Health tips and the science behind being a “Health Millionaire”
-      <br>• Try simple fitness and health assessments, home-based exercises
-      <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
-      <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
-    </td>    
-<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>
+
 <tr> 
 <td>	     
 	    <b>LEARN modules</b>
