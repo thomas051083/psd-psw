@@ -6,7 +6,7 @@ third_nav_title: Our Core Competencies
 ---
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
-       <col width="70%"> 
+       <col width="70%">
             <col width="30%">
 <tr>
     <td>
