@@ -11,7 +11,7 @@ third_nav_title: Our Core Competencies
 
 <tr>
     <td>
-      <b>Delivering Social Services through Video-Conferencing</b><b><font color="crimson">[NEW]</font></b>
+      <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
