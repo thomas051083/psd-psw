@@ -14,7 +14,7 @@ third_nav_title: Job Specific Skills
     <td>
       <b>Change as Opportunity</b> <b><font color="crimson">[NEW]</font></b>
       <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br><font color="dimgrey><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>     
+      <br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>     
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.    
       <br>Learning outcomes:
       <br>∙ Explain how technological development changes the way we live and work. 
