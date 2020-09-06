@@ -26,7 +26,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage4.jpg">
     </td>
 </tr>
-<tr> 
+<tr>
     <td>
       <b>Delivering Social Services through Video-Conferencing</b> <b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
