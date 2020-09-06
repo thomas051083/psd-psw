@@ -8,7 +8,80 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
- <tr>	
+ <tr>
+    <td>
+      <b>Delivering CPF messages through community engagement</b> <b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>      
+      <br>The session will cover CPFB’s plans and impetus for engaging the community to help fellow Singaporeans appreciate and make good use of their CPF. They will share their challenges and learning points on developing a volunteer and partner programme.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how the Public Service can engage the community in spreading awareness on policies 
+      <br>• Recognise the challenges in community engagement and possible ways to navigate them
+      <br>• Discuss and explore new ways in which the Public Service can drive community engagement
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-cpf-messages-through-community-engagement-tickets-119548832777">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/engage4.jpg">
+    </td>
+</tr>
+    <tr> 
+    <td>
+      <b>Delivering Social Services through Video-Conferencing</b> <b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
+      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the considerations when setting up video-conferencing links.
+      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
+      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> <b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how SportSG created an enabling environment for volunteering
+      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
+      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
+      <br>
+      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage6.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> <b><font color="crimson">[NEW]</font></b>
+      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand NLB’s strategic framework for service excellence and innovation.
+      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
+      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
+      <br>
+      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
+<tr>	
  <td>
       <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
       <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
@@ -43,44 +116,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/drug1.jpg">
     </td>
 </tr>
-<tr>
-    <tr>
-    <td>
-      <b>Delivering CPF messages through community engagement</b>
-      <br>26 October 2020, 2.00pm - 4.00pm | Platform: Zoom
-      <br>      
-      <br>The session will cover CPFB’s plans and impetus for engaging the community to help fellow Singaporeans appreciate and make good use of their CPF. They will share their challenges and learning points on developing a volunteer and partner programme.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand how the Public Service can engage the community in spreading awareness on policies 
-      <br>• Recognise the challenges in community engagement and possible ways to navigate them
-      <br>• Discuss and explore new ways in which the Public Service can drive community engagement
-      <br>
-      <a href="https://www.eventbrite.sg/e/delivering-cpf-messages-through-community-engagement-tickets-119548832777">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/engage4.jpg">
-    </td>
-</tr>
-    <tr> 
-    <td>
-      <b>Delivering Social Services through Video-Conferencing</b>
-      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
-      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the considerations when setting up video-conferencing links.
-      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
-      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
-      <br>
-      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
+
 <tr> 
    <td>
       <b>Designing Spaces with Virtual Reality</b>
@@ -96,24 +132,6 @@ third_nav_title: Our Core Competencies
     </td>    
 <td>
      <img src="/images/digital8.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b>
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand how SportSG created an enabling environment for volunteering
-      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
-      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
-      <br>
-      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage6.jpg">
     </td>
 </tr>
 <tr> 
@@ -134,24 +152,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/Innovate1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b>
-      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
-      <br>       
-      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand NLB’s strategic framework for service excellence and innovation.
-      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
-      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
-      <br>
-      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/volunteer.jpeg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
