@@ -11,7 +11,7 @@ third_nav_title: Our Core Competencies
             <col width="30%"> 
 <tr>
     <td>
-      <b>Delivering CPF messages through community engagement </b> </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Delivering CPF messages through community engagement </b> <b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>      
       <br>The session will cover CPFB’s plans and impetus for engaging the community to help fellow Singaporeans appreciate and make good use of their CPF. They will share their challenges and learning points on developing a volunteer and partner programme.
