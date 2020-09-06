@@ -10,7 +10,7 @@ third_nav_title: Our Core Competencies
             <col width="30%"> 
 <tr>
     <td>
-      <b>Joyful Efficient Meetings Workshop</b><b><font color="crimson">[NEW]</font></b>
+      <b>Joyful Efficient Meetings Workshop </b> <b><font color="crimson">[NEW]</font></b>
       <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
       <br>       
       <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
