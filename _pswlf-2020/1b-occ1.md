@@ -109,7 +109,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>	
     <td>
-      <b>Participatory Design - From Working For to Working With</b>
+      <b>Participatory Design - From Working For to Working With</b> <b><font color="darksalmon"> [FULL]</font></b>
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
