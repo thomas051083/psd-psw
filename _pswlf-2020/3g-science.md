@@ -13,8 +13,6 @@ third_nav_title: Job Specific Skills
 <tr>		
     <td>
       <b>Purple Hats – Improving Web Accessibility for Singapore</b> <b><font color="crimson">[NEW]</font></b>
-
-
       <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
