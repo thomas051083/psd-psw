@@ -125,6 +125,7 @@ third_nav_title: Our Core Competencies
     <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
+	       <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
       <br>Learning outcomes:
