@@ -1,5 +1,5 @@
 ---
-title: 'Exclusives'
+title: 'Promotions'
 permalink: /exclusives-2020
 breadcrumb: 'CS Club Facilities and Chalet Promotions'
 
