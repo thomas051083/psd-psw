@@ -185,24 +185,6 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/change2.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b>
-      <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
-      <br>       
-      <br>Behavioural Insights is the study that combines insights from psychology, cognitive science, and social science with empirically-tested results to discover how humans actually make choices. Gain an understanding of this concept and how habits can be nudged through design. 
-<br>      
-      <br>Learning Outcomes:
-      <br>• Explain the concept of behavioural insights
-      <br>• Describe how habits can be nudged using design
-      <br>• Apply techniques to generate ideas to influence behaviour	    <br>
-      <a href="https://understanding-behavioral-insights.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovate2.jpg">
-    </td>
-</tr>
 
 <tr>
      <td>
@@ -219,6 +201,24 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/engage8.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
+      <br>       
+      <br>Behavioural Insights is the study that combines insights from psychology, cognitive science, and social science with empirically-tested results to discover how humans actually make choices. Gain an understanding of this concept and how habits can be nudged through design. 
+<br>      
+      <br>Learning Outcomes:
+      <br>• Explain the concept of behavioural insights
+      <br>• Describe how habits can be nudged using design
+      <br>• Apply techniques to generate ideas to influence behaviour	    <br>
+      <a href="https://understanding-behavioral-insights.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate2.jpg">
     </td>
 </tr>
 </table>
