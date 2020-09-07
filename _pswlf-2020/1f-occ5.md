@@ -300,24 +300,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
-<tr>		
-    <td>
-      <b>What is the Best Way to Scope a User Centric Project?</b>
-      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases.
-      <br>• Be introduced to UXC tools on how to define project scope.
-      <br>• Craft a philosophy statement that will guide the project direction.
-      <br>
-      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovationtest3.png">
-    </td>
-</tr> 
+
 <tr>
     <td>
       <b>MOH’s Regulatory Sandbox: Telemedicine</b>
@@ -390,7 +373,24 @@ third_nav_title: Our Core Competencies
      <img src="/images/project1.jpg">
     </td>
 </tr>
-
+<tr>	
+    <td>
+      <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn about HCI process and sharing on UXC cases.
+      <br>• Be introduced to UXC tools on how to define project scope.
+      <br>• Craft a philosophy statement that will guide the project direction.
+      <br>
+      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage9.jpg">
+    </td>
+</tr> 
 
 <tr>
 	<td>
