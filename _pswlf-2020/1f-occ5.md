@@ -358,7 +358,7 @@ third_nav_title: Our Core Competencies
 
 <tr>	
     <td>
-      <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darksalmon"> [FULL]</font></b>
+      <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
       <br>       
       <br>How to conduct stakeholder analysis in project scoping.
@@ -376,7 +376,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>	
     <td>
-      <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
