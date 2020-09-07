@@ -25,6 +25,8 @@ collections:
         output: true
     psc-2020:
         output: true
+    exclusives-2020:
+        output: true
     
 resources_name: news
 favicon: /images/PSW_Logo.png
