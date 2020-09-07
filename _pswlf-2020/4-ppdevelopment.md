@@ -205,7 +205,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
