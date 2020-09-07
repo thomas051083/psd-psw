@@ -173,41 +173,8 @@ third_nav_title: Our Core Competencies
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Generating Creative Ideas</b>
-      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>How to conduct ideation and use ideation tools.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas. 
-      <br>• Be introduced to the process of brainstorming.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/generating-creative-ideas-tickets-117953390767">Click here to register.</a>   
-    </td>
-<td>
-     <img src="/images/innovationtest2.png">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>How Do You Identify Different Stakeholders in Your Project?</b>
-      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
-      <br>       
-      <br>How to conduct stakeholder analysis in project scoping.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Be introduced to stakeholder analysis.
-      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies.
-      <br>• Learn about defining the project scope.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a>   
-    </td>
-<td>
-     <img src="/images/project1.jpg">
-    </td>
-</tr>
+
+
 <tr> 
     <td>
       <b>Overview of GeoSpace</b>
@@ -387,6 +354,44 @@ third_nav_title: Our Core Competencies
      <img src="/images/pay1.jpg">
     </td>
 </tr> 
+<tr>
+    <td>
+      <b>Generating Creative Ideas </b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct ideation and use ideation tools.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas. 
+      <br>• Be introduced to the process of brainstorming.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/generating-creative-ideas-tickets-117953390767">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/innovationtest2.png">
+    </td>
+</tr>
+
+<tr>	
+    <td>
+      <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Be introduced to stakeholder analysis.
+      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies.
+      <br>• Learn about defining the project scope.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/project1.jpg">
+    </td>
+</tr>
+
+
 <tr>
 	<td>
 	    <b>LEARN modules</b>
