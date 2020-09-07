@@ -78,7 +78,7 @@ Check out the programmes below, some of which are curated and offered only for t
 </tr>
 <tr>
     <td>
-	    <b>Cafe Siu Dai</b> <b><font color="darksalmon"> [FULL]</font></b>
+	    <b>Cafe Siu Dai</b> <b><font color="darksalmon"> [FULL]</font></b> <b><font color="chocolate"> [FULL]</font></b> <b><font color="purple"> [FULL]</font></b> <b><font color="saddlebrown"> [FULL]</font></b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 or 23 October 2020, 10.00am – 12.00pm |Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
