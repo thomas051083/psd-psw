@@ -71,24 +71,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-<tr>	
-    <td>
-      <b>How do you identify different stakeholders in your project?</b>
-      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
-      <br>       
-      <br>How to conduct stakeholder analysis in project scoping.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Be introduced to stakeholder analysis. 
-      <br>• Know who to engage with in order to achieve successful implementation of their projects or policies. 
-      <br>• Learn about defining the project scope.
-           <br>
-      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/project1.jpg">
-    </td>
-</tr>
+
 <tr>	
     <td>
       <b>Improving Data Quality – Statistical Best Practices</b>
@@ -107,6 +90,25 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital5.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>How do you identify different stakeholders in your project?</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Be introduced to stakeholder analysis. 
+      <br>• Know who to engage with in order to achieve successful implementation of their projects or policies. 
+      <br>• Learn about defining the project scope.
+           <br>
+      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/project1.jpg">
+    </td>
+</tr>
+
 <tr>	
     <td>
       <b>Participatory Design - From Working For to Working With</b> <b><font color="darksalmon"> [FULL]</font></b>
