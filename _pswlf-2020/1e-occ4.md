@@ -169,24 +169,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Participatory Design - From Working For to Working With</b>
-      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not.
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
-      <br>
-      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>	
+
 <tr>		
     <td>
       <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
@@ -224,7 +207,25 @@ third_nav_title: Our Core Competencies
 </tr> 
 <tr>
     <td>
-      <b>What Is the Best Way to Scope a User Centric Project?</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <b>Participatory Design - From Working For to Working With</b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
+      <br>
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>	
+<tr>
+    <td>
+      <b>What Is the Best Way to Scope a User Centric Project?</b> <b><font color="darksalmon"> [FULL]</font></b> 
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
