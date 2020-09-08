@@ -5,6 +5,52 @@ permalink: /_jobspecific-details/trial_psw
 
 ### Testing page 3 for PSW
 
+OCC4 & OCC2: CPFB session
+<tr>
+    <td>
+      <b>Delivering CPF messages through community engagement</b> <b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>      
+      <br>The session will cover CPFB’s plans and impetus for engaging the community to help fellow Singaporeans appreciate and make good use of their CPF. They will share their challenges and learning points on developing a volunteer and partner programme.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how the Public Service can engage the community in spreading awareness on policies 
+      <br>• Recognise the challenges in community engagement and possible ways to navigate them
+      <br>• Discuss and explore new ways in which the Public Service can drive community engagement
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-cpf-messages-through-community-engagement-tickets-119548832777">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/engage4.jpg">
+    </td>
+</tr>
+
+OCC6
+<tr>
+<td>
+      <b>Public Service Career Coaching Services</b>
+      <br>14 - 30 October, (50 one-to-one coaching sessions up for grabs) | Platform: Zoom
+      <br>
+	<br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session.
+	<br>1. Accounting & Finance
+	<br>2. Community Development, Partnership & Engagement
+	<br>3. Corporate Administration & Operations
+	<br>4. Human Resources
+	<br>5. Regulation, Enforcement & Compliance </i></font>
+      <br>       
+      <br>Manage Your Career Planning Better With Career Coaching
+      <br>
+      <br>Learning Outcomes:
+      <br>• How do I plan and grow my career? How do I make informed career decisions?
+      <br>• How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
+      <br>If you have been thinking about these questions, speak to our career coaches who will help you navigate through these questions!
+      <a href="https://go.gov.sg/bookcareercoaching">Click here to register.</a> 
+    </td>
+<td>
+     <img src="/images/coaching.jpg">
+    </td>
+	</tr>
+
 Job Specific
 <tr>
     <td>

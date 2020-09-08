@@ -9,6 +9,7 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
+
 <tr>	
     <td>
       <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
@@ -26,7 +27,8 @@ third_nav_title: Our Core Competencies
      <img src="/images/drug1.jpg">
     </td>
 </tr>
-<tr>	
+
+<tr>
     <td>
       <b>Is There Room for Emotional Design in Public Service?</b>
       <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom

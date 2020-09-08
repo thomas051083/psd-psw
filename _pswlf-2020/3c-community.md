@@ -18,25 +18,7 @@ Check out the programmes below, some of which are curated and offered only for t
 <table>
        <col width="70%"> 
             <col width="30%">
-<tr>
-    <td>
-      <b>Cafe Siu Dai</b>
-      <br>14 or 23 October 2020, 10.00am – 12.00pm |Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
-      <br>       
-      <br>Based on National Community Leadership Institute's (NACLI) WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the basics of communication
-      <br>• Engage in more meaningful and purposeful conversations with colleagues and stakeholders
-	    <br>
-      <a href="https://cafe-siu-dai-14_oct_2020.eventbrite.sg">Click here to register for 14 October session.</a> <br>
-      <a href="https://cafe-siu-dai-23_oct_2020.eventbrite.sg">Click here to register for 23 October session.</a> 
-    </td>    
-<td>
-     <img src="/images/Engage4.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>Public Engagement Network Webinar</b>
@@ -92,6 +74,25 @@ Check out the programmes below, some of which are curated and offered only for t
     </td>    
 <td>
      <img src="/images/innovate1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Cafe Siu Dai</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 or 23 October 2020, 10.00am – 12.00pm |Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
+      <br>       
+      <br>Based on National Community Leadership Institute's (NACLI) WSQ module “Communicate and Facilitate Effectively”, CAFÉ Siu-Dai is an introduction to effective communication skills that help build strong relationships amongst colleagues and stakeholders. Through the 2-hour CAFÉ Sui-Dai workshop, you will learn more about the different types, characteristics, and barriers to communication, as well as some effective conversational tools that can be easily applied to your professional and personal lives.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the basics of communication
+      <br>• Engage in more meaningful and purposeful conversations with colleagues and stakeholders
+	    <br>
+      <a href="https://cafe-siu-dai-14_oct_2020.eventbrite.sg">Click here to register for 14 October session.</a> <br>
+      <a href="https://cafe-siu-dai-23_oct_2020.eventbrite.sg">Click here to register for 23 October session.</a> 
+    </td>    
+<td>
+     <img src="/images/Engage4.jpg">
     </td>
 </tr>
 </table>

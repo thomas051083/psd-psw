@@ -12,9 +12,64 @@ third_nav_title: Job Specific Skills
             <col width="30%">
 <tr>		
     <td>
+      <b>Purple Hats – Improving Web Accessibility for Singapore</b> <b><font color="crimson">[NEW]</font></b>
+      <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview on web accessibility, HATS’ automated accessibility tool, and how people with disabilities deal with technology.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand web accessibility and HATS’ automated accessibility tool        
+      <br>• Understand PWDs and their everyday struggles with technology
+      <br>
+      <a href="https://purple-hats-1.eventbrite.sg">Click here to register for 20 October session.</a> 
+	<br><a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
+    </td>    
+	<td>
+     <img src="/images/Digital1.jpeg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>Introduction to Web Application Hacking and Cross-site Scripting</b> <b><font color="crimson">[NEW]</font></b>
+      <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>     
+      <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand web accessibility and HATS’ automated accessibility tool        
+      <br>• Understand PWDs and their everyday struggles with technology
+      <br>
+      <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>	
+<tr>
+    <td>
+      <b>Building a Geospatial Ecosystem</b>
+<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
+      <br>Learning outcomes:
+      <br>• Understand what geospatial information is and its uses.
+      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. 
+      <br>
+      <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
+    </td>
+</tr>
+	
+<tr>		
+    <td>
       <b>Improving Government Services with Data</b>
       <br>15 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>Begin your data informed journey in the government’s digital services landscape utilizing the WOGAA (Whole-of-Government Application Analytics) platform.
       <br>      
@@ -33,7 +88,7 @@ third_nav_title: Job Specific Skills
     <td>
       <b>Integrated Digital Delivery Implementation Journey in Singapore</b>
       <br>13 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>Join us as we journey through Building Information Modelling, Virtual Design and Construction and Integrated Digitial Delivery implementation to transform Singapore's Built Environment industry. 
       <br>      
       <br>Learning Outcomes:
@@ -49,7 +104,7 @@ third_nav_title: Job Specific Skills
     <td>
       <b>Together, We Build a Greener Tomorrow</b>
       <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session provides participants with an overview of climate change, Singapore Green Building Masertplan plan and how the Public Sector is taking the lead in Environmental Sustainability for Green Buildings.  
       <br>      

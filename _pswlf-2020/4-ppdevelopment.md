@@ -185,24 +185,6 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/change2.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b>
-      <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
-      <br>       
-      <br>Behavioural Insights is the study that combines insights from psychology, cognitive science, and social science with empirically-tested results to discover how humans actually make choices. Gain an understanding of this concept and how habits can be nudged through design. 
-<br>      
-      <br>Learning Outcomes:
-      <br>• Explain the concept of behavioural insights
-      <br>• Describe how habits can be nudged using design
-      <br>• Apply techniques to generate ideas to influence behaviour	    <br>
-      <a href="https://understanding-behavioral-insights.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovate2.jpg">
-    </td>
-</tr>
 
 <tr>
      <td>
@@ -221,6 +203,24 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/engage8.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>Understanding Behavioral Insights to Nudge Habits and Influence Behaviour</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 10.00am – 12.00pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
+      <br>       
+      <br>Behavioural Insights is the study that combines insights from psychology, cognitive science, and social science with empirically-tested results to discover how humans actually make choices. Gain an understanding of this concept and how habits can be nudged through design. 
+<br>      
+      <br>Learning Outcomes:
+      <br>• Explain the concept of behavioural insights
+      <br>• Describe how habits can be nudged using design
+      <br>• Apply techniques to generate ideas to influence behaviour	    <br>
+      <a href="https://understanding-behavioral-insights.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate2.jpg">
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
@@ -232,6 +232,56 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>
+    <td>
+	    <b>Assessing Your Insurance Needs</b> <b><font color="crimson">[NEW]</font></b>
+      <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants to assess how much coverage they need and the considerations when selecting suitable products. Participants will also learn how to use online portal compareFIRST to compare and select life insurance products.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Assess and compare life insurance products
+	    <br>
+      <a href="https://assessing-your-insurance-needs.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>CPF & You </b> <b><font color="crimson">[NEW]</font></b>
+      <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help you understand how CPF prepares you for the future, the CPF rules applicable when you turn 55 and what CPF LIFE is.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the 3 CPF Life Plans
+	    <br>
+      <a href="https://cpf-and-you.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance3.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Financial Resilience During COVID-19</b> <b><font color="crimson">[NEW]</font></b>
+      <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Illustrate how to prepare a Crisis Budget, the implications of deferring mortgage and insurance payments
+      <br>• Explain the basic investing concepts
+	    <br>
+      <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance1.jpg">
+    </td>
+</tr>
+
 <tr>
     <td>
       <b>Financial Adequacy</b>

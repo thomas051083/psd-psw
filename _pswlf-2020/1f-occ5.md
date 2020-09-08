@@ -6,8 +6,104 @@ third_nav_title: Our Core Competencies
 ---
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
-       <col width="70%"> 
+       <col width="70%">
             <col width="30%">
+
+<tr>
+    <td>
+      <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
+      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the considerations when setting up video-conferencing links.
+      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
+      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>NLB Service DNA: Co-creating with Our Volunteers.</b><b><font color="crimson">[NEW]</font></b>
+      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand NLB’s strategic framework for service excellence and innovation.
+      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
+      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
+      <br>
+      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b> <b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how SportSG created an enabling environment for volunteering
+      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
+      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
+      <br>
+      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage6.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Joyful Efficient Meetings Workshop </b> <b><font color="crimson">[NEW]</font></b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:   
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/communityengagement.jpg">
+    </td>
+</tr>
+
+<tr>		
+    <td>
+      <b>The Future of Grants </b> <b><font color="crimson">[NEW]</font></b>
+      <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Join GovTech’s OurSG Grants Portal as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
+      <br>
+      <br>Learning Outcomes:
+      <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
+      <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
+      <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
+      <br>• Insight into how we harnessed our platform to support COVID-19 relief efforts
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital6.jpg">
+    </td>
+</tr>
+
 <tr>
     <td>
       <b>A Product Management approach to building Singapore’s National Digital Identity</b>
@@ -24,11 +120,12 @@ third_nav_title: Our Core Competencies
 <td>
      <img src="/images/digital4.jpg">
     </td>
-</tr>	
+</tr>
 <tr>
     <td>
       <b>Building a Geospatial Ecosystem</b>
       <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
+	       <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
       <br>Learning outcomes:
@@ -41,7 +138,8 @@ third_nav_title: Our Core Competencies
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-<tr>
+
+<tr> 
     <td>
       <b>Designing Spaces with Virtual Reality</b>
       <br>29 October 2020, 10.00am - 11.15am | Platform: Zoom
@@ -58,7 +156,8 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital8.jpg">
     </td>
 </tr>
-<tr>
+
+<tr> 
     <td>
       <b>Future-Ready Service Transformation @ MOE</b>
       <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
@@ -75,42 +174,9 @@ third_nav_title: Our Core Competencies
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Generating Creative Ideas</b>
-      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>How to conduct ideation and use ideation tools.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas. 
-      <br>• Be introduced to the process of brainstorming.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/generating-creative-ideas-tickets-117953390767">Click here to register.</a>   
-    </td>
-<td>
-     <img src="/images/innovationtest2.png">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>How Do You Identify Different Stakeholders in Your Project?</b>
-      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
-      <br>       
-      <br>How to conduct stakeholder analysis in project scoping.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Be introduced to stakeholder analysis.
-      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies.
-      <br>• Learn about defining the project scope.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a>   
-    </td>
-<td>
-     <img src="/images/project1.jpg">
-    </td>
-</tr>
-<tr>	
+
+
+<tr> 
     <td>
       <b>Overview of GeoSpace</b>
       <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
@@ -128,7 +194,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital7.jpg">
     </td>
 </tr>
-<tr>		
+<tr>
     <td>
       <b>Transforming How IRAS & ACRA Serve Businesses</b>
       <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
@@ -235,24 +301,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
-<tr>		
-    <td>
-      <b>What is the Best Way to Scope a User Centric Project?</b>
-      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn about HCI process and sharing on UXC cases.
-      <br>• Be introduced to UXC tools on how to define project scope.
-      <br>• Craft a philosophy statement that will guide the project direction.
-      <br>
-      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovationtest3.png">
-    </td>
-</tr> 
+
 <tr>
     <td>
       <b>MOH’s Regulatory Sandbox: Telemedicine</b>
@@ -289,6 +338,61 @@ third_nav_title: Our Core Competencies
      <img src="/images/pay1.jpg">
     </td>
 </tr> 
+<tr>
+    <td>
+      <b>Generating Creative Ideas </b> <b><font color="darksalmon"> [FULL]</font></b>
+      <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct ideation and use ideation tools.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Be introduced to structured online tools for ideation and coming up with creative ideas. 
+      <br>• Be introduced to the process of brainstorming.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/generating-creative-ideas-tickets-117953390767">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/innovationtest2.png">
+    </td>
+</tr>
+
+<tr>	
+    <td>
+      <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br>       
+      <br>How to conduct stakeholder analysis in project scoping.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Be introduced to stakeholder analysis.
+      <br>• Know who to engage with in order to achieve successful implementation of their projects/policies.
+      <br>• Learn about defining the project scope.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/how-do-you-identify-different-stakeholders-in-your-project-tickets-117753073613">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/project1.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn about HCI process and sharing on UXC cases.
+      <br>• Be introduced to UXC tools on how to define project scope.
+      <br>• Craft a philosophy statement that will guide the project direction.
+      <br>
+      <a href="https://www.eventbrite.sg/e/what-is-the-best-way-to-scope-a-user-centric-project-tickets-117752676425">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage9.jpg">
+    </td>
+</tr> 
+
 <tr>
 	<td>
 	    <b>LEARN modules</b>
