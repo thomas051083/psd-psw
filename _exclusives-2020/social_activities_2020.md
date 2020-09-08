@@ -51,5 +51,31 @@ All sessions are conducted online via Zoom. Pre-registration required. Zoom link
       <b>Thai Cooking Workshop by Chef Michele</b><br>
       <br>
       <b>Date:</b> Sat, 17 Oct '20, 10am to 12pm <br>
+      Click <a href="https://www.csc.sg/events/CSC-Fusion-Featured-Event?event_id=241">here</a> for more information, or to register.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/sa/mantou.jpg">
+    </td>
+    <td>
+      <b>Mantou Decoration - The Honest Bear</b><br>
+      <br>
+      <b>Date:</b> Sat, 24 Oct ’20, 11am to 12pm<br>
+      Click <a href="https://www.csc.sg/events/CSC-Fusion-Featured-Event?event_id=248">here</a> for more information, or to register.<br>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="/images/sa/mantou.jpg">
+    </td>
+    <td>
+      <b>Mantou Decoration - The Honest Bear</b><br>
+      <br>
+      <b>Date:</b> Sat, 24 Oct ’20, 11am to 12pm<br>
+      Click <a href="csc.sg/events/CSC-Fusion-Featured-Event?event_id=241">here</a> for more information, or to register.<br>
+    </td>
+  </tr>
+      
       
   
