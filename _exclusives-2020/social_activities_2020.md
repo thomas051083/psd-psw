@@ -69,7 +69,7 @@ For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.
   </tr>
     <tr>
     <td>
-      <img src="/images/sa/healthybbones.jpg">
+      <img src="/images/sa/healthybones.jpg">
     </td>
     <td>
       <b>Fundamental Principles for Healthy Bones and Joints </b><br>
