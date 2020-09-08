@@ -246,7 +246,7 @@ third_nav_title: Our Core Competencies
     <td>
 	 <img src="/images/learnlogowhitebg.jpg">
     </td>
-</tr>
+</tr> 
 </table>
 <br>
 ##### <font color="orange"><b>Don't have a LEARN account?</b></font><br>
