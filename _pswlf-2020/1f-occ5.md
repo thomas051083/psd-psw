@@ -340,7 +340,7 @@ third_nav_title: Our Core Competencies
 </tr> 
 <tr>
     <td>
-      <b>Generating Creative Ideas </b> <b><font color="darksalmon"> [FULL]</font></b>
+      <b>Generating Creative Ideas </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>How to conduct ideation and use ideation tools.
