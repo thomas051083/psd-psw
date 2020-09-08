@@ -4,7 +4,7 @@ permalink: /pswlf-2020/occ/1b-occ1
 breadcrumb: 'OCC 1. Thinking Clearly and Making Sound Judgements'
 third_nav_title: Our Core Competencies
 ---
-#### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font>
+#### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font> 
 <table>
        <col width="70%"> 
             <col width="30%"> 
