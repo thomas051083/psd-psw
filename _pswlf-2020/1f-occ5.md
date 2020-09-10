@@ -30,7 +30,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b><b><font color="crimson">[NEW]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers </b><b><font color="crimson">[NEW]</font></b>
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
@@ -89,7 +89,7 @@ third_nav_title: Our Core Competencies
       <b>The Future of Grants </b> <b><font color="crimson">[NEW]</font></b>
       <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Join GovTech’s OurSG Grants Portal as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
+      <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
       <br>
       <br>Learning Outcomes:
       <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
