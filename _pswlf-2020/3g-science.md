@@ -38,8 +38,9 @@ third_nav_title: Job Specific Skills
       <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand web accessibility and HATS’ automated accessibility tool        
-      <br>• Understand PWDs and their everyday struggles with technology
+      <br>• Explain about HTTP, HTTPS and XSS
+      <br>• Describe ethical hacking
+      <br>• Have hands-on experience on practical and realistic labs
       <br>
       <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
     </td>    
