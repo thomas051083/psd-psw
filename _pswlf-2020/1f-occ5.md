@@ -30,7 +30,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b><b><font color="crimson">[NEW]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers </b><b><font color="crimson">[NEW]</font></b>
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
