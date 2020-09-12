@@ -94,7 +94,7 @@ third_nav_title: Our Core Competencies
       <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
       <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
       <br>
-      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr”>Click here to register.</a> 
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage6.jpg">
