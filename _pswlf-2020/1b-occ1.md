@@ -27,6 +27,24 @@ third_nav_title: Our Core Competencies
      <img src="/images/lead2.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Wellbeing@Work: Supporting our Peers </b> <b><font color="crimson">[NEW]</font></b>
