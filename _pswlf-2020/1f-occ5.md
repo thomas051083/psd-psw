@@ -134,6 +134,23 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
+      <br>      
+      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
+      <br>
+    </td>    
+<td>
+     <img src="/images/service3.jpeg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
