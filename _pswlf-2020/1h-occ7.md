@@ -102,7 +102,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Too Thorny to Talk?: Engaging on Controversial Issues</b><b><font color="crimson">[NEW]</font></b>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b><b><font color="crimson">[NEW]</font></b>
       <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
@@ -115,7 +115,7 @@ third_nav_title: Our Core Competencies
 <br>
 </td>    
 <td>
-     <img src="/images/engage4.jpg.jpg">
+     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr> 
