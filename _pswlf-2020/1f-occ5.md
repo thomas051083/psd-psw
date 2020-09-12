@@ -20,7 +20,7 @@ third_nav_title: Our Core Competencies
       <br>Learning Outcomes:
       <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
       <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
-       <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
+      <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
       <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003”>Click here to register.</a> 
     </td>    
 <td>
@@ -101,7 +101,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/communityengagement.jpg">
     </td>
 </tr>
-
 <tr>		
     <td>
       <b>The Future of Grants </b> <b><font color="crimson">[NEW]</font></b>
@@ -121,7 +120,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital6.jpg">
     </td>
 </tr>
-
 <tr>
     <td>
       <b>A Product Management approach to building Singapore’s National Digital Identity</b>
@@ -156,7 +154,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-
 <tr> 
     <td>
       <b>Designing Spaces with Virtual Reality</b>
@@ -174,7 +171,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital8.jpg">
     </td>
 </tr>
-
 <tr> 
     <td>
       <b>Future-Ready Service Transformation @ MOE</b>
@@ -192,8 +188,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
-
-
 <tr> 
     <td>
       <b>Overview of GeoSpace</b>
@@ -319,7 +313,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
-
 <tr>
     <td>
       <b>MOH’s Regulatory Sandbox: Telemedicine</b>
@@ -373,7 +366,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/innovationtest2.png">
     </td>
 </tr>
-
 <tr>	
     <td>
       <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -410,7 +402,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage9.jpg">
     </td>
 </tr> 
-
 <tr>
 	<td>
 	    <b>LEARN modules</b>
