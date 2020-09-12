@@ -28,6 +28,61 @@ third_nav_title: Our Core Competencies
      <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>
+      <br>Learning Outcomes:
+      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
+      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
+      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
+      <br>
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215”>Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
+      <br>23 October 2020, 10.00am - 12.00pm | Platform: Zoom
+      <br>       
+      <br>The sharing will include insights from working with community partners and volunteers for COVID-19 efforts, resources on partnership and volunteer engagement, tips on mobilising and working with volunteers, transitioning to digital engagement, and how your agency can tap on volunteerism to develop officers’ core competencies.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Ideas on how to partner the community
+      <br>• Ways to involve and engage volunteers to co-create/co-deliver services
+      <br>• Tools and resources on partnership engagement and volunteer engagement
+      <br>• Value of volunteering and how to get started
+      <br>
+      <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449”>Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b><b><font color="crimson">[NEW]</font></b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
+      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
+      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
+           <br>
+      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683”>Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> <b><font color="crimson">[NEW]</font></b>
