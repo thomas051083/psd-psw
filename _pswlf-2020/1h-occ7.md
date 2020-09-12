@@ -84,6 +84,24 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr”>Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage6.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> <b><font color="crimson">[NEW]</font></b>
       <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
