@@ -55,8 +55,7 @@ third_nav_title: Our Core Competencies
        <br>
        <br> This session is organised for regulatory leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
-<b><font color=”lightslategray”>(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</font></b>
-<b><font color="crimson">(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</font></b>
+<b><font color="grey">(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</font></b>
       <br>
       <br>Learning Outcomes:
       <br>• To learn about the best practices in institutionalising a forward-looking regulatory ecosystem and the enablers in the organisation which support it.
