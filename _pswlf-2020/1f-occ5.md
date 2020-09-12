@@ -82,6 +82,42 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>Future Work for Yishun Health</b><b><font color="crimson">[NEW]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
+      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
+      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
+     <br>
+ <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/patient1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+     <b>Innovation in the SAF</b><b><font color="crimson">[NEW]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
