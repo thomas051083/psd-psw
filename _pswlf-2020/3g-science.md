@@ -80,7 +80,7 @@ third_nav_title: Job Specific Skills
 </tr>	
 <tr>		
     <td>
-      <b>JTC's Facilities Management Transformation</b> <b><font color="crimson"</font></b>
+      <b>JTC's Facilities Management Transformation</b> <b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 11.00am - 12.00pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
