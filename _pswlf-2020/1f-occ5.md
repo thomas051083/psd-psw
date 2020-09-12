@@ -151,6 +151,26 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>Making Regulatory Transformation Work </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>Join this panel discussion to hear and exchange ideas on how we can cultivate a conducive workforce culture and put in place enablers to support regulatory reviews that keeps our regulatory ecosystem forward-looking, up to date with industry innovations and supports new business models.
+       <br>
+       <br> This session is organised for regulatory leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+       <br>
+       <br>   
+<b><font color="grey"><i>(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</i></font></b>
+      <br>
+      <br>Learning Outcomes:
+      <br>• To learn about the best practices in institutionalising a forward-looking regulatory ecosystem and the enablers in the organisation which support it.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage12.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
