@@ -21,7 +21,8 @@ third_nav_title: Our Core Competencies
       <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
       <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
       <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
-      <a href="hthttps://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003”>Click here to register.</a> 
+      <br>
+      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003”>Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/innovate1.jpg">
