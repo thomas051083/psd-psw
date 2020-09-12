@@ -30,7 +30,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color=”crimson”>[NEW]</font></b>
+      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="crimson">[NEW]</font></b>
       <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
       <br>       
       <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
