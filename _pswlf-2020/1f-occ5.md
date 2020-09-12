@@ -30,6 +30,23 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management</b><b><font color=”crimson”>[NEW]</font></b>
+      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
+      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
+      <br>
+      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079”>Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/changeagility.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
