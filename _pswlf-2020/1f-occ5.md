@@ -22,8 +22,8 @@ third_nav_title: Our Core Competencies
       <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
       <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
       <br>
-      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003”>Click here to register.</a> 
-    </td>    
+      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003">Click here to register.</a> 
+    </td>   
 <td>
      <img src="/images/innovate1.jpg">
     </td>
