@@ -77,7 +77,7 @@ third_nav_title: Our Core Competencies
   <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/digitalliteracy.jpg">
+     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr> 
