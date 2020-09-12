@@ -10,6 +10,24 @@ third_nav_title: Our Core Competencies
        <col width="70%"> 
             <col width="30%"> 
 
+<tr> 
+    <td>
+      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
+      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
+      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
+      <br>
+  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
