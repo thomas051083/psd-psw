@@ -56,8 +56,8 @@ third_nav_title: Our Core Competencies
       <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
       <br>• Learn about the skills and mindsets required to thrive and this can be applied to delivery of programmes for citizens
       <br>
-      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407”>Click here to register.</a> 
-    </td>    
+      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407">Click here to register.</a> 
+    </td>  
 <td>
      <img src="/images/innovate4.jpg">
     </td>
