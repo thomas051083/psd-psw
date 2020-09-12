@@ -38,7 +38,7 @@ third_nav_title: Our Core Competencies
       <br>Learning Outcomes:
       <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
       <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
-      <br>
+      <br
       <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079”>Click here to register.</a> 
     </td>    
 <td>
