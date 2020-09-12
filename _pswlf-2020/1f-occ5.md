@@ -8,7 +8,7 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%">
             <col width="30%">
-<tr> 
+<tr>
     <td>
       <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b><b><font color=”crimson”>[NEW]</font></b>
       <br>27 October 2020, 4.00pm – 5.30pm | Platform: Zoom
