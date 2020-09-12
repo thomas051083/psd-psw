@@ -12,7 +12,7 @@ third_nav_title: Our Core Competencies
 
 <tr> 
     <td>
-      <b>Hacking your innovation mindset!</b><b><font color=”crimson”>[NEW]</font></b>
+      <b>Hacking your innovation mindset! </b><b><font color=”crimson”>[NEW]</font></b>
       <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from School of Design's experience in a health, social and design challenge co-organised with MOH Transformation Office, NCSS and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
@@ -21,7 +21,7 @@ third_nav_title: Our Core Competencies
       <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
       <br>• Learn about the skills and mindsets required to thrive and this can be applied to delivery of programmes for citizens
       <br>
-      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407”>Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407">Click here to register.</a>
     </td>    
 <td>
      <img src="/images/innovate4.jpg">
