@@ -67,6 +67,23 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>COVID-19 Pandemic – Swift Regulatory Response to Help Businesses and Citizens</b><b><font color=”crimson”>[NEW]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>•For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> <b><font color="crimson">[NEW]</font></b>
       <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
