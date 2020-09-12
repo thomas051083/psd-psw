@@ -42,7 +42,7 @@ Sign up for programmes based on four of the eleven technical finance competencie
       <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
       <br>       
-      <br>This session will introduce you to UiPath and advanced UI interaction.
+      <br>This session will introduce you to UiPath and advanced UI interaction. Get started on RPA today!
       <br>      
       <br>Learning Outcomes:
       <br>• Learn the basic concepts of Robotic Process Automation.
