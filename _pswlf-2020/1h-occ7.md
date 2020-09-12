@@ -15,8 +15,7 @@ third_nav_title: Our Core Competencies
       <b>Shaping the Future Workplace </b><b><font color="crimson">[NEW]</font></b>
       <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
       <br>       
-      <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.
-      <br>      
+      <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.   
       <br>This session is organised for senior leaders by the PST-Digital Committee. You may contact <a href="mailto:PSD_PST@psd.gov.sg”>PSD_PST@psd.gov.sg.</a> for details.
       <br>
       <br>Learning Outcomes:
@@ -24,7 +23,6 @@ third_nav_title: Our Core Competencies
       <br> b. Learn about key technology, people and physical space initiatives in the pipeline to improve our officers’ workplace experience;
       <br> c. Discuss, share experiences and build consensus on the Public Service’s Future Workplace vision and how to realise it; and
       <br> d. Appreciate the importance of complementing COG-led initiatives with agency-led transformation of policies, processes and organisational culture.
-      <br>
       <br>
     </td>    
 <td>
