@@ -82,7 +82,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Future Work for Yishun Health</b><b><font color="crimson">[NEW]</font></b>
+      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
       <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
@@ -100,7 +100,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-     <b>Innovation in the SAF</b><b><font color="crimson">[NEW]</font></b>
+     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
       <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
