@@ -12,7 +12,94 @@ third_nav_title: Job Specific Skills
             <col width="30%">
 <tr>		
     <td>
-      <b>Purple Hats – Improving Web Accessibility for Singapore</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Applications of AI-driven Video Analytics (VA)</b> <b><font color="crimson">[NEW]</font></b>
+      <br>30 October 2020, 4.00pm - 5.00pm | Platform: Skype/ Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview on video analytics can be used to improve efficiency and service delivery for urban planning, policy making, security and enforcement.  
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand how to leverage technology for public good and to start a VA-driven agency project
+      <br>
+      <a href="https://applications-of-ai-driven-video-analytics-va.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital3.jpg">
+    </td>
+</tr>	
+	<tr>		
+    <td>
+      <b>From Data Literacy to Data Champions</b> <b><font color="crimson">[NEW]</font></b>
+      <br>13 October 2020, 10.00am - 11.30pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview of the Data Literacy ePrimer, which is a free eLearning developed by GovTech.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand data literacy and the various Data Science & AI programmes & initiatives that GovTech is running for the Whole-Of-Government
+      <br>
+      <a href="https://from-data-literacy-to-data-champions.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/data1.jpg">
+    </td>
+</tr>	
+	<tr>		
+    <td>
+      <b>From Policy Analyst to Quant Analyst</b> <b><font color="crimson">[NEW]</font></b>
+      <br>30 October 2020, 10.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>Hear from a fellow colleague: an ex-policy analyst, who is now serving as a full-time quant analyst with GovTech. This colleague made the transition, without a formal technical background.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand how to improve your technology skills
+      <br>
+      <a href="https://from-policy-analyst-to-quant-analyst.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/data2.jpg">
+    </td>
+</tr>	
+	<tr>		
+    <td>
+      <b>Open Attestation – Document Creation & Verification</b> <b><font color="crimson">[NEW]</font></b>
+      <br>13 October 2020, 11.00am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide a blockchain primer, followed by short demonstration on the ease of creating and publishing a verifiable document on blockchain. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the basics of Blockchain and how to create an open attestation document
+      <br>
+      <a href="https://open-attestation-document-creation-verification.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/data3.jpg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>JTC's Facilities Management Transformation</b> <b><font color="crimson"</font></b>
+      <br>26 October 2020, 11.00am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>By creating the right working environment and culture, coupled with the support provided by leaders, we will be able to architect a resilient FM workforce.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand JTC's contracting strategies to procure FM services
+      <br>• Understand how JTC revamped its processes to benefit from the adoption of technologies
+      <br>• Understand how JTC prepared its staff for FM transformation
+      <br>
+      <a href="https://jtcs-facilities-management-transformation.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/facility1.jpg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>Purple Hats – Improving Web Accessibility for Singapore</b>
       <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
@@ -31,7 +118,7 @@ third_nav_title: Job Specific Skills
 </tr>	
 <tr>		
     <td>
-      <b>Introduction to Web Application Hacking and Cross-site Scripting</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
       <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>     
