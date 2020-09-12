@@ -30,7 +30,7 @@ third_nav_title: Job Specific Skills
 	<tr>		
     <td>
       <b>From Data Literacy to Data Champions</b> <b><font color="crimson">[NEW]</font></b>
-      <br>13 October 2020, 10.00am - 11.30pm | Platform: Zoom
+      <br>13 October 2020, 10.00am - 11.30am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session will provide an overview of the Data Literacy ePrimer, which is a free eLearning developed by GovTech.
