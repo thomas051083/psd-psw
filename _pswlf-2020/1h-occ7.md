@@ -28,7 +28,43 @@ third_nav_title: Our Core Competencies
 <td>
      <img src="/images/engage13.jpg">
     </td>
-</tr>	    
+</tr>	
+<tr> 
+    <td>
+    <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
+      <br>      
+      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>•Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
+      <br>
+    </td>    
+<td>
+     <img src="/images/service3.jpeg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Making Regulatory Transformation Work</b><b><font color=”crimson”>[NEW]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>Join this panel discussion to hear and exchange ideas on how we can cultivate a conducive workforce culture and put in place enablers to support regulatory reviews that keeps our regulatory ecosystem forward-looking, up to date with industry innovations and supports new business models.
+       <br>
+       <br> This session is organised for regulatory leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+<font color=”silver”>(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</font></b>
+      <br>
+      <br>Learning Outcomes:
+      <br>•To learn about the best practices in institutionalising a forward-looking regulatory ecosystem and the enablers in the organisation which support it.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage12.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> <b><font color="crimson">[NEW]</font></b>
