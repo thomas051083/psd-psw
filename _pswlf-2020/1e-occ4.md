@@ -40,7 +40,7 @@ third_nav_title: Our Core Competencies
       <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
       <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
       <br>
-      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215”>Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/engage11.jpg">
@@ -59,7 +59,7 @@ third_nav_title: Our Core Competencies
       <br>• Tools and resources on partnership engagement and volunteer engagement
       <br>• Value of volunteering and how to get started
       <br>
-      <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449”>Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/volunteer.jpeg">
@@ -77,7 +77,7 @@ third_nav_title: Our Core Competencies
       <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
       <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
            <br>
-      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683”>Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
     </td>    
 <td>
      <img src="/images/change3.jpg">
