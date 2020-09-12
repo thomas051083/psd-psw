@@ -11,6 +11,24 @@ third_nav_title: Our Core Competencies
 
 <tr>
     <td>
+      <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b><b><font color="crimson">[NEW]</font></b>
+      <br>27 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br> Do you want to improve your skills in creating and developing new ideas? 
+     <br> Learn how you can develop innovative ideas that not only target the purpose at the core, but build your team’s capabilities through the use of the Six ‘I’s of Innovation, an integrated methodology that combines design thinking with organisation and team development.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
+      <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
+       <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
+      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003”>Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
