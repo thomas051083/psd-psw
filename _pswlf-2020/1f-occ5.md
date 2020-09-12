@@ -171,6 +171,24 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
+      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>
+      <br>Learning Outcomes:
+      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
+      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
+      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
+      <br>
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
