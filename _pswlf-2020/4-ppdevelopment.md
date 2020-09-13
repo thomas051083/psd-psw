@@ -119,6 +119,79 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
+	    <b>Arrival of 5G Network</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>29 October 2020, 2.00pm – 3.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants to understand what 5G Network is and how it will change your lifestyle and workspace.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain how 5G Network changes our lifestyle and workspace
+      <br>• Identify how Smart Business and new technologies has disrupted the employment landscape
+	    <br>
+      <a href="https://arrival-of-5g-network.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital1.jpeg">
+    </td>
+</tr>
+	
+<tr>
+    <td>
+	    <b>Building Your Personal Resilience for Support Officer</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>21 October 2020, 10.00am – 12.00pm | Platform: Zoom
+      <br>       
+      <br>In today's rapidly changing environment and workplace, being resilient has become increasingly important as we face greater demands and challenges. Simply put, resilience is the ability to cope with stress, overcome diversity or adapt positively to change, and it is a process that involves our behaviour, thoughts and actions.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Deepen your sense of purpose & meaning with effective relationships
+      <br>• Enhance your knowledge and skills to develop and sustain positive relationships both at work and at home
+      <br>• Learn to strengthen personal resilience in managing change, crisis, and difficult emotions
+      <br>• Achieve a state of calm focus in life and at work
+	    <br>
+      <a href="https://www.eventbrite.sg/e/building-your-personal-resilience-for-support-officer-tickets-118589373007">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/service4.jpg">
+    </td>
+</tr>
+
+<tr>
+    <td>
+	    <b>Maintaining Positive Mental Health in the New Normal</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>30 October 2020, 11.00am – 12.00pm | Platform: Zoom
+      <br>       
+      <br>COVID-19 has disrupted the way we work and live. Telecommuting and virtual meetings are our new norm. Living in such changing times can be challenging.  How do we maintain a positive mental health in this new normal? 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the possible types and symptoms of mental health issues that can arise from changes in work-life and get tips on how to cope with the changes
+	    <br>
+      <a href="https://maintaining-positive-mental-health.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate5.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Navigating Challenges Ahead for Support Officers</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>22 October 2020, 10.00am – 11.30am | Platform: Zoom
+      <br>       
+      <br>Do you want to future-proof yourself and stay relevant in today’s competitive landscape? In this session, you will learn tools on how to embrace and manage changes in the workplace. You will also gain a better understanding on how to embrace yourself and ride through changes.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Build an awareness of the changing landscape and workforce 
+      <br>• Describe the change curve and identify your current and desired state on the change curve
+      <br>• Discuss tools on embracing and managing changes in the workplace
+	    <br>
+      <a href="https://www.eventbrite.sg/e/navigating-challenges-ahead-for-support-officer-tickets-118589471301">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
+    </td>
+</tr>
+
+<tr>
+    <td>
       <b>Change as Opportunity</b>
       <br>22 October 2020, 1.00pm – 2.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
