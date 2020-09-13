@@ -189,7 +189,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
+      <b>Delivering Social Services through Video-Conferencing </b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
@@ -208,7 +208,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers </b><b><font color="crimson">[NEW]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers </b>
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
@@ -226,7 +226,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b>
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
@@ -244,7 +244,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>	
     <td>
-      <b>Joyful Efficient Meetings Workshop </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Joyful Efficient Meetings Workshop </b>
       <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
       <br>       
       <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
@@ -263,7 +263,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>		
     <td>
-      <b>The Future of Grants </b> <b><font color="crimson">[NEW]</font></b>
+      <b>The Future of Grants </b> 
       <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
