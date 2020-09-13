@@ -140,7 +140,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b>
       <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>You will learn about our leader’s journey in co-creating the IRAS’ Leadership Principles and how it serves as a day-to-day “cultural compass” as we navigate through our transformation journey.
@@ -157,7 +157,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>The Future of Grants </b> <b><font color="crimson">[NEW]</font></b>
+      <b>The Future of Grants </b> 
       <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
