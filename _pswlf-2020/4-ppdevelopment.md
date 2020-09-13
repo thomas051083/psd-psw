@@ -382,6 +382,41 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>
+    <td>
+      <b>Career Coaching Sessions</b> <font color="crimson"><b> [NEW]</b></font>
+      <br> Platform: Zoom
+      <br>       
+     <br>Gain insights from personalised coaching with our career coaches to manage your career.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• How do I plan and grow my career? How do I make informed career decisions?
+      <br>• How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
+	    <br>
+      <a href="https://publicservicecareercoaching.as.me/JFbooking">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/coaching.jpg">
+    </td>
+</tr>
+	
+<tr>
+    <td>
+      <b>[Teaser] Taking ownership of my performance at work using core competencies</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
+      <br>       
+     <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn about how might we demonstrate Our Core Competencies in the area of our work.
+      <br>• Discover tips and techniques to cope with the rapidly changing work context. 
+	    <br>
+      <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/career1.jpg>
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
