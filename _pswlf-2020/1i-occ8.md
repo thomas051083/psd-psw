@@ -31,7 +31,7 @@ third_nav_title: Our Core Competencies
 </tr>	
 <tr> 
     <td>
-      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> 
       <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>You will learn about our leader’s journey in co-creating the IRAS’ Leadership Principles and how it serves as a day-to-day “cultural compass” as we navigate through our transformation journey.
@@ -48,7 +48,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Wellbeing@Work: Being A Supportive Leader </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Wellbeing@Work: Being A Supportive Leader </b> 
       <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
