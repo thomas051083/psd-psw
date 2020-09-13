@@ -98,7 +98,7 @@ third_nav_title: Our Core Competencies
       <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/engage6.jpg">
+     <img src="/images/change2.jpg">
     </td>
 </tr>
 <tr> 
