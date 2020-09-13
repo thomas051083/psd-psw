@@ -64,7 +64,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>Wellbeing@Work: Supporting our Peers </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Wellbeing@Work: Supporting our Peers </b> 
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
@@ -89,7 +89,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> <b><font color="crimson">[NEW]</font></b>
+      <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> 
       <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
       <br>       
       <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
