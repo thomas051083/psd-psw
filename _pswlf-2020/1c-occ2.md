@@ -44,7 +44,7 @@ third_nav_title: Our Core Competencies
       <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/volunteer.jpeg">
+     <img src="/images/humanresource.jpg">
     </td>
 </tr>
 <tr> 
