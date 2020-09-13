@@ -386,7 +386,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Career Coaching Sessions</b> <font color="crimson"><b> [NEW]</b></font>
       <br> Platform: Zoom
-	    <br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for this session:
+	    <br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for these sessions:
 <br>1. Accounting & Finance
 <br>2. Citizen Engagement
 <br>3. Corporate Admin
