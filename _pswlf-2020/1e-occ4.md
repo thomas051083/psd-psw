@@ -121,7 +121,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>	
     <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
@@ -139,7 +139,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> <b><font color="crimson">[NEW]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> 
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
