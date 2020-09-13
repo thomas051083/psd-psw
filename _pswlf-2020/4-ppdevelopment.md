@@ -408,7 +408,7 @@ breadcrumb: 'Professional & Personal Development'
 	
 <tr>
     <td>
-      <b>[Teaser] Taking ownership of my performance at work using core competencies</b> <font color="crimson"><b> [NEW]</b></font>
+      <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies</b> <font color="crimson"><b> [NEW]</b></font>
       <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
       <br>       
      <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
@@ -420,7 +420,7 @@ breadcrumb: 'Professional & Personal Development'
       <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/career1.jpg>
+     <img src="/images/career1.jpg">
     </td>
 </tr>
 </table>
