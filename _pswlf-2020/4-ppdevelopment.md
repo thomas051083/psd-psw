@@ -226,14 +226,14 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Importance of Growth Mindset in a VUKA Environment</b>
+      <b>Importance of Growth Mindset in a VUCA World</b>
       <br>20 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Understand about growth mindset and pick up tips to develop a growth mindset.
+      <br>Our world is becoming increasingly Volatile, Uncertain, Complex and Ambiguous (VUCA). How do we prepare ourselves for such an environment? Why is it important to have a growth mindset?
       <br>      
       <br>Learning Outcomes:
-      <br>• Appreciate the differences between a growth mindset and a fixed mindset
-      <br>•  Apply tips to develop a growth mindset
+      <br>• Understand what is a growth mindset and how having a growth mindset can improve your professional and personal life 
+      <br>• Pick up tips to develop a growth mindset
       <br>
       <a href="https://importance-of-growth-mindset.eventbrite.sg">Click here to register.</a> 
     </td>    
