@@ -402,7 +402,7 @@ breadcrumb: 'Professional & Personal Development'
       <a href="https://publicservicecareercoaching.as.me/JFbooking">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/coaching.jpg">
+     <img src="/images/coaching2.jpg">
     </td>
 </tr>
 	
