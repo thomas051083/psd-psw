@@ -291,7 +291,6 @@ third_nav_title: Our Core Competencies
       <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
       <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
       <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
-      <br>• Insight into how we harnessed our platform to support COVID-19 relief efforts
       <br>
       <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
     </td>    
