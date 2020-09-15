@@ -9,25 +9,6 @@ third_nav_title: Our Core Competencies
        <col width="70%"> 
             <col width="30%"> 
  
-<tr>
-    <td>
-      <b>Delivering Social Services through Video-Conferencing</b> <b><font color="crimson">[NEW]</font></b>
-      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
-      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the considerations when setting up video-conferencing links.
-      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
-      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
-      <br>
-      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b>
@@ -119,6 +100,26 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage4.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>Delivering Social Services through Video-Conferencing</b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
+      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the considerations when setting up video-conferencing links.
+      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
+      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
+
 <tr>	
     <td>
       <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
