@@ -27,6 +27,12 @@ collections:
         output: true
     exclusives-2020:
         output: true
+    haiming:
+        output: true
+    daniel:
+        output: true
+    training:
+        output: true 
     
 resources_name: news
 favicon: /images/PSW_Logo.png
