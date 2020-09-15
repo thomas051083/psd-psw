@@ -387,12 +387,7 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Career Coaching Sessions</b> <font color="crimson"><b> [NEW]</b></font>
       <br> Platform: Zoom
-	    <br><font color="dimgrey"><i>We will be prioritising access to officers from the following job families for these sessions:
-<br>1. Accounting & Finance
-<br>2. Citizen Engagement
-<br>3. Corporate Admin
-<br>4. HR
-<br>5. Regulation, Enforcement & Compliance</i></font>
+<br>Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance
       <br>       
      <br>Gain insights from personalised coaching with our career coaches to manage your career.
       <br>      
@@ -400,8 +395,10 @@ breadcrumb: 'Professional & Personal Development'
       <br>• How do I plan and grow my career? How do I make informed career decisions?
       <br>• How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
 	    <br>
-      <a href="https://publicservicecareercoaching.as.me/JFbooking">Click here to register.</a> 
-    </td>    
+      <br>If you are from the job families, <b>Accounting & Finance, Citizen Engagement, Corporate Admin, HR or Regulation, Enforcement & Compliance</b>, <a href="https://publicservicecareercoaching.as.me/JFbooking">click here to register.</a> 
+	    
+<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <b>(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</b>.
+<br> For <b>other</b> job families, slots will be opened on <b>22 Sep 2020, 12noon.</b>
 <td>
      <img src="/images/coaching2.jpg">
     </td>
