@@ -71,22 +71,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/digital3.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>RPA (Robotic Process Automation) - What is it & How does it help you?</b>
-      <br>16 Oct 2020, 9.00am – 11.00am| Platform: Zoom
-      <br>       
-       <br>The talk gives an introduction to RPA, its benefits and common applications of RPA at work.
-      <br>
-      <br>Learning Outcomes:
-      <br>∙ Understand what is RPA, what you can use it for and some common applications of RPA at work. 
-      <br>
-      <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/rpa1.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
@@ -102,6 +87,22 @@ breadcrumb: 'Professional & Personal Development'
     </td>
     <td>
      <img src="/images/digital4.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>RPA (Robotic Process Automation) - What is it & How does it help you?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 Oct 2020, 9.00am – 11.00am| Platform: Zoom
+      <br>       
+       <br>The talk gives an introduction to RPA, its benefits and common applications of RPA at work.
+      <br>
+      <br>Learning Outcomes:
+      <br>∙ Understand what is RPA, what you can use it for and some common applications of RPA at work. 
+      <br>
+      <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/rpa1.jpg">
     </td>
 </tr>
 </table>
