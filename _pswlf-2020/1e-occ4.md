@@ -11,7 +11,7 @@ third_nav_title: Our Core Competencies
  
 <tr> 
     <td>
-      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b>
+      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b> 
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
