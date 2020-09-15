@@ -39,7 +39,7 @@ Check out the programmes below, some of which are curated and offered only for t
 </tr>	
 <tr>
     <td>
-      <b>Virtualising Community Engagement</b>
+      <b>Virtualising Community Engagement</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>19 or 22 October 2020, 9.00am – 11.00am | Platform: Zoom
       <br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
@@ -60,7 +60,7 @@ Check out the programmes below, some of which are curated and offered only for t
 </tr>
 <tr>
     <td>
-      <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides</b>
+      <b>Digital Tools for Citizen Engagement: Zoom, Padlet and Google Slides</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>15 or 28 October 2020 , 9.00am - 11.30am | Platform: Zoom
 	 <br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       
