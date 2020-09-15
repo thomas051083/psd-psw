@@ -456,23 +456,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
-<tr>	
-    <td>
-      <b>Is There Room for Emotional Design in Public Service?</b>
-      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service.
-      <br>• Know about developing empathy through emotional design.
-      <br>
-      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-</tr> 
+
 <tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b>
@@ -525,6 +509,23 @@ third_nav_title: Our Core Competencies
     </td>    
 <td>
      <img src="/images/pay1.jpg">
+    </td>
+</tr> 
+<tr>	
+    <td>
+      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
+      <br>
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
     </td>
 </tr> 
 <tr>
