@@ -83,23 +83,7 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 
-<tr>
-    <td>
-      <b>Is There Room for Emotional Design in Public Service?</b>
-      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service.
-      <br>• Know about developing empathy through emotional design.
-      <br>
-      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-	      </tr>   
+
 <tr>		
     <td>
       <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
@@ -116,7 +100,24 @@ third_nav_title: Our Core Competencies
 <td>
      <img src="/images/engage7.jpg">
     </td>
-</tr>  
+</tr> 
+<tr>
+    <td>
+      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
+      <br>
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+	      </tr>   
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
