@@ -387,7 +387,6 @@ breadcrumb: 'Professional & Personal Development'
     <td>
       <b>Career Coaching Sessions</b> <font color="crimson"><b> [NEW]</b></font>
       <br> Platform: Zoom
-<br>Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance
       <br>       
      <br>Gain insights from personalised coaching with our career coaches to manage your career.
       <br>      
