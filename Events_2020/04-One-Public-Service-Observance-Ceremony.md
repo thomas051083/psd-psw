@@ -8,7 +8,7 @@ permalink: /opsoc-2020
 ### One Public Service Observance Ceremony<br>
 <i>The event is open to all public officers </i><br>
 <br>
-The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. Join us this year at a fully virtual, service-wide PSOC as we come together to hear a special message from Prime Minster Lee Hsien Loong.
+The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. Join us this year at a fully virtual, Service-wide PSOC as we come together to reflect on this exceptional year, be encouraged by how we've turned crisis into opportunity and hear messages from Prime Minster Lee Hsien Loong and Minister-in-charge of the Public Service, Chan Chun Sing.
 <br>
 <br>
 **Time and Date:** 16 October 2020, 10am - 11am<br>
