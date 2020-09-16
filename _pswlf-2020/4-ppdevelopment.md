@@ -389,12 +389,9 @@ breadcrumb: 'Professional & Personal Development'
       <br> Platform: Zoom
       <br>       
      <br>Gain insights from personalised coaching with our career coaches to manage your career. Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
-
       <br>      
       <br>Learning Outcomes:
       <br>• How do I plan and grow my career? 
-      <br>• How do I make informed career decisions?
-      <br>• How do I prepare for new roles or career switches? 
       <br>• How can I find clarity for my career direction? 
       <br>• What are my career interests and skills?
 	    <br>
