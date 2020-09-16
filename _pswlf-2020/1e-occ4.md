@@ -9,9 +9,100 @@ third_nav_title: Our Core Competencies
        <col width="70%"> 
             <col width="30%"> 
  
+<tr> 
+    <td>
+      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b> 
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>
+      <br>Learning Outcomes:
+      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
+      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
+      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
+      <br>
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
+      <br>23 October 2020, 10.00am - 12.00pm | Platform: Zoom
+      <br>       
+      <br>The sharing will include insights from working with community partners and volunteers for COVID-19 efforts, resources on partnership and volunteer engagement, tips on mobilising and working with volunteers, transitioning to digital engagement, and how your agency can tap on volunteerism to develop officers’ core competencies.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Ideas on how to partner the community
+      <br>• Ways to involve and engage volunteers to co-create/co-deliver services
+      <br>• Tools and resources on partnership engagement and volunteer engagement
+      <br>• Value of volunteering and how to get started
+      <br>
+      <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/humanresource.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b><b><font color="crimson">[NEW]</font></b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
+      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
+      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
+           <br>
+      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b><b><font color="crimson">[NEW]</font></b>
+      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
+       <br>      
+       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants would better understand how they can work together with multiple stakeholders. 
+      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
+<br>
+</td>    
+<td>
+     <img src="/images/engage4.jpg">
+    </td>
+</tr>
 <tr>
     <td>
-      <b>Delivering Social Services through Video-Conferencing</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Delivering Social Services through Video-Conferencing</b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
@@ -28,9 +119,10 @@ third_nav_title: Our Core Competencies
      <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
+
 <tr>	
     <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
@@ -48,7 +140,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> <b><font color="crimson">[NEW]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> 
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.

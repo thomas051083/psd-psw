@@ -8,8 +8,46 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
- <tr> 
-<td>	     
+
+
+<tr> 
+    <td>
+      <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from School of Design's experience in a health, social and design challenge co-organised with MOH Transformation Office, NCSS and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
+      <br>• Learn about the skills and mindsets required to thrive and this can be applied to delivery of programmes for citizens
+      <br>
+      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/innovate4.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b><b><font color="crimson">[NEW]</font></b>
+      <br>16 or 23 October 2020, 9.30am - 11.00am | Platform: Zoom
+      <br>      
+      <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
+      <br>
+      <br>Learning Outcomes:
+      <br>• To show how the app gives more control to the officer to shape his/her career path.
+      <br>• To share the role of the app in the future Workforce and Workplace
+      <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
+      <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977">Click here to register for 16 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
+    </td>    
+<td>
+     <img src="/images/Digital2.jpg">
+    </td>
+</tr>
+  <tr> 
+   <td>	     
       <b>LEARN modules</b> 
       <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Keep Learning and Putting Skills into Action.
 	<br><br>

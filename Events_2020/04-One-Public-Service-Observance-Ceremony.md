@@ -8,7 +8,11 @@ permalink: /opsoc-2020
 ### One Public Service Observance Ceremony<br>
 <i>The event is open to all public officers </i><br>
 <br>
-The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. This year, PSOC will be a fully virtual, service-wide ceremony with activities streamed to all officers.
+The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. 
+<br><br>
+This year, we are going fully virtual! Join us in the mega ceremony for all public officers as we come together to reflect on this exceptional year.
+<br><br>
+You will also hear from Prime Minster Lee Hsien Loong and Minister-in-charge of the Public Service, Chan Chun Sing on how we  turned crisis into opportunity.
 <br>
 <br>
 **Time and Date:** 16 October 2020, 10am - 11am<br>
@@ -39,20 +43,20 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
       10.05am
     </td>
     <td>
-      Welcome address by Head, Civil Service
+      Opening Video - "A Story to Tell" + Opening address by Prime Minister Lee Hsien Loong
     </td>
   </tr>
   <tr>
     <td>
-      10.10am
+      10.15am
     </td>
     <td>
-       Interactive quiz
+      Address by Minister-in-charge of the Public Service, Mr. Chan Chun Sing
     </td>
   </tr>
   <tr>
     <td>
-      10.20am
+      10.30am
     </td>
     <td>
       Screening of Public Service Week Video
@@ -60,15 +64,7 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
   </tr>
   <tr>
     <td>
-      10.25am
-    </td>
-    <td>
-      Speech by Minister-in-charge of the Public Service
-    </td>
-  </tr>
-  <tr>
-    <td>
-      10.40am
+      10.35am
     </td>
     <td>
       Pledge-taking and Singing of the National Anthem
@@ -76,15 +72,7 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
   </tr>
   <tr>
     <td>
-      10.45am
-    </td>
-    <td>
-      Screening of a Video Appreciating Officers for their Work
-    </td>
-  </tr>
-  <tr>
-    <td>
-      10.50am
+      10.40am
     </td>
     <td>
       Closing by Emcee

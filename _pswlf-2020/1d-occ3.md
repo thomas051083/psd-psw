@@ -8,9 +8,44 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr> 
+    <td>
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
+      <br>
+      <br>Learning Outcomes:
+      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
+      <br>
+ <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Fighting Corruption as One Public Service </b><b><font color="crimson">[NEW]</font></b>
+      <br>15, 21 or 27 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
+      <br>
+      <br>Learning Outcomes:
+      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
+      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
+      <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146676945">Click here to register for 21 October session</a> <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146725089">Click here to register for 27 October session</a> <br>
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
+    </td>
+</tr>	
 <tr>
     <td>
-      <b>Joyful Efficient Meetings Workshop </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Joyful Efficient Meetings Workshop </b> 
       <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
       <br>       
       <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
@@ -29,7 +64,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Wellbeing@Work: Supporting our Peers</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Wellbeing@Work: Supporting our Peers</b> 
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
@@ -54,7 +89,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Wellbeing@Work: Being A Supportive Leader</b>  <b><font color="crimson">[NEW]</font></b>
+      <b>Wellbeing@Work: Being A Supportive Leader</b>  
       <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
@@ -78,7 +113,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> <b><font color="crimson">[NEW]</font></b>
+      <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> 
       <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
       <br>       
       <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!

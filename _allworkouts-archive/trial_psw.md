@@ -47,7 +47,7 @@ OCC6
       <a href="https://go.gov.sg/bookcareercoaching">Click here to register.</a> 
     </td>
 <td>
-     <img src="/images/coaching.jpg">
+     <img src="/images/coaching2.jpg">
     </td>
 	</tr>
 

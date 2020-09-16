@@ -20,6 +20,43 @@ Check out the programmes below, some of which are curated and offered only for t
             <col width="30%">
 <tr>
     <td>
+      <b>HR Panel Discussions on Diverse Workforce Management & Leveraging Technology</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>23 October 2020, 10.00am – 12.30pm | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>
+      <br>       
+      <br>In two interactive panel discussions, participants will hear best practices from leading private sector companies like SingTel, Prudential and more on how the Public Service can better manage a diverse multi-generational workforce and leverage technology to drive strategic HR.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Develop a deeper understanding of leadership, change management, HR technology and workforce management strategies
+      <br>• Articulate how HR can value-add to employees and the business with industry disruption and transformation by adopting forward-thinking workforce management strategies so as to provide holistic development opportunities for the entire workforce.
+	    <br>
+      <a href="https://hr-panel-discussions.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/lead1.jpg">
+    </td>
+</tr>
+
+<tr>
+    <td>
+      <b>Sharing on PSD HR Tech Trials</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>26 October 2020, 10.00am – 11.00am | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview of PSD’s on-going HR Tech Trials to facilitate competency based workforce management and include a demo of the technology platforms used.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand PSD’s initiatives to leverage technology to drive competency-based HR management
+	    <br>
+      <a href="https://hr-tech-trials.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital6.jpg">
+    </td>
+</tr>
+
+<tr>
+    <td>
       <b>Building HR Analytics Capabilities in the Public Service</b>
       <br>16 October 2020, 2.00pm – 4.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>

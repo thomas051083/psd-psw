@@ -8,9 +8,63 @@ third_nav_title: Our Core Competencies
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr> 
+    <td>
+      <b>Fighting Corruption as One Public Service </b><b><font color="crimson">[NEW]</font></b>
+      <br>15, 21 or 27 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
+      <br>
+      <br>Learning Outcomes:
+      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
+      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
+      <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146676945">Click here to register for 21 October session</a> <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146725089">Click here to register for 27 October session</a>
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>COVID-19 Pandemic – Swift Regulatory Response to Help Businesses and Citizens </b><b><font color="crimson">[NEW]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
 <tr>
     <td>
-      <b>Wellbeing@Work: Supporting our Peers </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Wellbeing@Work: Supporting our Peers </b> 
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
@@ -35,7 +89,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> <b><font color="crimson">[NEW]</font></b>
+      <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> 
       <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
       <br>       
       <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!

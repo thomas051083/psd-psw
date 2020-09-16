@@ -71,22 +71,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/digital3.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>RPA (Robotic Process Automation) - What is it & How does it help you?</b>
-      <br>16 Oct 2020, 9.00am – 11.00am| Platform: Zoom
-      <br>       
-       <br>The talk gives an introduction to RPA, its benefits and common applications of RPA at work.
-      <br>
-      <br>Learning Outcomes:
-      <br>∙ Understand what is RPA, what you can use it for and some common applications of RPA at work. 
-      <br>
-      <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/rpa1.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
@@ -104,6 +89,22 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/digital4.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>RPA (Robotic Process Automation) - What is it & How does it help you?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 Oct 2020, 9.00am – 11.00am| Platform: Zoom
+      <br>       
+       <br>The talk gives an introduction to RPA, its benefits and common applications of RPA at work.
+      <br>
+      <br>Learning Outcomes:
+      <br>∙ Understand what is RPA, what you can use it for and some common applications of RPA at work. 
+      <br>
+      <a href="https://robotic-process-automation.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/rpa1.jpg">
+    </td>
+</tr>
 </table>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
@@ -117,6 +118,79 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>
+    <td>
+	    <b>Arrival of 5G Network</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>29 October 2020, 2.00pm – 3.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants to understand what 5G Network is and how it will change your lifestyle and workspace.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain how 5G Network changes our lifestyle and workspace
+      <br>• Identify how Smart Business and new technologies has disrupted the employment landscape
+	    <br>
+      <a href="https://arrival-of-5g-network.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital1.jpeg">
+    </td>
+</tr>
+	
+<tr>
+    <td>
+	    <b>Building Your Personal Resilience for Support Officer</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>21 October 2020, 10.00am – 12.00pm | Platform: Zoom
+      <br>       
+      <br>In today's rapidly changing environment and workplace, being resilient has become increasingly important as we face greater demands and challenges. Simply put, resilience is the ability to cope with stress, overcome diversity or adapt positively to change, and it is a process that involves our behaviour, thoughts and actions.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Deepen your sense of purpose & meaning with effective relationships
+      <br>• Enhance your knowledge and skills to develop and sustain positive relationships both at work and at home
+      <br>• Learn to strengthen personal resilience in managing change, crisis, and difficult emotions
+      <br>• Achieve a state of calm focus in life and at work
+	    <br>
+      <a href="https://www.eventbrite.sg/e/building-your-personal-resilience-for-support-officer-tickets-118589373007">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/service4.jpg">
+    </td>
+</tr>
+
+<tr>
+    <td>
+	    <b>Maintaining Positive Mental Health in the New Normal</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>30 October 2020, 11.00am – 12.00pm | Platform: Zoom
+      <br>       
+      <br>COVID-19 has disrupted the way we work and live. Telecommuting and virtual meetings are our new norm. Living in such changing times can be challenging.  How do we maintain a positive mental health in this new normal? 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the possible types and symptoms of mental health issues that can arise from changes in work-life and get tips on how to cope with the changes
+	    <br>
+      <a href="https://maintaining-positive-mental-health.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate5.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Navigating Challenges Ahead for Support Officers</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>22 October 2020, 10.00am – 11.30am | Platform: Zoom
+      <br>       
+      <br>Do you want to future-proof yourself and stay relevant in today’s competitive landscape? In this session, you will learn tools on how to embrace and manage changes in the workplace. You will also gain a better understanding on how to embrace yourself and ride through changes.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Build an awareness of the changing landscape and workforce 
+      <br>• Describe the change curve and identify your current and desired state on the change curve
+      <br>• Discuss tools on embracing and managing changes in the workplace
+	    <br>
+      <a href="https://www.eventbrite.sg/e/navigating-challenges-ahead-for-support-officer-tickets-118589471301">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
+    </td>
+</tr>
+
 <tr>
     <td>
       <b>Change as Opportunity</b>
@@ -153,14 +227,14 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Importance of Growth Mindset in a VUKA Environment</b>
+      <b>Importance of Growth Mindset in a VUCA World</b>
       <br>20 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Understand about growth mindset and pick up tips to develop a growth mindset.
+      <br>Our world is becoming increasingly Volatile, Uncertain, Complex and Ambiguous (VUCA). How do we prepare ourselves for such an environment? Why is it important to have a growth mindset?
       <br>      
       <br>Learning Outcomes:
-      <br>• Appreciate the differences between a growth mindset and a fixed mindset
-      <br>•  Apply tips to develop a growth mindset
+      <br>• Understand what is a growth mindset and how having a growth mindset can improve your professional and personal life 
+      <br>• Pick up tips to develop a growth mindset
       <br>
       <a href="https://importance-of-growth-mindset.eventbrite.sg">Click here to register.</a> 
     </td>    
@@ -234,7 +308,7 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-	    <b>Assessing Your Insurance Needs</b> <b><font color="crimson">[NEW]</font></b>
+	    <b>Assessing Your Insurance Needs</b> 
       <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants to assess how much coverage they need and the considerations when selecting suitable products. Participants will also learn how to use online portal compareFIRST to compare and select life insurance products.
@@ -250,7 +324,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>CPF & You </b> <b><font color="crimson">[NEW]</font></b>
+	    <b>CPF & You </b> 
       <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help you understand how CPF prepares you for the future, the CPF rules applicable when you turn 55 and what CPF LIFE is.
@@ -266,7 +340,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>Financial Resilience During COVID-19</b> <b><font color="crimson">[NEW]</font></b>
+	    <b>Financial Resilience During COVID-19</b>
       <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
@@ -309,6 +383,44 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
+<tr>
+    <td>
+      <b>Career Coaching Sessions</b> <font color="crimson"><b> [NEW]</b></font>
+      <br> Platform: Zoom
+      <br>       
+     <br>Gain insights from personalised coaching with our career coaches to manage your career. Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
+      <br>      
+      <br>Learning Outcomes:
+      <br>• How do I plan and grow my career? 
+      <br>• How can I find clarity for my career direction? 
+      <br>• What are my career interests and skills?
+	    <br>
+<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
+	    <br>
+	    <br> For <font color="SIENNA">other job families</font>, slots will be opened on <u>22 Sep 2020, 12noon.</u>
+	</td>
+<td>
+     <img src="/images/coaching2.jpg">
+    </td>
+</tr>
+	
+<tr>
+    <td>
+      <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies</b> <font color="crimson"><b> [NEW]</b></font>
+      <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
+      <br>       
+     <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn about how might we demonstrate Our Core Competencies in the area of our work.
+      <br>• Discover tips and techniques to cope with the rapidly changing work context. 
+	    <br>
+      <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/career1.jpg">
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 

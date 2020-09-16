@@ -11,7 +11,204 @@ third_nav_title: Our Core Competencies
 
 <tr>
     <td>
-      <b>Delivering Social Services through Video-Conferencing </b><b><font color="crimson">[NEW]</font></b>
+      <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b><b><font color="crimson">[NEW]</font></b>
+      <br>27 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br> Do you want to improve your skills in creating and developing new ideas? 
+     <br> Learn how you can develop innovative ideas that not only target the purpose at the core, but build your team’s capabilities through the use of the Six ‘I’s of Innovation, an integrated methodology that combines design thinking with organisation and team development.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
+      <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
+      <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
+      <br>
+      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003">Click here to register.</a> 
+    </td>   
+<td>
+     <img src="/images/innovate1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="crimson">[NEW]</font></b>
+      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
+      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
+      <br>
+      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
+    </td>     
+<td>
+     <img src="/images/changeagility.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from School of Design's experience in a health, social and design challenge co-organised with MOH Transformation Office, NCSS and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
+      <br>• Learn about the skills and mindsets required to thrive and this can be applied to delivery of programmes for citizens
+      <br>
+      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407">Click here to register.</a> 
+    </td>  
+<td>
+     <img src="/images/innovate4.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b><b><font color="crimson">[NEW]</font></b>
+      <br>16 or 23 October 2020, 9.30am - 11.00am | Platform: Zoom
+      <br>      
+      <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
+      <br>
+      <br>Learning Outcomes:
+      <br>• To show how the app gives more control to the officer to shape his/her career path.
+      <br>• To share the role of the app in the future Workforce and Workplace
+      <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
+      <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977">Click here to register for 16 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
+    </td>    
+<td>
+     <img src="/images/Digital2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
+      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
+      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
+      <br>
+  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
+      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
+      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
+     <br>
+ <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/patient1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
+      <br>
+      <br>Learning Outcomes:
+      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
+      <br>
+ <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
+      <br>      
+      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
+      <br>
+    </td>    
+<td>
+     <img src="/images/service3.jpeg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Making Regulatory Transformation Work </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>Join this panel discussion to hear and exchange ideas on how we can cultivate a conducive workforce culture and put in place enablers to support regulatory reviews that keeps our regulatory ecosystem forward-looking, up to date with industry innovations and supports new business models.
+       <br>
+       <br> This session is organised for regulatory leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+       <br>
+       <br>   
+<b><font color="grey"><i>(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</i></font></b>
+      <br>
+      <br>Learning Outcomes:
+      <br>• To learn about the best practices in institutionalising a forward-looking regulatory ecosystem and the enablers in the organisation which support it.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage12.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>
+      <br>Learning Outcomes:
+      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
+      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
+      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
+      <br>
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Delivering Social Services through Video-Conferencing </b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
       <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
@@ -30,7 +227,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers </b><b><font color="crimson">[NEW]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers </b>
       <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
       <br>       
       <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
@@ -48,7 +245,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>
     <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b>
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
@@ -66,7 +263,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>	
     <td>
-      <b>Joyful Efficient Meetings Workshop </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Joyful Efficient Meetings Workshop </b>
       <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
       <br>       
       <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
@@ -83,10 +280,9 @@ third_nav_title: Our Core Competencies
      <img src="/images/communityengagement.jpg">
     </td>
 </tr>
-
 <tr>		
     <td>
-      <b>The Future of Grants </b> <b><font color="crimson">[NEW]</font></b>
+      <b>The Future of Grants </b> 
       <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
@@ -95,7 +291,6 @@ third_nav_title: Our Core Competencies
       <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
       <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
       <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
-      <br>• Insight into how we harnessed our platform to support COVID-19 relief efforts
       <br>
       <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
     </td>    
@@ -103,7 +298,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital6.jpg">
     </td>
 </tr>
-
 <tr>
     <td>
       <b>A Product Management approach to building Singapore’s National Digital Identity</b>
@@ -138,7 +332,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-
 <tr> 
     <td>
       <b>Designing Spaces with Virtual Reality</b>
@@ -156,7 +349,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/digital8.jpg">
     </td>
 </tr>
-
 <tr> 
     <td>
       <b>Future-Ready Service Transformation @ MOE</b>
@@ -174,8 +366,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/Serve2.jpg">
     </td>
 </tr>
-
-
 <tr> 
     <td>
       <b>Overview of GeoSpace</b>
@@ -266,23 +456,7 @@ third_nav_title: Our Core Competencies
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
-<tr>	
-    <td>
-      <b>Is There Room for Emotional Design in Public Service?</b>
-      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service.
-      <br>• Know about developing empathy through emotional design.
-      <br>
-      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-</tr> 
+
 <tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b>
@@ -301,7 +475,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
-
 <tr>
     <td>
       <b>MOH’s Regulatory Sandbox: Telemedicine</b>
@@ -338,6 +511,23 @@ third_nav_title: Our Core Competencies
      <img src="/images/pay1.jpg">
     </td>
 </tr> 
+<tr>	
+    <td>
+      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
+      <br>
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr> 
 <tr>
     <td>
       <b>Generating Creative Ideas </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -355,7 +545,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/innovationtest2.png">
     </td>
 </tr>
-
 <tr>	
     <td>
       <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -392,7 +581,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/engage9.jpg">
     </td>
 </tr> 
-
 <tr>
 	<td>
 	    <b>LEARN modules</b>
