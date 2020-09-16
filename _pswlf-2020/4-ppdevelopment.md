@@ -388,7 +388,8 @@ breadcrumb: 'Professional & Personal Development'
       <b>Career Coaching Sessions</b> <font color="crimson"><b> [NEW]</b></font>
       <br> Platform: Zoom
       <br>       
-     <br>Gain insights from personalised coaching with our career coaches to manage your career.
+     <br>Gain insights from personalised coaching with our career coaches to manage your career. Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
+
       <br>      
       <br>Learning Outcomes:
       <br>• How do I plan and grow my career? 
