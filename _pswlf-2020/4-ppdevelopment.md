@@ -391,8 +391,11 @@ breadcrumb: 'Professional & Personal Development'
      <br>Gain insights from personalised coaching with our career coaches to manage your career.
       <br>      
       <br>Learning Outcomes:
-      <br>• How do I plan and grow my career? How do I make informed career decisions?
-      <br>• How do I prepare for new roles or career switches? How can I find clarity for my career direction? What are my career interests and skills?
+      <br>• How do I plan and grow my career? 
+      <br>• How do I make informed career decisions?
+      <br>• How do I prepare for new roles or career switches? 
+      <br>• How can I find clarity for my career direction? 
+      <br>• What are my career interests and skills?
 	    <br>
 <br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
 	    <br>
