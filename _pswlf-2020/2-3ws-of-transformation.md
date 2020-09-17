@@ -44,7 +44,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
     <td>
       <b>Future Workforce</b>
       <br><b>feat. Mr Joel Fastenberg</b>
-      <br>MD, Head of HR (Singapore & ASEAN), Citibank
+      <br>Head of HR (Singapore & ASEAN), Citibank
       <br>21 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
       <br> With over 20 years of HR experience in the financial services industry, Mr Joel Fastenberg leads the HR strategy in Citi’s ASEAN markets, and brings to this session his deep expertise in driving employee initiatives that champion learning and development, foster personal growth and reinforce staff satisfaction.
