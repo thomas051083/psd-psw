@@ -25,7 +25,8 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future of Work</b>
-      <br><b>feat. Mr Lee Li Meng</b>     CEO, Razer Fintech | Chief Strategy Officer, Razer Inc
+      <br><b>feat. Mr Lee Li Meng</b>
+      <br>CEO, Razer Fintech | Chief Strategy Officer, Razer Inc
       <br>14 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
       <br> Digitalisation and innovation are integral to the Razer story. Mr Lee Li Meng, Chief Strategy Officer at Razer, kicks off the ‘Insights from Outside’ series by sharing his journey of developing and executing Razer’s ongoing corporate strategy to extend Razer’s ecosystem of products and services into digital banking and financial services.
@@ -42,7 +43,8 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future Workforce</b>
-      <br><b>feat. Mr Joel Fastenberg</b>     MD, Head of HR (Singapore & ASEAN), Citibank
+      <br><b>feat. Mr Joel Fastenberg</b>
+      <br>MD, Head of HR (Singapore & ASEAN), Citibank
       <br>21 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
       <br> With over 20 years of HR experience in the financial services industry, Mr Joel Fastenberg leads the HR strategy in Citi’s ASEAN markets, and brings to this session his deep expertise in driving employee initiatives that champion learning and development, foster personal growth and reinforce staff satisfaction.
@@ -59,7 +61,8 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future Workplace </b>
-      <br><b>feat. Dr Yang Guirong</b>   Assistant Medical Director, Doctor Anywhere
+      <br><b>feat. Dr Yang Guirong</b>
+      <br>Assistant Medical Director, Doctor Anywhere
       <br>29 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
       <br> Dr Yang Guirong charts the strategic direction of medical programmes at Doctor Anywhere. In this final instalment of the ‘Insights from Outside’ series, Dr Yang provides insights on the unconventional operating and management model at the local telemedicine start-up, including how digitalisation has supported their journey to meet healthcare needs arising from COVID-19.
