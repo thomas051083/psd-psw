@@ -77,7 +77,7 @@ For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.
       <b>Fundamental Principles for Healthy Bones and Joints </b><br>
       <br>
       <b>Date:</b> Sat, 17 Oct ’20, 2.30pm to 4pm<br>
-      Click <a href="csc.sg/events/CSC-Fusion-Featured-Event?event_id=231">here</a> for more information, or to register.<br>
+      Click <a href="https://www.csc.sg/events/CSC-Fusion-Featured-Event?event_id=231">here</a> for more information, or to register.<br>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.
       <b>Plan Your Will & Lasting Power of Attorney Talk </b><br>
       <br>
       <b>Date:</b> Sat, 24 Oct ’20, 11am to 12.30pm<br>
-      Click <a href="csc.sg/events/CSC-Fusion-Featured-Event?event_id=207">here</a> for more information, or to register.<br>
+      Click <a href="https://www.csc.sg/events/CSC-Fusion-Featured-Event?event_id=207">here</a> for more information, or to register.<br>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.
       <b>Stay Happy and Healthy Always  </b><br>
       <br>
       <b>Date:</b> Sat, 31 Oct ’20, 11am to 12pm<br>
-      Click <a href="csc.sg/events/CSC-Fusion-Featured-Event?event_id=249">here</a> for more information, or to register.<br>
+      Click <a href="https://www.csc.sg/events/CSC-Fusion-Featured-Event?event_id=249">here</a> for more information, or to register.<br>
     </td>
   </tr>
   <tr>
@@ -110,7 +110,7 @@ For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.
       <b>How to Restore and Rebuild Your Gut Talk </b><br>
       <br>
       <b>Date:</b> Sat, 31 Oct ’20, 11am to 12.30pm<br>
-      Click <a href="csc.sg/events/CSC-Fusion-Featured-Event?event_id=250">here</a> for more information, or to register.<br>
+      Click <a href="https://www.csc.sg/events/CSC-Fusion-Featured-Event?event_id=250">here</a> for more information, or to register.<br>
     </td>
   </tr>
   </table>
