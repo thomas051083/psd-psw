@@ -17,7 +17,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Insights from Outside</b></font>
-<font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior public service leader to draw out insightful connections for public service transformation.
+<font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior Public Service Leader to draw out insightful connections for Public Service Transformation.
 <br><br>
 <table>
        <col width="70%"> 
