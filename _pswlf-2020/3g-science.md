@@ -153,25 +153,7 @@ third_nav_title: Job Specific Skills
     </td>
 </tr>
 	
-<tr>		
-    <td>
-      <b>Improving Government Services with Data</b>
-      <br>15 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>Begin your data informed journey in the government’s digital services landscape utilizing the WOGAA (Whole-of-Government Application Analytics) platform.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Describe the government’s web analytics and tool platform
-      <br>• Describe the various products & features WOGAA has
-      <br>• Illustrate how government organizations benefit from applying web analytics to their work
-      <br>
-      <a href="https://improving-government-services-with-data.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digital6.jpg">
-    </td>
-</tr>
+
 <tr>		
     <td>
       <b>Integrated Digital Delivery Implementation Journey in Singapore</b>
@@ -208,6 +190,24 @@ third_nav_title: Job Specific Skills
 </tr>
 	</table>
 
-
+<tr>		
+    <td>
+      <b>Improving Government Services with Data</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>Begin your data informed journey in the government’s digital services landscape utilizing the WOGAA (Whole-of-Government Application Analytics) platform.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Describe the government’s web analytics and tool platform
+      <br>• Describe the various products & features WOGAA has
+      <br>• Illustrate how government organizations benefit from applying web analytics to their work
+      <br>
+      <a href="https://improving-government-services-with-data.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital6.jpg">
+    </td>
+</tr>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
