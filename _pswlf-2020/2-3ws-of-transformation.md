@@ -9,7 +9,7 @@ breadcrumb: 'The 3 Ws of Transformation'
 Transform <i>how we work,</i> to be even more effective in serving Singaporeans, and in Building our Future Singapore.
 <br>
 <br><b>• Workforce:</b>
-Transform <i>our individual and collective effectiveness as public officers,</i> through better growth and development, skills upgrading including in digital, and organising ourselves to do our work better.
+Transform <i>our individual and collective effectiveness as public officers,</i> through better growth and development, skills upgrading including in digital skills, and organising ourselves to do our work better.
 <br>
 <br><b>• Workplace:</b>
 Transform our <i>physical workplace,</i> making <i>workplace processes and practices more efficient, flexible and productive,</i> and doing away with unnecessary work. We want our workplaces to be productive but also joyful.<br></font>
