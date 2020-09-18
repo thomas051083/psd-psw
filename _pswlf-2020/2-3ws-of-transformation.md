@@ -17,7 +17,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Insights from Outside</b></font>
-<font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior Public Service Leader to draw out insightful connections for Public Service Transformation.
+<font size="4">Be inspired by stories of transformation from the private sector! Featuring guest speakers who are practice leaders in their respective fields, each session also includes a candid discussion facilitated by a senior Public Service Leader to draw out insightful connections for Public Sector Transformation.
 <br><br>
 <table>
        <col width="70%"> 
@@ -25,7 +25,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future of Work</b>
-      <br><b>feat. Mr Lee Li Meng</b>
+      <br><b>Mr Lee Li Meng</b>
       <br>CEO, Razer Fintech | Chief Strategy Officer, Razer Inc
       <br>14 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
@@ -43,7 +43,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future Workforce</b>
-      <br><b>feat. Mr Joel Fastenberg</b>
+      <br><b>Mr Joel Fastenberg</b>
       <br>Head of HR (Singapore & ASEAN), Citibank
       <br>21 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
@@ -61,7 +61,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 <tr>
     <td>
       <b>Future Workplace </b>
-      <br><b>feat. Dr Yang Guirong</b>
+      <br><b>Dr Yang Guirong</b>
       <br>Assistant Medical Director, Doctor Anywhere
       <br>29 Oct 2020, 10.00am to 11.00am| Platform: Zoom
       <br>       
