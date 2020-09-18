@@ -42,7 +42,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 </tr>
 <tr>
     <td>
-      <b>Future Workforce</b>
+      <b>Future of Workforce</b>
       <br><b>Mr Joel Fastenberg</b>
       <br>Head of HR (Singapore & ASEAN), Citibank
       <br>21 Oct 2020, 10.00am to 11.00am| Platform: Zoom
@@ -60,7 +60,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
 </tr>
 <tr>
     <td>
-      <b>Future Workplace </b>
+      <b>Future of Workplace </b>
       <br><b>Dr Yang Guirong</b>
       <br>Assistant Medical Director, Doctor Anywhere
       <br>29 Oct 2020, 10.00am to 11.00am| Platform: Zoom
