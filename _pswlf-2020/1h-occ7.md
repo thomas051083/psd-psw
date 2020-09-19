@@ -27,7 +27,7 @@ third_nav_title: Our Core Competencies
       <br>
     </td>    
 <td>
-     <img src="/images/Innovate1.jpg">
+     <img src="/images/InnovateP.jpg">
     </td>
 </tr>
 <tr> 
