@@ -26,7 +26,7 @@ third_nav_title: Our Core Competencies
       <br>Learning Outcomes:
       <br> 1) Gain clarity of your professional interests and skills, and your career direction                                                                                 <br> 2) Articulate next steps to grow your career according to your desired direction.
       <br>
-      <br> Sign up <a href="https://go.gov.sg/bookcareercoaching"> here</a> if you are part of the 5 job families <font color="SIENNA">other job families</font>.    
+      <br> Sign up <a href="https://go.gov.sg/bookcareercoaching"> here</a> if you are for other job families <font color="SIENNA">other job families</font>.    
       <br>
       <br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
      <br>
