@@ -20,6 +20,7 @@ third_nav_title: Our Core Competencies
       <br> • How do I prepare for new roles or career switches? 
       <br> • How can I find clarity for my career direction? 
       <br> • What are my career interests and skills?
+      <br>
       <br>Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
       <br>
       <br>Learning Outcomes:
@@ -71,6 +72,24 @@ third_nav_title: Our Core Competencies
     </td>
 </tr>
 <tr> 
+    <tr> 
+    <td>
+      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
+      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
+      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
+     <br>
+ <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/patient1.jpg">
+    </td>
+</tr>
     <td>
       <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
@@ -122,24 +141,6 @@ third_nav_title: Our Core Competencies
     </td>    
 <td>
      <img src="/images/pay1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
-      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
-      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
-     <br>
- <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/patient1.jpg">
     </td>
 </tr>
 <tr> 
