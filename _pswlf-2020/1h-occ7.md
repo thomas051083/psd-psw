@@ -16,6 +16,7 @@ third_nav_title: Our Core Competencies
       <br>29 or 30 October 2020,  11.00am - 12.00pm | Platform: Zoom
       <br>       
       <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates. </b>
+      <br>  
 <br> Join us for the Innovation Crawl to Australia and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
   <br>  
   <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
@@ -35,6 +36,7 @@ third_nav_title: Our Core Competencies
       <br>22 October 2020,  11.00am - 12.00pm | Platform: Zoom
       <br>       
       <br>Let's go on an Innovation Lab e-Crawl outside the Public Service. In this session, we will hear how DBS & PayPal approach innovation and learn how we can push the boundaries of Innovation to better support transformation in the way we serve citizens/businesses & the way our workforce operates. </b>
+      <br>  
      <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
      <br>  
      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
