@@ -53,24 +53,57 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Shaping the Future Workplace </b><b><font color="crimson">[NEW]</font></b>
-      <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
+      <b>COVID-19 Pandemic – Swift Regulatory Response to Help Businesses and Citizens </b><b><font color="crimson">[NEW]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
       <br>       
-      <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.   
-      <br>   
-      <br>This session is organised for senior leaders by the PST-Digital Committee. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
       <br>Learning Outcomes:
-      <br> a. Understand the challenges and opportunities created by COVID-19 and the longer-term drivers shaping the Future Workplace;
-      <br> b. Learn about key technology, people and physical space initiatives in the pipeline to improve our officers’ workplace experience;
-      <br> c. Discuss, share experiences and build consensus on the Public Service’s Future Workplace vision and how to realise it; and
-      <br> d. Appreciate the importance of complementing COG-led initiatives with agency-led transformation of policies, processes and organisational culture.
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
       <br>
     </td>    
 <td>
-     <img src="/images/engage13.jpg">
+     <img src="/images/engage7.jpg">
     </td>
-</tr>	
+</tr>
+<tr> 
+    <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
+      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
+      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
+     <br>
+ <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/patient1.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
     <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
@@ -110,39 +143,24 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>COVID-19 Pandemic – Swift Regulatory Response to Help Businesses and Citizens </b><b><font color="crimson">[NEW]</font></b>
-      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <b>Shaping the Future Workplace </b><b><font color="crimson">[NEW]</font></b>
+      <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
       <br>       
-      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
-      <br>
-      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.   
+      <br>   
+      <br>This session is organised for senior leaders by the PST-Digital Committee. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
       <br>Learning Outcomes:
-      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br> a. Understand the challenges and opportunities created by COVID-19 and the longer-term drivers shaping the Future Workplace;
+      <br> b. Learn about key technology, people and physical space initiatives in the pipeline to improve our officers’ workplace experience;
+      <br> c. Discuss, share experiences and build consensus on the Public Service’s Future Workplace vision and how to realise it; and
+      <br> d. Appreciate the importance of complementing COG-led initiatives with agency-led transformation of policies, processes and organisational culture.
       <br>
     </td>    
 <td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/engage13.jpg">
     </td>
-</tr>
-<tr> 
-    <td>
-      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
-      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
-      <br>       
-      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
-      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
-      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
-      <br>
-      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/change2.jpg">
-    </td>
-</tr>
+</tr>	
 <tr> 
     <td>
       <b>Too Thorny to Talk?: Engaging on Controversial Issues </b><b><font color="crimson">[NEW]</font></b>
@@ -159,24 +177,6 @@ third_nav_title: Our Core Competencies
 </td>    
 <td>
      <img src="/images/engage4.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
-      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
-      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
-     <br>
- <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/patient1.jpg">
     </td>
 </tr>
 <tr> 
