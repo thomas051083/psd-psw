@@ -9,6 +9,63 @@ third_nav_title: Our Core Competencies
        <col width="70%">
             <col width="30%">
 
+<tr> 
+    <td>
+      <b>Making Innovation a part of the Public Service DNA </b><b><font color="crimson">[NEW]</font></b>
+      <br>29 or 30 October 2020,  11.00am - 12.00pm | Platform: Zoom
+      <br>       
+      <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates. </b>
+      <br>  
+<br> Join us for the Innovation Crawl to Australia and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
+  <br>  
+  <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Find out how the Australian Public Service have harnessed technologies to serve citizens/businesses & the way our workforce operates.
+      <br>• Understand and appreciate the challenges faced by APS and how they have managed to overcome these challenges especially since Covid-19.
+      <br>
+    </td>    
+<td>
+     <img src="/images/Innovate1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Innovation – Catalyst for Growth & Sustainability </b><b><font color="crimson">[NEW]</font></b>
+      <br>22 October 2020,  11.00am - 12.00pm | Platform: Zoom
+      <br>       
+      <br>Let's go on an Innovation Lab e-Crawl outside the Public Service. In this session, we will hear how DBS & PayPal approach innovation and learn how we can push the boundaries of Innovation to better support transformation in the way we serve citizens/businesses & the way our workforce operates. </b>
+      <br>  
+     <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
+     <br>  
+     <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights to how large private organisations approach innovation and harness technologies to challenge how they serve businesses and customers.
+      <br>• Understand how they inculcate innovation to support transformation efforts.
+      <br>• Find out how you can be a catalyst for Innovation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/Innovate2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
+      <br>
+      <br>Learning Outcomes:
+      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
+      <br>
+ <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b><b><font color="crimson">[NEW]</font></b>
@@ -28,24 +85,6 @@ third_nav_title: Our Core Competencies
      <img src="/images/innovate1.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="crimson">[NEW]</font></b>
-      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
-      <br>       
-      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
-      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
-      <br>
-      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
-    </td>     
-<td>
-     <img src="/images/changeagility.jpg">
-    </td>
-</tr>
-<tr> 
     <tr> 
     <td>
       <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
@@ -64,6 +103,24 @@ third_nav_title: Our Core Competencies
      <img src="/images/patient1.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
+      <br>      
+      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
+      <br>
+    </td>    
+<td>
+     <img src="/images/service3.jpeg">
+    </td>
+</tr>
+<tr> 
     <td>
       <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
@@ -78,6 +135,24 @@ third_nav_title: Our Core Competencies
     </td>  
 <td>
      <img src="/images/innovate4.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
     </td>
 </tr>
 <tr>
@@ -119,57 +194,6 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
-      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
-      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
-           <br>
- <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/covid1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
-      <br>       
-      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
-      <br>
-      <br>Learning Outcomes:
-      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
-      <br>
- <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
-      <br>      
-      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
-      <br>
-    </td>    
-<td>
-     <img src="/images/service3.jpeg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>Making Regulatory Transformation Work </b><b><font color="crimson">[NEW]</font></b>
       <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
@@ -204,6 +228,23 @@ third_nav_title: Our Core Competencies
     </td>    
 <td>
      <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="crimson">[NEW]</font></b>
+      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
+      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
+      <br>
+      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
+    </td>     
+<td>
+     <img src="/images/changeagility.jpg">
     </td>
 </tr>
 <tr> 
