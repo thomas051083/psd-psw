@@ -35,9 +35,9 @@ third_nav_title: Our Core Competencies
       <b>Innovation – Catalyst for Growth & Sustainability </b><b><font color="crimson">[NEW]</font></b>
       <br>22 October 2020,  11.00am - 12.00pm | Platform: Zoom
       <br>       
-      <br>Let's go on an Innovation Lab e-Crawl outside the Public Service. In this session, we will hear how DBS & PayPal approach innovation and learn how we can push the boundaries of Innovation to better support transformation in the way we serve citizens/businesses & the way our workforce operates. </b>
+      <br>Let's go on an Innovation Lab e-Crawl outside the Public Service. In this session, we will hear how DBS & PayPal approach innovation and learn how we can push the boundaries of Innovation to better support transformation in the way we serve citizens/businesses & the way our workforce operates. 
       <br>  
-     <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
+     <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
      <br>  
      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
