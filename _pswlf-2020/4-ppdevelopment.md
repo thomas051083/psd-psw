@@ -462,23 +462,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/health1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Your Physical Well-being </b>
-      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
-      <br>      
-      <br>Learning Outcomes:
-	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
-	    <br>
-      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>	
-<tr>
+	<tr>
     <td>
       <b>Retirement and Re-employment Preparedness Programme</b>
       <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
@@ -495,5 +479,22 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/retirement1.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>Your Physical Well-being </b>
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>	
+
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
