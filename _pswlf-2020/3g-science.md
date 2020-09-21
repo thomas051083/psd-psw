@@ -60,24 +60,7 @@ third_nav_title: Job Specific Skills
 	<td>
      <img src="/images/data2.jpg">
     </td>
-</tr>	
-	<tr>		
-    <td>
-      <b>Open Attestation – Document Creation & Verification</b> <b><font color="crimson">[NEW]</font></b>
-      <br>13 October 2020, 11.00am - 12.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>This session will provide a blockchain primer, followed by short demonstration on the ease of creating and publishing a verifiable document on blockchain. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand the basics of Blockchain and how to create an open attestation document
-      <br>
-      <a href="https://open-attestation-document-creation-verification.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/data3.jpg">
-    </td>
-</tr>	
+</tr>
 <tr>		
     <td>
       <b>JTC's Facilities Management Transformation</b> <b><font color="crimson">[NEW]</font></b>
@@ -99,40 +82,19 @@ third_nav_title: Job Specific Skills
 </tr>	
 <tr>		
     <td>
-      <b>Purple Hats – Improving Web Accessibility for Singapore</b>
-      <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
+      <b>Open Attestation – Document Creation & Verification</b> <b><font color="crimson">[NEW]</font></b>
+      <br>13 October 2020, 11.00am - 12.00pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
-      <br>This session will provide an overview on web accessibility, HATS’ automated accessibility tool, and how people with disabilities deal with technology.
+      <br>This session will provide a blockchain primer, followed by short demonstration on the ease of creating and publishing a verifiable document on blockchain. 
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand web accessibility and HATS’ automated accessibility tool        
-      <br>• Understand PWDs and their everyday struggles with technology
+      <br>• Understand the basics of Blockchain and how to create an open attestation document
       <br>
-      <a href="https://purple-hats-1.eventbrite.sg">Click here to register for 20 October session.</a> 
-	<br><a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
+      <a href="https://open-attestation-document-creation-verification.eventbrite.sg">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/Digital1.jpeg">
-    </td>
-</tr>	
-<tr>		
-    <td>
-      <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
-      <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>     
-      <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain about HTTP, HTTPS and XSS
-      <br>• Describe ethical hacking
-      <br>• Have hands-on experience on practical and realistic labs
-      <br>
-      <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
-    </td>    
-	<td>
-     <img src="/images/digital5.jpg">
+     <img src="/images/data3.jpg">
     </td>
 </tr>	
 <tr>
@@ -152,6 +114,27 @@ third_nav_title: Job Specific Skills
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
+
+<tr>		
+    <td>
+      <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
+      <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>     
+      <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain about HTTP, HTTPS and XSS
+      <br>• Describe ethical hacking
+      <br>• Have hands-on experience on practical and realistic labs
+      <br>
+      <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>	
+
 	
 
 <tr>		
@@ -172,6 +155,25 @@ third_nav_title: Job Specific Skills
 </tr>
 <tr>		
     <td>
+      <b>Purple Hats – Improving Web Accessibility for Singapore</b>
+      <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview on web accessibility, HATS’ automated accessibility tool, and how people with disabilities deal with technology.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand web accessibility and HATS’ automated accessibility tool        
+      <br>• Understand PWDs and their everyday struggles with technology
+      <br>
+      <a href="https://purple-hats-1.eventbrite.sg">Click here to register for 20 October session.</a> 
+	<br><a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
+    </td>    
+	<td>
+     <img src="/images/Digital1.jpeg">
+    </td>
+</tr>	
+<tr>		
+    <td>
       <b>Together, We Build a Greener Tomorrow</b>
       <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
@@ -188,8 +190,6 @@ third_nav_title: Job Specific Skills
      <img src="/images/green1.jpg">
     </td>
 </tr>
-
-
 <tr>		
     <td>
       <b>Improving Government Services with Data</b> <b><font color="darkviolet"> [FULL]</font></b>
