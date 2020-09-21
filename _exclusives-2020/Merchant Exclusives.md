@@ -86,7 +86,8 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Biscotti Bakery 10% off F&B at their outlet at CSC@Tessensohn, $1 less on Biscotti tubs</b><br>
-<br>
+    <tr>
+    <td>
       
 ### Attractions <br>
 <table>
