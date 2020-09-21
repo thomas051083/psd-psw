@@ -105,8 +105,38 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/rpa1.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Digital Literacy.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10984">Communicate & Collaborate with Agility</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/10935">Communicate & Collaborate with Etiquette</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/17145">Data Literacy ePrimer</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/95206">Data Security</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/391">Digital Tools that Support My Work</a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/389">Global Technology Trends</a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/163376"> How to Start RPA?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10648">Introduction to Information Literacy & Data Interpretation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10645">Presenting and Interpreting Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/486">Why is Digital Transformation Important?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10373">Upskilling Yourself Personally & Professionally</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/399">8 Common Challenges In Digital Transformation Projects</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10376">What's Fake, What's Real Online?</a><br>
+</td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
