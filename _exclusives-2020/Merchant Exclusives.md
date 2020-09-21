@@ -28,7 +28,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
       <b>Harry’s 1-FOR-1 on Asian Palate</b><br>
   <tr>
     <td>
-      <img src="/images/cafeiguana.jpg">
+      <img src="/images/Cafe iguana.png">
     </td>
     <td>
       <b>Café Iguana 1-FOR-1 on any mains</b><br>
@@ -56,20 +56,37 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Dad’s Corner FREE dessert with each main course ordered</b><br>
-  </tr>
   <tr>
     <td>
       <img src="/images/two blur guys.png">
     </td>
     <td>
       <b>Two Blur Guys 50% off non-alcoholic drinks with each main ordered</b><br>
-  </tr>
   <tr>
     <td>
       <img src="/images/Mood Swing.png">
     </td>
     <td>
       <b>Mood Swing-An order of fish and chips at $5 with each beverage purchased on weekdays, 11am-2.30pm</b><br>
+        <tr>
+    <td>
+      <img src="/images/8 degree.png">
+    </td>
+    <td>
+      <b>8 Degree Lounge 20% off all drinks</b><br>
+  <tr>
+    <td>
+      <img src="/images/Muslim Delight.png">
+    </td>
+    <td>
+      <b>Muslim Delight 20% off total bill</b><br>
+        <tr>
+    <td>
+      <img src="/images/Biscotti Bakery.png">
+    </td>
+    <td>
+      <b>Biscotti Bakery 10% off F&B at their outlet at CSC@Tessensohn, $1 less on Biscotti tubs</b><br>
+
   </tr>
   </table>
 
