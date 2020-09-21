@@ -6,9 +6,9 @@ breadcrumb: 'Online Social Actvities'
 ---
 
 ### Free Online Social Activities <br>
-The activities are eligible to all public officers<br>
+All public officers are eligible for these activities.<br>
 <br>
-All sessions are organised by CS Club and conducted online via Zoom. Pre-registration required. Zoom link will be sent to participants upon class confirmation.<br>
+All sessions are organised by Civil Service Club and conducted online via Zoom. Pre-registration required. Zoom link will be sent to participants upon class confirmation.<br>
 <br>
 For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.<br>
 <br>
