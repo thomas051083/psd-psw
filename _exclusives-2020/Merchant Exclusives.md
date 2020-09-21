@@ -164,3 +164,9 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Absolute Fitness Up to $30 OFF and 2 complimentary personal training sessions worth $120</b><br>
+    <tr>
+   <td>
+    <img src="/images/Singapore Karate Association.png">
+    </td>
+    <td>
+      <b>Singapore Karate Association Special discount for training fees with no annual membership fee</b><br>
