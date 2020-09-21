@@ -12,7 +12,7 @@ Promotions are valid from 1 to 31 Oct ’20. Details and terms will be uploaded 
 <br>
 For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg</a>.<br>
 <br>
-
+### F&B <br>
 <table>
   <tr>
     <td>
@@ -87,8 +87,23 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     <td>
       <b>Biscotti Bakery 10% off F&B at their outlet at CSC@Tessensohn, $1 less on Biscotti tubs</b><br>
 
-  </tr>
-  </table>
+
+### Attractions <br>
+<table>
+  <tr>
+    <td>
+      <img src="/images/iFly.png">
+    </td>
+    <td>
+      <b>iFly 1-For-1 The Challenge Package (UP S$119.00)</b><br>
+  <tr>
+    <td>
+      <img src="/images/Wild Wild Wet.png">
+    </td>
+    <td>
+      <b>Wild Wild Wet $13 Day Passes (UP $32)</b><br>
+  <tr>
+    <td>
 
       
   
