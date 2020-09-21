@@ -20,14 +20,12 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Brewerkz 1-FOR-1 on any mains</b><br>
-  </tr>
   <tr>
     <td>
       <img src="/images/Harrys.png">
     </td>
     <td>
       <b>Harry’s 1-FOR-1 on Asian Palate</b><br>
-  </tr>
   <tr>
     <td>
       <img src="/images/cafeiguana.jpg">
@@ -40,14 +38,12 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Bruno’s Pizzeria & Grill 1-FOR-1 3-course set lunch (weekdays only at their Serangoon and Telok Kurau outlets)</b><br>
-  </tr>
   <tr>
     <td>
       <img src="/images/Santa FE.png">
     </td>
     <td>
       <b>Santa FE 1-FOR-1 on all Signature Fajitas</b><br>
-  </tr>
     <tr>
     <td>
       <img src="/images/Rocky master.png">
