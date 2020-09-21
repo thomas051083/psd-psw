@@ -114,7 +114,22 @@ third_nav_title: Job Specific Skills
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-
+<tr>		
+    <td>
+      <b>Integrated Digital Delivery Implementation Journey in Singapore</b>
+      <br>13 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>Join us as we journey through Building Information Modelling, Virtual Design and Construction and Integrated Digitial Delivery implementation to transform Singapore's Built Environment industry. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the background and progression of BIM, VDC, and IDD implementation in Singapore, as well as key IDD concepts and use cases that may be applied in projects
+      <br>
+      <a href="https://idd-implementation-journey.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
 <tr>		
     <td>
       <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
@@ -133,26 +148,7 @@ third_nav_title: Job Specific Skills
 	<td>
      <img src="/images/digital5.jpg">
     </td>
-</tr>	
-
-	
-
-<tr>		
-    <td>
-      <b>Integrated Digital Delivery Implementation Journey in Singapore</b>
-      <br>13 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>Join us as we journey through Building Information Modelling, Virtual Design and Construction and Integrated Digitial Delivery implementation to transform Singapore's Built Environment industry. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand the background and progression of BIM, VDC, and IDD implementation in Singapore, as well as key IDD concepts and use cases that may be applied in projects
-      <br>
-      <a href="https://idd-implementation-journey.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
+</tr>		
 <tr>		
     <td>
       <b>Purple Hats – Improving Web Accessibility for Singapore</b>
