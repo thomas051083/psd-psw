@@ -106,3 +106,21 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
       <b>Wild Wild Wet $13 Day Passes (UP $32)</b><br>
   <tr>
     <td>
+      <tr>
+    <td>
+      <img src="/images/iFly.png">
+    </td>
+    <td>
+      <b>iFly 1-For-1 The Challenge Package (UP S$119.00)</b><br>
+  <tr>
+    <td>
+      <img src="/images/Headrock VR.png">
+    </td>
+    <td>
+      <b>Headrock VR 40% OFF for usual price package(s) purchase - BIG 3, BIG 5 & BIG 7</b><br>
+   <tr>
+    <td>
+      <img src="/images/Science centre.png">
+    </td>
+    <td>
+      <b>Science Centre 20% off Butterflies Up-Close exhibition tickets (U.P $10)</b><br>
