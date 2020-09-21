@@ -152,3 +152,15 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Pacific Light $78 rebate off electricity bill</b><br>
+   <tr>
+   <td>
+    <img src="/images/the ultimate.png">
+    </td>
+    <td>
+      <b>The Ultimate Choice of One Spa Retreat at S$58 nett per person (UP $200)</b><br>
+     <tr>
+   <td>
+    <img src="/images/absolute fitness.png">
+    </td>
+    <td>
+      <b>Absolute Fitness Up to $30 OFF and 2 complimentary personal training sessions worth $120</b><br>
