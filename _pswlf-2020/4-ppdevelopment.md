@@ -375,7 +375,24 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/pay1.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Financial Literacy.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/679">Acorns' Guide to Personal Finance</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4785">Personal Finance: Financial Security Thinking & Principles</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4787">Personal Finance Masterclass - Easy Guide to Better Finances</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/8720">Service Begins with Me</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6013">The Complete Personal Productivity Course - Business & Life</a><br>
+    </td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 #### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
 <font size="4"> <br> It is never too early or late to take stock of your career health, whether you are starting a new role, experiencing persistent frustration in your current role, or exploring a new role.
@@ -395,9 +412,9 @@ breadcrumb: 'Professional & Personal Development'
       <br>• How can I find clarity for my career direction? 
       <br>• What are my career interests and skills?
 	    <br>
-<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
+<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA"><b>(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</b></font>.
 	    <br> 
-	    <br>Sign up <a href="https://publicservicecareercoaching.as.me/general">here</a> for <font color"SIENNA"><b>other job families.</b></font>
+	    <br>Sign up <a href="https://publicservicecareercoaching.as.me/general">here</a> for <font color="SIENNA"><b>other job families.</b></font>
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
@@ -419,6 +436,22 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/career1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Career Management.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/26289">Boost Your Career Success by Developing Your Soft Skills</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3787">Learn Social Psychology - The Self & Self-Esteem</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3933">Life Mastery - Happiness, Health & Success</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/8720">Service Begins with Me</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6011">The Complete Personal Productivity Course - Business & Life</a><br>
+    </td> for 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
@@ -495,6 +528,27 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/health2.jpg">
     </td>
 </tr>	
-
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Managing Life Transitions.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/56736">Design a Retirement That Excites You</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/49406">Each Employee's Retirement Is Unique</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/29387">Learn Mindfulness Meditation for a Calmer and Clearer mind</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4433">Mindfulness Meditation for Real Life</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/56243">Plan a Satisfying Retirement</a><br>
+    </td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+<br>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+
