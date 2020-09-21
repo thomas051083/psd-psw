@@ -114,6 +114,14 @@ For enquiries, please email to <a href="mailto:events@csc.sg">events@csc.sg</a>.
     </td>
   </tr>
   </table>
+  <br>
+<br>
+Nothing here interest you? No worries, browse through more exclusives here: <br>
+<br>
+Click <a href="https://publicserviceweek.gov.sg/merchant-exclusives-2020">Merchant Exclusives</a><br>
+Click <a href="https://publicserviceweek.gov.sg/online-social-activities-2020">Online Social Activities</a><br>
+Click <a href="https://publicserviceweek.gov.sg/civil service club membership promotion-2020">Civil Service Club Membership Promotion</a><br>
+Click <a href="https://publicserviceweek.gov.sg/exclusives-2020">Exclusives</a><br>
 
       
   
