@@ -90,7 +90,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     <td>
 <br> 
       
-### Attractions <br>
+### Attractions <br>      
 <table>
   <tr>
     <td>
@@ -124,7 +124,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
       <b>GoGreen 2 pax Segway Eco Adventure 30 mins for $50 (UP $79.80)</b><br>
    <tr>
     <td>
-<br> 
+<br>   
       
 ### Services <br>
 <table>
@@ -136,9 +136,19 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
       <b>Scholastic Up to 50% OFF bundles</b><br>
   <tr>
    <td>
-      <img src="/images/Asian detour.png">
+     <img src="/images/Asian detour.png">
     </td>
     <td>
-      <b>Asian Detour Buy 3 get the 4th person free for Round Ketam Kayaking, Ubin Bike Trail and Paddle to Pedal</b><br>
+     <b>Asian Detour Buy 3 get the 4th person free for Round Ketam Kayaking, Ubin Bike Trail and Paddle to Pedal</b><br>
   <tr>
+  <td>
+    <img src="/images/starhub.png">
+    </td>
     <td>
+      <b>StarHub 4G SIM Only 1-year plan, 35GB for $25 with FREE Unlimited Talktime</b><br>
+   <tr>
+   <td>
+    <img src="/images/pacificlight.png">
+    </td>
+    <td>
+      <b>Pacific Light $78 rebate off electricity bill</b><br>
