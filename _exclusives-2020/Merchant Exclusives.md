@@ -17,19 +17,19 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/Brewerkz.png">
     </td>
     <td>
-      <b>Brewerkz 1-FOR-1 on any mains</b><br>
+<b>Brewerkz 1-FOR-1 on any mains</b><br>
   <tr>
     <td>
 <img src="/images/Harrys.png">
     </td>
     <td>
-      <b>Harry’s 1-FOR-1 on Asian Palate</b><br>
+<b>Harry’s 1-FOR-1 on Asian Palate</b><br>
   <tr>
     <td>
 <img src="/images/Cafe iguana.png">
     </td>
     <td>
-      <b>Café Iguana 1-FOR-1 on any mains</b><br>
+<b>Café Iguana 1-FOR-1 on any mains</b><br>
   <tr>
     <td>
  <img src="/images/Brunos.png">
@@ -173,6 +173,7 @@ Services <br>
 <br>
 Nothing here interest you? No worries, browse through more exclusives here: <br>
 <br>
+       Click <a href="https://publicserviceweek.gov.sg/merchant-exclusives-2020”">here</a> Merchant Exclusives.<br>
       
 <li><a href=“https://publicserviceweek.gov.sg/merchant-exclusives-2020”>Merchant Exclusives</a></li>
 <li><a href=“https://publicserviceweek.gov.sg/online-social-activities-2020”>Free Online Social Activities</a></li>
