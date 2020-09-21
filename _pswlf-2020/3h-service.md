@@ -9,4 +9,28 @@ third_nav_title: Job Specific Skills
 
 More details can be found on <a href="https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=8ef73fih3tkf7a7v9cukm5vhv1">CSC Programmes</a>. 
 	<br></font>
+
+<table>
+       <col width="70%"> 
+            <col width="30%">
+	<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Service Delivery.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/136312">CARE Digital Game</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/2029">Creativity, Design Thinking, and Innovation for Business</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8720">Service Begins with Me</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/5451">Service Design: Designing for Experience Over Time</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/147204">User Experience Design in Digital Services</a><br>
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
+</table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
