@@ -205,5 +205,31 @@ third_nav_title: Job Specific Skills
      <img src="/images/digital6.jpg">
     </td>
 </tr>
-	</table>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Science, Technology and Engineering.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10650">Boost your data visualisations</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/128176">Cyber Security</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/17145">Data Literacy ePrimer</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/95206">Data Security</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1 - Data Science vs Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10645">Presenting and Interpreting Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
+</table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
