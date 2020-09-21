@@ -414,7 +414,6 @@ breadcrumb: 'Professional & Personal Development'
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4785">Personal Finance: Financial Security Thinking & Principles</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4787">Personal Finance Masterclass - Easy Guide to Better Finances</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
-- <a href="https://www.learn.gov.sg/dlp/student/course/8720">Service Begins with Me</a><br>	
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6013">The Complete Personal Productivity Course - Business & Life</a><br>
     </td> 
 	<td>
