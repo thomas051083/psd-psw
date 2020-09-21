@@ -450,7 +450,6 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/coaching2.jpg">
     </td>
 </tr>
-	
 <tr>
     <td>
       <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies</b> <font color="crimson"><b> [NEW]</b></font>
@@ -479,7 +478,7 @@ breadcrumb: 'Professional & Personal Development'
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
 - <a href="https://www.learn.gov.sg/dlp/student/course/8720">Service Begins with Me</a><br>	
 - <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6011">The Complete Personal Productivity Course - Business & Life</a><br>
-    </td> for 
+    </td> 
 	<td>
      <img src="/images/learnlogowhitebg.jpg">
     </td>
