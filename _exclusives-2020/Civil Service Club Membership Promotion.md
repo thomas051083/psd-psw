@@ -5,7 +5,7 @@ breadcrumb: 'Civil Service Club Membership Promotion'
 
 ---
 
-### Free Online Social Activities <br>
+### Civil Service Club Membership Promotion <br>
 The activities are eligible to all public officers. E-vouchers are valid for 6 months from date of issue.<br>
 <br>
 For enquiries, please email to <a href="mailto:membership@csc.sg">membership@csc.sg</a> or call 6391 5604/ 6514 6396<br>
