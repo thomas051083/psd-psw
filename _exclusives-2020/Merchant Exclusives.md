@@ -116,3 +116,29 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>Science Centre 20% off Butterflies Up-Close exhibition tickets (U.P $10)</b><br>
+        <tr>
+    <td>
+      <img src="/images/Go green.png">
+    </td>
+    <td>
+      <b>GoGreen 2 pax Segway Eco Adventure 30 mins for $50 (UP $79.80)</b><br>
+   <tr>
+    <td>
+<br> 
+      
+### Services <br>
+<table>
+  <tr>
+   <td>
+      <img src="/images/Scholastic.png">
+    </td>
+    <td>
+      <b>Scholastic Up to 50% OFF bundles</b><br>
+  <tr>
+   <td>
+      <img src="/images/Asian detour.png">
+    </td>
+    <td>
+      <b>Asian Detour Buy 3 get the 4th person free for Round Ketam Kayaking, Ubin Bike Trail and Paddle to Pedal</b><br>
+  <tr>
+    <td>
