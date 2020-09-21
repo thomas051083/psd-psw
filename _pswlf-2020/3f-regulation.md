@@ -44,23 +44,7 @@ Check out the programmes below, some of which are curated and offered only for t
     </td>
 </tr>		
 	
-<tr>		
-    <td>
-	    <b>The Heartware in Police Licensing</b>
-      <br>27 October 2020, 3.00pm - 4.30pm | Platform: Skype
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
-      <br>       
-      <br>A sharing by the SIngapore Police Force on how it harnesses its licensing and regulatory levers to support the Force's mission of preventing, detecting and deterring crime, and at the same time, remains flexible in ensuring the requirements imposed on licensed entities are regularly reviewed for relevance, applicability and with business costs in mind. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Describe how smart regulations can be applied in deriving licensing regimes
-      <br>
-      <a href="https://heartware-in-police-licensing.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/regulation.jpg">
-    </td>
-</tr>	
+
 
 <tr>		
     <td>
@@ -80,6 +64,23 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/engage7.jpg">
     </td>
 </tr>
+<tr>		
+    <td>
+	    <b>The Heartware in Police Licensing</b>
+      <br>27 October 2020, 3.00pm - 4.30pm | Platform: Skype
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+      <br>       
+      <br>A sharing by the SIngapore Police Force on how it harnesses its licensing and regulatory levers to support the Force's mission of preventing, detecting and deterring crime, and at the same time, remains flexible in ensuring the requirements imposed on licensed entities are regularly reviewed for relevance, applicability and with business costs in mind. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Describe how smart regulations can be applied in deriving licensing regimes
+      <br>
+      <a href="https://heartware-in-police-licensing.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/regulation.jpg">
+    </td>
+</tr>	
 <tr>		
     <td>
       <b>Tips from Behavioural Sciences to De-escalate Situations</b>
