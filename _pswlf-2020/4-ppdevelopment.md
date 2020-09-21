@@ -397,7 +397,7 @@ breadcrumb: 'Professional & Personal Development'
 	    <br>
 <br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
 	    <br>
-	    <br> For <font color="SIENNA">other job families</font>, slots will be opened on <u>22 Sep 2020, 12noon.</u>
+	    <br> For <font color="SIENNA">other job families</font>, please sign up <a href="https://publicservicecareercoaching.as.me/general">here</a>.
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
