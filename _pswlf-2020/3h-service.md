@@ -9,7 +9,8 @@ third_nav_title: Job Specific Skills
 
 More details can be found on <a href="https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=8ef73fih3tkf7a7v9cukm5vhv1">CSC Programmes</a>. 
 	<br></font>
-
+<br>
+<br>
 <table>
        <col width="70%"> 
             <col width="30%">
