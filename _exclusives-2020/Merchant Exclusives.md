@@ -89,7 +89,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     <tr>
     <td>
 <br>
-### Attractions <br> 
+
       
 Attractions <br>      
 <table>
