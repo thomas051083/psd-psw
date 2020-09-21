@@ -8,7 +8,7 @@ breadcrumb: 'Merchant Exclusives'
 ### Merchant Exclusives <br>
 All public officers are eligible for the merchant exclusives.<br>
 <br>
-<i>All promotions are subjected to change. Promotions are valid from 1 to 31 Oct unless otherwise stated. Prevailing Safe Management measures apply. Details and terms will be uploaded to www.csc.sg/psweek soon </i><br>
+<i>Promotions are valid from 1 to 31 Oct unless otherwise stated. Details and terms will be uploaded to www.csc.sg/psweek soon </i><br>
 <br>
 
 <table>
