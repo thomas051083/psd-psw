@@ -99,6 +99,25 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/engage6.jpg">
     </td>
 </tr>
-	</table>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Regulation, Enforcement and Compliance.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/31094">Compliance Strategy </a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/31089">Designing Regulations </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/24922">Foundations of Smart Regulation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/180283"> Legal Rights and Powers for Enforcement Officers </a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/94282">Public Service-Level Acts and Regulation for Enforcement</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/12402">Research Paper: Regulation Disrupted</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/5451">Service Design: Designing for Experience Over Time</a><br>	
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
+</table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-
