@@ -171,3 +171,11 @@ Services <br>
     </td>
     <td>
       <b>Singapore Karate Association Special discount for training fees with no annual membership fee</b><br>
+
+Nothing here interest you? No worries, browse through more exclusives here: <br>
+<br>
+<ul>
+<li><a href=“https://publicserviceweek.gov.sg/merchant-exclusives-2020”>Merchant Exclusives</a></li>
+<li><a href=“https://publicserviceweek.gov.sg/online-social-activities-2020”>Free Online Social Activities</a></li>
+<li><a href=“https://publicserviceweek.gov.sg/exclusives-2020”>Exclusive Promotions</a></li>
+</ul>
