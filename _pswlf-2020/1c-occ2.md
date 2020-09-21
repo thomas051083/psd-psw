@@ -145,7 +145,7 @@ third_nav_title: Our Core Competencies
 - <a href="https://www.learn.gov.sg/dlp/student/course/8037">Making Sense of My Leadership Transition</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8045">Making Time for Reflection</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8041">Sharpening My Listening Skills</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/8039">The Power of Questions</a>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8039">The Power of Questions</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8035">The Value of Feedback</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8051">Understanding My Corporate Responsibilities</a><br>	
     </td>
