@@ -95,5 +95,27 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/Engage4.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Community Development, Partnership & Engagement.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/38020">A Guide to Managing a Volunteer Workforce</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/29455">Citizen-centric Governance, Citizen-centric Communications</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/19426">Introduction to Citizens' Jury</a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/course/180">Modes of Citizen Engagement</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/222">Video Case: Library@Chinatown</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/167">What is citizen engagement?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/172"> Why does citizen engagement matter?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/134231"> Working with Narratives</a><br>			
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
