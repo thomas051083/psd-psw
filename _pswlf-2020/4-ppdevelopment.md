@@ -396,8 +396,8 @@ breadcrumb: 'Professional & Personal Development'
       <br>• What are my career interests and skills?
 	    <br>
 <br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
-	    <br>
-	    <br> For <font color="SIENNA">other job families</font>, please sign up <a href="https://publicservicecareercoaching.as.me/general">here</a>.
+	    <br> 
+	    <br>Sign up <a href="https://publicservicecareercoaching.as.me/general">here</a> for <font color"SIENNA"><b>other job families.</b></font>
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
