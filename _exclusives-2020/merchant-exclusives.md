@@ -1,8 +1,8 @@
 ---
-title: 'Merchant Exclusives'
-permalink: /merchant-exclusives-2020
-breadcrumb: 'Merchant Exclusives'
+title: Merchant Exclusives
+permalink: /exclusives-2020/merchant-exclusives-2020
 ---
+
 ### Merchant Exclusives <br>
 All public officers are eligible for the merchant exclusives.<br>
 <br>
