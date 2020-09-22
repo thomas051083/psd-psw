@@ -7,7 +7,12 @@ breadcrumb: 'Merchant Exclusives'
 All public officers are eligible for the merchant exclusives.<br>
 <br>
 Promotions are valid from 1 to 31 Oct ’20. The full listing and terms can be viewed at <a href="https://bit.ly/2HcT4ig">Merchant Exclusives list</a><br> or by scanning the QR code. <br>
-<img src="/images/merchantqrcode.png">
+<div class="row">
+	<div class="col is-4">
+		<figure style="margin:0;">
+			<img src="/images/merchantqrcode.png">	
+		</figure>
+  </div>
 <br>
 For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg</a>.<br>
 <br>
