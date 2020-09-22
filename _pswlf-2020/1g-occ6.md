@@ -55,7 +55,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr>
     <td>
       <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b><b><font color="crimson">[NEW]</font></b>
-      <br>16 or 23 October 2020, 9.30am - 11.00am | Platform: Zoom
+      <br>16 October 2020, 2.00pm - 3.30pm| 23 October 2020, 9.30am - 11.00am| Platform: Zoom
       <br>      
       <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
       <br>
