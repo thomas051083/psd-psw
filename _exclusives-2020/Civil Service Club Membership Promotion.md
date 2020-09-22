@@ -6,7 +6,7 @@ breadcrumb: 'Civil Service Club Membership Promotion'
 ---
 
 ### Civil Service Club Membership Promotion <br>
-All public officers are eligible for this promotion.Promotion is valid from 1 to 31 Oct ‘20. E-vouchers are valid for 6 months from date of issue. Sign-up gift is while stocks last.<br>
+All public officers are eligible for this promotion. Promotion is valid from 1 to 31 Oct ‘20. E-vouchers are valid for 6 months from date of issue. Sign-up gift is while stocks last.<br>
 <br>
 For enquiries, please email to <a href="mailto:membership@csc.sg">membership@csc.sg</a> or call 6391 5604/ 6514 6396<br>
 <br>
