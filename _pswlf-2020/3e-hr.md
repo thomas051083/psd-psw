@@ -74,7 +74,24 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/hra1.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Human Resources.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/204673">Digital Transformation is About Talent, not (just) Technology</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/111487">Experience Doesn't Predict a New Hire's Success</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/16235">How has digital HR tools changed the way we are attracting and recruiting individuals?</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/127434">Toolkit: Strategic Job Design </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21182">Top 8 HR Tech & Tools not to be missed </a><br>	
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
-
-
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+

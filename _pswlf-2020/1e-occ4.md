@@ -9,22 +9,40 @@ third_nav_title: Our Core Competencies
        <col width="70%"> 
             <col width="30%"> 
  
-<tr> 
+ <tr> 
     <td>
-      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b> 
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
+      <br> 
+      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
+      <br>• Simplify messages and information
+      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
+      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
       <br>
-      <br>Learning Outcomes:
-      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
-      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
-      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
-      <br>
-      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
     </td>    
 <td>
-     <img src="/images/engage11.jpg">
+     <img src="/images/finance3.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change2.jpg">
     </td>
 </tr>
 <tr> 
@@ -66,20 +84,20 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr> 
     <td>
-      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
-      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b> 
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
       <br>
       <br>Learning Outcomes:
-      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
-      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
-      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
+      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
+      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
       <br>
-      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/change2.jpg">
+     <img src="/images/engage11.jpg">
     </td>
 </tr>
 <tr> 

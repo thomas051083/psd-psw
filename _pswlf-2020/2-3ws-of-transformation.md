@@ -49,7 +49,7 @@ Transform our <i>physical workplace,</i> making <i>workplace processes and pract
       <br>       
       <br> With over 20 years of HR experience in the financial services industry, Mr Joel Fastenberg leads the HR strategy in Citi’s ASEAN markets, and brings to this session his deep expertise in driving employee initiatives that champion learning and development, foster personal growth and reinforce staff satisfaction.
       <br>      
-      <br>Facilitator: Ms Low Peck Kem, Government CHRO | Snr Dir (Workforce Dev), PSD | President SHRI
+      <br>Facilitator: Ms Low Peck Kem, Government CHRO | Advisor (Workforce Dev), PSD | President SHRI
       <br>
       <br>
       <a href=" https://www.eventbrite.sg/e/insights-from-outside-future-of-workforce-tickets-121310838985">Click here to register.</a>   

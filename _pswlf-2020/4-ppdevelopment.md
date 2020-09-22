@@ -105,8 +105,38 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/rpa1.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Digital Literacy.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10984">Communicate & Collaborate with Agility</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/10935">Communicate & Collaborate with Etiquette</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/17145">Data Literacy ePrimer</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/95206">Data Security</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/391">Digital Tools that Support My Work</a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/210">Facing up to Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/389">Global Technology Trends</a><br>
+- <a href=" https://www.learn.gov.sg/dlp/student/course/163376"> How to Start RPA?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10648">Introduction to Information Literacy & Data Interpretation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21027">Overview 1: Data Science vs Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21035">Overview 2: Steps for a Data Science & Data Analytics Project</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21038">Overview 3: Programming Language</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21064">Overview 4: Machine Learning</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21067">Overview 5: Data Visualisation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10645">Presenting and Interpreting Data</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/486">Why is Digital Transformation Important?</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10373">Upskilling Yourself Personally & Professionally</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/232">5 Benefits of Data Analytics</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/399">8 Common Challenges In Digital Transformation Projects</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/10376">What's Fake, What's Real Online?</a><br>
+</td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
 #### <font color="darkorange"><b>Change Agility</b></font><a name="change"></a>
@@ -375,7 +405,23 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/pay1.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Financial Literacy.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/679">Acorns' Guide to Personal Finance</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4785">Personal Finance: Financial Security Thinking & Principles</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4787">Personal Finance Masterclass - Easy Guide to Better Finances</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6013">The Complete Personal Productivity Course - Business & Life</a><br>
+    </td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
+
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 #### <font color="darkorange"><b>Career Management</b></font><a name="career"></a>
 <font size="4"> <br> It is never too early or late to take stock of your career health, whether you are starting a new role, experiencing persistent frustration in your current role, or exploring a new role.
@@ -395,15 +441,14 @@ breadcrumb: 'Professional & Personal Development'
       <br>• How can I find clarity for my career direction? 
       <br>• What are my career interests and skills?
 	    <br>
-<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
-	    <br>
-	    <br> For <font color="SIENNA">other job families</font>, slots will be opened on <u>22 Sep 2020, 12noon.</u>
+<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA"><b>(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</b></font>.
+	    <br> 
+	    <br>Sign up <a href="https://publicservicecareercoaching.as.me/general">here</a> for <font color="SIENNA"><b>other job families.</b></font>
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
     </td>
 </tr>
-	
 <tr>
     <td>
       <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies</b> <font color="crimson"><b> [NEW]</b></font>
@@ -419,6 +464,22 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/career1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Career Management.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/26289">Boost Your Career Success by Developing Your Soft Skills</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3787">Learn Social Psychology - The Self & Self-Esteem</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/3933">Life Mastery - Happiness, Health & Success</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/8720">Service Begins with Me</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/6011">The Complete Personal Productivity Course - Business & Life</a><br>
+    </td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
     </td>
 </tr>
 </table>
@@ -462,23 +523,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/health1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Your Physical Well-being </b>
-      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
-      <br>      
-      <br>Learning Outcomes:
-	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
-	    <br>
-      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>	
-<tr>
+	<tr>
     <td>
       <b>Retirement and Re-employment Preparedness Programme</b>
       <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
@@ -495,5 +540,43 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/retirement1.jpg">
     </td>
 </tr>
+<tr>
+    <td>
+      <b>Your Physical Well-being </b>
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>	
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Managing Life Transitions.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/56736">Design a Retirement That Excites You</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/49406">Each Employee's Retirement Is Unique</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/29387">Learn Mindfulness Meditation for a Calmer and Clearer mind</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4201">Master your brain: Neuroscience for personal development</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4433">Mindfulness Meditation for Real Life</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/56243">Plan a Satisfying Retirement</a><br>
+    </td> 
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+<br>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
+<div style="text-align: right"><a href="#top">Back to top</a></div>
+

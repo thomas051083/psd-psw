@@ -44,23 +44,7 @@ Check out the programmes below, some of which are curated and offered only for t
     </td>
 </tr>		
 	
-<tr>		
-    <td>
-	    <b>The Heartware in Police Licensing</b>
-      <br>27 October 2020, 3.00pm - 4.30pm | Platform: Skype
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
-      <br>       
-      <br>A sharing by the SIngapore Police Force on how it harnesses its licensing and regulatory levers to support the Force's mission of preventing, detecting and deterring crime, and at the same time, remains flexible in ensuring the requirements imposed on licensed entities are regularly reviewed for relevance, applicability and with business costs in mind. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Describe how smart regulations can be applied in deriving licensing regimes
-      <br>
-      <a href="https://heartware-in-police-licensing.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/regulation.jpg">
-    </td>
-</tr>	
+
 
 <tr>		
     <td>
@@ -82,6 +66,23 @@ Check out the programmes below, some of which are curated and offered only for t
 </tr>
 <tr>		
     <td>
+	    <b>The Heartware in Police Licensing</b>
+      <br>27 October 2020, 3.00pm - 4.30pm | Platform: Skype
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+      <br>       
+      <br>A sharing by the SIngapore Police Force on how it harnesses its licensing and regulatory levers to support the Force's mission of preventing, detecting and deterring crime, and at the same time, remains flexible in ensuring the requirements imposed on licensed entities are regularly reviewed for relevance, applicability and with business costs in mind. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Describe how smart regulations can be applied in deriving licensing regimes
+      <br>
+      <a href="https://heartware-in-police-licensing.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/regulation.jpg">
+    </td>
+</tr>	
+<tr>		
+    <td>
       <b>Tips from Behavioural Sciences to De-escalate Situations</b>
       <br>27 October 2020, 3.30pm - 4.30pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
@@ -98,6 +99,26 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/engage6.jpg">
     </td>
 </tr>
-	</table>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Regulation, Enforcement and Compliance.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/31094">Compliance Strategy </a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/course/31089">Designing Regulations </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/24922">Foundations of Smart Regulation</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/180283"> Legal Rights and Powers for Enforcement Officers </a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/94282">Public Service-Level Acts and Regulation for Enforcement</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/12402">Research Paper: Regulation Disrupted</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/5451">Service Design: Designing for Experience Over Time</a><br>	
+- <a href="https://www.learn.gov.sg/dlp/student/course/102251">Why do Citizens Complain (so much)?</a><br>		    
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
+</table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
-

@@ -26,6 +26,25 @@ third_nav_title: Job Specific Skills
      <img src="/images/change2.jpg">
     </td>
 </tr>
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Corporate Admin.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/226">Analytics Driven Government- The New Normal</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/281">Driving A Culture Of Collaboration</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/7493">Introduction to Digital Transformation</a><br>		
+- <a href="https://www.learn.gov.sg/dlp/student/externalcourse/4053">Managing change: Learn to thrive through change </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/399">8 Common Challenges In Digital Transformation Projects</a><br>	
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
+<br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+
 

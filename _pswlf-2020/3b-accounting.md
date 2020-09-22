@@ -131,7 +131,24 @@ Sign up for programmes based on four of the eleven technical finance competencie
      <img src="/images/rpa1.jpg">
     </td>
 </tr>	
+<tr> 
+    <td>	     
+      <b>LEARN modules</b>
+      <br>LEARN more at your own pace! Click on the curated modules below to build your competency in Accounting and Finance.
+	<br><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/380">Buying Stuff in Public Service</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/21241">Digital disruption: Embracing it </a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/382">Managing Public Finances</a><br>			 
+- <a href="https://www.learn.gov.sg/dlp/student/course/134224">Unlimited Changes</a><br>
+- <a href="https://www.learn.gov.sg/dlp/student/course/134234">Values for Money vs Public Perception</a><br>			
+    </td>
+	<td>
+     <img src="/images/learnlogowhitebg.jpg">
+    </td>
+</tr>
 </table>
+##### <font color="orange"><b>Don't have a LEARN account?</b></font>
+<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
-
 <div style="text-align: right"><a href="#top">Back to top</a></div>
+

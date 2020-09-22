@@ -12,20 +12,20 @@ third_nav_title: Our Core Competencies
 
 <tr> 
     <td>
-      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
+      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
+      <br> 
+      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
+      <br>• Simplify messages and information
+      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
+      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
       <br>
-      <br>Learning Outcomes:
-      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
-      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
-      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
-      <br>
-  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
     </td>    
 <td>
-     <img src="/images/pay1.jpg">
+     <img src="/images/finance3.jpg">
     </td>
 </tr>
 <tr> 
@@ -63,6 +63,24 @@ third_nav_title: Our Core Competencies
     </td>    
 <td>
      <img src="/images/change3.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
+      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
+      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
+      <br>
+  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr>	
@@ -127,7 +145,7 @@ third_nav_title: Our Core Competencies
 - <a href="https://www.learn.gov.sg/dlp/student/course/8037">Making Sense of My Leadership Transition</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8045">Making Time for Reflection</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8041">Sharpening My Listening Skills</a><br>
-- <a href="https://www.learn.gov.sg/dlp/student/course/8039">The Power of Questions</a>
+- <a href="https://www.learn.gov.sg/dlp/student/course/8039">The Power of Questions</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8035">The Value of Feedback</a><br>
 - <a href="https://www.learn.gov.sg/dlp/student/course/8051">Understanding My Corporate Responsibilities</a><br>	
     </td>
