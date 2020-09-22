@@ -323,7 +323,7 @@ third_nav_title: Our Core Competencies
 </tr>
 <tr>		
     <td>
-      <b>The Future of Grants </b> 
+      <b>From Paper to Portal with an Agile Approach </b> 
       <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
