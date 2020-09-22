@@ -13,7 +13,7 @@ For enquiries, please email to <a href="mailto:membership@csc.sg">membership@csc
 <table>
   <tr>
   <td>
-   <img src="/images/6.PNG">
+   <img src="/images/csclubcard.png">
       <img src="/images/qrcodemembership.png">
     </td>
     <td>
