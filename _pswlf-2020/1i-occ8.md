@@ -2,7 +2,7 @@
 title: OCC 8. Caring for, Developing and Inspiring Staff (For Supervisors)
 permalink: /pswlf-2020/occ/1i-occ8/
 breadcrumb: 'OCC 8. Caring for, Developing and Inspiring Staff (For Supervisors)'
-third_nav_title: Our Core Competencies
+third_nav_title: Learning Sessions by Our Core Competencies
 ---
 #### <font color="darkorange"><b>8. Caring for, Developing and Inspiring Staff (For Supervisors)</b></font>
 <table>
