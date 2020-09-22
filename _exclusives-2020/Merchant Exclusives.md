@@ -16,7 +16,6 @@ Promotions are valid from 1 to 31 Oct ’20. The full listing and terms can be v
 	<div class="col is-8">
 		</div>
   </div>
-<br>
 For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg</a>.<br>
 <br>
 ### F&B <br>
