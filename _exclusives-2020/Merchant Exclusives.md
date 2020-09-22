@@ -12,6 +12,9 @@ Promotions are valid from 1 to 31 Oct ’20. The full listing and terms can be v
 		<figure style="margin:0;">
 			<img src="/images/merchantqrcode.png">	
 		</figure>
+	</div>
+	<divclas="col is-8">
+		</div>
   </div>
 <br>
 For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg</a>.<br>
