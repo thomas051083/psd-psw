@@ -2,7 +2,7 @@
 title: OCC 6. Keep Learning and Putting Skills into Action
 permalink: /pswlf-2020/occ/1g-occ6/
 breadcrumb: 'OCC 6. Keep Learning and Putting Skills into Action'
-third_nav_title: Learning Sessions by Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 #### <font color="darkorange"><b>6. Keep Learning and Putting Skills into Action</b></font><a name="keep"></a>
 <table>
