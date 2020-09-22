@@ -2,7 +2,7 @@
 title: OCC 4. Working Effectively with Citizens and Stakeholders
 permalink: /pswlf-2020/occ/1e-occ4/
 breadcrumb: 'OCC 4. Working Effectively with Citizens and Stakeholders'
-third_nav_title: Learning Sessions by Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 #### <font color="darkorange"><b>4. Working Effectively with Citizens and Stakeholders</b></font>
 <table>
