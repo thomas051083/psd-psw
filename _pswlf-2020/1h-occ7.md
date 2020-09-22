@@ -2,7 +2,7 @@
 title: OCC 7. Stewarding Systems for Today and Tomorrow (For Supervisors)
 permalink: /pswlf-2020/occ/1h-occ7/
 breadcrumb: 'OCC 7. Stewarding Systems for Today and Tomorrow (For Supervisors)'
-third_nav_title: Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 #### <font color="darkorange"><b>7. Stewarding Systems for Today and Tomorrow (For Supervisors)</b></font>
 <table>

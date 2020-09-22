@@ -357,10 +357,12 @@ breadcrumb: 'Professional & Personal Development'
 	    <b>CPF & You </b> 
       <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
-      <br>This session aims to help you understand how CPF prepares you for the future, the CPF rules applicable when you turn 55 and what CPF LIFE is.
+      <br>This talk introduces CPF schemes that you can take advantage of to support your retirement goals. You will also learn practical tips and tools that you can use to start your retirement planning journey.
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand the 3 CPF Life Plans
+      <br>• Learn how to manage your CPF savings so that you can be better prepared for retirement.
+      <br>• Understand how CPF LIFE helps to ensure that you do not outlive your retirement savings and identify which of the 3 LIFE plans will suit your needs.
+      <br>• Find out ways to boost your own retirement savings and that of your loved ones, as well as learn why making a CPF nomination is important.
 	    <br>
       <a href="https://cpf-and-you.eventbrite.sg">Click here to register.</a> 
     </td>    

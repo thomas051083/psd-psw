@@ -2,7 +2,7 @@
 title: OCC 3. Working As One Public Service
 permalink: /pswlf-2020/occ/1d-occ3/
 breadcrumb: 'OCC 3. Working As One Public Service'
-third_nav_title: Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 #### <font color="darkorange"><b>3. Working As One Public Service</b></font>
 <table>

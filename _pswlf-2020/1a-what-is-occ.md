@@ -2,7 +2,7 @@
 title: What is OCC?
 permalink: /pswlf-2020/occ/1a-what-is-occ/
 breadcrumb: 'What is OCC?'
-third_nav_title: Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 ### <font color="orangered"><b>Our Core Competencies in Action</b></font>
 Choose from virtual sessions hosted by different agencies and/or bite-sized LEARN modules curated for this Learning Festival. At the virtual sessions, you will hear about the good work of other agencies and how they have demonstrated Our Core Competencies (OCC). But don't let the learning stop there. Develop your core competencies by selecting from the list of LEARN modules. 
