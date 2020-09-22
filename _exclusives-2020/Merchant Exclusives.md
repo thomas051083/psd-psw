@@ -6,7 +6,8 @@ breadcrumb: 'Merchant Exclusives'
 ### Merchant Exclusives <br>
 All public officers are eligible for the merchant exclusives.<br>
 <br>
-Promotions are valid from 1 to 31 Oct ’20. Details and terms will be uploaded to www.csc.sg/psweek soon.<br>
+Promotions are valid from 1 to 31 Oct ’20. The full listing and terms can be viewed at <a href="https://bit.ly/2HcT4ig">Merchant Exclusives Qrcode</a><br> or by scanning the QR code. <br>
+<img src="/images/merchantqrcode.png">
 <br>
 For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg</a>.<br>
 <br>
@@ -83,7 +84,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/Biscotti Bakery.png">
     </td>
     <td>
-      <b>Biscotti Bakery 10% off F&B at their outlet at CSC@Tessensohn, $1 less on Biscotti tubs</b><br>
+      <b>Biscotti Bakery Buy 3 tubs (300g) of Original Almond Biscotti and get a tub (200g) FREE (worth $15)</b><br>
     <tr>
     <td>
 <br>
