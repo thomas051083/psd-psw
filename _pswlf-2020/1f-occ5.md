@@ -2,7 +2,7 @@
 title: OCC 5. Improving and Innovating Continuously
 permalink: /pswlf-2020/occ/1f-occ5/
 breadcrumb: 'OCC 5. Improving and Innovating Continuously'
-third_nav_title: Learning Sessions by Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 #### <font color="darkorange"><b>5. Improving and Innovating Continuously</b></font><a name="improving"></a>
 <table>
