@@ -13,7 +13,7 @@ Promotions are valid from 1 to 31 Oct ’20. The full listing and terms can be v
 			<img src="/images/merchantqrcode.png">	
 		</figure>
 	</div>
-	<divclas="col is-8">
+	<div class="col is-8">
 		</div>
   </div>
 <br>
