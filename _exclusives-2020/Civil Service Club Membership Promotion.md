@@ -10,7 +10,6 @@ The activities are eligible to all public officers. E-vouchers are valid for 6 m
 <br>
 For enquiries, please email to <a href="mailto:membership@csc.sg">membership@csc.sg</a> or call 6391 5604/ 6514 6396<br>
 <br>
-
 <table>
   <tr>
   <td>
