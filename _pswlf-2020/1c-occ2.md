@@ -2,7 +2,7 @@
 title: OCC 2. Serving with Heart, Commitment and Purpose
 permalink: /pswlf-2020/occ/1c-occ2
 breadcrumb: 'OCC 2. Serving with Heart, Commitment and Purpose'
-third_nav_title: Learning Sessions by Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 
 #### <font color="darkorange"><b>2. Serving with Heart, Commitment and Purpose</b></font>
