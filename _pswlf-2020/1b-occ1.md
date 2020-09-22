@@ -2,7 +2,7 @@
 title: OCC 1. Thinking Clearly and Making Sound Judgements
 permalink: /pswlf-2020/occ/1b-occ1
 breadcrumb: 'OCC 1. Thinking Clearly and Making Sound Judgements'
-third_nav_title: Learning Sessions by Our Core Competencies
+third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 #### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font> 
 <table>
