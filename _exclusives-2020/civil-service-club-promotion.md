@@ -1,8 +1,6 @@
 ---
-title: 'Civil Service Club Membership Promotion'
-permalink: /Civil Service Club Membership Promotion-2020
-breadcrumb: 'Civil Service Club Membership Promotion'
-
+title: Civil Service Club Membership Promotion
+permalink: /exclusives-2020/civil-service-club-membership-promotion-2020
 ---
 
 ### Civil Service Club Membership Promotion <br>
@@ -13,7 +11,7 @@ For enquiries, please email to <a href="mailto:membership@csc.sg">membership@csc
 <br>
 <table>
   <tr>
-  <td>
+  <td style="width:30%">
    <img src="/images/csclubcard.png">
       <img src="/images/qrcodemembership.png">
     </td>
