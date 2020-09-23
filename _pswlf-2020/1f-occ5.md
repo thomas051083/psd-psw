@@ -12,7 +12,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>Making Innovation a part of the Public Service DNA </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 or 30 October 2020,  11.00am - 12.00pm | Platform: Zoom
+      <br>29 October 2020,  10.30am - 11.30am | Platform: Zoom
       <br>       
       <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates.
       <br>  
