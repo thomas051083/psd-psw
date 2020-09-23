@@ -11,32 +11,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>Public Service Career Coaching Services </b><b><font color="crimson">[NEW]</font></b>
-      <br>19 - 30 October 2020 (50 one-to-one coaching session up for grab) | Platform: Zoom
-      <br>       
-      <br> Ever thought about these questions?
-      <br> • How do I plan and grow my career? 
-      <br> • How do I make informed career decisions?
-      <br> • How do I prepare for new roles or career switches? 
-      <br> • How can I find clarity for my career direction? 
-      <br> • What are my career interests and skills?
-      <br>
-      <br>Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
-      <br>
-      <br>Learning Outcomes:
-      <br> 1) Gain clarity of your professional interests and skills, and your career direction                                                                                 <br> 2) Articulate next steps to grow your career according to your desired direction.
-      <br>
-      <br> Sign up <a href="https://go.gov.sg/bookcareercoaching"> here</a> if you are for <font color="SIENNA"></font>other job families.     
-      <br>
-      <br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA">(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</font>.
-     <br>
-    </td>    
-<td>
-     <img src="/images/coaching2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
