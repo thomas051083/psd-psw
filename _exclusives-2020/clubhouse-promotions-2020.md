@@ -88,6 +88,7 @@ Public officers can enjoy <b>FREE</b> pool access, chalets and facilities at Civ
   </tr>
   <br>
 <br>
+<table>
 Nothing here interest you? No worries, browse through more exclusives here: <br>
 <br>
 Click <a href="https://publicserviceweek.gov.sg/merchant-exclusives-2020">Merchant Exclusives</a><br>
