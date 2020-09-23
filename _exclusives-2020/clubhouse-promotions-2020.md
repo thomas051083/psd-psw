@@ -1,9 +1,9 @@
 ---
-title: CSC Clubhouse Promotions
+title: Civil Service Club Facilities and Chalet Promotions
 permalink: /exclusives-2020/clubhouse-promotions-2020
 ---
 
-### CS Club Facilities and Chalet Promotions <br>
+### Civil Service Club Facilities and Chalet Promotions <br>
 The promotions are eligible to all public officers.<br>
 <br>
 Public officers can enjoy <b>FREE</b> pool access, chalets and facilities at Civil Service Club members’ rates. <br>
