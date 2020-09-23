@@ -13,13 +13,13 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>Making Innovation a part of the Public Service DNA </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 or 30 October 2020,  11.00am - 12.00pm | Platform: Zoom
+      <br>29 October 2020,  10.30am - 11.30am | Platform: Zoom
       <br>       
       <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates.
       <br>  
 <br> Join us for the Innovation Crawl to Australia and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
   <br>  
-  <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+  <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
       <br>Learning Outcomes:
       <br>• Find out how the Australian Public Service have harnessed technologies to serve citizens/businesses & the way our workforce operates.
@@ -39,7 +39,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>  
      <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
      <br>  
-     <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+     <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
       <br>Learning Outcomes:
       <br>• Gain insights to how large private organisations approach innovation and harness technologies to challenge how they serve businesses and customers.
@@ -53,7 +53,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>COVID-19 Pandemic – Swift Regulatory Response to Help Businesses and Citizens </b><b><font color="crimson">[NEW]</font></b>
+      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b><b><font color="crimson">[NEW]</font></b>
       <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
       <br>       
       <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  

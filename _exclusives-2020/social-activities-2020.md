@@ -119,7 +119,7 @@ Nothing here interest you? No worries, browse through more exclusives here: <br>
 Click <a href="https://publicserviceweek.gov.sg/merchant-exclusives-2020">Merchant Exclusives</a><br>
 Click <a href="https://publicserviceweek.gov.sg/online-social-activities-2020">Online Social Activities</a><br>
 Click <a href="https://publicserviceweek.gov.sg/civil service club membership promotion-2020">Civil Service Club Membership Promotion</a><br>
-Click <a href="https://publicserviceweek.gov.sg/exclusives-2020">Exclusives</a><br>
+Click <a href="https://publicserviceweek.gov.sg/clubhouse-promotions-2020">Civil Service Club Facilities and Chalet Promotions</a><br> 
 
       
   
