@@ -19,7 +19,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>  
 <br> Join us for the Innovation Crawl to Australia and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
   <br>  
-  <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+  <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
       <br>Learning Outcomes:
       <br>• Find out how the Australian Public Service have harnessed technologies to serve citizens/businesses & the way our workforce operates.
@@ -39,7 +39,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>  
      <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
      <br>  
-     <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+     <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
       <br>
       <br>Learning Outcomes:
       <br>• Gain insights to how large private organisations approach innovation and harness technologies to challenge how they serve businesses and customers.
