@@ -110,7 +110,8 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
 </table>
 <br>
-Attractions <br>      
+
+### Attractions<br>      
 <table>
   <tr>
     <td>
@@ -155,7 +156,7 @@ Attractions <br>
 </table>
 <br>   
 
-Services <br>
+### Services <br>
 <table>
   <tr>
    <td>
