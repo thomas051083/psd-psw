@@ -129,7 +129,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical Best Practices</b>
+      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
