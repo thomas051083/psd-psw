@@ -443,24 +443,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage10.jpg">
     </td>
 </tr> 
-<tr>	
-    <td>
-      <b>Improving Data Quality – Statistical Best Practices</b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
-      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-      <br>
-      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
@@ -552,23 +535,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/pay1.jpg">
     </td>
 </tr> 
-<tr>	
-    <td>
-      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
-      <br>       
-      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service.
-      <br>• Know about developing empathy through emotional design.
-      <br>
-      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-</tr> 
 <tr>
     <td>
       <b>Generating Creative Ideas </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -604,6 +570,42 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/project1.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
+      <br>
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
+      <br>
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr> 
+
 <tr>	
     <td>
       <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
