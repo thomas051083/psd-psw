@@ -123,9 +123,9 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>26 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
-      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from School of Design's experience in a health, social and design challenge co-organised with MOH Transformation Office, NCSS and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
+      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from DesignSingapore Council's School of X's experience in a health, social and design challenge co-organised with the MOH Office for Healthcare Transformation, National Council of Social Services and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
       <br>
       <br>Learning Outcomes:
       <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
@@ -375,23 +375,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>Designing Spaces with Virtual Reality</b>
-      <br>29 October 2020, 10.00am - 11.15am | Platform: Zoom
-      <br>       
-      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
-      <br>
-      <br>Learning Outcomes:
-      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
-      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
-      <br>
-      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital8.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>Future-Ready Service Transformation @ MOE</b>
       <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
       <br>       
@@ -443,24 +426,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage10.jpg">
     </td>
 </tr> 
-<tr>	
-    <td>
-      <b>Improving Data Quality – Statistical Best Practices</b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
-      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-      <br>
-      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
@@ -552,23 +518,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/pay1.jpg">
     </td>
 </tr> 
-<tr>	
+<tr> 
     <td>
-      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <b>Designing Spaces with Virtual Reality</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am - 11.15am | Platform: Zoom
       <br>       
-      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
+      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
       <br>
       <br>Learning Outcomes:
-      <br>• Learn the value of developing empathy in the public service.
-      <br>• Know about developing empathy through emotional design.
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
       <br>
-      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/engage8.jpg">
+     <img src="/images/digital8.jpg">
     </td>
-</tr> 
+</tr>
 <tr>
     <td>
       <b>Generating Creative Ideas </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -604,6 +570,42 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/project1.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
+      <br>
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 12.00pm - 1.30pm | Platform: Zoom
+      <br>       
+      <br>This session is a brief introduction on empathy, and how to connect to Emotion Design.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn the value of developing empathy in the public service.
+      <br>• Know about developing empathy through emotional design.
+      <br>
+      <a href="https://www.eventbrite.sg/e/is-there-room-for-emotional-design-in-public-service-tickets-117753332387">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr> 
+
 <tr>	
     <td>
       <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>

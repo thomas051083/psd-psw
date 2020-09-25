@@ -273,24 +273,6 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 <tr>
-    <td>
-      <b>Prepare for Change </b>
-      <br>15 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-      <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
-      <br>      
-      <br>Learning Outcomes:
-      <br>∙ Identify your interests, strengths and skills
-      <br>∙ Describe how to take stock of yourself and plan 5 - 20 years ahead
-      <br>
-      <a href="https://prepare-for-changes.eventbrite.sg">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/change2.jpg">
-    </td>
-</tr>
-
-<tr>
      <td>
       <b>Working in Multigenerational Workplace</b>
       <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
@@ -305,6 +287,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/engage8.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Prepare for Change </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Change is the only constant in life.  To stay ahead of change, one must adapt to life’s changes by enhancing your ability to cope with challenges especially during critical life stages from mid-life and beyond.
+      <br>      
+      <br>Learning Outcomes:
+      <br>∙ Identify your interests, strengths and skills
+      <br>∙ Describe how to take stock of yourself and plan 5 - 20 years ahead
+      <br>
+      <a href="https://prepare-for-changes.eventbrite.sg">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/change2.jpg">
     </td>
 </tr>
 <tr>
@@ -390,7 +389,7 @@ breadcrumb: 'Professional & Personal Development'
 
 <tr>
     <td>
-      <b>Financial Adequacy</b>
+      <b>Financial Adequacy</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
@@ -509,22 +508,6 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Mindfulness – The Key to Self-Awareness</b>
-      <br>23 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>The easiest way to understand mindfulness is to experientially focus all of your attention on your thoughts, feelings, and actions as they occur in order to see them more clearly, without making so many assumptions.  
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain the benefits of mindfulness and conduct simple exercises to boost the areas of the brain to cultivate focus
-	    <br>
-      <a href="https://mindfulness-key-to-self-awareness.eventbrite.sg/">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health1.jpg">
-    </td>
-</tr>
 	<tr>
     <td>
       <b>Retirement and Re-employment Preparedness Programme</b>
@@ -557,7 +540,23 @@ breadcrumb: 'Professional & Personal Development'
 	<td>
      <img src="/images/health2.jpg">
     </td>
-</tr>	
+</tr>
+<tr>
+    <td>
+      <b>Mindfulness – The Key to Self-Awareness</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>The easiest way to understand mindfulness is to experientially focus all of your attention on your thoughts, feelings, and actions as they occur in order to see them more clearly, without making so many assumptions.  
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain the benefits of mindfulness and conduct simple exercises to boost the areas of the brain to cultivate focus
+	    <br>
+      <a href="https://mindfulness-key-to-self-awareness.eventbrite.sg/">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health1.jpg">
+    </td>
+</tr>
 <tr> 
     <td>	     
       <b>LEARN modules</b>

@@ -9,23 +9,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
        <col width="70%"> 
             <col width="30%"> 
 
-<tr> 
-    <td>
-      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b><b><font color="crimson">[NEW]</font></b>
-      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
-      <br>
-      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>Fighting Corruption as One Public Service </b><b><font color="crimson">[NEW]</font></b>
@@ -61,6 +45,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b><b><font color="crimson">[NEW]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
     </td>
 </tr>
 <tr>
@@ -129,7 +130,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical Best Practices</b>
+      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.

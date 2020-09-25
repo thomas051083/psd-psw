@@ -57,7 +57,7 @@ Check out the programmes below, some of which are curated and offered only for t
 
 <tr>
     <td>
-      <b>Building HR Analytics Capabilities in the Public Service</b>
+      <b>Building HR Analytics Capabilities in the Public Service</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>16 October 2020, 2.00pm – 4.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>
       <br>       

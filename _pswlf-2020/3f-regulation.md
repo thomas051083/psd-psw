@@ -83,7 +83,7 @@ Check out the programmes below, some of which are curated and offered only for t
 </tr>	
 <tr>		
     <td>
-      <b>Tips from Behavioural Sciences to De-escalate Situations</b>
+      <b>Tips from Behavioural Sciences to De-escalate Situations</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 3.30pm - 4.30pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
       <br>       
