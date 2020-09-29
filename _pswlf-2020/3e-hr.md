@@ -36,25 +36,6 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/lead1.jpg">
     </td>
 </tr>
-
-<tr>
-    <td>
-      <b>Sharing on PSD HR Tech Trials</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>26 October 2020, 10.00am – 11.00am | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>
-      <br>       
-      <br>This session will provide an overview of PSD’s on-going HR Tech Trials to facilitate competency based workforce management and include a demo of the technology platforms used.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand PSD’s initiatives to leverage technology to drive competency-based HR management
-	    <br>
-      <a href="https://hr-tech-trials.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital6.jpg">
-    </td>
-</tr>
-
 <tr>
     <td>
       <b>Building HR Analytics Capabilities in the Public Service</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -72,6 +53,23 @@ Check out the programmes below, some of which are curated and offered only for t
     </td>    
 <td>
      <img src="/images/hra1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Sharing on PSD HR Tech Trials</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 10.00am – 11.00am | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview of PSD’s on-going HR Tech Trials to facilitate competency based workforce management and include a demo of the technology platforms used.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand PSD’s initiatives to leverage technology to drive competency-based HR management
+	    <br>
+      <a href="https://hr-tech-trials.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital6.jpg">
     </td>
 </tr>
 <tr> 
