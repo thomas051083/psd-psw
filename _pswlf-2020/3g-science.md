@@ -97,39 +97,6 @@ third_nav_title: Job Specific Skills
      <img src="/images/data3.jpg">
     </td>
 </tr>	
-<tr>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
-      <br>Learning outcomes:
-      <br>• Understand what geospatial information is and its uses.
-      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. 
-      <br>
-      <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
-    </td>
-</tr>
-<tr>		
-    <td>
-      <b>Integrated Digital Delivery Implementation Journey in Singapore</b>
-      <br>13 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>Join us as we journey through Building Information Modelling, Virtual Design and Construction and Integrated Digitial Delivery implementation to transform Singapore's Built Environment industry. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand the background and progression of BIM, VDC, and IDD implementation in Singapore, as well as key IDD concepts and use cases that may be applied in projects
-      <br>
-      <a href="https://idd-implementation-journey.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
 <tr>		
     <td>
       <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
@@ -168,22 +135,21 @@ third_nav_title: Job Specific Skills
      <img src="/images/Digital1.jpeg">
     </td>
 </tr>	
-<tr>		
+<tr>
     <td>
-      <b>Together, We Build a Greener Tomorrow</b>
-      <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <b>Building a Geospatial Ecosystem</b>  <b><font color="darkviolet"> [FULL]</font></b>
+<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
-      <br>This session provides participants with an overview of climate change, Singapore Green Building Masertplan plan and how the Public Sector is taking the lead in Environmental Sustainability for Green Buildings.  
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand Singapore’s commitment towards the global fight against climate change and the requirements for public sector buildings 
-      <br>• Explain the measures that can be taken to ensure that health and well-being are not compromised with the Covid-19 situation
+      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
+      <br>Learning outcomes:
+      <br>• Understand what geospatial information is and its uses.
+      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. 
       <br>
-      <a href="https://together-we-build-a-greener-tomorrow.eventbrite.sg">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
     </td>    
 	<td>
-     <img src="/images/green1.jpg">
+     <img src="/images/geospatial.jpg">
     </td>
 </tr>
 <tr>		
@@ -203,6 +169,40 @@ third_nav_title: Job Specific Skills
     </td>    
 	<td>
      <img src="/images/digital6.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
+      <b>Integrated Digital Delivery Implementation Journey in Singapore</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>Join us as we journey through Building Information Modelling, Virtual Design and Construction and Integrated Digitial Delivery implementation to transform Singapore's Built Environment industry. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the background and progression of BIM, VDC, and IDD implementation in Singapore, as well as key IDD concepts and use cases that may be applied in projects
+      <br>
+      <a href="https://idd-implementation-journey.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
+      <b>Together, We Build a Greener Tomorrow</b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session provides participants with an overview of climate change, Singapore Green Building Masertplan plan and how the Public Sector is taking the lead in Environmental Sustainability for Green Buildings.  
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand Singapore’s commitment towards the global fight against climate change and the requirements for public sector buildings 
+      <br>• Explain the measures that can be taken to ensure that health and well-being are not compromised with the Covid-19 situation
+      <br>
+      <a href="https://together-we-build-a-greener-tomorrow.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/green1.jpg">
     </td>
 </tr>
 <tr> 
