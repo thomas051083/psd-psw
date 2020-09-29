@@ -441,10 +441,8 @@ breadcrumb: 'Professional & Personal Development'
       <br>• How do I plan and grow my career? 
       <br>• How can I find clarity for my career direction? 
       <br>• What are my career interests and skills?
-	    <br>
-<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA"><b>(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</b></font>.
-	    <br> 
-	    <br>Sign up <a href="https://publicservicecareercoaching.as.me/general">here</a> for <font color="SIENNA"><b>other job families.</b></font>
+	    <br><br> 
+	   <a href="https://publicservicecareercoaching.as.me/general">Click here to register.</a> 
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
