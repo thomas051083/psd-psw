@@ -56,24 +56,6 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-      <b>AI for Everyone</b>
-      <br>20 October 2020, 10.00am – 1.00pm| Platform: Zoom
-      <br>       
-       <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
-      <br>
-      <br>Learning Outcomes:
-      <br>∙ Understand what Artificial Intelligence (AI) is and its capabilities
-      <br>∙ Recognise examples of AI
-      <br>
-      <a href="https://ai-for-everyone.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digital3.jpg">
-    </td>
-</tr>
-
-<tr>
-    <td>
       <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
       <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the Human Resources, Corporate Administration & Operations job families for this session.</i></font> 
@@ -87,6 +69,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>
     <td>
      <img src="/images/digital4.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>AI for Everyone</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>20 October 2020, 10.00am – 1.00pm| Platform: Zoom
+      <br>       
+       <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
+      <br>
+      <br>Learning Outcomes:
+      <br>∙ Understand what Artificial Intelligence (AI) is and its capabilities
+      <br>∙ Recognise examples of AI
+      <br>
+      <a href="https://ai-for-everyone.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital3.jpg">
     </td>
 </tr>
 <tr>
@@ -240,8 +239,25 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 <tr>
+     <td>
+      <b>Working in Multigenerational Workplace</b>
+      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>            
+      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain why and how people of different generations behave differently
+      <br>• Identify strengths instead of weaknesses in people we work with
+      <br>
+      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr>
+<tr>
     <td>
-      <b>Creativity & Innovation at Work</b>
+      <b>Creativity & Innovation at Work</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>15 October 2020, 10.00am – 12.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
@@ -257,7 +273,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Importance of Growth Mindset in a VUCA World</b>
+      <b>Importance of Growth Mindset in a VUCA World</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Our world is becoming increasingly Volatile, Uncertain, Complex and Ambiguous (VUCA). How do we prepare ourselves for such an environment? Why is it important to have a growth mindset?
@@ -270,23 +286,6 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/finance2.jpg">
-    </td>
-</tr>
-<tr>
-     <td>
-      <b>Working in Multigenerational Workplace</b>
-      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>            
-      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain why and how people of different generations behave differently
-      <br>• Identify strengths instead of weaknesses in people we work with
-      <br>
-      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
     </td>
 </tr>
 <tr>
@@ -353,24 +352,6 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>CPF & You </b> 
-      <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
-      <br>       
-      <br>This talk introduces CPF schemes that you can take advantage of to support your retirement goals. You will also learn practical tips and tools that you can use to start your retirement planning journey.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Learn how to manage your CPF savings so that you can be better prepared for retirement.
-      <br>• Understand how CPF LIFE helps to ensure that you do not outlive your retirement savings and identify which of the 3 LIFE plans will suit your needs.
-      <br>• Find out ways to boost your own retirement savings and that of your loved ones, as well as learn why making a CPF nomination is important.
-	    <br>
-      <a href="https://cpf-and-you.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/finance3.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
 	    <b>Financial Resilience During COVID-19</b>
       <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
@@ -386,7 +367,24 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/finance1.jpg">
     </td>
 </tr>
-
+<tr>
+    <td>
+	    <b>CPF & You </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This talk introduces CPF schemes that you can take advantage of to support your retirement goals. You will also learn practical tips and tools that you can use to start your retirement planning journey.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn how to manage your CPF savings so that you can be better prepared for retirement.
+      <br>• Understand how CPF LIFE helps to ensure that you do not outlive your retirement savings and identify which of the 3 LIFE plans will suit your needs.
+      <br>• Find out ways to boost your own retirement savings and that of your loved ones, as well as learn why making a CPF nomination is important.
+	    <br>
+      <a href="https://cpf-and-you.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance3.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Financial Adequacy</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -441,10 +439,8 @@ breadcrumb: 'Professional & Personal Development'
       <br>• How do I plan and grow my career? 
       <br>• How can I find clarity for my career direction? 
       <br>• What are my career interests and skills?
-	    <br>
-<br> Sign up <a href="https://publicservicecareercoaching.as.me/JFbooking"> here</a> if you are part of the 5 job families <font color="SIENNA"><b>(Accounting & Finance, Citizen Engagement, Corporate Admin, HR, Regulation, Enforcement & Compliance)</b></font>.
 	    <br> 
-	    <br>Sign up <a href="https://publicservicecareercoaching.as.me/general">here</a> for <font color="SIENNA"><b>other job families.</b></font>
+	   <a href="https://publicservicecareercoaching.as.me/general">Click here to register for a Career Coaching session!</a> 
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
@@ -525,22 +521,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/retirement1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Your Physical Well-being </b>
-      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
-      <br>      
-      <br>Learning Outcomes:
-	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
-	    <br>
-      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -555,6 +536,22 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/health1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Your Physical Well-being </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
     </td>
 </tr>
 <tr> 
