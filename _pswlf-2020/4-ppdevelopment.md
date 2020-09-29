@@ -442,7 +442,7 @@ breadcrumb: 'Professional & Personal Development'
       <br>• How can I find clarity for my career direction? 
       <br>• What are my career interests and skills?
 	    <br> 
-	   <a href="https://publicservicecareercoaching.as.me/general">Click here to register.</a> 
+	   <a href="https://publicservicecareercoaching.as.me/general">Click here to register for a Career Coaching session!</a> 
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
