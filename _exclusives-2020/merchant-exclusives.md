@@ -54,7 +54,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
-<img src="/images/Santa FE.png">
+<img src="/images/R&B Tea.jpg">
     </td>
     <td>
       <b>R&B Tea<br> FREE Topping (worth $0.50) with purchase of any drink</b><br>
@@ -86,7 +86,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
-<img src="/images/two blur guys.png">
+<img src="/images/Bistro bowl.png">
     </td>
     <td>
       <b>Bistro Bowl<br> 50% off Chicken Chop main with any Western Food main purchased</b><br>
@@ -102,7 +102,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
-<img src="/images/Mood Swing.png">
+<img src="/images/Enjoy.png">
     </td>
     <td>
       <b>Enjoy Eating House & Bar<br> $15 off total bill with a minimum spending of $50 (Valid Mon-Thur)</b><br>
@@ -110,7 +110,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
-<img src="/images/Mood Swing.png">
+<img src="/images/Mosanco.png">
     </td>
     <td>
       <b>Mosanco Enchanted Café<br> Exclusive Bundle Deal for 2 pax at $40 (UP $56.50)</b><br>
@@ -179,7 +179,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
-<img src="/images/Science centre.png">
+<img src="/images/Snow City.png">
     </td>
     <td>
       <b>Snow City<br> 20% off 1 hour snow play and bumper car bundle</b><br>
@@ -240,7 +240,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
-<img src="/images/the ultimate.png">
+<img src="/images/Ohana.png">
     </td>
     <td>
       <b>Ohana Beach House<br>30% Off Kayak Expeditions and Introductory Standup Paddle Board courses</b><br>
