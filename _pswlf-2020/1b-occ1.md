@@ -113,7 +113,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>
+      <b>Building a Geospatial Ecosystem</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>

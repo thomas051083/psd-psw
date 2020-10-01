@@ -54,6 +54,14 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
+<img src="/images/R&B Tea.jpg">
+    </td>
+    <td>
+      <b>R&B Tea<br> FREE Topping (worth $0.50) with purchase of any drink</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
 <img src="/images/Rocky master.png">
     </td>
     <td>
@@ -78,10 +86,34 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
+<img src="/images/Bistro bowl.png">
+    </td>
+    <td>
+      <b>Bistro Bowl<br> 50% off Chicken Chop main with any Western Food main purchased</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
 <img src="/images/Mood Swing.png">
     </td>
     <td>
       <b>Mood Swing<br> An order of fish and chips at $5 with each beverage purchased on weekdays, 11am-2.30pm</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="/images/Enjoy.png">
+    </td>
+    <td>
+      <b>Enjoy Eating House & Bar<br> $15 off total bill with a minimum spending of $50 (Valid Mon-Thur)</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="/images/Mosanco.png">
+    </td>
+    <td>
+      <b>Mosanco Enchanted Café<br> Exclusive Bundle Deal for 2 pax at $40 (UP $56.50)</b><br>
     </td>
   </tr>
   <tr>
@@ -105,7 +137,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/Biscotti Bakery.png">
     </td>
     <td>
-      <b>Biscotti<br> Bakery Buy 3 tubs (300g) of Original Almond Biscotti and get a tub (200g) FREE (worth $15)</b><br>
+      <b>Biscotti<br>1) Bakery Buy 3 tubs (300g) of Original Almond Biscotti and get a tub (200g) FREE (worth $15)<br>2) $1 off Biscotti tubs and 10% off F&B at their outlet at CSC@Tessensohn</b>
     </td>
   </tr>
 </table>
@@ -118,7 +150,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/iFly.png">
     </td>
     <td>
-      <b>iFly<br> 1-For-1 The Challenge Package (UP S$119.00)</b><br>
+      <b>iFly<br> The iFLY promotion is no longer available due to operational constraints. We apologise for any inconvenienced caused.</b><br>
     </td>
   </tr>
   <tr>
@@ -147,6 +179,14 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
   </tr>
   <tr>
     <td>
+<img src="/images/Snow City.png">
+    </td>
+    <td>
+      <b>Snow City<br> 20% off 1 hour snow play and bumper car bundle</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
 <img src="/images/Go green.png">
     </td>
     <td>
@@ -163,7 +203,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/Scholastic.png">
     </td>
     <td>
-      <b>Scholastic<br> Up to 50% OFF bundles</b><br>
+      <b>Scholastic<br> Up to 50% OFF book bundles</b><br>
     </td>
   </tr>
   <tr>
@@ -196,6 +236,14 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>The Ultimate<br> Choice of One Spa Retreat at S$58 nett per person (UP $200)</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="/images/Ohana.png">
+    </td>
+    <td>
+      <b>Ohana Beach House<br>30% Off Kayak Expeditions and Introductory Standup Paddle Board courses</b><br>
     </td>
   </tr>
   <tr>
