@@ -11,7 +11,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>Making Innovation a part of the Public Service DNA </b><b><font color="crimson">[NEW]</font></b>
+      <b>In Conversation With: Mr Scott Cass-Dunbar, Chief Strategy Officer, Digital Transformation Agency, Australian Public Service </b><b><font color="crimson">[NEW]</font></b>
       <br>29 October 2020,  10.30am - 11.30am | Platform: Zoom
       <br>       
       <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates.
@@ -125,7 +125,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
-      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from Design Singapore Council's School of X's experience in a health, social and design challenge co-organised with the MOH Office for Healthcare Transformation, National Council of Social Services and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
+      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from DesignSingapore Council's School of X's experience in a health, social and design challenge co-organised with the MOH Office for Healthcare Transformation, National Council of Social Services and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
       <br>
       <br>Learning Outcomes:
       <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
