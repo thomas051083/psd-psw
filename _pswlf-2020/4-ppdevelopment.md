@@ -56,16 +56,16 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-      <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
+      <b>Data Curation: Data Labelling, Exploration and Modelling</b> <font color="crimson"><b> [NEW]</b></font>
       <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the Human Resources, Corporate Administration & Operations job families for this session.</i></font> 
       <br>       
-      <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
+      <br>This will be a sharing on artificial intelligence, machine learning and data curation. It will include a demo on data labelling, data exploration and a simple ML model in python.
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand Singapore's AI Data Appreciation Programme and the pre-requisites
+      <br>• Understand basic artificial intelligence and machine learning
+      <br>• Recognise examples of data labelling, data exploration and python modelling
       <br>
-      <a href="https://sharing-on-ai-data-apprenticeship-programm.eventbrite.sg">Click here to register.</a>   
+      <a href="https://data-curation-pswlf.eventbrite.sg/">Click here to register.</a>   
     </td>
     <td>
      <img src="/images/digital4.jpg">
