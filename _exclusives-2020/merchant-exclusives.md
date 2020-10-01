@@ -203,7 +203,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/Scholastic.png">
     </td>
     <td>
-      <b>Scholastic<br> Up to 50% OFF bundles</b><br>
+      <b>Scholastic<br> Up to 50% OFF book bundles</b><br>
     </td>
   </tr>
   <tr>
