@@ -74,7 +74,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>AI for Everyone</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>20 October 2020, 10.00am – 1.00pm| Platform: Zoom
+      <br>20 October 2020, 10.00am – 11.30pm| Platform: Zoom
       <br>       
        <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
       <br>
