@@ -352,23 +352,6 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>Financial Resilience During COVID-19</b>
-      <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
-      <br>       
-      <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Illustrate how to prepare a Crisis Budget, the implications of deferring mortgage and insurance payments
-      <br>• Explain the basic investing concepts
-	    <br>
-      <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/finance1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
 	    <b>CPF & You </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
@@ -387,7 +370,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Financial Adequacy</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Financial Adequacy </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
@@ -402,6 +385,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Financial Resilience During COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Illustrate how to prepare a Crisis Budget, the implications of deferring mortgage and insurance payments
+      <br>• Explain the basic investing concepts
+	    <br>
+      <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance1.jpg">
     </td>
 </tr>
 <tr> 
@@ -505,24 +505,6 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
-	<tr>
-    <td>
-      <b>Retirement and Re-employment Preparedness Programme</b>
-      <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Describe the concept of re-employment and the re-employment policies in Public Service
-      <br>• Make informed decisions on re-employment and working beyond 62 when needed
-            <br>
-      <a href="https://retirement-and-reemployment.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/retirement1.jpg">
-    </td>
-</tr>
-
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -537,6 +519,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/health1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Retirement and Re-employment Preparedness Programme </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Describe the concept of re-employment and the re-employment policies in Public Service
+      <br>• Make informed decisions on re-employment and working beyond 62 when needed
+            <br>
+      <a href="https://retirement-and-reemployment.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/retirement1.jpg">
     </td>
 </tr>
 <tr>
