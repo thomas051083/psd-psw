@@ -127,24 +127,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
-      <br>• Recognise the need to adopt best practices from the planning to the development, and to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-            <br>
-      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
       <b>How do you identify different stakeholders in your project?</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 October 2020, 11.00am - 12.30pm | Platform: Zoom
       <br>       
@@ -161,7 +143,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/project1.jpg">
     </td>
 </tr>
-
+<tr>	
+    <td>
+      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to adopt best practices from the planning to the development, and to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
+            <br>
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>Participatory Design - From Working For to Working With</b> <b><font color="darkviolet"> [FULL]</font></b>
