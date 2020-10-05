@@ -120,8 +120,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
       <br>
  <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146676945">Click here to register for 21 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146725089">Click here to register for 27 October session</a>
     </td>    
 <td>
      <img src="/images/lead2.jpg">
