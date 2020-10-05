@@ -43,6 +43,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/communityengagement.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Overview of GeoSpace</b>
+      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand what GeoSpace is and its benefits.
+      <br>• Understand how to share or consume geospatial data from GeoSpace.
+      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital7.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>Wellbeing@Work: Supporting our Peers</b> 
@@ -111,24 +129,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/health2.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Overview of GeoSpace</b>
-      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand what GeoSpace is and its benefits.
-      <br>• Understand how to share or consume geospatial data from GeoSpace.
-      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
-      <br>
-      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital7.jpg">
     </td>
 </tr>
 <tr> 
