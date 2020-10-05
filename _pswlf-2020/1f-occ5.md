@@ -8,7 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%">
             <col width="30%">
-
 <tr> 
     <td>
       <b>In Conversation With: Mr Scott Cass-Dunbar, Chief Strategy Officer, Digital Transformation Agency, Australian Public Service </b><b><font color="crimson">[NEW]</font></b>
@@ -548,7 +547,8 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage8.jpg">
     </td>
-</tr> 
+</tr>
+<tr>
  <td>
       <b>MAS - Future Ready Regulations for Innovation in Payment Services</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
