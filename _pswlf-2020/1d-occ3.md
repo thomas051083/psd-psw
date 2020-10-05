@@ -131,24 +131,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital7.jpg">
     </td>
 </tr>
-<tr>		
-    <td>
-      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
-      <br>
-      <br>Learning Outcomes:
-      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
-      <br>• Build Whole-of-Government (WOG) service delivery – beyond the no wrong-door approach.
-      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
-      <br>
-      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>  
 <tr> 
     <td>
       <b>Fighting Corruption as One Public Service </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -166,7 +148,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/lead2.jpg">
     </td>
 </tr>	
-
+<tr>		
+    <td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
+      <br>
+      <br>Learning Outcomes:
+      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
+      <br>• Build Whole-of-Government (WOG) service delivery – beyond the no wrong-door approach.
+      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>  
 
 <tr> 
 <td>	     
