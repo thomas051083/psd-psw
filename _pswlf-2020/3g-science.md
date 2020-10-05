@@ -103,8 +103,8 @@ third_nav_title: Job Specific Skills
 <tr>
     <td>
       <b>Building a Geospatial Ecosystem </b>  <b><font color="darkviolet"> [FULL]</font></b>
-<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
+<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
       <br>Learning outcomes:
@@ -120,6 +120,7 @@ third_nav_title: Job Specific Skills
 <tr>		
     <td>
 	  <b>From Data Literacy to Data Champions </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 10.00am - 11.30am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session will provide an overview of the Data Literacy ePrimer, which is a free eLearning developed by GovTech.
