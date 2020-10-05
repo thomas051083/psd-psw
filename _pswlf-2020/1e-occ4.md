@@ -29,24 +29,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
-      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
-      <br>       
-      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
-      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
-      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
-      <br>
-      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/change2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
       <br>23 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>       
@@ -62,24 +44,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/humanresource.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b><b><font color="crimson">[NEW]</font></b>
-      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
-      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
-      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
-           <br>
-      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/change3.jpg">
     </td>
 </tr>
 <tr> 
@@ -154,24 +118,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage6.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> 
-      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
-      <br>       
-      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand NLB’s strategic framework for service excellence and innovation.
-      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
-      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
-      <br>
-      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/volunteer.jpeg">
     </td>
 </tr>
 <tr>	
@@ -262,7 +208,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
-
 <tr>		
     <td>
       <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
@@ -297,7 +242,79 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage10.jpg">
     </td>
+</tr>
+<tr> 
+    <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
+      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
+      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
+           <br>
+      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
+      <b>MAS - Future Ready Regulations for Innovation in Payment Services</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators. 
+      <br>• Identify ways to ensure regulatory rules are risk calibrated.
+      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mas-future-ready-regulations-for-innovation-in-payment-services-tickets-117622978495">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
+    </td>
 </tr> 
+<tr>
+    <td>
+      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand NLB’s strategic framework for service excellence and innovation.
+      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
+      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
+      <br>
+      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Participatory Design - From Working For to Working With</b> <b><font color="darkviolet"> [FULL]</font></b>
