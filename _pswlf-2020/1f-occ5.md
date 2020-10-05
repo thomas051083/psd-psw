@@ -462,7 +462,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
  <tr> 
     <td>
-      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Future Work for Yishun Health </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
