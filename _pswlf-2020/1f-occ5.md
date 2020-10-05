@@ -157,8 +157,8 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>
     <td>
-      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b><b><font color="crimson">[NEW]</font></b>
-      <br>16 October 2020, 2.00pm - 3.30pm| 23 October 2020, 9.30am - 11.00am| Platform: Zoom
+      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b> <b><font color="crimson">[NEW]</font></b>
+      <br>16 October 2020, 2.00pm - 3.30pm | 23 October 2020, 9.30am - 11.00am| Platform: Zoom
       <br>      
       <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
       <br>
@@ -167,7 +167,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• To share the role of the app in the future Workforce and Workplace
       <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
       <br>
-      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977">Click here to register for 16 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977">Click here to register for 16 October session.</a> <br> <b><font color="darkviolet"> [FULL]</font></b>
       <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
     </td>    
 <td>
@@ -266,24 +266,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers </b>
-      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
-      <br>       
-      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand NLB’s strategic framework for service excellence and innovation.
-      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
-      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
-      <br>
-      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/volunteer.jpeg">
-    </td>
-</tr>
 <tr>
     <td>
       <b>Engaging Community to build a caring and cohesive Singapore through Sport </b>
@@ -371,23 +353,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 	<td>
      <img src="/images/geospatial.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Future-Ready Service Transformation @ MOE</b>
-      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
-      <br>       
-      <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
-      <br>• Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
-      <br>
-      <a href="https://www.eventbrite.sg/e/future-ready-service-transformation-moe-tickets-117611626541">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Serve2.jpg">
     </td>
 </tr>
 <tr> 
@@ -501,23 +466,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 <tr>		
-    <td>
-      <b>MAS - Future Ready Regulations for Innovation in Payment Services</b>
-      <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators. 
-      <br>• Identify ways to ensure regulatory rules are risk calibrated.
-      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry.
-      <br>
-      <a href="https://www.eventbrite.sg/e/mas-future-ready-regulations-for-innovation-in-payment-services-tickets-117622978495">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/pay1.jpg">
-    </td>
-</tr> 
 <tr> 
     <td>
       <b>Designing Spaces with Virtual Reality</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -533,6 +481,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/digital8.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Future-Ready Service Transformation @ MOE</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 9.00am - 10.30am | Platform: Zoom
+      <br>       
+      <br>This session will focus on how MOE adopted a multi-pronged data-driven approach, through service, process and workforce re-design and digitalisation, to reinvent service delivery and build a future-ready Customer Services team.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how technology and service innovations improve customers' and internal stakeholders’ experiences.
+      <br>• Understand the challenges of MOE Customer Services team's  transformation journey and how they overcame these challenges.
+      <br>
+      <a href="https://www.eventbrite.sg/e/future-ready-service-transformation-moe-tickets-117611626541">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Serve2.jpg">
     </td>
 </tr>
 <tr>
@@ -605,7 +570,41 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage8.jpg">
     </td>
 </tr> 
-
+ <td>
+      <b>MAS - Future Ready Regulations for Innovation in Payment Services</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators. 
+      <br>• Identify ways to ensure regulatory rules are risk calibrated.
+      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mas-future-ready-regulations-for-innovation-in-payment-services-tickets-117622978495">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr> 
+<tr> 
+    <td>
+      <b>NLB Service DNA: Co-creating with Our Volunteers </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand NLB’s strategic framework for service excellence and innovation.
+      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
+      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
+      <br>
+      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
