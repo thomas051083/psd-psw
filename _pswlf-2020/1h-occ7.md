@@ -89,24 +89,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage12.jpg">
     </td>
 </tr>
-
-<tr> 
-    <td>
-      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b>
-      <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
-      <br>       
-      <br>You will learn about our leader’s journey in co-creating the IRAS’ Leadership Principles and how it serves as a day-to-day “cultural compass” as we navigate through our transformation journey.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn about the approach taken by IRAS to support leaders in developing a set of Leadership Principles 
-      <br>• Formulate ideas on how to engage the leadership team to strengthen the culture in the organisation. 
-      <br>
-      <a href="https://www.eventbrite.sg/e/strengthening-leadership-culture-leading-iras-tickets-119203012419">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/change3.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>From Paper to Portal with an Agile Approach </b> 
@@ -123,6 +105,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/digital6.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b>
+      <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>You will learn about our leader’s journey in co-creating the IRAS’ Leadership Principles and how it serves as a day-to-day “cultural compass” as we navigate through our transformation journey.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn about the approach taken by IRAS to support leaders in developing a set of Leadership Principles 
+      <br>• Formulate ideas on how to engage the leadership team to strengthen the culture in the organisation. 
+      <br>
+      <a href="https://www.eventbrite.sg/e/strengthening-leadership-culture-leading-iras-tickets-119203012419">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change3.jpg">
     </td>
 </tr>
 <tr> 
