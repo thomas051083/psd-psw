@@ -319,23 +319,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital4.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Building a Geospatial Ecosystem</b>
-      <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
-	       <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
-      <br>Learning outcomes:
-      <br>• Understand what geospatial information is and its uses.
-      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. 
-      <br>
-      <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Overview of GeoSpace</b>
@@ -427,7 +410,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Innovate1.jpg">
     </td>
 </tr>
-<tr>		
+<tr>
+    <td>
+      <b>Building a Geospatial Ecosystem</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
+	       <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
+      <br>Learning outcomes:
+      <br>• Understand what geospatial information is and its uses.
+      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry. 
+      <br>
+      <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/geospatial.jpg">
+    </td>
+</tr>		
 <tr> 
     <td>
       <b>Designing Spaces with Virtual Reality</b> <b><font color="darkviolet"> [FULL]</font></b>
