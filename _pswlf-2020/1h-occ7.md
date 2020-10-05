@@ -51,43 +51,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Innovate2.jpg">
     </td>
 </tr>
-
-<tr> 
-    <td>
-      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
-      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
-      <br>       
-      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
-      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
-      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
-      <br>
-      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/change2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
-      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
-      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
-     <br>
- <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/patient1.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
     <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
@@ -213,6 +176,42 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/digital6.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Future Work for Yishun Health </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
+      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
+      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
+     <br>
+ <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/patient1.jpg">
     </td>
 </tr>
 <tr> 
