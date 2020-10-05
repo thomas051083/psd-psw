@@ -8,25 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
- 
- <tr> 
-    <td>
-      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
-      <br> 
-      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
-      <br>• Simplify messages and information
-      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
-      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
-      <br>
-      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
-    </td>    
-<td>
-     <img src="/images/finance3.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
@@ -48,6 +29,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
+      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
+      <br> 
+      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
+      <br>• Simplify messages and information
+      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
+      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
+      <br>
+      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
+    </td>    
+<td>
+     <img src="/images/finance3.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
       <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b> 
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
@@ -62,24 +61,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage11.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b><b><font color="crimson">[NEW]</font></b>
-      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
-       <br>      
-       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants would better understand how they can work together with multiple stakeholders. 
-      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
-<br>
-</td>    
-<td>
-     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr>
@@ -317,7 +298,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>
     <td>
-      <b>Participatory Design - From Working For to Working With</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
@@ -332,10 +313,28 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage7.jpg">
     </td>
+	<tr> 
+    <td>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
+       <br>      
+       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants would better understand how they can work together with multiple stakeholders. 
+      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
+<br>
+</td>    
+<td>
+     <img src="/images/engage4.jpg">
+    </td>
+</tr>
 </tr>	
 <tr>
     <td>
-      <b>What Is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>What Is the Best Way to Scope a User Centric Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.
