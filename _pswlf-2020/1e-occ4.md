@@ -63,44 +63,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage11.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Delivering Social Services through Video-Conferencing</b>
-      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
-      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the considerations when setting up video-conferencing links.
-      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
-      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
-      <br>
-      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
-
-<tr>	
-    <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand how SportSG created an enabling environment for volunteering
-      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
-      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
-      <br>
-      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage6.jpg">
-    </td>
-</tr>
 <tr>	
  <td>
       <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
@@ -134,6 +96,43 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/drug1.jpg">
+    </td>
+</tr>
+	<tr>
+    <td>
+      <b>Delivering Social Services through Video-Conferencing</b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
+      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the considerations when setting up video-conferencing links.
+      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
+      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how SportSG created an enabling environment for volunteering
+      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
+      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
+      <br>
+      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage6.jpg">
     </td>
 </tr>
 <tr> 
