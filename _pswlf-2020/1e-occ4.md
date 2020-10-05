@@ -137,23 +137,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 <tr> 
-   <td>
-      <b>Designing Spaces with Virtual Reality</b>
-      <br>29 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
-      <br>
-      <br>Learning Outcomes:
-      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
-      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
-      <br>
-      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital8.jpg">
-    </td>
-</tr>
-<tr> 
     <td>
       <b>MOH’s Regulatory Sandbox: Telemedicine</b>
       <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
@@ -222,6 +205,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage10.jpg">
+    </td>
+</tr>
+<tr> 
+   <td>
+      <b>Designing Spaces with Virtual Reality </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
+      <br>
+      <br>Learning Outcomes:
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
+      <br>
+      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital8.jpg">
     </td>
 </tr>
 <tr> 
