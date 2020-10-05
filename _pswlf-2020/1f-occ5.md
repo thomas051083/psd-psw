@@ -8,47 +8,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%">
             <col width="30%">
-<tr> 
-    <td>
-      <b>In Conversation With: Mr Scott Cass-Dunbar, Chief Strategy Officer, Digital Transformation Agency, Australian Public Service </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 October 2020,  10.30am - 11.30am | Platform: Zoom
-      <br>       
-      <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates.
-      <br>  
-<br> Join us for the Innovation Crawl to Australia and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
-  <br>  
-  <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• Find out how the Australian Public Service have harnessed technologies to serve citizens/businesses & the way our workforce operates.
-      <br>• Understand and appreciate the challenges faced by APS and how they have managed to overcome these challenges especially since Covid-19.
-      <br>
-    </td>    
-<td>
-     <img src="/images/InnovateP.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Innovation – Catalyst for Growth & Sustainability </b><b><font color="crimson">[NEW]</font></b>
-      <br>22 October 2020,  11.00am - 12.00pm | Platform: Zoom
-      <br>       
-      <br>Let's go on an Innovation Lab e-Crawl outside the Public Service. In this session, we will hear how DBS & PayPal approach innovation and learn how we can push the boundaries of Innovation to better support transformation in the way we serve citizens/businesses & the way our workforce operates. </b>
-      <br>  
-     <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
-     <br>  
-     <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain insights to how large private organisations approach innovation and harness technologies to challenge how they serve businesses and customers.
-      <br>• Understand how they inculcate innovation to support transformation efforts.
-      <br>• Find out how you can be a catalyst for Innovation.
-      <br>
-    </td>    
-<td>
-     <img src="/images/Innovate2.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
     <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
@@ -120,6 +80,47 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
+      <b>In Conversation With: Mr Scott Cass-Dunbar, Chief Strategy Officer, Digital Transformation Agency, Australian Public Service </b><b><font color="crimson">[NEW]</font></b>
+      <br>29 October 2020,  10.30am - 11.30am | Platform: Zoom
+      <br>       
+      <br> Let's visit the Australian Public Service and find out how the Digital Transformation Agency approaches innovation and learn how the agency has supported Australia's transformation efforts in the way they have served citizens/businesses & the way their workforce operates.
+      <br>  
+<br> Join us for the Innovation Crawl to Australia and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations.
+  <br>  
+  <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Find out how the Australian Public Service have harnessed technologies to serve citizens/businesses & the way our workforce operates.
+      <br>• Understand and appreciate the challenges faced by APS and how they have managed to overcome these challenges especially since Covid-19.
+      <br>
+    </td>    
+<td>
+     <img src="/images/InnovateP.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Innovation – Catalyst for Growth & Sustainability </b><b><font color="crimson">[NEW]</font></b>
+      <br>22 October 2020,  11.00am - 12.00pm | Platform: Zoom
+      <br>       
+      <br>Let's go on an Innovation Lab e-Crawl outside the Public Service. In this session, we will hear how DBS & PayPal approach innovation and learn how we can push the boundaries of Innovation to better support transformation in the way we serve citizens/businesses & the way our workforce operates. </b>
+      <br>  
+     <br>Join us for the Innovation Lab Crawl and register your interest to receive updates on this session and join in the moderated Panel Discussion for Innovation Leads from these organisations. </b>
+     <br>  
+     <br> This session is organised for senior leaders by the PST-People Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights to how large private organisations approach innovation and harness technologies to challenge how they serve businesses and customers.
+      <br>• Understand how they inculcate innovation to support transformation efforts.
+      <br>• Find out how you can be a catalyst for Innovation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/Innovate2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
      <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
       <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
@@ -134,42 +135,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/covid1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b>
-      <br>16 October 2020, 2.00pm - 3.30pm <b><font color="darkviolet"> [FULL]</font></b> | 23 October 2020, 9.30am - 11.00am| Platform: Zoom
-      <br>      
-      <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
-      <br>
-      <br>Learning Outcomes:
-      <br>• To show how the app gives more control to the officer to shape his/her career path.
-      <br>• To share the role of the app in the future Workforce and Workplace
-      <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
-      <br>
-      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
-    </td>    
-<td>
-     <img src="/images/Digital2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
-      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
-      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
-      <br>
-  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr> 
@@ -190,6 +155,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage12.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
+      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
+      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
+      <br>
+  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr> 
@@ -225,6 +208,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>     
 <td>
      <img src="/images/changeagility.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>A Product Management approach to building Singapore’s National Digital Identity</b>
+      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
+      <br>       
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
 <tr> 
@@ -264,25 +264,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage6.jpg">
     </td>
 </tr>
-<tr>	
-    <td>
-      <b>Joyful Efficient Meetings Workshop </b>
-      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
-      <br>       
-      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
-      <br>
-      <br>Learning Outcomes:   
-      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
-      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
-      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
-      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
-      <br>
-      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/communityengagement.jpg">
-    </td>
-</tr>
 <tr>		
     <td>
       <b>From Paper to Portal with an Agile Approach </b> 
@@ -303,19 +284,93 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>
     <td>
-      <b>A Product Management approach to building Singapore’s National Digital Identity</b>
-      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
+      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity.
-      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>• Understand what OneMap is.
+      <br>• Recognise the various functionalities within OneMap.
+      <br>• Identify features and application for users.
       <br>
-      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/digital4.jpg">
+     <img src="/images/Engage2.jpeg">
+    </td>
+	</tr>
+<tr>   
+<td>
+<b>IRAS’ Workforce Transformation Journey</b>
+      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
+      <br>• Learn about how IRAS carried out its Workforce Transformation.
+      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/SkillUp1.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Joyful Efficient Meetings Workshop </b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:   
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/communityengagement.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b>
+      <br>16 October 2020, 2.00pm - 3.30pm <b><font color="darkviolet"> [FULL]</font></b> | 23 October 2020, 9.30am - 11.00am| Platform: Zoom
+      <br>      
+      <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
+      <br>
+      <br>Learning Outcomes:
+      <br>• To show how the app gives more control to the officer to shape his/her career path.
+      <br>• To share the role of the app in the future Workforce and Workplace
+      <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
+      <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
+    </td>    
+<td>
+     <img src="/images/Digital2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand how and why Smart Regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Innovate1.jpg">
     </td>
 </tr>
 <tr> 
@@ -355,60 +410,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr> 
 
-<tr>
-    <td>
-      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
-      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand what OneMap is.
-      <br>• Recognise the various functionalities within OneMap.
-      <br>• Identify features and application for users.
-      <br>
-      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-	</tr>
-<tr>   
-<td>
-<b>IRAS’ Workforce Transformation Journey</b>
-      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
-      <br>• Learn about how IRAS carried out its Workforce Transformation.
-      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
-    </td>
-<td>
-     <img src="/images/SkillUp1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
-      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
-      <br>       
-      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
-      <br>
-      <br>Learning Outcomes:
-      <br>•  Understand how and why Smart Regulation is part of MOH's regulatory regime.
-      <br>•  Recognise the mindsets that smart regulators need.
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
-      <br>
-      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Innovate1.jpg">
-    </td>
-</tr>
 <tr>
     <td>
       <b>Building a Geospatial Ecosystem</b> <b><font color="darkviolet"> [FULL]</font></b>
