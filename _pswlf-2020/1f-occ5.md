@@ -167,7 +167,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• To share the role of the app in the future Workforce and Workplace
       <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
       <br>
-      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977">Click here to register for 16 October session.</a> <br> <b><font color="darkviolet"> [FULL]</font></b>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977">Click here to register for 16 October session.</a> <br> <b><font color="darkviolet"> [FULL]</font></b> <br>
       <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
     </td>    
 <td>
