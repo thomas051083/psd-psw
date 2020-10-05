@@ -24,25 +24,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>Fighting Corruption as One Public Service </b><b><font color="crimson">[NEW]</font></b>
-      <br>15, 21 or 27 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
-      <br>
-      <br>Learning Outcomes:
-      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
-      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
-      <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146676945">Click here to register for 21 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146725089">Click here to register for 27 October session</a> <br>
-    </td>    
-<td>
-     <img src="/images/lead2.jpg">
-    </td>
-</tr>	
 <tr>
     <td>
       <b>Joyful Efficient Meetings Workshop </b> 
@@ -168,6 +149,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
+<tr> 
+    <td>
+      <b>Fighting Corruption as One Public Service </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
+      <br>
+      <br>Learning Outcomes:
+      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
+      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
+      <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
+    </td>
+</tr>	
 
 
 <tr> 
