@@ -85,24 +85,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/innovate1.jpg">
     </td>
 </tr>
-    <tr> 
-    <td>
-      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
-      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
-      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
-     <br>
- <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/patient1.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
@@ -157,7 +139,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>
     <td>
-      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b> <b><font color="crimson">[NEW]</font></b>
+      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b>
       <br>16 October 2020, 2.00pm - 3.30pm <b><font color="darkviolet"> [FULL]</font></b> | 23 October 2020, 9.30am - 11.00am| Platform: Zoom
       <br>      
       <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
@@ -167,7 +149,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• To share the role of the app in the future Workforce and Workplace
       <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
       <br>
-      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933373977"> 16 October session.</a> <br> <b><font color="darkviolet"> [FULL]</font></b> <br>
       <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
     </td>    
 <td>
@@ -428,25 +409,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
-
-<tr>		
-    <td>
-      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
-      <br>
-      <br>Learning Outcomes:
-      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
-      <br>• Build WOG service delivery – beyond the no wrong-door approach.
-      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
-      <br>
-      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>  
 <tr>
     <td>
       <b>MOH’s Regulatory Sandbox: Telemedicine</b>
@@ -498,6 +460,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/Serve2.jpg">
+    </td>
+</tr>
+ <tr> 
+    <td>
+      <b>Future Work for Yishun Health </b><b><font color="crimson">[NEW]</font></b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session looks at  Yishun Health’s journey in transforming healthcare via digitisation and creating a supportive environment that is conducive to innovation efforts. It will also examine how more cost-effective workflows were developed for patient care.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discover how digitization and innovations provide our workforce with safer, faster and automated systems, and keep pace with the global shift into a digitized workplace.
+      <br>• Learn how to enhance team work to develop innovations for more cost-effective workflows and an improveed customer service experience 
+      <br>• Recognize how to create a supportive environment that is conducive to the innovation efforts, through Yishun Health’s funding grants initiatives.
+     <br>
+ <a href="https://www.eventbrite.sg/e/future-work-for-yishun-health-tickets-120146829401">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/patient1.jpg">
     </td>
 </tr>
 <tr>
@@ -605,6 +585,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
+<tr>		
+    <td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
+      <br>
+      <br>Learning Outcomes:
+      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
+      <br>• Build WOG service delivery – beyond the no wrong-door approach.
+      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>  
 <tr>	
     <td>
       <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
