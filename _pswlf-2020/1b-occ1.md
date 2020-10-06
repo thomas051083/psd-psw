@@ -12,25 +12,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>Fighting Corruption as One Public Service </b><b><font color="crimson">[NEW]</font></b>
-      <br>15, 21 or 27 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
-      <br>
-      <br>Learning Outcomes:
-      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
-      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
-      <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146676945">Click here to register for 21 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146725089">Click here to register for 27 October session</a>
-    </td>    
-<td>
-     <img src="/images/lead2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
      <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
       <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
@@ -45,23 +26,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/covid1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b><b><font color="crimson">[NEW]</font></b>
-      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
-      <br>
-      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
     </td>
 </tr>
 <tr>
@@ -127,23 +91,21 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
-
-<tr>	
+<tr> 
     <td>
-      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <b>Fighting Corruption as One Public Service </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
       <br>
       <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
-      <br>• Recognise the need to adopt best practices from the planning to the development, and to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-            <br>
-      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
+      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
+      <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
     </td>    
 <td>
-     <img src="/images/digital5.jpg">
+     <img src="/images/lead2.jpg">
     </td>
 </tr>
 <tr>	
@@ -164,10 +126,27 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/project1.jpg">
     </td>
 </tr>
-
 <tr>	
     <td>
-      <b>Participatory Design - From Working For to Working With</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to adopt best practices from the planning to the development, and to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
+            <br>
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
@@ -183,7 +162,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage7.jpg">
     </td>
 </tr>
-
+<tr> 
+    <td>
+      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
 <tr> 
     <td>	     
       <b>LEARN modules</b>

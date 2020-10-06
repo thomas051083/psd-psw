@@ -12,24 +12,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
-      <br> 
-      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
-      <br>• Simplify messages and information
-      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
-      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
-      <br>
-      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
-    </td>    
-<td>
-     <img src="/images/finance3.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
       <br>23 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>       
@@ -49,20 +31,20 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b><b><font color="crimson">[NEW]</font></b>
-      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
+      <br> 
+      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
+      <br>• Simplify messages and information
+      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
+      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
       <br>
-      <br>Learning Outcomes:
-      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
-      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
-      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
-           <br>
-      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
     </td>    
 <td>
-     <img src="/images/change3.jpg">
+     <img src="/images/finance3.jpg">
     </td>
 </tr>
 <tr> 
@@ -119,6 +101,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage7.jpg">
     </td>
 </tr> 
+<tr> 
+    <td>
+      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
+      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
+      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
+           <br>
+      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Is There Room for Emotional Design in Public Service?</b> <b><font color="darkviolet"> [FULL]</font></b>

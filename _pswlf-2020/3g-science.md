@@ -29,23 +29,6 @@ third_nav_title: Job Specific Skills
 </tr>	
 	<tr>		
     <td>
-      <b>From Data Literacy to Data Champions</b> <b><font color="crimson">[NEW]</font></b>
-      <br>13 October 2020, 10.00am - 11.30am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>This session will provide an overview of the Data Literacy ePrimer, which is a free eLearning developed by GovTech.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand data literacy and the various Data Science & AI programmes & initiatives that GovTech is running for the Whole-Of-Government
-      <br>
-      <a href="https://from-data-literacy-to-data-champions.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/data1.jpg">
-    </td>
-</tr>	
-	<tr>		
-    <td>
       <b>From Policy Analyst to Quant Analyst</b> <b><font color="crimson">[NEW]</font></b>
       <br>30 October 2020, 10.00am - 11.00am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
@@ -79,24 +62,8 @@ third_nav_title: Job Specific Skills
 	<td>
      <img src="/images/facility1.jpg">
     </td>
-</tr>	
-<tr>		
-    <td>
-      <b>Open Attestation – Document Creation & Verification</b> <b><font color="crimson">[NEW]</font></b>
-      <br>13 October 2020, 11.00am - 12.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>This session will provide a blockchain primer, followed by short demonstration on the ease of creating and publishing a verifiable document on blockchain. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand the basics of Blockchain and how to create an open attestation document
-      <br>
-      <a href="https://open-attestation-document-creation-verification.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/data3.jpg">
-    </td>
-</tr>	
+</tr>
+
 <tr>		
     <td>
       <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
@@ -119,7 +86,7 @@ third_nav_title: Job Specific Skills
 <tr>		
     <td>
       <b>Purple Hats – Improving Web Accessibility for Singapore</b>
-      <br>20 or 27 October 2020, 10.30am - 12.00pm | Platform: Zoom
+      <br>27 October 2020, 10.30am - 12.00pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session will provide an overview on web accessibility, HATS’ automated accessibility tool, and how people with disabilities deal with technology.
@@ -127,19 +94,17 @@ third_nav_title: Job Specific Skills
       <br>Learning Outcomes:
       <br>• Understand web accessibility and HATS’ automated accessibility tool        
       <br>• Understand PWDs and their everyday struggles with technology
-      <br>
-      <a href="https://purple-hats-1.eventbrite.sg">Click here to register for 20 October session.</a> 
 	<br><a href="https://purple-hats-2.eventbrite.sg">Click here to register for 27 October session.</a> 
     </td>    
 	<td>
      <img src="/images/Digital1.jpeg">
     </td>
-</tr>	
+</tr>
 <tr>
     <td>
-      <b>Building a Geospatial Ecosystem</b>  <b><font color="darkviolet"> [FULL]</font></b>
-<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <b>Building a Geospatial Ecosystem </b>  <b><font color="darkviolet"> [FULL]</font></b>
       <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
+<br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
       <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
       <br>Learning outcomes:
@@ -152,6 +117,23 @@ third_nav_title: Job Specific Skills
      <img src="/images/geospatial.jpg">
     </td>
 </tr>
+<tr>		
+    <td>
+	  <b>From Data Literacy to Data Champions </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 10.00am - 11.30am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide an overview of the Data Literacy ePrimer, which is a free eLearning developed by GovTech.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand data literacy and the various Data Science & AI programmes & initiatives that GovTech is running for the Whole-Of-Government
+      <br>
+      <a href="https://from-data-literacy-to-data-champions.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/data1.jpg">
+    </td>
+</tr>	
 <tr>		
     <td>
       <b>Improving Government Services with Data</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -189,7 +171,24 @@ third_nav_title: Job Specific Skills
 </tr>
 <tr>		
     <td>
-      <b>Together, We Build a Greener Tomorrow</b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Open Attestation – Document Creation & Verification </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 11.00am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>This session will provide a blockchain primer, followed by short demonstration on the ease of creating and publishing a verifiable document on blockchain. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the basics of Blockchain and how to create an open attestation document
+      <br>
+      <a href="https://open-attestation-document-creation-verification.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/data3.jpg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>Together, We Build a Greener Tomorrow </b>  <b><font color="darkviolet"> [FULL]</font></b>
       <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       

@@ -24,25 +24,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>Fighting Corruption as One Public Service </b><b><font color="crimson">[NEW]</font></b>
-      <br>15, 21 or 27 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
-      <br>
-      <br>Learning Outcomes:
-      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
-      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
-      <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146676945">Click here to register for 21 October session</a> <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146725089">Click here to register for 27 October session</a> <br>
-    </td>    
-<td>
-     <img src="/images/lead2.jpg">
-    </td>
-</tr>	
 <tr>
     <td>
       <b>Joyful Efficient Meetings Workshop </b> 
@@ -60,6 +41,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/communityengagement.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Overview of GeoSpace</b>
+      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand what GeoSpace is and its benefits.
+      <br>• Understand how to share or consume geospatial data from GeoSpace.
+      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital7.jpg">
     </td>
 </tr>
 <tr> 
@@ -132,27 +131,26 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/health2.jpg">
     </td>
 </tr>
-<tr>	
+<tr> 
     <td>
-      <b>Overview of GeoSpace</b>
-      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <b>Fighting Corruption as One Public Service </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
       <br>
       <br>Learning Outcomes:
-      <br>• Understand what GeoSpace is and its benefits.
-      <br>• Understand how to share or consume geospatial data from GeoSpace.
-      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
+      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
+      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
       <br>
-      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
     </td>    
 <td>
-     <img src="/images/digital7.jpg">
+     <img src="/images/lead2.jpg">
     </td>
-</tr>
+</tr>	
 <tr>		
     <td>
-      <b>The Public Service Centre - Public Service Transformation in Real Time</b>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
@@ -168,7 +166,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
-
 
 <tr> 
 <td>	     

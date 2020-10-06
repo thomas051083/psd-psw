@@ -8,43 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
- 
- <tr> 
-    <td>
-      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
-      <br> 
-      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
-      <br>• Simplify messages and information
-      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
-      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
-      <br>
-      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
-    </td>    
-<td>
-     <img src="/images/finance3.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b><b><font color="crimson">[NEW]</font></b>
-      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
-      <br>       
-      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
-      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
-      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
-      <br>
-      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/change2.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
@@ -66,20 +29,20 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b><b><font color="crimson">[NEW]</font></b>
-      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
+      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
+      <br> 
+      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
+      <br>• Simplify messages and information
+      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
+      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
       <br>
-      <br>Learning Outcomes:
-      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
-      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
-      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
-           <br>
-      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
     </td>    
 <td>
-     <img src="/images/change3.jpg">
+     <img src="/images/finance3.jpg">
     </td>
 </tr>
 <tr> 
@@ -98,80 +61,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage11.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b><b><font color="crimson">[NEW]</font></b>
-      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
-       <br>      
-       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants would better understand how they can work together with multiple stakeholders. 
-      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
-<br>
-</td>    
-<td>
-     <img src="/images/engage4.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Delivering Social Services through Video-Conferencing</b>
-      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
-      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the considerations when setting up video-conferencing links.
-      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
-      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
-      <br>
-      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
-
-<tr>	
-    <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand how SportSG created an enabling environment for volunteering
-      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
-      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
-      <br>
-      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage6.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> 
-      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
-      <br>       
-      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand NLB’s strategic framework for service excellence and innovation.
-      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
-      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
-      <br>
-      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/volunteer.jpeg">
     </td>
 </tr>
 <tr>	
@@ -209,39 +98,41 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/drug1.jpg">
     </td>
 </tr>
-<tr> 
-   <td>
-      <b>Designing Spaces with Virtual Reality</b>
-      <br>29 October 2020, 10.00am - 11.30am | Platform: Zoom
+	<tr>
+    <td>
+      <b>Delivering Social Services through Video-Conferencing</b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
       <br>       
-      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
+      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
+      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
       <br>
       <br>Learning Outcomes:
-      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
-      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
+      <br>• Understand the considerations when setting up video-conferencing links.
+      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
+      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
       <br>
-      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/digital8.jpg">
+     <img src="/images/digitalliteracy.jpg">
     </td>
 </tr>
-<tr> 
+<tr>	
     <td>
-      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
-      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport</b> 
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
       <br>
       <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
-      <br>•  Recognise the mindsets that smart regulators need.
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
+      <br>• Understand how SportSG created an enabling environment for volunteering
+      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
+      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
       <br>
-      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Innovate1.jpg">
+     <img src="/images/engage6.jpg">
     </td>
 </tr>
 <tr> 
@@ -262,7 +153,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Engage2.jpeg">
     </td>
 </tr>
-
+<tr> 
+    <td>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Innovate1.jpg">
+    </td>
+</tr>
 <tr>		
     <td>
       <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
@@ -297,10 +205,99 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage10.jpg">
     </td>
+</tr>
+<tr> 
+   <td>
+      <b>Designing Spaces with Virtual Reality </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>Learn how you can leverage the Virtual Reality (VR) tool to hold a more effective design workshop, onsite and online. How could the VR technology be used to improve your productivity and yet enhance the community’s experience in design workshops? Learn the considerations and behind-the-scene preparation work to set up the VR canvas for co-designing. 
+      <br>
+      <br>Learning Outcomes:
+      <br>• Determine areas in which VR technology can be helpful to plan for effective citizen and stakeholder engagements.
+      <br>• Plan and prepare for a VR engagement to co-design spaces with stakeholders.
+      <br>
+      <a href="https://www.eventbrite.sg/e/designing-spaces-with-virtual-reality-tickets-117608629577">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital8.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Emerging Stronger: Strategic Workforce Planning and Job Redesign </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>12 October 2020, 2.00pm – 3:30pm | Platform: Zoom
+      <br>       
+      <br>Learn how public service agencies can evolve to meet the public’s changing needs through Strategic Workforce Planning and Job Redesign
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain insights on how agencies can conduct a Strategic Workforce Planning exercise, and how Workforce demand and supply interventions can be enacted to implement Strategic Workforce Plans.
+      <br>• Understand how agencies can leverage Job Redesign to sustain their business and digital transformation efforts, and drive higher levels of employee productivity and engagement.
+      <br>• Explore how Strategic Workforce Planning and Job Redesign has been implemented within the Public Service
+      <br>
+      <a href="https://go.gov.sg/emerging-stronger-from-covid19-through-swp-and-jr">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br> Is your agency considering taking citizen engagement beyond conversations, to co-creating and co-delivering solutions? What might be useful topics and approaches? How do you go about doing so? Join NPTD and MOM as they share their experience in organising the Citizens’ Panel on Work-Life Harmony in 2019. This session will help provide you with insights to organising and running a Citizens’ Panel (also known as Citizens’ Jury) to work with citizens to co-create solutions for policy issues your agency may be grappling with.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify the pros and cons of the Citizens’ Panel approach, including how a deliberative engagement process can help us better work together with citizens to tackle certain issues 
+      <br>• Find out how to strike a balance between giving room for citizens to engage with policy issues and explore possible solutions, while ensuring that they consider possible trade-offs and exercise rigour in their deliberations
+      <br>• Recognise the potential challenges that you might face in engaging citizens through a deliberative process, and ways to overcome them
+           <br>
+      <a href="https://www.eventbrite.sg/e/involving-citizens-in-policy-making-citizens-panel-on-work-life-harmony-tickets-120136893683">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/change3.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
+      <b>MAS - Future Ready Regulations for Innovation in Payment Services</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Learn how the Payment Services Act paves the way for contemporary regulation of new financial services while facilitating innovation, growth and competition in the payments industry.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise the benefits of innovative regulatory frameworks for stakeholders and regulators. 
+      <br>• Identify ways to ensure regulatory rules are risk calibrated.
+      <br>• Examine how you might build regulations that are fit-for-purpose and encourage innovation in your industry.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mas-future-ready-regulations-for-innovation-in-payment-services-tickets-117622978495">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
+    </td>
 </tr> 
 <tr>
     <td>
-      <b>Participatory Design - From Working For to Working With</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>NLB Service DNA: Co-creating with Our Volunteers.</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>In this session, NLB will be sharing how we proactively engage and work alongside our volunteers so that we thrive together with our community of volunteers to do more than we can alone.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand NLB’s strategic framework for service excellence and innovation.
+      <br>• Discuss how  NLB engaged and built enduring relationships with its volunteers in the past two decades.
+      <br>• Share the ongoing transformation process of volunteer engagement amidst COVID-19.
+      <br>
+      <a href="https://www.eventbrite.sg/e/nlb-service-dna-co-creating-with-our-volunteers-tickets-119070923337">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/volunteer.jpeg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
@@ -315,10 +312,28 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage7.jpg">
     </td>
+	<tr> 
+    <td>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
+       <br>      
+       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants would better understand how they can work together with multiple stakeholders. 
+      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
+<br>
+</td>    
+<td>
+     <img src="/images/engage4.jpg">
+    </td>
+</tr>
 </tr>	
 <tr>
     <td>
-      <b>What Is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>What Is the Best Way to Scope a User Centric Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>13 October 2020, 12.00pm - 1.30pm | Platform: Zoom
       <br>       
       <br>This session introduces UXC projects, HCI and case studies. It also introduces the following tools: Jobs To Be Done tools, Philosophy Statement and How Might We Question.

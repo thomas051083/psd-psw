@@ -25,27 +25,6 @@ Check out the programmes below, some of which are curated and offered only for t
 <table>
        <col width="70%"> 
             <col width="30%">
-	
-<tr>		
-    <td>
-	    <b>Mediation Skills for Public Officers</b> <b><font color="crimson">[NEW]</font></b>
-      <br>13 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
-      <br>       
-      <br>As an officer on-the-ground, you will need to be equipped with mediation skills to resolve common conflicts. In this workshop, you will be introduced to the art of mediation and learn some basic techniques and skills that you can apply to resolve conflicts between disputing parties. You will have the opportunity to experience a virtual role-play of how a mediator mediate or resolve conflicts.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Discover basic techniques and skills to handle conflicts and difficult parties
-      <br>
-      <a href="https://mediation-skills.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/mediation1.jpg">
-    </td>
-</tr>		
-	
-
-
 <tr>		
     <td>
       <b>SSG's Multi Stakeholder Groups for EduTrust Certification Scheme</b>
@@ -99,6 +78,23 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/engage6.jpg">
     </td>
 </tr>
+<tr>		
+    <td>
+	    <b>Mediation Skills for Public Officers </b> <b><font color="darkviolet">[FULL]</font></b>
+      <br>13 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+      <br>       
+      <br>As an officer on-the-ground, you will need to be equipped with mediation skills to resolve common conflicts. In this workshop, you will be introduced to the art of mediation and learn some basic techniques and skills that you can apply to resolve conflicts between disputing parties. You will have the opportunity to experience a virtual role-play of how a mediator mediate or resolve conflicts.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Discover basic techniques and skills to handle conflicts and difficult parties
+      <br>
+      <a href="https://mediation-skills.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/mediation1.jpg">
+    </td>
+</tr>		
 <tr> 
     <td>	     
       <b>LEARN modules</b>

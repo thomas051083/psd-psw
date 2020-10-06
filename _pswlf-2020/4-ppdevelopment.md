@@ -56,16 +56,16 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-      <b>Sharing on AI Data Apprenticeship Programme (AIDP)</b>
+      <b>Data Curation: Data Labelling, Exploration and Modelling</b> <font color="crimson"><b> [NEW]</b></font>
       <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising access to officers who have attended AI for Everyone on 20 oct and officers in the Human Resources, Corporate Administration & Operations job families for this session.</i></font> 
       <br>       
-      <br>This will be a presentation about the AI Data Apprenticeship Programme (AIDP): its objectives, contents and expected outcomes.
+      <br>This will be a sharing on artificial intelligence, machine learning and data curation. It will include a demo on data labelling, data exploration and a simple ML model in python.
       <br>      
       <br>Learning Outcomes:
-      <br>• Understand Singapore's AI Data Appreciation Programme and the pre-requisites
+      <br>• Understand basic artificial intelligence and machine learning
+      <br>• Recognise examples of data labelling, data exploration and python modelling
       <br>
-      <a href="https://sharing-on-ai-data-apprenticeship-programm.eventbrite.sg">Click here to register.</a>   
+      <a href="https://data-curation-pswlf.eventbrite.sg/">Click here to register.</a>   
     </td>
     <td>
      <img src="/images/digital4.jpg">
@@ -74,7 +74,7 @@ breadcrumb: 'Professional & Personal Development'
 <tr>
     <td>
       <b>AI for Everyone</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>20 October 2020, 10.00am – 1.00pm| Platform: Zoom
+      <br>20 October 2020, 10.00am – 11.30pm| Platform: Zoom
       <br>       
        <br>The first part of the session will be a presentation giving an overview of Artificial Intelligence (AI) while the second part will be a demonstration of how you can build a simple AI model without any programming knowledge. The last part will give participants opportunities to ask questions about AI.
       <br>
@@ -352,23 +352,6 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>Financial Resilience During COVID-19</b>
-      <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
-      <br>       
-      <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Illustrate how to prepare a Crisis Budget, the implications of deferring mortgage and insurance payments
-      <br>• Explain the basic investing concepts
-	    <br>
-      <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/finance1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
 	    <b>CPF & You </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>14 October 2020, 3.00pm – 4.30pm | Platform: Zoom
       <br>       
@@ -387,7 +370,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Financial Adequacy</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Financial Adequacy </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
       <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
@@ -402,6 +385,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Financial Resilience During COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>12 October 2020, 3.00pm – 4.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants deal with the financial challenges presented by the COVID-19 pandemic. It will focus on money management, insurance, basic investment concepts and will touch on relief provided by the Government, official agencies and financial institutions.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Illustrate how to prepare a Crisis Budget, the implications of deferring mortgage and insurance payments
+      <br>• Explain the basic investing concepts
+	    <br>
+      <a href="https://financial-resilience-covid19.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/finance1.jpg">
     </td>
 </tr>
 <tr> 
@@ -505,24 +505,6 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
-	<tr>
-    <td>
-      <b>Retirement and Re-employment Preparedness Programme</b>
-      <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Describe the concept of re-employment and the re-employment policies in Public Service
-      <br>• Make informed decisions on re-employment and working beyond 62 when needed
-            <br>
-      <a href="https://retirement-and-reemployment.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/retirement1.jpg">
-    </td>
-</tr>
-
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -537,6 +519,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/health1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Retirement and Re-employment Preparedness Programme </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>13 October 2020, 3.30pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>This session will helps you to understand the concept of re-employment, the re-employment policy in public service and staying relevant.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Describe the concept of re-employment and the re-employment policies in Public Service
+      <br>• Make informed decisions on re-employment and working beyond 62 when needed
+            <br>
+      <a href="https://retirement-and-reemployment.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/retirement1.jpg">
     </td>
 </tr>
 <tr>
