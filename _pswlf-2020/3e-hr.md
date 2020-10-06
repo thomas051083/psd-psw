@@ -26,6 +26,18 @@ Check out the programmes below, some of which are curated and offered only for t
       <br>       
       <br>In two interactive panel discussions, participants will hear best practices from leading private sector companies like SingTel, Prudential and more on how the Public Service can better manage a diverse multi-generational workforce and leverage technology to drive strategic HR.
       <br>
+	    <u> ‘Managing A Diverse Multi-Generational Workforce’ Panel </u>
+      <br>Moderated by: <a href="https://www.linkedin.com/in/dawn-yip-3581776/">Ms Dawn Yip</a>, <i>Coordinating Director (Partnerships Project Office), MCCY</i>
+      <br>Panellists:
+	    <br>• <a href="https://www.linkedin.com/in/aileen-tan-58585a4/">Ms Aileen Tan</a>, <i>Group Chief Human Resources Officer, Singtel</i>
+	    <br>• <a href="https://www.linkedin.com/in/sheela-parakkal-41365552/">Ms Sheela Parakkal</a>, <i>Chief Human Resources Officer, Prudential Singapore</i>
+	    <br>• <a href="https://www.linkedin.com/in/nutan-singapuri-109a711b/">Ms Nutan Singapuri</a>, <i>Senior Director, HR APAC, LinkedIn</i>   
+      <br><u>‘Leveraging Technology to Drive HR Processes’ Panel</u>
+      <br>Moderated by: Mr Patrick Yee, <i>Director, SNDGO-Human Capital and Development Directorate, SNDGO</i>
+      <br>Panellists:
+	    <br>• <a href="https://www.linkedin.com/in/yan-hong-lee-754a0266/">Ms Lee Yan Hong</a>, <i>Managing Director & Head of Group Human Resources, DBS Bank</i>
+	    <br>• <a href="https://www.linkedin.com/in/soykang/">Ms So-Young Kang</a>, <i>Founder & CEO, Gnowbe</i>
+	    <br>
       <br>Learning Outcomes:
       <br>• Develop a deeper understanding of leadership, change management, HR technology and workforce management strategies
       <br>• Articulate how HR can value-add to employees and the business with industry disruption and transformation by adopting forward-thinking workforce management strategies so as to provide holistic development opportunities for the entire workforce.
