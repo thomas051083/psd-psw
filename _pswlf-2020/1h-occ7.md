@@ -107,6 +107,27 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital6.jpg">
     </td>
 </tr>
+
+<tr> 
+    <td>
+	    <b>Shaping the Future Workplace </b> 
+      <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
+      <br>       
+      <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.   
+      <br>   
+      <br>This session is organised for senior leaders by the PST-Digital Committee. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br> a. Understand the challenges and opportunities created by COVID-19 and the longer-term drivers shaping the Future Workplace;
+      <br> b. Learn about key technology, people and physical space initiatives in the pipeline to improve our officers’ workplace experience;
+      <br> c. Discuss, share experiences and build consensus on the Public Service’s Future Workplace vision and how to realise it; and
+      <br> d. Appreciate the importance of complementing COG-led initiatives with agency-led transformation of policies, processes and organisational culture.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage13.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>Strengthening Leadership Culture : LEA:Ding IRAS </b>
@@ -122,6 +143,41 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/change3.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b> 
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b>
+      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
+       <br>      
+       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants would better understand how they can work together with multiple stakeholders. 
+      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
+<br>
+</td>    
+<td>
+     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr> 
@@ -158,61 +214,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/patient1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-	    <b>Shaping the Future Workplace </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
-      <br>       
-      <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.   
-      <br>   
-      <br>This session is organised for senior leaders by the PST-Digital Committee. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br> a. Understand the challenges and opportunities created by COVID-19 and the longer-term drivers shaping the Future Workplace;
-      <br> b. Learn about key technology, people and physical space initiatives in the pipeline to improve our officers’ workplace experience;
-      <br> c. Discuss, share experiences and build consensus on the Public Service’s Future Workplace vision and how to realise it; and
-      <br> d. Appreciate the importance of complementing COG-led initiatives with agency-led transformation of policies, processes and organisational culture.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage13.jpg">
-    </td>
-</tr>	
-<tr> 
-    <td>
-      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
-      <br>
-      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
-       <br>      
-       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants would better understand how they can work together with multiple stakeholders. 
-      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
-<br>
-</td>    
-<td>
-     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr> 
