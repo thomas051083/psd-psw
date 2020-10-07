@@ -48,7 +48,7 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
   </tr>
   <tr>
     <td>
-      10.15am
+      10.10am
     </td>
     <td>
       Address by Minister-in-charge of the Public Service, Mr. Chan Chun Sing
@@ -56,7 +56,7 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
   </tr>
   <tr>
     <td>
-      10.30am
+      10.25am
     </td>
     <td>
       Screening of Public Service Week Video
@@ -64,7 +64,7 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
   </tr>
   <tr>
     <td>
-      10.35am
+      10.30am
     </td>
     <td>
       Pledge-taking and Singing of the National Anthem
@@ -73,6 +73,22 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
   <tr>
     <td>
       10.40am
+    </td>
+    <td>
+      Appreciation Segment for Officers
+    </td>
+  </tr>
+  <tr>
+    <td>
+      10.50sm
+    </td>
+    <td>
+      Screening of Thank You Message from Members of Public
+    </td>
+  </tr>
+  <tr>
+    <td>
+      10.55am
     </td>
     <td>
       Closing by Emcee
