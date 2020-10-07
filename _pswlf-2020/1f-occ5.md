@@ -355,24 +355,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Digital2.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
-      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
-      <br>       
-      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
-      <br>
-      <br>Learning Outcomes:
-      <br>•  Understand how and why Smart Regulation is part of MOH's regulatory regime.
-      <br>•  Recognise the mindsets that smart regulators need.
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
-      <br>
-      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Innovate1.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>Overview of GeoSpace</b>
@@ -567,6 +550,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/pay1.jpg">
     </td>
 </tr> 
+<tr>
+    <td>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand how and why Smart Regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Innovate1.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>NLB Service DNA: Co-creating with Our Volunteers </b> <b><font color="darkviolet"> [FULL]</font></b>
