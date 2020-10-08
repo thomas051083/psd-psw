@@ -147,6 +147,14 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <table>
   <tr>
     <td>
+<img src="/images/Sentosa Fun Pass 02.jpg">
+    </td>
+    <td>
+      <b>Sentosa<br> Free Token Fun Pass (20 Tokens)</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
 <img src="/images/iFly.png">
     </td>
     <td>
