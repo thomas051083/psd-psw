@@ -236,7 +236,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>PacificLight<br> $78 rebate off electricity bill</b><br>
-      View the details <a href="images/PLExCSC-eDM-Oct2020.jpg">here</a>.<br> 
+      View the details <a href="/images/PLExCSC-eDM-Oct2020.jpg">here</a>.<br> 
 <br>
     </td>
   </tr>
