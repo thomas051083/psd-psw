@@ -228,6 +228,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>StarHub<br> 4G SIM Only 1-year plan, 35GB for $25 with FREE Unlimited Talktime</b><br>
+      View the details <a href="/documents/StarHub CIS for PS Week.pdf">here</a>.<br> 
     </td>
   </tr>
   <tr>
@@ -236,6 +237,8 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
     </td>
     <td>
       <b>PacificLight<br> $78 rebate off electricity bill</b><br>
+      View the details <a href="/images/PLExCSC-eDM-Oct2020.jpg">here</a>.<br> 
+<br>
     </td>
   </tr>
   <tr>
