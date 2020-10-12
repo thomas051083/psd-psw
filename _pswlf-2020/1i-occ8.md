@@ -49,8 +49,8 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>Wellbeing@Work: Being A Supportive Leader </b> 
-      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom
-      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>       
@@ -61,8 +61,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• Start a conversation with staff and show appropriate supportive leadership (e.g. empathetic listening and responding)
       <br>• Build a supportive workplace environment and encourage help-seeking behaviour
       <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-1-tickets-118419282261">Click here to register for 20 October session.</a><br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-2-tickets-118420684455">Click here to register for 22 October session.</a><br>
       <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-3-tickets-118420925175">Click here to register for 27 October session.</a><br>
       <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-4-tickets-118423290249">Click here to register for 29 October session.</a><br>
     </td>    
