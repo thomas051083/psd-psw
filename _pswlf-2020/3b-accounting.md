@@ -39,44 +39,6 @@ Sign up for programmes based on four of the eleven technical finance competencie
      <img src="/images/digital3.jpg">
     </td>
 </tr>
-
-
-<tr>
-    <td>
-      <b>[Teaser] Finance Foundation Programme (FFP)</b>
-      <br>19 October 2020, 9.00am – 10.30am | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>Find out more about how you can benefit from FFP as well as how you can gain an understanding of Public Finance policies, Data Analytics, Code of conduct and ethics as a Public Finance Officer, and concepts of Procurement that will be useful to your role.  
-      <br>
-      <br>Learning Outcomes:
-      <br>• Describe the lessons to be learnt in FFP
-      <br>• Describe how FFP can help you in your work
-	    <br>
-      <a href="https://finance-foundation-programme.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/finance2.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>[Teaser] Fundamentals of Public Finance Management (FPFM)</b>
-      <br>19 October 2020, 11.00am - 12.30pm | Platform: Zoom
-      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>Find out more about how you can gain an understanding of Public Finance policies, acquire foundational knowledge in government accounting, and become familiar with central financial systems.
-      <br>      
-      <br>Learning outcomes:
-      <br>• Describe the lessons to be learnt in FPFM
-      <br>• Describe how FPFM can help you in your work
-      <br>
-      <a href="https://fundamentals-of-public-finance-management.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/finance1.jpg">
-    </td>
-</tr>
 	<tr>
     <td>
       <b>NICF- RPA Design & Development</b>
@@ -113,6 +75,42 @@ Sign up for programmes based on four of the eleven technical finance competencie
     </td>    
 	<td>
      <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>[Teaser] Finance Foundation Programme (FFP)</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 9.00am – 10.30am | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>Find out more about how you can benefit from FFP as well as how you can gain an understanding of Public Finance policies, Data Analytics, Code of conduct and ethics as a Public Finance Officer, and concepts of Procurement that will be useful to your role.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Describe the lessons to be learnt in FFP
+      <br>• Describe how FFP can help you in your work
+	    <br>
+      <a href="https://finance-foundation-programme.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/finance2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>[Teaser] Fundamentals of Public Finance Management (FPFM)</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>Find out more about how you can gain an understanding of Public Finance policies, acquire foundational knowledge in government accounting, and become familiar with central financial systems.
+      <br>      
+      <br>Learning outcomes:
+      <br>• Describe the lessons to be learnt in FPFM
+      <br>• Describe how FPFM can help you in your work
+      <br>
+      <a href="https://fundamentals-of-public-finance-management.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/finance1.jpg">
     </td>
 </tr>
 <tr>
