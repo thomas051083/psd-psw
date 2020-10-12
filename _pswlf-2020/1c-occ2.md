@@ -12,25 +12,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>Encouraging Active Citizenry through Volunteerism and Partnership </b><b><font color="crimson">[NEW]</font></b>
-      <br>23 October 2020, 10.00am - 12.00pm | Platform: Zoom
-      <br>       
-      <br>The sharing will include insights from working with community partners and volunteers for COVID-19 efforts, resources on partnership and volunteer engagement, tips on mobilising and working with volunteers, transitioning to digital engagement, and how your agency can tap on volunteerism to develop officers’ core competencies.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Ideas on how to partner the community
-      <br>• Ways to involve and engage volunteers to co-create/co-deliver services
-      <br>• Tools and resources on partnership engagement and volunteer engagement
-      <br>• Value of volunteering and how to get started
-      <br>
-      <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/humanresource.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
       <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
@@ -82,25 +63,25 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/drug1.jpg">
     </td>
 </tr>
-
-
-<tr>		
+<tr> 
     <td>
-      <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b>
-      <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <b>Encouraging Active Citizenry through Volunteerism and Partnership </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>       
-      <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
+      <br>The sharing will include insights from working with community partners and volunteers for COVID-19 efforts, resources on partnership and volunteer engagement, tips on mobilising and working with volunteers, transitioning to digital engagement, and how your agency can tap on volunteerism to develop officers’ core competencies.
       <br>
       <br>Learning Outcomes:
-      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens.
-      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them.
+      <br>• Ideas on how to partner the community
+      <br>• Ways to involve and engage volunteers to co-create/co-deliver services
+      <br>• Tools and resources on partnership engagement and volunteer engagement
+      <br>• Value of volunteering and how to get started
       <br>
-      <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/encouraging-active-citizenry-through-volunteerism-and-partnership-tickets-120138821449">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/humanresource.jpg">
     </td>
-</tr> 
+</tr>
 <tr> 
     <td>
       <b>Involving Citizens in Policy-making – Citizens’ Panel on Work-Life Harmony </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -135,7 +116,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage8.jpg">
     </td>
-	      </tr>   
+</tr>   
+<tr>		
+    <td>
+      <b>Partners Engaging and Empowering Rough Sleepers (PEERS)</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>The PEERS network provides valuable lessons as our Public Service moves towards increased collaboration and co-creation between agencies and external stakeholders. The session will cover the key considerations in a multi-stakeholder collaboration, challenges faced, and memorable experiences that have arisen from this initiative.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Articulate examples of how Public Service can co-create and co-deliver solutions with the community to deliver better services to citizens.
+      <br>• List the benefits and challenges of collaboration (with some insights from the COVID situation) and how to navigate them.
+      <br>
+      <a href="https://www.eventbrite.sg/e/partners-engaging-and-empowering-rough-sleepers-peers-tickets-117609480121">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr> 
 <tr>
 	<td>	     
 	    <b>LEARN modules</b>
