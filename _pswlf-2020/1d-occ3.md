@@ -24,48 +24,11 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Joyful Efficient Meetings Workshop </b> 
-      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
-      <br>       
-      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
-      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
-      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
-      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
-      <br>
-      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/communityengagement.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Overview of GeoSpace</b>
-      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand what GeoSpace is and its benefits.
-      <br>• Understand how to share or consume geospatial data from GeoSpace.
-      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
-      <br>
-      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital7.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Wellbeing@Work: Supporting our Peers</b> 
-      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
-      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
+      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
       <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom
       <br>       
@@ -89,8 +52,8 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>Wellbeing@Work: Being A Supportive Leader</b>  
-      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom
-      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
       <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom
       <br>       
@@ -113,7 +76,8 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> 
-      <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
+      <br>20 & 22 October 2020, 12.00pm - 1.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br> 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
       <br>       
       <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
       <br>
@@ -122,8 +86,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• Try simple fitness and health assessments, home-based exercises
       <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
       <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
     </td>    
@@ -148,6 +110,43 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/lead2.jpg">
     </td>
 </tr>	
+	<tr>
+    <td>
+      <b>Joyful Efficient Meetings Workshop </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/communityengagement.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Overview of GeoSpace</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand what GeoSpace is and its benefits.
+      <br>• Understand how to share or consume geospatial data from GeoSpace.
+      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital7.jpg">
+    </td>
+</tr>
 <tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
