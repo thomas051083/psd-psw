@@ -62,26 +62,6 @@ third_nav_title: Job Specific Skills
 	<td>
      <img src="/images/facility1.jpg">
     </td>
-</tr>
-
-<tr>		
-    <td>
-      <b>Introduction to Web Application Hacking and Cross-site Scripting</b>
-      <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>     
-      <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain about HTTP, HTTPS and XSS
-      <br>• Describe ethical hacking
-      <br>• Have hands-on experience on practical and realistic labs
-      <br>
-      <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
-    </td>    
-	<td>
-     <img src="/images/digital5.jpg">
-    </td>
 </tr>		
 <tr>		
     <td>
@@ -167,6 +147,25 @@ third_nav_title: Job Specific Skills
     </td>    
 	<td>
      <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
+	<tr>		
+    <td>
+      <b>Introduction to Web Application Hacking and Cross-site Scripting</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>21 October 2020, 9.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>     
+      <br>This session aims to help participants understand ethical hacking, HTTP and HTTPS as well as cross-site scripting.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain about HTTP, HTTPS and XSS
+      <br>• Describe ethical hacking
+      <br>• Have hands-on experience on practical and realistic labs
+      <br>
+      <a href="https://web-application-hacking-and-xss.eventbrite.sg">Click here to register.</a>  
+    </td>    
+	<td>
+     <img src="/images/digital5.jpg">
     </td>
 </tr>
 <tr>		
