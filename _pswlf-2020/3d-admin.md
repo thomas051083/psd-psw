@@ -12,7 +12,7 @@ third_nav_title: Job Specific Skills
             <col width="30%"> 
 <tr>
     <td>
-      <b>Change as Opportunity</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Change as Opportunity</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 Oct 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br><font color="dimgrey"><i>We will be priortising access to officers from the corporate admin job family for this session.</i></font>     
       <br>What is the impact on you in today’s changing landscape?  Understand how technological developments change the way we live and work; and the impact it has on you.    
