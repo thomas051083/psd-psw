@@ -19,47 +19,6 @@ Sign up for programmes based on four of the eleven technical finance competencie
 <table>
        <col width="70%"> 
             <col width="30%">
-
-<tr>		
-    <td>
-	    <b>NICF- RPA Developer Foundation Training</b> <b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>This session will introduce you to UiPath and advanced UI interaction. Get started on RPA today!
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Learn the basic concepts of Robotic Process Automation.
-      <br>• Understand processes which can be automated,
-      <br>• Identify key RPA Design and Development strategies and methodologies
-      <br>
-      <a href="https://nicf-rpa-developer-foundation-training.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digital3.jpg">
-    </td>
-</tr>
-	<tr>
-    <td>
-      <b>NICF- RPA Design & Development</b>
-      <br>26 October 2020, 2.00pm - 3.00pm | Platform: Zoom
-      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>This session will introduce you to programming basics, robotic process automation concepts and UiPath. You will also learn about emerging and future Trends in IT.
-      <br>      
-      <br>Learning outcomes:
-      <br>• Understand the basics of Robotic Process Automation 
-      <br>• Use and understand the various functionalities and features of UiPath Studio and Orchestrator 
-      <br>• Identify processes which can be automated 
-      <br>• Develop and deploy attended and unattended robots independently 
-      <br>• Know and apply the business best practices in RPA projects
-      <br>
-      <a href="https://rpa-design-and-development.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/rpa1.jpg">
-    </td>
-</tr>	
 <tr>		
     <td>
 	    <b>Data Appreciation to Extract Business Value</b> <b><font color="darkviolet">[FULL]</font></b>
@@ -128,6 +87,46 @@ Sign up for programmes based on four of the eleven technical finance competencie
     </td>    
 <td>
      <img src="/images/excel1.jpg">
+    </td>
+</tr>
+	<tr>		
+    <td>
+	    <b>NICF- RPA Developer Foundation Training</b> <b><font color="darkviolet">[FULL]</font></b>
+      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session will introduce you to UiPath and advanced UI interaction. Get started on RPA today!
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn the basic concepts of Robotic Process Automation.
+      <br>• Understand processes which can be automated,
+      <br>• Identify key RPA Design and Development strategies and methodologies
+      <br>
+      <a href="https://nicf-rpa-developer-foundation-training.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital3.jpg">
+    </td>
+</tr>
+	<tr>
+    <td>
+      <b>NICF- RPA Design & Development</b> <b><font color="darkviolet">[FULL]</font></b>
+      <br>26 October 2020, 2.00pm - 3.00pm | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session will introduce you to programming basics, robotic process automation concepts and UiPath. You will also learn about emerging and future Trends in IT.
+      <br>      
+      <br>Learning outcomes:
+      <br>• Understand the basics of Robotic Process Automation 
+      <br>• Use and understand the various functionalities and features of UiPath Studio and Orchestrator 
+      <br>• Identify processes which can be automated 
+      <br>• Develop and deploy attended and unattended robots independently 
+      <br>• Know and apply the business best practices in RPA projects
+      <br>
+      <a href="https://rpa-design-and-development.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/rpa1.jpg">
     </td>
 </tr>	
 <tr> 
