@@ -27,42 +27,6 @@ third_nav_title: Job Specific Skills
      <img src="/images/digital3.jpg">
     </td>
 </tr>	
-	<tr>		
-    <td>
-      <b>From Policy Analyst to Quant Analyst</b> <b><font color="crimson">[NEW]</font></b>
-      <br>30 October 2020, 10.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>Hear from a fellow colleague: an ex-policy analyst, who is now serving as a full-time quant analyst with GovTech. This colleague made the transition, without a formal technical background.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand how to improve your technology skills
-      <br>
-      <a href="https://from-policy-analyst-to-quant-analyst.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/data2.jpg">
-    </td>
-</tr>
-<tr>		
-    <td>
-      <b>JTC's Facilities Management Transformation</b> <b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 11.00am - 12.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
-      <br>       
-      <br>By creating the right working environment and culture, coupled with the support provided by leaders, we will be able to architect a resilient FM workforce.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand JTC's contracting strategies to procure FM services
-      <br>• Understand how JTC revamped its processes to benefit from the adoption of technologies
-      <br>• Understand how JTC prepared its staff for FM transformation
-      <br>
-      <a href="https://jtcs-facilities-management-transformation.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/facility1.jpg">
-    </td>
-</tr>		
 <tr>		
     <td>
       <b>Purple Hats – Improving Web Accessibility for Singapore</b>
@@ -113,7 +77,24 @@ third_nav_title: Job Specific Skills
 	<td>
      <img src="/images/data1.jpg">
     </td>
-</tr>	
+</tr>
+<tr>		
+    <td>
+      <b>From Policy Analyst to Quant Analyst</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>30 October 2020, 10.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>Hear from a fellow colleague: an ex-policy analyst, who is now serving as a full-time quant analyst with GovTech. This colleague made the transition, without a formal technical background.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand how to improve your technology skills
+      <br>
+      <a href="https://from-policy-analyst-to-quant-analyst.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/data2.jpg">
+    </td>
+</tr>
 <tr>		
     <td>
       <b>Improving Government Services with Data</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -168,6 +149,25 @@ third_nav_title: Job Specific Skills
      <img src="/images/digital5.jpg">
     </td>
 </tr>
+<tr>		
+    <td>
+      <b>JTC's Facilities Management Transformation</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 11.00am - 12.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
+      <br>       
+      <br>By creating the right working environment and culture, coupled with the support provided by leaders, we will be able to architect a resilient FM workforce.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand JTC's contracting strategies to procure FM services
+      <br>• Understand how JTC revamped its processes to benefit from the adoption of technologies
+      <br>• Understand how JTC prepared its staff for FM transformation
+      <br>
+      <a href="https://jtcs-facilities-management-transformation.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/facility1.jpg">
+    </td>
+</tr>		
 <tr>		
     <td>
       <b>Open Attestation – Document Creation & Verification </b> <b><font color="darkviolet"> [FULL]</font></b>
