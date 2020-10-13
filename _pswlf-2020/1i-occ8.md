@@ -51,8 +51,8 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <b>Wellbeing@Work: Being A Supportive Leader </b> 
       <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
-      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>       
       <br>Specially for leaders, supervisors and those in HR roles, this workshop will equip participants with skills and knowledge to support and engage staff
       <br>
