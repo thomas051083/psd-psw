@@ -148,23 +148,6 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
-	
-<tr>
-    <td>
-	    <b>Maintaining Positive Mental Health in the New Normal</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>30 October 2020, 11.00am – 12.00pm | Platform: Zoom
-      <br>       
-      <br>COVID-19 has disrupted the way we work and live. Telecommuting and virtual meetings are our new norm. Living in such changing times can be challenging.  How do we maintain a positive mental health in this new normal? 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand the possible types and symptoms of mental health issues that can arise from changes in work-life and get tips on how to cope with the changes
-	    <br>
-      <a href="https://maintaining-positive-mental-health.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovate5.jpg">
-    </td>
-</tr>
 <tr>
     <td>
 	    <b>Arrival of 5G Network </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -250,6 +233,22 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/finance2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Maintaining Positive Mental Health in the New Normal</b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <br>30 October 2020, 11.00am – 12.00pm | Platform: Zoom
+      <br>       
+      <br>COVID-19 has disrupted the way we work and live. Telecommuting and virtual meetings are our new norm. Living in such changing times can be challenging.  How do we maintain a positive mental health in this new normal? 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the possible types and symptoms of mental health issues that can arise from changes in work-life and get tips on how to cope with the changes
+	    <br>
+      <a href="https://maintaining-positive-mental-health.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate5.jpg">
     </td>
 </tr>
 <tr>
