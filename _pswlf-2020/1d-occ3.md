@@ -24,55 +24,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>Wellbeing@Work: Supporting our Peers</b> 
-      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>       
-      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
-      <br>• Initiate conversation with peers 
-      <br>• Listen and respond in an appropriate and supportive manner  
-      <br>• Encourage help seeking
-      <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-1-tickets-118424317321">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-2-tickets-118425250111">Click here to register for 22 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
-    </td>    
-<td>
-     <img src="/images/Serve2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Wellbeing@Work: Being A Supportive Leader</b>  
-      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>       
-      <br>Specially for leaders, supervisors and those in HR roles, this workshop will equip participants with skills and knowledge to support and engage staff
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout) 
-      <br>• Start a conversation with staff and show appropriate supportive leadership (e.g. empathetic listening and responding)
-      <br>• Build a supportive workplace environment and encourage help-seeking behaviour
-      <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-1-tickets-118419282261">Click here to register for 20 October session.</a><br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-2-tickets-118420684455">Click here to register for 22 October session.</a><br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-3-tickets-118420925175">Click here to register for 27 October session.</a><br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-4-tickets-118423290249">Click here to register for 29 October session.</a><br>
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> 
@@ -164,7 +116,56 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/engage7.jpg">
     </td>
-</tr>  
+</tr> 
+<tr> 
+    <td>
+      <b>Wellbeing@Work: Supporting our Peers</b> 
+      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>       
+      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
+      <br>• Initiate conversation with peers 
+      <br>• Listen and respond in an appropriate and supportive manner  
+      <br>• Encourage help seeking
+      <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-1-tickets-118424317321">Click here to register for 20 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-2-tickets-118425250111">Click here to register for 22 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
+    </td>    
+<td>
+     <img src="/images/Serve2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Wellbeing@Work: Being A Supportive Leader</b>  
+      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>       
+      <br>Specially for leaders, supervisors and those in HR roles, this workshop will equip participants with skills and knowledge to support and engage staff
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout) 
+      <br>• Start a conversation with staff and show appropriate supportive leadership (e.g. empathetic listening and responding)
+      <br>• Build a supportive workplace environment and encourage help-seeking behaviour
+      <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-1-tickets-118419282261">Click here to register for 20 October session.</a><br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-2-tickets-118420684455">Click here to register for 22 October session.</a><br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-3-tickets-118420925175">Click here to register for 27 October session.</a><br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-being-a-supportive-leader-run-4-tickets-118423290249">Click here to register for 29 October session.</a><br>
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr>
 
 <tr> 
 <td>	     
