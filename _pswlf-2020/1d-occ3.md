@@ -10,23 +10,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
             <col width="30%"> 
 <tr> 
     <td>
-    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
-      <br>       
-      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
-      <br>
-      <br>Learning Outcomes:
-      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
-      <br>
- <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
-
-<tr> 
-    <td>
       <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> 
       <br>20 & 22 October 2020, 12.00pm - 1.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br> 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
@@ -61,7 +44,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/lead2.jpg">
     </td>
-</tr>	
+</tr>
+	<tr> 
+    <td>
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
+      <br>
+      <br>Learning Outcomes:
+      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
+      <br>
+ <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+
 	<tr>
     <td>
       <b>Joyful Efficient Meetings Workshop </b> <b><font color="darkviolet"> [FULL]</font></b>
