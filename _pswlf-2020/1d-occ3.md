@@ -61,7 +61,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-
 	<tr>
     <td>
       <b>Joyful Efficient Meetings Workshop </b> <b><font color="darkviolet"> [FULL]</font></b>
