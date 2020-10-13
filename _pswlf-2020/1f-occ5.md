@@ -119,24 +119,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Innovate2.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
-      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
-      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
-           <br>
- <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/covid1.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>Making Regulatory Transformation Work </b><b><font color="crimson">[NEW]</font></b>
@@ -173,23 +156,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/pay1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="crimson">[NEW]</font></b>
-      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
-      <br>       
-      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
-      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
-      <br>
-      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
-    </td>     
-<td>
-     <img src="/images/changeagility.jpg">
     </td>
 </tr>
 <tr>
@@ -406,7 +372,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>	
     <td>
-      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Improving Data Quality – Statistical Best Practices </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
@@ -420,6 +386,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/digital5.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+     <b>Innovation in the SAF </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
     </td>
 </tr>
 <tr>	
@@ -564,6 +548,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
+      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
+      <br>
+      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
+    </td>     
+<td>
+     <img src="/images/changeagility.jpg">
     </td>
 </tr>
 <tr>		
