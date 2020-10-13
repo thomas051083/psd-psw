@@ -21,7 +21,7 @@ Check out the programmes below, some of which are curated and offered only for t
 
 <tr>
     <td>
-      <b>Public Engagement Network Webinar</b>
+      <b>Public Engagement Network Webinar</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br><font color="dimgrey"><i>We will be prioritising officers from the Community Development, Partnership & Engagement job family for this session.</i></font>
       <br>       

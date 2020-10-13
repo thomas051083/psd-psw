@@ -8,42 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%">
             <col width="30%">
-
-<tr> 
-    <td>
-    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
-      <br>       
-      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
-      <br>
-      <br>Learning Outcomes:
-      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
-      <br>
- <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b><b><font color="crimson">[NEW]</font></b>
-      <br>27 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br> Do you want to improve your skills in creating and developing new ideas? 
-     <br> Learn how you can develop innovative ideas that not only target the purpose at the core, but build your team’s capabilities through the use of the Six ‘I’s of Innovation, an integrated methodology that combines design thinking with organisation and team development.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
-      <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
-      <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
-      <br>
-      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003">Click here to register.</a> 
-    </td>   
-<td>
-     <img src="/images/innovate1.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
@@ -119,24 +83,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Innovate2.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
-      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
-      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
-           <br>
- <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/covid1.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>Making Regulatory Transformation Work </b><b><font color="crimson">[NEW]</font></b>
@@ -175,111 +122,22 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/pay1.jpg">
     </td>
 </tr>
-<tr> 
+<tr>	
     <td>
-      <b>Playbook on the SG Youth Action Plan </b><b><font color="crimson">[NEW]</font></b>
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <b>Improving Data Quality – Statistical Best Practices </b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
       <br>
       <br>Learning Outcomes:
-      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
-      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
-      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
       <br>
-      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/engage11.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="crimson">[NEW]</font></b>
-      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
-      <br>       
-      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
-      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
-      <br>
-      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
-    </td>     
-<td>
-     <img src="/images/changeagility.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>A Product Management approach to building Singapore’s National Digital Identity</b>
-      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
-      <br>       
-      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity.
-      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
-      <br>
-      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital4.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Delivering Social Services through Video-Conferencing </b>
-      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
-      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the considerations when setting up video-conferencing links.
-      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
-      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
-      <br>
-      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digitalliteracy.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b>
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand how SportSG created an enabling environment for volunteering
-      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
-      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
-      <br>
-      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage6.jpg">
-    </td>
-</tr>
-<tr>		
-    <td>
-      <b>From Paper to Portal with an Agile Approach </b> 
-      <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
-      <br>
-      <br>Learning Outcomes:
-      <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
-      <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
-      <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
-      <br>
-      <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital6.jpg">
+     <img src="/images/digital5.jpg">
     </td>
 </tr>
 <tr>
@@ -300,98 +158,39 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Engage2.jpeg">
     </td>
 	</tr>
-<tr>   
-<td>
-<b>IRAS’ Workforce Transformation Journey</b>
-      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
-      <br>• Learn about how IRAS carried out its Workforce Transformation.
-      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
-    </td>
-<td>
-     <img src="/images/SkillUp1.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Joyful Efficient Meetings Workshop </b>
-      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
-      <br>       
-      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
-      <br>
-      <br>Learning Outcomes:   
-      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
-      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
-      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
-      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
-      <br>
-      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/communityengagement.jpg">
-    </td>
-</tr>
 <tr>
     <td>
-      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b>
-      <br>16 October 2020, 2.00pm - 3.30pm <b><font color="darkviolet"> [FULL]</font></b> | 23 October 2020, 9.30am - 11.00am| Platform: Zoom
-      <br>      
-      <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
+      <b>A Product Management approach to building Singapore’s National Digital Identity </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
+      <br>       
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
       <br>Learning Outcomes:
-      <br>• To show how the app gives more control to the officer to shape his/her career path.
-      <br>• To share the role of the app in the future Workforce and Workplace
-      <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
       <br>
-      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Digital2.jpg">
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
-
 <tr> 
     <td>
-      <b>Overview of GeoSpace</b>
-      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
       <br>       
-      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
       <br>
       <br>Learning Outcomes:
-      <br>• Understand what GeoSpace is and its benefits.
-      <br>• Understand how to share or consume geospatial data from GeoSpace.
-      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
+      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
       <br>
-      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
+ <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
     </td>    
 <td>
-     <img src="/images/digital7.jpg">
+     <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Transforming How IRAS & ACRA Serve Businesses</b>
-      <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
-      <br>       
-      <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
-      <br>
-      <br>Learning Outcomes:
-      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
-      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
-      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
-      <br>
-      <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage10.jpg">
-    </td>
-</tr> 
 
 <tr>
     <td>
@@ -409,7 +208,44 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 	<td>
      <img src="/images/geospatial.jpg">
     </td>
-</tr>		
+</tr>
+<tr>
+    <td>
+      <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>       
+      <br> Do you want to improve your skills in creating and developing new ideas? 
+     <br> Learn how you can develop innovative ideas that not only target the purpose at the core, but build your team’s capabilities through the use of the Six ‘I’s of Innovation, an integrated methodology that combines design thinking with organisation and team development.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
+      <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
+      <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
+      <br>
+      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003">Click here to register.</a> 
+    </td>   
+<td>
+     <img src="/images/innovate1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Delivering Social Services through Video-Conferencing </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>How can we leverage technology to provide Comprehensive, Convenient and Coordinated support to residents in need?
+      <br>Learn about how social service agencies worked together to set up video-conferencing links, so that residents could access multiple services at one location.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the considerations when setting up video-conferencing links.
+      <br>• Appreciate the operational challenges and process reengineering required to develop such links across agencies.
+      <br>• Gain insights into how to start off a small tech-based project, and gradually scale up.
+      <br>
+      <a href="https://www.eventbrite.sg/e/delivering-social-services-through-video-conferencing-tickets-119070317525">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digitalliteracy.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>Designing Spaces with Virtual Reality</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -425,6 +261,42 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/digital8.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Engaging Community to build a caring and cohesive Singapore through Sport </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>SportSG will share how it has built a strong community that goes beyond participation, to also include co-creation and co-delivering of sporting programmes with them. It will also share on how this community has been deployed for the wider benefit of society in this period of Covid-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand how SportSG created an enabling environment for volunteering
+      <br>• Learn how SportSG built stronger individuals and communities through sport volunteering
+      <br>• Recognise how SportSG was able to harness community resources to unite the nation and inspire the Singapore Spirit during Covid-19
+      <br>
+      <a href="https://www.eventbrite.sg/e/engaging-community-to-build-a-caring-and-cohesive-singapore-through-sport-tickets-119071314507">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage6.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
+      <b>From Paper to Portal with an Agile Approach </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
+      <br>
+      <br>Learning Outcomes:
+      <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
+      <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
+      <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital6.jpg">
     </td>
 </tr>
 <tr> 
@@ -497,22 +369,40 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/project1.jpg">
     </td>
 </tr>
-<tr>	
+<tr> 
     <td>
-      <b>Improving Data Quality – Statistical Best Practices</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+     <b>Innovation in the SAF </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
       <br>
       <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
-      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-      <br>
-      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
     </td>    
 <td>
-     <img src="/images/digital5.jpg">
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr>   
+<td>
+<b>IRAS’ Workforce Transformation Journey</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
+      <br>• Learn about how IRAS carried out its Workforce Transformation.
+      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
 <tr>	
@@ -530,6 +420,43 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage8.jpg">
+    </td>
+</tr>
+<tr>	
+    <td>
+      <b>Joyful Efficient Meetings Workshop </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
+      <br>       
+      <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
+      <br>
+      <br>Learning Outcomes:   
+      <br>• Learn how to decide when a meeting is necessary and what alternatives there are.
+      <br>• Understand how to design and run a joyful and efficient meeting from start to end.
+      <br>• Understand how to contribute to a joyful efficient meeting in your meeting role, e.g. chair, secretariat, presenter.
+      <br>• Pick up tips on how to get the most out of and avoid common challenges of virtual meetings.
+      <br>
+      <a href="https://www.eventbrite.sg/e/118592359941">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/communityengagement.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Let’s talk about POPO – Personalising Opportunities for Public Officers </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>16 October 2020, 2.00pm - 3.30pm | 23 October 2020, 9.30am - 11.00am| Platform: Zoom
+      <br>      
+      <br>This sharing session introduces a tool to help officers measure their skills and career fitness, It suggests skills, jobs and projects they could acquire or take on to achieve their career aspirations, effectively allowing them to design their career paths. The tool also allows agencies to form agile matrix teams across organisational boundaries through the matching of jobs to officers with the required skills.
+      <br>
+      <br>Learning Outcomes:
+      <br>• To show how the app gives more control to the officer to shape his/her career path.
+      <br>• To share the role of the app in the future Workforce and Workplace
+      <br>• To seek feedback on our product vision for a digital solution to drive capability building and self-directed career development.
+      <br>
+      <a href="https://www.eventbrite.sg/e/lets-talk-about-popo-personalising-opportunities-for-public-officers-tickets-120933504367">Click here to register for 23 October session.</a> <br>
+    </td>    
+<td>
+     <img src="/images/Digital2.jpg">
     </td>
 </tr>
 <tr>
@@ -586,6 +513,59 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>Overview of GeoSpace</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand what GeoSpace is and its benefits.
+      <br>• Understand how to share or consume geospatial data from GeoSpace.
+      <br>• Recognize how GeoSpace helps agency users on their projects or operations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/overview-of-geospace-tickets-117611337677">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital7.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Playbook on the SG Youth Action Plan </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
+      <br>
+      <br>Learning Outcomes:
+      <br>• You will learn how the use of digital methods can complement face to face interactions (e.g. social media partners to amplify SB, YAC and YAC Summit, and closing the loop with youths by developing interactive digital assets) 
+      <br>• You will gain by taking risks and partnering youths and panel members to drive their ideas (e.g. #Filterspell, #SGPaysitforward)
+      <br>• You will learn how we partnered government agencies to better engage our youths (e.g. involving government officers in “consultation sessions” for youths’ projects and ideas)
+      <br>
+      <a href="https://www.eventbrite.sg/e/playbook-on-the-sg-youth-action-plan-tickets-120137740215">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Streamlining Processes & Systems - Intro to Agile Scrum Project Management </b><b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 1.00pm – 2.30pm | Platform: Zoom
+      <br>       
+      <br>As a public officer, you are constantly managing both the requirements of the organisation and your customers. How can Agile help you do that? Although frequently associated with IT and software development, Agile principles and mindset can be applied in any context. Learn how Agile can also support effective innovation by enabling you to understand the approach and value behind iteration and sprints through this session.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Explain the Agile Scrum methodology, its value, and how it differs from other methodologies
+      <br>• Define and describe Scrum principles and their roles to plan and manage work and projects
+      <br>
+      <a href="https://www.eventbrite.sg/e/streamlining-processes-systems-intro-to-agile-scrum-project-management-tickets-120139032079">Click here to register.</a> 
+    </td>     
+<td>
+     <img src="/images/changeagility.jpg">
+    </td>
+</tr>
 <tr>		
     <td>
       <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -604,6 +584,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage7.jpg">
     </td>
 </tr>  
+<tr>
+    <td>
+      <b>Transforming How IRAS & ACRA Serve Businesses</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>20 October 2020, 10.00am - 11.15am | Platform: Zoom
+      <br>       
+      <br>Learn from IRAS and ACRA’s PST award-winning projects in engaging ecosystem partners to co-create digital solutions for SMEs (PST Citizen Engagement Excellence Award) and easing GST registration compliance (PST Regulatory Excellence Award).
+      <br>
+      <br>Learning Outcomes:
+      <br>• (Design-thinking) Learn to engage stakeholders to understand their needs and their pain points, co-create and collaborate with them.
+      <br>• (Digitalisation) Be introduced to digital solutions that improve operational efficiency and productivity for businesses.
+      <br>• (Regulatory Excellence) Understand how simplifying rules can lower compliance costs for businesses.
+      <br>
+      <a href="https://www.eventbrite.sg/e/transforming-how-iras-acra-serve-businesses-tickets-117611562349">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage10.jpg">
+    </td>
+</tr> 
 <tr>	
     <td>
       <b>What is the Best Way to Scope a User Centric Project?</b> <b><font color="darkviolet"> [FULL]</font></b>

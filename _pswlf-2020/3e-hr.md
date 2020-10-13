@@ -20,7 +20,7 @@ Check out the programmes below, some of which are curated and offered only for t
             <col width="30%">
 <tr>
     <td>
-      <b>HR Panel Discussions on Diverse Workforce Management & Leveraging Technology</b> <font color="crimson"><b> [NEW]</b></font>
+      <b>HR Panel Discussions on Diverse Workforce Management & Leveraging Technology</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>23 October 2020, 10.00am – 12.30pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be prioritising officers from the HR job family for this session.</i></font>
       <br>       

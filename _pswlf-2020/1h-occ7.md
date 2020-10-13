@@ -91,25 +91,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>From Paper to Portal with an Agile Approach </b> 
-      <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
-      <br>
-      <br>Learning Outcomes:
-      <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
-      <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
-      <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
-      <br>
-      <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital6.jpg">
-    </td>
-</tr>
-
-<tr> 
-    <td>
 	    <b>Shaping the Future Workplace </b> 
       <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
       <br>       
@@ -196,6 +177,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/change2.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>From Paper to Portal with an Agile Approach </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Join GovTech’s OurSG Grants Portal team as they take you through how they embarked on digitalizing social and community grants with the use of agile methodology. 
+      <br>
+      <br>Learning Outcomes:
+      <br>• An understanding of how the grants landscape has changed from manual to digital, and the benefits for both applicants and grant administrators 
+      <br>• Understand how we uncovered pain points in the existing service, and employed agile methodology to build the right solution iteratively
+      <br>• Understand the challenges that come with digitalising existing services onto a streamlined, one-stop platform and methods we used to find alignment 
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-future-of-grants-tickets-119071629449">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital6.jpg">
     </td>
 </tr>
 <tr> 

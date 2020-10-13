@@ -19,85 +19,6 @@ Sign up for programmes based on four of the eleven technical finance competencie
 <table>
        <col width="70%"> 
             <col width="30%">
-
-<tr>		
-    <td>
-	    <b>NICF- RPA Developer Foundation Training</b> <b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>This session will introduce you to UiPath and advanced UI interaction. Get started on RPA today!
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Learn the basic concepts of Robotic Process Automation.
-      <br>• Understand processes which can be automated,
-      <br>• Identify key RPA Design and Development strategies and methodologies
-      <br>
-      <a href="https://nicf-rpa-developer-foundation-training.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/digital3.jpg">
-    </td>
-</tr>
-
-
-<tr>
-    <td>
-      <b>[Teaser] Finance Foundation Programme (FFP)</b>
-      <br>19 October 2020, 9.00am – 10.30am | Platform: Zoom
-	<br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>Find out more about how you can benefit from FFP as well as how you can gain an understanding of Public Finance policies, Data Analytics, Code of conduct and ethics as a Public Finance Officer, and concepts of Procurement that will be useful to your role.  
-      <br>
-      <br>Learning Outcomes:
-      <br>• Describe the lessons to be learnt in FFP
-      <br>• Describe how FFP can help you in your work
-	    <br>
-      <a href="https://finance-foundation-programme.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/finance2.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>[Teaser] Fundamentals of Public Finance Management (FPFM)</b>
-      <br>19 October 2020, 11.00am - 12.30pm | Platform: Zoom
-      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>Find out more about how you can gain an understanding of Public Finance policies, acquire foundational knowledge in government accounting, and become familiar with central financial systems.
-      <br>      
-      <br>Learning outcomes:
-      <br>• Describe the lessons to be learnt in FPFM
-      <br>• Describe how FPFM can help you in your work
-      <br>
-      <a href="https://fundamentals-of-public-finance-management.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/finance1.jpg">
-    </td>
-</tr>
-	<tr>
-    <td>
-      <b>NICF- RPA Design & Development</b>
-      <br>26 October 2020, 2.00pm - 3.00pm | Platform: Zoom
-      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
-      <br>       
-      <br>This session will introduce you to programming basics, robotic process automation concepts and UiPath. You will also learn about emerging and future Trends in IT.
-      <br>      
-      <br>Learning outcomes:
-      <br>• Understand the basics of Robotic Process Automation 
-      <br>• Use and understand the various functionalities and features of UiPath Studio and Orchestrator 
-      <br>• Identify processes which can be automated 
-      <br>• Develop and deploy attended and unattended robots independently 
-      <br>• Know and apply the business best practices in RPA projects
-      <br>
-      <a href="https://rpa-design-and-development.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/rpa1.jpg">
-    </td>
-</tr>	
 <tr>		
     <td>
 	    <b>Data Appreciation to Extract Business Value</b> <b><font color="darkviolet">[FULL]</font></b>
@@ -117,6 +38,42 @@ Sign up for programmes based on four of the eleven technical finance competencie
 </tr>
 <tr>
     <td>
+      <b>[Teaser] Finance Foundation Programme (FFP)</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 9.00am – 10.30am | Platform: Zoom
+	<br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>Find out more about how you can benefit from FFP as well as how you can gain an understanding of Public Finance policies, Data Analytics, Code of conduct and ethics as a Public Finance Officer, and concepts of Procurement that will be useful to your role.  
+      <br>
+      <br>Learning Outcomes:
+      <br>• Describe the lessons to be learnt in FFP
+      <br>• Describe how FFP can help you in your work
+	    <br>
+      <a href="https://finance-foundation-programme.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/finance2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>[Teaser] Fundamentals of Public Finance Management (FPFM)</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 11.00am - 12.30pm | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>Find out more about how you can gain an understanding of Public Finance policies, acquire foundational knowledge in government accounting, and become familiar with central financial systems.
+      <br>      
+      <br>Learning outcomes:
+      <br>• Describe the lessons to be learnt in FPFM
+      <br>• Describe how FPFM can help you in your work
+      <br>
+      <a href="https://fundamentals-of-public-finance-management.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/finance1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
       <b>Microsoft Excel Intermediate </b> <b><font color="darkviolet">[FULL]</font></b>
       <br>12 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
@@ -130,6 +87,46 @@ Sign up for programmes based on four of the eleven technical finance competencie
     </td>    
 <td>
      <img src="/images/excel1.jpg">
+    </td>
+</tr>
+	<tr>		
+    <td>
+	    <b>NICF- RPA Developer Foundation Training</b> <b><font color="darkviolet">[FULL]</font></b>
+      <br>26 October 2020, 10.00am - 11.00am | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session will introduce you to UiPath and advanced UI interaction. Get started on RPA today!
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn the basic concepts of Robotic Process Automation.
+      <br>• Understand processes which can be automated,
+      <br>• Identify key RPA Design and Development strategies and methodologies
+      <br>
+      <a href="https://nicf-rpa-developer-foundation-training.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/digital3.jpg">
+    </td>
+</tr>
+	<tr>
+    <td>
+      <b>NICF- RPA Design & Development</b> <b><font color="darkviolet">[FULL]</font></b>
+      <br>26 October 2020, 2.00pm - 3.00pm | Platform: Zoom
+      <br><font color="dimgrey"><i>We will be prioritising officers from the Accounting & Finance job family for this session.</i></font>
+      <br>       
+      <br>This session will introduce you to programming basics, robotic process automation concepts and UiPath. You will also learn about emerging and future Trends in IT.
+      <br>      
+      <br>Learning outcomes:
+      <br>• Understand the basics of Robotic Process Automation 
+      <br>• Use and understand the various functionalities and features of UiPath Studio and Orchestrator 
+      <br>• Identify processes which can be automated 
+      <br>• Develop and deploy attended and unattended robots independently 
+      <br>• Know and apply the business best practices in RPA projects
+      <br>
+      <a href="https://rpa-design-and-development.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/rpa1.jpg">
     </td>
 </tr>	
 <tr> 

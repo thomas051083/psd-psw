@@ -9,25 +9,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
        <col width="70%"> 
             <col width="30%"> 
 
-
-<tr> 
-    <td>
-     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
-      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
-      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
-           <br>
- <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/covid1.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b>
@@ -45,35 +26,29 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage7.jpg">
     </td>
 </tr>
-<tr>
+<tr>	
     <td>
-      <b>Wellbeing@Work: Supporting our Peers </b> 
-      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
-      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
-      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
-      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom
+      <b>Participatory Design - From Working For to Working With </b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
-      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
-      <br>
+      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
+      <br> 
       <br>Learning Outcomes:
-      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
-      <br>• Initiate conversation with peers 
-      <br>• Listen and respond in an appropriate and supportive manner  
-      <br>• Encourage help seeking
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
       <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-1-tickets-118424317321">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-2-tickets-118425250111">Click here to register for 22 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/Serve2.jpg">
+     <img src="/images/engage7.jpg">
     </td>
 </tr>
 <tr> 
     <td>
       <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> 
-      <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
+      <br> 20 & 22 October 2020, 12.00pm - 1.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br> 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
       <br>       
       <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
       <br>
@@ -82,8 +57,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• Try simple fitness and health assessments, home-based exercises
       <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
       <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
     </td>    
@@ -161,22 +134,45 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr>	
+<tr> 
     <td>
-      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+	    <b>Innovation in the SAF </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
-      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
-      <br> 
-      <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not.
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
       <br>
-      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
     </td>    
 <td>
-     <img src="/images/engage7.jpg">
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Wellbeing@Work: Supporting our Peers </b> 
+      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>       
+      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
+      <br>• Initiate conversation with peers 
+      <br>• Listen and respond in an appropriate and supportive manner  
+      <br>• Encourage help seeking
+      <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
+    </td>    
+<td>
+     <img src="/images/Serve2.jpg">
     </td>
 </tr>
 <tr> 

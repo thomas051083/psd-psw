@@ -54,23 +54,7 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-    <td>
-      <b>Data Curation: Data Labelling, Exploration and Modelling</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
-      <br>       
-      <br>This will be a sharing on artificial intelligence, machine learning and data curation. It will include a demo on data labelling, data exploration and a simple ML model in python.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand basic artificial intelligence and machine learning
-      <br>• Recognise examples of data labelling, data exploration and python modelling
-      <br>
-      <a href="https://data-curation-pswlf.eventbrite.sg/">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/digital4.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>AI for Everyone</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -86,6 +70,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/digital3.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Data Curation: Data Labelling, Exploration and Modelling</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing on artificial intelligence, machine learning and data curation. It will include a demo on data labelling, data exploration and a simple ML model in python.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand basic artificial intelligence and machine learning
+      <br>• Recognise examples of data labelling, data exploration and python modelling
+      <br>
+      <a href="https://data-curation-pswlf.eventbrite.sg/">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
 <tr>
@@ -149,7 +150,7 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-	    <b>Arrival of 5G Network</b> <font color="crimson"><b> [NEW]</b></font>
+	    <b>Arrival of 5G Network </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>29 October 2020, 2.00pm – 3.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants to understand what 5G Network is and how it will change your lifestyle and workspace.
@@ -164,10 +165,9 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/digital1.jpeg">
     </td>
 </tr>
-	
 <tr>
     <td>
-	    <b>Building Your Personal Resilience for Support Officer</b> <font color="crimson"><b> [NEW]</b></font>
+	<b>Building Your Personal Resilience for Support Officer </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>21 October 2020, 10.00am – 12.00pm | Platform: Zoom
       <br>       
       <br>In today's rapidly changing environment and workplace, being resilient has become increasingly important as we face greater demands and challenges. Simply put, resilience is the ability to cope with stress, overcome diversity or adapt positively to change, and it is a process that involves our behaviour, thoughts and actions.
@@ -184,45 +184,9 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/service4.jpg">
     </td>
 </tr>
-
 <tr>
     <td>
-	    <b>Maintaining Positive Mental Health in the New Normal</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>30 October 2020, 11.00am – 12.00pm | Platform: Zoom
-      <br>       
-      <br>COVID-19 has disrupted the way we work and live. Telecommuting and virtual meetings are our new norm. Living in such changing times can be challenging.  How do we maintain a positive mental health in this new normal? 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand the possible types and symptoms of mental health issues that can arise from changes in work-life and get tips on how to cope with the changes
-	    <br>
-      <a href="https://maintaining-positive-mental-health.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/innovate5.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-	    <b>Navigating Challenges Ahead for Support Officers</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>22 October 2020, 10.00am – 11.30am | Platform: Zoom
-      <br>       
-      <br>Do you want to future-proof yourself and stay relevant in today’s competitive landscape? In this session, you will learn tools on how to embrace and manage changes in the workplace. You will also gain a better understanding on how to embrace yourself and ride through changes.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Build an awareness of the changing landscape and workforce 
-      <br>• Describe the change curve and identify your current and desired state on the change curve
-      <br>• Discuss tools on embracing and managing changes in the workplace
-	    <br>
-      <a href="https://www.eventbrite.sg/e/navigating-challenges-ahead-for-support-officer-tickets-118589471301">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/lead2.jpg">
-    </td>
-</tr>
-
-<tr>
-    <td>
-      <b>Change as Opportunity</b>
+      <b>Change as Opportunity </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 1.00pm – 2.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
@@ -239,25 +203,8 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 <tr>
-     <td>
-      <b>Working in Multigenerational Workplace</b>
-      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>            
-      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain why and how people of different generations behave differently
-      <br>• Identify strengths instead of weaknesses in people we work with
-      <br>
-      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-</tr>
-<tr>
     <td>
-      <b>Creativity & Innovation at Work</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Creativity & Innovation at Work </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>15 October 2020, 10.00am – 12.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
@@ -273,7 +220,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Importance of Growth Mindset in a VUCA World</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Importance of Growth Mindset in a VUCA World </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Our world is becoming increasingly Volatile, Uncertain, Complex and Ambiguous (VUCA). How do we prepare ourselves for such an environment? Why is it important to have a growth mindset?
@@ -286,6 +233,40 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/finance2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Maintaining Positive Mental Health in the New Normal</b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <br>30 October 2020, 11.00am – 12.00pm | Platform: Zoom
+      <br>       
+      <br>COVID-19 has disrupted the way we work and live. Telecommuting and virtual meetings are our new norm. Living in such changing times can be challenging.  How do we maintain a positive mental health in this new normal? 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand the possible types and symptoms of mental health issues that can arise from changes in work-life and get tips on how to cope with the changes
+	    <br>
+      <a href="https://maintaining-positive-mental-health.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/innovate5.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Navigating Challenges Ahead for Support Officers </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am – 11.30am | Platform: Zoom
+      <br>       
+      <br>Do you want to future-proof yourself and stay relevant in today’s competitive landscape? In this session, you will learn tools on how to embrace and manage changes in the workplace. You will also gain a better understanding on how to embrace yourself and ride through changes.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Build an awareness of the changing landscape and workforce 
+      <br>• Describe the change curve and identify your current and desired state on the change curve
+      <br>• Discuss tools on embracing and managing changes in the workplace
+	    <br>
+      <a href="https://www.eventbrite.sg/e/navigating-challenges-ahead-for-support-officer-tickets-118589471301">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
     </td>
 </tr>
 <tr>
@@ -323,6 +304,23 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/innovate2.jpg">
     </td>
 </tr>
+<tr>
+     <td>
+      <b>Working in Multigenerational Workplace</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>            
+      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain why and how people of different generations behave differently
+      <br>• Identify strengths instead of weaknesses in people we work with
+      <br>
+      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
+    </td>
+</tr>
 </table>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
@@ -336,7 +334,26 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-	    <b>Assessing Your Insurance Needs</b> 
+      <b>Financial Adequacy </b>
+      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Have a clearer vision on how to start your financial planning
+      <br>• Take action to find out where you are now and how to meet your goals
+      <br>• Plan for other sources of income to support your financial goals 
+      <br>• When you are prepared, you will be more confident
+	    <br>
+      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Assessing Your Insurance Needs</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
       <br>       
       <br>This session aims to help participants to assess how much coverage they need and the considerations when selecting suitable products. Participants will also learn how to use online portal compareFIRST to compare and select life insurance products.
@@ -366,25 +383,6 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/finance3.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Financial Adequacy </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Have a clearer vision on how to start your financial planning
-      <br>• Take action to find out where you are now and how to meet your goals
-      <br>• Plan for other sources of income to support your financial goals 
-      <br>• When you are prepared, you will be more confident
-	    <br>
-      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr>
@@ -431,24 +429,7 @@ breadcrumb: 'Professional & Personal Development'
 
 <tr>
     <td>
-      <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
-      <br>       
-     <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Learn about how might we demonstrate Our Core Competencies in the area of our work.
-      <br>• Discover tips and techniques to cope with the rapidly changing work context. 
-	    <br>
-      <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/career1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Career Coaching Sessions</b> <font color="darkviolet"><b> [FULL]</b></font>
+      <b>Career Coaching Sessions </b> <font color="darkviolet"><b> [FULL]</b></font>
       <br> Platform: Zoom/ Skype
       <br>       
      <br>Gain insights from personalised coaching with our career coaches to manage your career. Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
@@ -462,6 +443,23 @@ breadcrumb: 'Professional & Personal Development'
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies </b> <font color="darkviolet"><b> [FULL]</b></font>
+      <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
+      <br>       
+     <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn about how might we demonstrate Our Core Competencies in the area of our work.
+      <br>• Discover tips and techniques to cope with the rapidly changing work context. 
+	    <br>
+      <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/career1.jpg">
     </td>
 </tr>
 <tr> 
@@ -505,6 +503,22 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
+	<tr>
+    <td>
+      <b>Your Physical Well-being </b>
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -538,22 +552,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/retirement1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Your Physical Well-being </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
-      <br>      
-      <br>Learning Outcomes:
-	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
-	    <br>
-      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>	     
       <b>LEARN modules</b>

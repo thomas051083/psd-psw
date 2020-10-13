@@ -10,7 +10,27 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
             <col width="30%"> 
 <tr> 
     <td>
-    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
+      <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> 
+      <br>20 & 22 October 2020, 12.00pm - 1.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br> 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
+      <br>       
+      <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn practical Active Health tips and the science behind being a “Health Millionaire”
+      <br>• Try simple fitness and health assessments, home-based exercises
+      <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
+      <br>
+      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
+    </td>    
+<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>
+	<tr> 
+    <td>
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
       <br>       
       <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
@@ -24,9 +44,26 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
-<tr>
+	<tr> 
     <td>
-      <b>Joyful Efficient Meetings Workshop </b> 
+      <b>Fighting Corruption as One Public Service </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
+      <br>
+      <br>Learning Outcomes:
+      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
+      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
+      <br>
+ <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
+    </td>
+</tr>
+	<tr>
+    <td>
+      <b>Joyful Efficient Meetings Workshop </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 10.30am - 11.45am | Platform: Zoom
       <br>       
       <br>Beat Zoom fatigue with this workshop by PSD to learn practical steps you can take to make meetings more productive and engaging (including knowing when to decline meeting invitations - yes, you can!). Suitable for anyone who regularly chairs, facilitates or organises meetings.
@@ -45,7 +82,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>	
     <td>
-      <b>Overview of GeoSpace</b>
+      <b>Overview of GeoSpace</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>23 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
       <br>This session introduces GeoSpace, a Whole-of-Government geospatial platform, and its benefits of sharing data with whole of government. This session will also cover the data contributed by various government agencies and functionalities available on GeoSpace.  
@@ -61,13 +98,31 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital7.jpg">
     </td>
 </tr>
+<tr>		
+    <td>
+      <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
+      <br>
+      <br>Learning Outcomes:
+      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
+      <br>• Build Whole-of-Government (WOG) service delivery – beyond the no wrong-door approach.
+      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
+      <br>
+      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr> 
 <tr> 
     <td>
       <b>Wellbeing@Work: Supporting our Peers</b> 
-      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom
-      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom
-      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
-      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom
+      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>       
       <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
       <br>
@@ -89,10 +144,10 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <tr> 
     <td>
       <b>Wellbeing@Work: Being A Supportive Leader</b>  
-      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom
-      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom
-      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom
-      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom
+      <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>       
       <br>Specially for leaders, supervisors and those in HR roles, this workshop will equip participants with skills and knowledge to support and engage staff
       <br>
@@ -110,62 +165,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage8.jpg">
     </td>
 </tr>
-<tr> 
-    <td>
-      <b>'Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series</b> 
-      <br>20, 22, 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
-      <br>       
-      <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn practical Active Health tips and the science behind being a “Health Millionaire”
-      <br>• Try simple fitness and health assessments, home-based exercises
-      <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
-      <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
-    </td>    
-<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Fighting Corruption as One Public Service </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>15 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Participants will get to learn about Singapore’s anti-corruption journey, corruption control framework, sharing of case studies, and be given an introductory view of CPIB’s Virtual Heritage Gallery Web Application. As we continue to transform as One Public Service to be more effective in serving Singaporeans, it is important to always remember our core principles of integrity, incorruptibility and transparency.
-      <br>
-      <br>Learning Outcomes:
-      <br> (1) Raise public officers’ awareness on Singapore’s anti-corruption journey and the far-reaching consequences of corruption
-      <br> (2) Understand the importance of maintaining integrity in Singapore’s Public Service
-      <br>
- <a href="https://www.eventbrite.sg/e/fighting-corruption-as-one-public-service-tickets-120146550567">Click here to register for 15 October session</a> <br>
-    </td>    
-<td>
-     <img src="/images/lead2.jpg">
-    </td>
-</tr>	
-<tr>		
-    <td>
-      <b>The Public Service Centre - Public Service Transformation in Real Time</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>14 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>Gain insights into the thinking behind the essence of citizen-centric delivery model. What does public service look like to the citizen? What can it look like? Should citizens be served or asked to be served?
-      <br>
-      <br>Learning Outcomes:
-      <br>• Rethink perspectives of  existing services delivery model(s) - deliver happiness!
-      <br>• Build Whole-of-Government (WOG) service delivery – beyond the no wrong-door approach.
-      <br>• Build a cohesive multiple stakeholders relationship to achieve WOG outcomes for citizens.
-      <br>
-      <a href="https://www.eventbrite.sg/e/the-public-service-centre-public-service-transformation-in-real-time-tickets-117611774985">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>  
 
 <tr> 
 <td>	     

@@ -25,24 +25,7 @@ Check out the programmes below, some of which are curated and offered only for t
 <table>
        <col width="70%"> 
             <col width="30%">
-<tr>		
-    <td>
-      <b>SSG's Multi Stakeholder Groups for EduTrust Certification Scheme</b>
-      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
-      <br>       
-      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
-      <br>• Articulate the lessons learnt in improving business processes 
-      <br>
-      <a href="https://edutrust-certification-scheme.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
+
 <tr>		
     <td>
 	    <b>The Heartware in Police Licensing</b>
@@ -62,6 +45,41 @@ Check out the programmes below, some of which are curated and offered only for t
 </tr>	
 <tr>		
     <td>
+	    <b>Mediation Skills for Public Officers </b> <b><font color="darkviolet">[FULL]</font></b>
+      <br>13 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+      <br>       
+      <br>As an officer on-the-ground, you will need to be equipped with mediation skills to resolve common conflicts. In this workshop, you will be introduced to the art of mediation and learn some basic techniques and skills that you can apply to resolve conflicts between disputing parties. You will have the opportunity to experience a virtual role-play of how a mediator mediate or resolve conflicts.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Discover basic techniques and skills to handle conflicts and difficult parties
+      <br>
+      <a href="https://mediation-skills.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/mediation1.jpg">
+    </td>
+</tr>	
+<tr>		
+    <td>
+      <b>SSG's Multi Stakeholder Groups for EduTrust Certification Scheme</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>23 October 2020, 4.00pm - 5.00pm | Platform: Zoom
+	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
+      <br>       
+      <br>This session allows you to gain insights into the EduTrust Certification Scheme and its role in raising the standards of private education in Singapore. 
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain the role(s) that regulators have in engaging their sector, and in ensuring that regulations and schemes remain effective to the sector.
+      <br>• Articulate the lessons learnt in improving business processes 
+      <br>
+      <a href="https://edutrust-certification-scheme.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+<tr>		
+    <td>
       <b>Tips from Behavioural Sciences to De-escalate Situations</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 3.30pm - 4.30pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
@@ -78,23 +96,6 @@ Check out the programmes below, some of which are curated and offered only for t
      <img src="/images/engage6.jpg">
     </td>
 </tr>
-<tr>		
-    <td>
-	    <b>Mediation Skills for Public Officers </b> <b><font color="darkviolet">[FULL]</font></b>
-      <br>13 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-	   <br><font color="dimgrey"><i>We will be prioritising officers from the Regulation, Enforcement & Compliance job family for this session.</i></font>
-      <br>       
-      <br>As an officer on-the-ground, you will need to be equipped with mediation skills to resolve common conflicts. In this workshop, you will be introduced to the art of mediation and learn some basic techniques and skills that you can apply to resolve conflicts between disputing parties. You will have the opportunity to experience a virtual role-play of how a mediator mediate or resolve conflicts.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Discover basic techniques and skills to handle conflicts and difficult parties
-      <br>
-      <a href="https://mediation-skills.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/mediation1.jpg">
-    </td>
-</tr>		
 <tr> 
     <td>	     
       <b>LEARN modules</b>
