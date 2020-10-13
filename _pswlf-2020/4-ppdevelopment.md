@@ -504,6 +504,22 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/volunteer.jpeg">
     </td>
 </tr>
+	<tr>
+    <td>
+      <b>Your Physical Well-being </b>
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>Mindfulness – The Key to Self-Awareness</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -537,22 +553,7 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/retirement1.jpg">
     </td>
 </tr>
-<tr>
-    <td>
-      <b>Your Physical Well-being </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
-      <br>      
-      <br>Learning Outcomes:
-	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
-	    <br>
-      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health2.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>	     
       <b>LEARN modules</b>
