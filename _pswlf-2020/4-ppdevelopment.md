@@ -334,6 +334,25 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
+      <b>Financial Adequacy </b>
+      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Have a clearer vision on how to start your financial planning
+      <br>• Take action to find out where you are now and how to meet your goals
+      <br>• Plan for other sources of income to support your financial goals 
+      <br>• When you are prepared, you will be more confident
+	    <br>
+      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
 	    <b>Assessing Your Insurance Needs</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 1.00pm – 2.30pm | Platform: Zoom
       <br>       
@@ -364,25 +383,6 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/finance3.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Financial Adequacy </b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Have a clearer vision on how to start your financial planning
-      <br>• Take action to find out where you are now and how to meet your goals
-      <br>• Plan for other sources of income to support your financial goals 
-      <br>• When you are prepared, you will be more confident
-	    <br>
-      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr>
