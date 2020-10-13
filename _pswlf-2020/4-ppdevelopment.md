@@ -147,26 +147,7 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-    <td>
-	    <b>Arrival of 5G Network</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>29 October 2020, 2.00pm – 3.30pm | Platform: Zoom
-      <br>       
-      <br>This session aims to help participants to understand what 5G Network is and how it will change your lifestyle and workspace.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain how 5G Network changes our lifestyle and workspace
-      <br>• Identify how Smart Business and new technologies has disrupted the employment landscape
-	    <br>
-      <a href="https://arrival-of-5g-network.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital1.jpeg">
-    </td>
-</tr>
 	
-
-
 <tr>
     <td>
 	    <b>Maintaining Positive Mental Health in the New Normal</b> <font color="crimson"><b> [NEW]</b></font>
@@ -181,6 +162,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/innovate5.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Arrival of 5G Network </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 2.00pm – 3.30pm | Platform: Zoom
+      <br>       
+      <br>This session aims to help participants to understand what 5G Network is and how it will change your lifestyle and workspace.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain how 5G Network changes our lifestyle and workspace
+      <br>• Identify how Smart Business and new technologies has disrupted the employment landscape
+	    <br>
+      <a href="https://arrival-of-5g-network.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital1.jpeg">
     </td>
 </tr>
 <tr>
