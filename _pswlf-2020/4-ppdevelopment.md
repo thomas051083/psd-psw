@@ -54,23 +54,7 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-    <td>
-      <b>Data Curation: Data Labelling, Exploration and Modelling</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
-      <br>       
-      <br>This will be a sharing on artificial intelligence, machine learning and data curation. It will include a demo on data labelling, data exploration and a simple ML model in python.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Understand basic artificial intelligence and machine learning
-      <br>• Recognise examples of data labelling, data exploration and python modelling
-      <br>
-      <a href="https://data-curation-pswlf.eventbrite.sg/">Click here to register.</a>   
-    </td>
-    <td>
-     <img src="/images/digital4.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
       <b>AI for Everyone</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -86,6 +70,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/digital3.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Data Curation: Data Labelling, Exploration and Modelling</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 2.00pm – 3.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing on artificial intelligence, machine learning and data curation. It will include a demo on data labelling, data exploration and a simple ML model in python.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Understand basic artificial intelligence and machine learning
+      <br>• Recognise examples of data labelling, data exploration and python modelling
+      <br>
+      <a href="https://data-curation-pswlf.eventbrite.sg/">Click here to register.</a>   
+    </td>
+    <td>
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
 <tr>
