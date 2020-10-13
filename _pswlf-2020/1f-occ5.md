@@ -8,42 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%">
             <col width="30%">
-
-<tr> 
-    <td>
-    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
-      <br>       
-      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
-      <br>
-      <br>Learning Outcomes:
-      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
-      <br>
- <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b><b><font color="crimson">[NEW]</font></b>
-      <br>27 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br> Do you want to improve your skills in creating and developing new ideas? 
-     <br> Learn how you can develop innovative ideas that not only target the purpose at the core, but build your team’s capabilities through the use of the Six ‘I’s of Innovation, an integrated methodology that combines design thinking with organisation and team development.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
-      <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
-      <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
-      <br>
-      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003">Click here to register.</a> 
-    </td>   
-<td>
-     <img src="/images/innovate1.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
@@ -160,23 +124,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>
     <td>
-      <b>A Product Management approach to building Singapore’s National Digital Identity</b>
-      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
-      <br>       
-      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity.
-      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
-      <br>
-      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital4.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
       <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
       <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
@@ -193,24 +140,40 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/Engage2.jpeg">
     </td>
 	</tr>
-<tr>   
-<td>
-<b>IRAS’ Workforce Transformation Journey</b>
-      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+<tr>
+    <td>
+      <b>A Product Management approach to building Singapore’s National Digital Identity </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
       <br>       
-      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
       <br>
       <br>Learning Outcomes:
-      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
-      <br>• Learn about how IRAS carried out its Workforce Transformation.
-      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
-      <br>  
-      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
-    </td>
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app.                             <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
+    </td>    
 <td>
-     <img src="/images/SkillUp1.jpg">
+     <img src="/images/digital4.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+    <b>Automating COVID-19 Diagnostic Testing – Timely Response to National Needs </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 10.00am -11.00am | Platform: Zoom
+      <br>       
+      <br>Webinar on how A*STAR researchers collaborated with ecosystem partners and navigated through challenges to deliver automation solutions in the fight against COVID-19
+      <br>
+      <br>Learning Outcomes:
+      <br>• Share the RAVE Project as an example of transforming how the Singapore Public Service works, to be even more effective in serving Singaporeans, and in Building Our Future Singapore
+      <br>
+ <a href="https://www.eventbrite.sg/e/automating-covid-19-diagnostic-testing-timely-response-to-national-needs-tickets-120138592765">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+
 <tr>
     <td>
       <b>Building a Geospatial Ecosystem</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -227,7 +190,25 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 	<td>
      <img src="/images/geospatial.jpg">
     </td>
-</tr>	
+</tr>
+<tr>
+    <td>
+      <b>Creating & Identifying New Ideas - Building an Innovating Mindset </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>       
+      <br> Do you want to improve your skills in creating and developing new ideas? 
+     <br> Learn how you can develop innovative ideas that not only target the purpose at the core, but build your team’s capabilities through the use of the Six ‘I’s of Innovation, an integrated methodology that combines design thinking with organisation and team development.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the importance of reframing current mindsets to become more resourceful, creative and open-minded
+      <br>• Learn how to identify personal strengths and areas for development around innovation skills and behaviours
+      <br>• Discover possible creative tools, techniques to identify new opportunities in daily work in the public sector
+      <br>
+      <a href="https://www.eventbrite.sg/e/creating-identifying-new-ideas-building-an-innovating-mindset-tickets-120139341003">Click here to register.</a> 
+    </td>   
+<td>
+     <img src="/images/innovate1.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>Delivering Social Services through Video-Conferencing </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -404,6 +385,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr>   
+<td>
+<b>IRAS’ Workforce Transformation Journey</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 3.00pm – 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how IRAS is building a future-ready workforce of agile, competent, adaptable, and empowered employees, anchored by its transformation journey called “The LEA:D Movement”.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn  the importance of anchoring Workforce Transformation on the organisation’s business transformation.
+      <br>• Learn about how IRAS carried out its Workforce Transformation.
+      <br>• Learn how IRAS took a phased and iterative approach to identify workforce gaps, formulate solutions, communicate change, and drive collective ownership.
+      <br>  
+      <a href="https://www.eventbrite.sg/e/iras-workforce-transformation-journey-tickets-117611823129">Click here to register.</a>   
+    </td>
+<td>
+     <img src="/images/SkillUp1.jpg">
     </td>
 </tr>
 <tr>	
