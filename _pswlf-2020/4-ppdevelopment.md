@@ -165,25 +165,7 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 	
-<tr>
-    <td>
-	    <b>Building Your Personal Resilience for Support Officer</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>21 October 2020, 10.00am – 12.00pm | Platform: Zoom
-      <br>       
-      <br>In today's rapidly changing environment and workplace, being resilient has become increasingly important as we face greater demands and challenges. Simply put, resilience is the ability to cope with stress, overcome diversity or adapt positively to change, and it is a process that involves our behaviour, thoughts and actions.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Deepen your sense of purpose & meaning with effective relationships
-      <br>• Enhance your knowledge and skills to develop and sustain positive relationships both at work and at home
-      <br>• Learn to strengthen personal resilience in managing change, crisis, and difficult emotions
-      <br>• Achieve a state of calm focus in life and at work
-	    <br>
-      <a href="https://www.eventbrite.sg/e/building-your-personal-resilience-for-support-officer-tickets-118589373007">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/service4.jpg">
-    </td>
-</tr>
+
 
 <tr>
     <td>
@@ -203,26 +185,26 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-	    <b>Navigating Challenges Ahead for Support Officers</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>22 October 2020, 10.00am – 11.30am | Platform: Zoom
+	<b>Building Your Personal Resilience for Support Officer </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>21 October 2020, 10.00am – 12.00pm | Platform: Zoom
       <br>       
-      <br>Do you want to future-proof yourself and stay relevant in today’s competitive landscape? In this session, you will learn tools on how to embrace and manage changes in the workplace. You will also gain a better understanding on how to embrace yourself and ride through changes.
+      <br>In today's rapidly changing environment and workplace, being resilient has become increasingly important as we face greater demands and challenges. Simply put, resilience is the ability to cope with stress, overcome diversity or adapt positively to change, and it is a process that involves our behaviour, thoughts and actions.
       <br>      
       <br>Learning Outcomes:
-      <br>• Build an awareness of the changing landscape and workforce 
-      <br>• Describe the change curve and identify your current and desired state on the change curve
-      <br>• Discuss tools on embracing and managing changes in the workplace
+      <br>• Deepen your sense of purpose & meaning with effective relationships
+      <br>• Enhance your knowledge and skills to develop and sustain positive relationships both at work and at home
+      <br>• Learn to strengthen personal resilience in managing change, crisis, and difficult emotions
+      <br>• Achieve a state of calm focus in life and at work
 	    <br>
-      <a href="https://www.eventbrite.sg/e/navigating-challenges-ahead-for-support-officer-tickets-118589471301">Click here to register.</a> 
+      <a href="https://www.eventbrite.sg/e/building-your-personal-resilience-for-support-officer-tickets-118589373007">Click here to register.</a> 
     </td>    
 <td>
-     <img src="/images/lead2.jpg">
+     <img src="/images/service4.jpg">
     </td>
 </tr>
-
 <tr>
     <td>
-      <b>Change as Opportunity</b>
+      <b>Change as Opportunity </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 1.00pm – 2.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
@@ -239,25 +221,8 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 <tr>
-     <td>
-      <b>Working in Multigenerational Workplace</b>
-      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>            
-      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Explain why and how people of different generations behave differently
-      <br>• Identify strengths instead of weaknesses in people we work with
-      <br>
-      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage8.jpg">
-    </td>
-</tr>
-<tr>
     <td>
-      <b>Creativity & Innovation at Work</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Creativity & Innovation at Work </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>15 October 2020, 10.00am – 12.00pm | Platform: Zoom
 	<br><font color="dimgrey"><i>We will be priortising access to officers from the Corporate Administration & Operations job family for this session.</i></font>
       <br>       
@@ -273,7 +238,7 @@ breadcrumb: 'Professional & Personal Development'
 </tr>
 <tr>
     <td>
-      <b>Importance of Growth Mindset in a VUCA World</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Importance of Growth Mindset in a VUCA World </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 2.00pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Our world is becoming increasingly Volatile, Uncertain, Complex and Ambiguous (VUCA). How do we prepare ourselves for such an environment? Why is it important to have a growth mindset?
@@ -286,6 +251,24 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/finance2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+	    <b>Navigating Challenges Ahead for Support Officers </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am – 11.30am | Platform: Zoom
+      <br>       
+      <br>Do you want to future-proof yourself and stay relevant in today’s competitive landscape? In this session, you will learn tools on how to embrace and manage changes in the workplace. You will also gain a better understanding on how to embrace yourself and ride through changes.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Build an awareness of the changing landscape and workforce 
+      <br>• Describe the change curve and identify your current and desired state on the change curve
+      <br>• Discuss tools on embracing and managing changes in the workplace
+	    <br>
+      <a href="https://www.eventbrite.sg/e/navigating-challenges-ahead-for-support-officer-tickets-118589471301">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/lead2.jpg">
     </td>
 </tr>
 <tr>
@@ -321,6 +304,23 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/innovate2.jpg">
+    </td>
+</tr>
+<tr>
+     <td>
+      <b>Working in Multigenerational Workplace</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>            
+      <br>Everyone knows the stereotype—millennials lack the resilience while the older generation resists change. These differences will be amplified if we fail to identify and understand the generational cohort and strengths of the people we work with.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Explain why and how people of different generations behave differently
+      <br>• Identify strengths instead of weaknesses in people we work with
+      <br>
+      <a href="https://working-in-multigenerational-workplace.eventbrite.sg">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage8.jpg">
     </td>
 </tr>
 </table>
@@ -431,24 +431,7 @@ breadcrumb: 'Professional & Personal Development'
 
 <tr>
     <td>
-      <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies</b> <font color="crimson"><b> [NEW]</b></font>
-      <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
-      <br>       
-     <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Learn about how might we demonstrate Our Core Competencies in the area of our work.
-      <br>• Discover tips and techniques to cope with the rapidly changing work context. 
-	    <br>
-      <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/career1.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Career Coaching Sessions</b> <font color="darkviolet"><b> [FULL]</b></font>
+      <b>Career Coaching Sessions </b> <font color="darkviolet"><b> [FULL]</b></font>
       <br> Platform: Zoom/ Skype
       <br>       
      <br>Gain insights from personalised coaching with our career coaches to manage your career. Take charge of your own career and speak to our career coaches who will help you navigate through these questions!
@@ -462,6 +445,23 @@ breadcrumb: 'Professional & Personal Development'
 	</td>
 <td>
      <img src="/images/coaching2.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>[Teaser] Taking Ownership of My Performance at Work using Core Competencies </b> <font color="darkviolet"><b> [FULL]</b></font>
+      <br>20 October 2020, 3.30pm – 5.00pm | Platform: Zoom
+      <br>       
+     <br>With the ever evolving work environment and expectations, what are useful tips and techniques that will enable you to perform effectively at work?
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Learn about how might we demonstrate Our Core Competencies in the area of our work.
+      <br>• Discover tips and techniques to cope with the rapidly changing work context. 
+	    <br>
+      <a href="https://www.eventbrite.sg/e/teaser-taking-ownership-of-my-performance-at-work-using-core-competencies-tickets-120346175651">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/career1.jpg">
     </td>
 </tr>
 <tr> 
