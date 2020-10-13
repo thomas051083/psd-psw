@@ -9,25 +9,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
        <col width="70%"> 
             <col width="30%"> 
 
-
-<tr> 
-    <td>
-     <b>Innovation in the SAF </b><b><font color="crimson">[NEW]</font></b>
-      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
-      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
-      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
-           <br>
- <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
-    </td>    
-<td>
-     <img src="/images/covid1.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b>
@@ -43,29 +24,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage7.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Wellbeing@Work: Supporting our Peers </b> 
-      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
-      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom
-      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom
-      <br>       
-      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
-      <br>• Initiate conversation with peers 
-      <br>• Listen and respond in an appropriate and supportive manner  
-      <br>• Encourage help seeking
-      <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
-    </td>    
-<td>
-     <img src="/images/Serve2.jpg">
     </td>
 </tr>
 <tr> 
@@ -158,6 +116,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital5.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+	    <b>Innovation in the SAF </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 2.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how the SAF has innovated in the Nation’s fight against COVID-19 and the ways technology has been leveraged to enhance training effectiveness and trainee engagement.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Learn how the SAF has innovated in the Nation’s fight against COVID-19 and to ensure business continuity in SAF operations
+      <br>• Discover how the SAF has leveraged technology to enhance training effectiveness and trainee engagement 
+      <br>• Gain an appreciation of the challenges and enablers to innovation in the SAF
+           <br>
+ <a href="https://www.eventbrite.sg/e/innovation-in-the-saf-tickets-120140500471">Click here to register.</a>
+    </td>    
+<td>
+     <img src="/images/covid1.jpg">
+    </td>
+</tr>
 <tr>	
     <td>
       <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -174,6 +150,29 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage7.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Wellbeing@Work: Supporting our Peers </b> 
+      <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
+      <br>       
+      <br>Specially for officers who are interested in playing a supportive role to and encouraging fellow colleagues, this workshop helps participants better understand how and what it means to be a peer supporter.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise common mental health issues (e.g. depression, anxiety, burnout)
+      <br>• Initiate conversation with peers 
+      <br>• Listen and respond in an appropriate and supportive manner  
+      <br>• Encourage help seeking
+      <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-3-tickets-118425641281">Click here to register for 27 October session.</a> <br>
+      <a href="https://www.eventbrite.sg/e/wellbeingwork-supporting-our-peers-run-4-tickets-118425733557">Click here to register for 29 October session.</a>
+    </td>    
+<td>
+     <img src="/images/Serve2.jpg">
     </td>
 </tr>
 <tr> 
