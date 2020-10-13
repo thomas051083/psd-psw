@@ -490,7 +490,7 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-      <b>Be a Volunteer</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <b>Be a Volunteer</b>
       <br>29 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone.
