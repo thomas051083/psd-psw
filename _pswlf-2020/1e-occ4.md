@@ -27,24 +27,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 <tr>	
- <td>
-      <b>A Product Management Approach to Building Singapore’s National Digital Identity</b>
-      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
-      <br>       
-      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Articulate what makes a National Digital Identity.
-      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
-      <br>
-      <br>
-      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital4.jpg">
-    </td>
-</tr>	
-<tr>	
     <td>
       <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
       <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
@@ -81,24 +63,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>MOH’s Regulatory Sandbox: Telemedicine</b>
-      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
-      <br>       
-      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
-      <br>
-      <br>Learning Outcomes:
-      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
-      <br>•  Recognise the mindsets that smart regulators need.
-      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
-      <br>
-      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Innovate1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
       <b>Too Thorny to Talk?: Engaging on Controversial Issues </b>
       <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
       <br>       
@@ -115,6 +79,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage4.jpg">
     </td>
 </tr>
+	<tr>	
+ <td>
+      <b>A Product Management Approach to Building Singapore’s National Digital Identity</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
+      <br>       
+      <br>Get insights into how the GovTech team develops the National Digital Identity platform and grows the ecosystem of consumers and private sector digital services.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Articulate what makes a National Digital Identity.
+      <br>• Describe how the Govtech team enhanced the SingPass Mobile app from an authentication app into a multi-functional “everyday” app?                           <br>• Explain how Govtech drove the growth and adoption of the platform ecosystem and supported  agencies and private sector in their digitalisation journeys.
+      <br>
+      <br>
+      <a href="https://www.eventbrite.sg/e/a-product-management-approach-to-building-a-national-digital-platform-tickets-117611696751">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital4.jpg">
+    </td>
+</tr>	
 <tr>
     <td>
       <b>Delivering Social Services through Video-Conferencing</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -241,7 +223,25 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/pay1.jpg">
     </td>
-</tr> 
+</tr>
+	<tr> 
+    <td>
+      <b>MOH’s Regulatory Sandbox: Telemedicine</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>27 October 2020, 10.00am - 11.00am | Platform: Zoom
+      <br>       
+      <br>To transform the way citizens and businesses are served, MOH has adopted a participatory approach to regulating the healthcare sector. This session looks at how MOH uses sandboxing as one of its regulatory tool in the context of telemedicine.
+      <br>
+      <br>Learning Outcomes:
+      <br>•  Understand how and why smart regulation is part of MOH's regulatory regime.
+      <br>•  Recognise the mindsets that smart regulators need.
+      <br>•  Understand what sandboxing is as a regulatory tool, when it can be used, its benefits and limitations.
+      <br>
+      <a href="https://www.eventbrite.sg/e/mohs-regulatory-sandbox-telemedicine-tickets-117610908393">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Innovate1.jpg">
+    </td>
+</tr>
 <tr>
     <td>
       <b>NLB Service DNA: Co-creating with Our Volunteers.</b> <b><font color="darkviolet"> [FULL]</font></b>
