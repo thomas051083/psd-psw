@@ -58,7 +58,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
       <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
       <br>
 	 <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
-	          <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 22 October session.</a> <br>   
+	          <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>   
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
       <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
     </td>    
