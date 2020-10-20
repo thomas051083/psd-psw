@@ -377,8 +377,5 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr> 
 </table>
 <br>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font><br>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
-<br>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>
