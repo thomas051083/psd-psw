@@ -8,24 +8,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr> 
-    <td>
-      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b>
-      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
-       <br>      
-       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants would better understand how they can work together with multiple stakeholders. 
-      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
-<br>
-</td>    
-<td>
-     <img src="/images/engage4.jpg">
-    </td>
-</tr>
+
 	<tr>	
  <td>
       <b>A Product Management Approach to Building Singapore’s National Digital Identity</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -314,6 +297,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
+       <br>      
+       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants would better understand how they can work together with multiple stakeholders. 
+      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
+<br>
+</td>    
+<td>
+     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr>		
