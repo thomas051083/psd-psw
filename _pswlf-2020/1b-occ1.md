@@ -8,25 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
-
-<tr>	
-    <td>
-      <b>Participatory Design - From Working For to Working With </b>
-      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
-      <br> 
-      <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not.
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
-      <br>
-      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> 
@@ -137,6 +118,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/covid1.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
+      <br> 
+      <br>Learning Outcomes:
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
+      <br>
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
 <tr> 
     <td>
       <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -156,7 +155,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr>
     <td>
-      <b>Wellbeing@Work: Supporting our Peers </b> 
+      <b>Wellbeing@Work: Supporting our Peers </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
