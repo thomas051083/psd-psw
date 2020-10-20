@@ -9,23 +9,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
        <col width="70%"> 
             <col width="30%"> 
 
-<tr> 
-    <td>
-      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b>
-      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
-      <br>
-      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
 <tr>	
     <td>
       <b>Participatory Design - From Working For to Working With </b>
@@ -152,6 +135,23 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/covid1.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
     </td>
 </tr>
 <tr>
