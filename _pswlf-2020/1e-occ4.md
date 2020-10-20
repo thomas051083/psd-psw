@@ -8,8 +8,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
-
-	<tr>	
+<tr>	
  <td>
       <b>A Product Management Approach to Building Singapore’s National Digital Identity</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
