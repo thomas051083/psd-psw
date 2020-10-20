@@ -12,7 +12,7 @@ third_nav_title: Job Specific Skills
             <col width="30%">
 <tr>		
     <td>
-      <b>Applications of AI-driven Video Analytics (VA)</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Applications of AI-driven Video Analytics (VA)</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>30 October 2020, 4.00pm - 5.00pm | Platform: Skype/ Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
