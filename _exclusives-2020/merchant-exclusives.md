@@ -121,7 +121,7 @@ For enquiries, please email to <a href="mailto:marcomms@csc.sg">marcomms@csc.sg<
 <img src="/images/8 degree.png">
     </td>
     <td>
-      <b>8 Degree Lounge<br> 20% off all drinks</b><br>
+      <b>8 Degree Lounge<br> The 8 Degree Lounge promotion is no longer available due to operational constraints. We apologise for any inconvenienced caused.</b><br>
     </td>
   </tr>
   <tr>

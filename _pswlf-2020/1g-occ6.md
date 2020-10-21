@@ -11,7 +11,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
+      <b>Hacking your innovation mindset! </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>26 October 2020, 3.00pm - 4.30pm | Platform: Zoom
       <br>       
       <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from Design Singapore Council's School of X's experience in a health, social and design challenge co-organised with the MOH Office for Healthcare Transformation, National Council of Social Services and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
@@ -66,8 +66,5 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 </table>
-
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>

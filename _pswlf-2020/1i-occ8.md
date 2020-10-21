@@ -11,7 +11,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 
 <tr> 
     <td>
-      <b>Shaping the Future Workplace </b>
+      <b>Shaping the Future Workplace </b><b><font color="darkviolet"> [FULL]</font></b>
       <br>16 October 2020, 1.45pm - 3.00pm | Platform: Zoom
       <br>       
       <br>Now that COVID-19 has upended traditional assumptions about the form and function of the office, what lies ahead for the Public Service workplace experience? Join this sharing session to hear from peers and contribute your views as we delve into the people, policy and technology initiatives that will be needed to realise our Future Workplace vision.   
@@ -31,7 +31,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>	
 <tr> 
     <td>
-      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> 
+      <b>Strengthening Leadership Culture : LEA:Ding IRAS </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>29 October 2020, 10.00am - 11.00am | Platform: Zoom
       <br>       
       <br>You will learn about our leader’s journey in co-creating the IRAS’ Leadership Principles and how it serves as a day-to-day “cultural compass” as we navigate through our transformation journey.
@@ -48,7 +48,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr>
 <tr> 
     <td>
-      <b>Wellbeing@Work: Being A Supportive Leader </b> 
+      <b>Wellbeing@Work: Being A Supportive Leader </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 10.00am - 12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
@@ -90,8 +90,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 </table>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>

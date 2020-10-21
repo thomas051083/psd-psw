@@ -120,7 +120,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 </tr> 
 <tr> 
     <td>
-      <b>Wellbeing@Work: Supporting our Peers</b> 
+      <b>Wellbeing@Work: Supporting our Peers</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
@@ -184,7 +184,5 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 </table>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>

@@ -8,96 +8,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr> 
-    <td>
-      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
-      <br> 
-      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
-      <br>• Simplify messages and information
-      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
-      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
-      <br>
-      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
-    </td>    
-<td>
-     <img src="/images/finance3.jpg">
-    </td>
-</tr>
 <tr>	
-    <td>
-      <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b>
-      <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand the challenges faced in the global drug landscape.
-      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs.
-      <br>
-      <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/drug1.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
-      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand what OneMap is.
-      <br>• Recognise the various functionalities within OneMap.
-      <br>• Identify features and application for users.
-      <br>
-      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Participatory Design - From Working For to Working With </b>
-      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
-      <br>
-      <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not.
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
-      <br>
-      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b>
-      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
-       <br>      
-       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants would better understand how they can work together with multiple stakeholders. 
-      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
-<br>
-</td>    
-<td>
-     <img src="/images/engage4.jpg">
-    </td>
-</tr>
-	<tr>	
  <td>
       <b>A Product Management Approach to Building Singapore’s National Digital Identity</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>28 October 2020, 9.00am - 10.00am | Platform: Zoom
@@ -115,6 +26,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital4.jpg">
     </td>
 </tr>	
+<tr>	
+    <td>
+      <b>CNB’s Preventive Drug Education Approach & Its Dadah Itu Haram Campaign</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>CNB has identified anti-drug advocacy as a new cornerstone in their prevention strategy to harness active citizenry and encourage shared responsibility in local communities. Learn the 4 main pillars of its comprehensive drug control strategy and the need to adopt a culturally-nuanced approach to better reach out to the community.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand the challenges faced in the global drug landscape.
+      <br>• Be able to publicly reaffirm Singapore’s tough stance against drugs.
+      <br>
+      <a href="https://www.eventbrite.sg/e/cnbs-pde-approach-its-dadah-itu-haram-campaign-tickets-117623277389">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/drug1.jpg">
+    </td>
+</tr>
+
 <tr>
     <td>
       <b>Delivering Social Services through Video-Conferencing</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -224,6 +153,43 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/change3.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>From Apathy to Affinity – CPFB’s Engagement Efforts </b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Learn how CPF Board evolved its communications efforts to sustain engagement with members. The CPF system supports the key pillars of retirement, housing and healthcare. Find out how CPF Board designs its engagement strategy and delivers messages that resonate with CPF members at different life stages.
+      <br> 
+      <br>You will learn about CPF Board’s multi-prong strategy to engage CPF members and how we:
+      <br>• Simplify messages and information
+      <br>• Amplify messages to make it more Believable, Actionable and Relevant to members 
+      <br>• Multiply our messages by leveraging partnerships and platforms and encourage members to take the next step in their retirement planning journey.
+      <br>
+      <a href="https://www.eventbrite.sg/e/from-apathy-to-affinity-cpfbs-engagement-efforts-tickets-119548832777">Click here to register.</a> <br>
+    </td>    
+<td>
+     <img src="/images/finance3.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Introduction to OneMap – The Authoritative Map of Singapore</b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand what OneMap is.
+      <br>• Recognise the various functionalities within OneMap.
+      <br>• Identify features and application for users.
+      <br>
+      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+</tr>
+
 <tr>		
     <td>
       <b>MAS - Future Ready Regulations for Innovation in Payment Services</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -294,10 +260,29 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <td>
      <img src="/images/innovate3.jpg">
     </td>
-</tr>  
+</tr> 
+<tr>
+    <td>
+      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b> 
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials (NDRM). 
+      <br>
+      <br>Learning Outcomes:
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
+      <br>
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+
 <tr> 
     <td>
-      <b>Playbook on the SG Youth Action Plan </b> <<b><font color="darkviolet"> [FULL]</font></b> 
+      <b>Playbook on the SG Youth Action Plan </b> <b><font color="darkviolet"> [FULL]</font></b> 
       <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
       <br>       
       <br>Learn how we give opportunities for youth to be heard, be empowered and be the change. How do you engage youth and turn conversations into actions? Learn the methods we used to develop a youth vision that resonates with youth, and how we build relationships with them so that they are empowered to take action and be the change. This is a citizen engagement strategy for youth, by youth.
@@ -311,6 +296,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>    
 <td>
      <img src="/images/engage11.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Too Thorny to Talk?: Engaging on Controversial Issues </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>14 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>As our partnership with citizens deepens, it is natural that we start working with multiple stakeholders. We may also start to run into complex and/or controversial issues! Let's discuss how we can navigate these areas by leveraging on the power of communities and conversations.
+       <br>      
+       <br> This session is organised for senior leaders by the PST-Committee for Citizen Engagement. You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants would better understand how they can work together with multiple stakeholders. 
+      <br>• Participants would also better understand how they can work on complex and/or controversial issues. Sharings from speakers will cover theory and practical tips.      
+<br>
+</td>    
+<td>
+     <img src="/images/engage4.jpg">
     </td>
 </tr>
 <tr>		
@@ -373,9 +376,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr> 
 </table>
-<br>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font><br>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 
 <div style="text-align: right"><a href="#top">Back to top</a></div>

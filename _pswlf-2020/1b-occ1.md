@@ -8,42 +8,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%"> 
             <col width="30%"> 
-
-<tr> 
-    <td>
-      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b>
-      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
-      <br>       
-      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
-      <br>
-      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Participatory Design - From Working For to Working With </b>
-      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
-      <br> 
-      <br>Learning Outcomes:
-      <br>• Recognise what PD is and is not.
-      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
-      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
-      <br>
-      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/engage7.jpg">
-    </td>
-</tr>
 <tr> 
     <td>
       <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> 
@@ -154,9 +118,44 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/covid1.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Participatory Design - From Working For to Working With </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>30 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This is an introduction to Participatory Design (PD). The session will provide a brief overview of PD tools and look at how PD was used by MOH in the design of the National Diabetes Reference Materials. 
+      <br> 
+      <br>Learning Outcomes:
+      <br>• Recognise what PD is and is not.
+      <br>• Explain how PD involves working with citizens in the development of infrastructure and content.
+      <br>• Recognise how PD is part of a slate of tools to transform the way the Public Service works (from working for to working with citizens).
+      <br>
+      <a href="https://www.eventbrite.sg/e/participatory-design-from-working-for-to-working-with-tickets-117609273503">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>Taking the Bull by the Horns – Our Regulatory Response to COVID-19 </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>15 October 2020, 4.00pm – 5.30pm | Platform: Zoom
+      <br>       
+      <br>The role of regulations was significant in Singapore’s fight against the COVID-19 pandemic and its progressive re-opening. This session aims to have frank and open dialogue with the Regulatory Directors who led the development of expedient regulatory responses to help businesses and citizens during the pandemic.  
+      <br>
+      <br> This session is organised for senior leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• For Regulatory Leaders - To Lead teams to innovate and catalyse the application of smart regulatory practices, and drive change within the organisation.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage7.jpg">
+    </td>
+</tr>
 <tr>
     <td>
-      <b>Wellbeing@Work: Supporting our Peers </b> 
+      <b>Wellbeing@Work: Supporting our Peers </b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>20 October 2020, 1.00pm - 3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>22 October 2020, 10.00am-12.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 1.00pm-3.00pm | Platform: Zoom <b><font color="darkviolet"> [FULL]</font></b>
@@ -197,7 +196,5 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 </table>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>

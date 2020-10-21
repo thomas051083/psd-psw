@@ -12,7 +12,7 @@ third_nav_title: Job Specific Skills
             <col width="30%">
 <tr>		
     <td>
-      <b>Applications of AI-driven Video Analytics (VA)</b> <b><font color="crimson">[NEW]</font></b>
+      <b>Applications of AI-driven Video Analytics (VA)</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>30 October 2020, 4.00pm - 5.00pm | Platform: Skype/ Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
@@ -29,7 +29,7 @@ third_nav_title: Job Specific Skills
 </tr>	
 <tr>		
     <td>
-      <b>Purple Hats – Improving Web Accessibility for Singapore</b>
+      <b>Purple Hats – Improving Web Accessibility for Singapore</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>27 October 2020, 10.30am - 12.00pm | Platform: Zoom
 	   <br><font color="dimgrey"><i>We will be priortising access to officers from the Science, Technology and Engineering job family for this session.</i></font>
       <br>       
@@ -226,8 +226,6 @@ third_nav_title: Job Specific Skills
     </td>
 </tr>
 </table>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 

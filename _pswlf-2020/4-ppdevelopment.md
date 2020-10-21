@@ -332,25 +332,7 @@ breadcrumb: 'Professional & Personal Development'
 <table>
        <col width="70%"> 
             <col width="30%"> 
-<tr>
-    <td>
-      <b>Financial Adequacy </b>
-      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
-      <br>      
-      <br>Learning Outcomes:
-      <br>• Have a clearer vision on how to start your financial planning
-      <br>• Take action to find out where you are now and how to meet your goals
-      <br>• Plan for other sources of income to support your financial goals 
-      <br>• When you are prepared, you will be more confident
-	    <br>
-      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/pay1.jpg">
-    </td>
-</tr>
+
 <tr>
     <td>
 	    <b>Assessing Your Insurance Needs</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -383,6 +365,25 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 	<td>
      <img src="/images/finance3.jpg">
+    </td>
+</tr>
+<tr>
+    <td>
+      <b>Financial Adequacy </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+      <br>Financial planning is a long-term and systematic approach to help you achieve what you want, especially when you wish to retire comfortably.
+      <br>      
+      <br>Learning Outcomes:
+      <br>• Have a clearer vision on how to start your financial planning
+      <br>• Take action to find out where you are now and how to meet your goals
+      <br>• Plan for other sources of income to support your financial goals 
+      <br>• When you are prepared, you will be more confident
+	    <br>
+      <a href="https://financial-adequacy-cfs.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/pay1.jpg">
     </td>
 </tr>
 <tr>
@@ -488,7 +489,7 @@ breadcrumb: 'Professional & Personal Development'
             <col width="30%"> 
 <tr>
     <td>
-      <b>Be a Volunteer</b>
+      <b>Be a Volunteer</b> <b><font color="darkviolet"> [FULL]</font></b>
       <br>29 October 2020, 1.00pm – 2.00pm | Platform: Zoom
       <br>       
      <br>Have you heard of the phrase “Pay it Forward”?  It is repaying the kindness to others instead of the original benefactor.  Be a volunteer for the cause you are most passionate about to help the less fortunate and make this a better place for everyone.
@@ -501,22 +502,6 @@ breadcrumb: 'Professional & Personal Development'
     </td>    
 <td>
      <img src="/images/volunteer.jpeg">
-    </td>
-</tr>
-	<tr>
-    <td>
-      <b>Your Physical Well-being </b>
-      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
-      <br>       
-     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
-      <br>      
-      <br>Learning Outcomes:
-	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
-	    <br>
-      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
-    </td>    
-	<td>
-     <img src="/images/health2.jpg">
     </td>
 </tr>
 <tr>
@@ -552,7 +537,22 @@ breadcrumb: 'Professional & Personal Development'
      <img src="/images/retirement1.jpg">
     </td>
 </tr>
-
+<tr>
+    <td>
+      <b>Your Physical Well-being </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 1.00pm – 2.00pm | Platform: Zoom
+      <br>       
+     <br>“The soul is willing but the body is weak”.  Does this sounds familiar? Feeling lethargic most of the time?  Regardless how young you are; we are ageing every day whether you like it or not.  
+      <br>      
+      <br>Learning Outcomes:
+	<br>• Describe a holistic approach to well-being and devise a plan to achieve a healthier lifestyle for yourself and your family
+	    <br>
+      <a href="https://your-physical-well-being.eventbrite.sg">Click here to register.</a> 
+    </td>    
+	<td>
+     <img src="/images/health2.jpg">
+    </td>
+</tr>
 <tr> 
     <td>	     
       <b>LEARN modules</b>
@@ -570,10 +570,6 @@ breadcrumb: 'Professional & Personal Development'
     </td>
 </tr>
 </table>
-<div style="text-align: right"><a href="#top">Back to top</a></div>
-<br>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 

@@ -8,40 +8,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
 <table>
        <col width="70%">
             <col width="30%">
-<tr> 
-    <td>
-      <b>Future of Service Delivery – an omnichannel model for citizens </b><b><font color="crimson">[NEW]</font></b>
-      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
-      <br>      
-      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-      <br>
-      <br>Learning Outcomes:
-      <br>• Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
-      <br>
-    </td>    
-<td>
-     <img src="/images/service3.jpeg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>Hacking your innovation mindset! </b><b><font color="crimson">[NEW]</font></b>
-      <br>26 October 2020, 3.00pm - 4.30pm | Platform: Zoom
-      <br>       
-      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from Design Singapore Council's School of X's experience in a health, social and design challenge co-organised with the MOH Office for Healthcare Transformation, National Council of Social Services and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
-      <br>• Learn about the skills and mindsets required to thrive and this can be applied to delivery of programmes for citizens
-      <br>
-      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407">Click here to register.</a> 
-    </td>  
-<td>
-     <img src="/images/innovate4.jpg">
-    </td>
-</tr>
+
 <tr> 
     <td>
       <b>In Conversation With: Mr Scott Cass-Dunbar, Chief Strategy Officer, Digital Transformation Agency, Australian Public Service </b><b><font color="crimson">[NEW]</font></b>
@@ -84,80 +51,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 
-<tr> 
-    <td>
-      <b>Making Regulatory Transformation Work </b><b><font color="crimson">[NEW]</font></b>
-      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
-      <br>       
-      <br>Join this panel discussion to hear and exchange ideas on how we can cultivate a conducive workforce culture and put in place enablers to support regulatory reviews that keeps our regulatory ecosystem forward-looking, up to date with industry innovations and supports new business models.
-       <br>
-       <br> This session is organised for regulatory leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
-       <br>
-       <br>   
-<b><font color="grey"><i>(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</i></font></b>
-      <br>
-      <br>Learning Outcomes:
-      <br>• To learn about the best practices in institutionalising a forward-looking regulatory ecosystem and the enablers in the organisation which support it.
-      <br>
-    </td>    
-<td>
-     <img src="/images/engage12.jpg">
-    </td>
-</tr>
-<tr> 
-    <td>
-      <b>National Service (NS) Transformation </b><b><font color="crimson">[NEW]</font></b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
-      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
-      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
-      <br>
-  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/pay1.jpg">
-    </td>
-</tr>
-<tr>	
-    <td>
-      <b>Improving Data Quality – Statistical Best Practices </b>
-      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
-      <br>       
-      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
-      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
-      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
-      <br>
-      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/digital5.jpg">
-    </td>
-</tr>
-<tr>
-    <td>
-      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>
-      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
-      <br>
-      <br>Learning Outcomes:
-      <br>• Understand what OneMap is.
-      <br>• Recognise the various functionalities within OneMap.
-      <br>• Identify features and application for users.
-      <br>
-      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
-    </td>    
-<td>
-     <img src="/images/Engage2.jpeg">
-    </td>
-	</tr>
+
 <tr>
     <td>
       <b>A Product Management approach to building Singapore’s National Digital Identity </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -281,6 +175,7 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage6.jpg">
     </td>
 </tr>
+
 <tr>		
     <td>
       <b>From Paper to Portal with an Agile Approach </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -299,6 +194,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/digital6.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>Future of Service Delivery – an omnichannel model for citizens </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 2.30pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>This will be a sharing session on the future of delivering services. The idea is of a WOG service delivery architecture that spans digital, call centre and physical services, supported by a common feedback and CRMS.
+      <br>      
+      <br> This session is organised for senior leaders by the PST-Service Delivery Committee.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+      <br>
+      <br>Learning Outcomes:
+      <br>• Participants will learn about the WOG approach and vision to achieve omni-channel service delivery. They will also reflect on how they can do things differently to improve service delivery and experience.
+      <br>
+    </td>    
+<td>
+     <img src="/images/service3.jpeg">
+    </td>
+</tr>
+
 <tr> 
     <td>
       <b>Future-Ready Service Transformation @ MOE</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -351,6 +264,24 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/innovationtest2.png">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>Hacking your innovation mindset! </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>26 October 2020, 3.00pm - 4.30pm | Platform: Zoom
+      <br>       
+      <br>Learn about skills that public service officers should equip themselves with to thrive and prepare for the future workplace, with a focus on design thinking, empathy, creativity and navigating with ambiguity. Find out about practical lessons and mindsets gleaned from Design Singapore Council's School of X's experience in a health, social and design challenge co-organised with the MOH Office for Healthcare Transformation, National Council of Social Services and NUS-ISS Smart Health Leadership Centre to co-create solutions to some of the biggest challenges amplified by COVID-19.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Discuss the need for public service officers and agencies to respond to ever changing sentiments of our citizens
+      <br>• Learn about the skills and mindsets required to thrive and this can be applied to delivery of programmes for citizens
+      <br>
+      <a href="https://www.eventbrite.sg/e/hacking-your-innovation-mindset-tickets-120143822407">Click here to register.</a> 
+    </td>  
+<td>
+     <img src="/images/innovate4.jpg">
+    </td>
+</tr>
+
 <tr>	
     <td>
       <b>How Do You Identify Different Stakeholders in Your Project? </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -369,6 +300,27 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/project1.jpg">
     </td>
 </tr>
+<tr>	
+    <td>
+      <b>Improving Data Quality – Statistical Best Practices </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Quality data is necessary for insightful analysis and evidence-based decision-making. This session will highlight the data quality dimensions and the statistical best practices to improve data quality in various statistical processes.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Identify data quality dimensions and the relevant statistical processess when producing data outputs.
+      <br>• Recognise the need to  adopt best practices from the planning to the development to the dissemination of data outputs.
+      <br>• Understand the requirements needed to manage and assure that high quality data are produced.
+      <br>
+      <a href="https://www.eventbrite.sg/e/improving-data-quality-statistical-best-practices-tickets-117624651499">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/digital5.jpg">
+    </td>
+</tr>
+
+
+
 <tr> 
     <td>
      <b>Innovation in the SAF </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -387,6 +339,26 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/covid1.jpg">
     </td>
 </tr>
+
+ <tr>
+    <td>
+      <b>Introduction to OneMap – The Authoritative Map of Singapore</b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <br>29 October 2020, 3.00pm - 5.00pm | Platform: Zoom
+      <br>       
+      <br>This session introduces OneMap, which aims to be Asia’s first open-source nationwide 3Dmap. It will cover the current usage of OneMap, how it is used by different sectors and the new improvements.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Understand what OneMap is.
+      <br>• Recognise the various functionalities within OneMap.
+      <br>• Identify features and application for users.
+      <br>
+      <a href="https://www.eventbrite.sg/e/introduction-to-onemap-the-authoritative-map-of-singapore-tickets-117611439983">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/Engage2.jpeg">
+    </td>
+	</tr>
+
 <tr>   
 <td>
 <b>IRAS’ Workforce Transformation Journey</b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -422,6 +394,45 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
      <img src="/images/engage8.jpg">
     </td>
 </tr>
+<tr> 
+    <td>
+      <b>Making Regulatory Transformation Work </b>  <b><font color="darkviolet"> [FULL]</font></b>
+      <br>19 October 2020, 10.00am - 11.30am | Platform: Zoom
+      <br>       
+      <br>Join this panel discussion to hear and exchange ideas on how we can cultivate a conducive workforce culture and put in place enablers to support regulatory reviews that keeps our regulatory ecosystem forward-looking, up to date with industry innovations and supports new business models.
+       <br>
+       <br> This session is organised for regulatory leaders by the Regulatory Workgroup.  You may contact <a href="mailto:PSD_PST@psd.gov.sg">PSD_PST@psd.gov.sg</a> for details.      
+       <br>
+       <br>   
+<b><font color="grey"><i>(*Panel members: Qinxin HUANG – Dir (GST Division - General Branch)/IRAS,  Daryl YEO – Dir (Futures & Transformation)/MOT, Kin Choong SEETOH – Deputy Director & Head | Conduct Surveillance & Analytics Div / Capital Markets Intermediaries Department II  | Suptech Div / Inspection & Methodologies Department/ MAS) and Whee Jim YEO – Institute Dir (Institute of Governance and Policy)/CSC as the Moderator)</i></font></b>
+      <br>
+      <br>Learning Outcomes:
+      <br>• To learn about the best practices in institutionalising a forward-looking regulatory ecosystem and the enablers in the organisation which support it.
+      <br>
+    </td>    
+<td>
+     <img src="/images/engage12.jpg">
+    </td>
+</tr>
+<tr> 
+    <td>
+      <b>National Service (NS) Transformation </b> <b><font color="darkviolet"> [FULL]</font></b>
+      <br>28 October 2020, 3.00pm - 4.00pm | Platform: Zoom
+      <br>       
+      <br>Discover how MINDEF is transforming the NS system and redesigning the NS experience to be digital-to-the-core through digital innovations. The Central Manpower Base (CMPB) will also share on their initiatives to enhance NS processes and e-services to allow pre-enlistees to transact with MINDEF/SAF more conveniently and seamlessly.
+      <br>
+      <br>Learning Outcomes:
+      <br>• Gain an overview of MINDEF/SAF’s National Service (NS) Digital Transformation approach and application of agile framework
+      <br>• Learn about various NS digital initiatives to transform the NS system and experience 
+      <br>• Discover how the Central Manpower Base (CMPB) is enhancing NS processes and e-services to enable convenient and seamless transactions for pre-enlistees
+      <br>
+  <a href="https://www.eventbrite.sg/e/national-service-ns-transformation-tickets-120140715113">Click here to register.</a> 
+    </td>    
+<td>
+     <img src="/images/pay1.jpg">
+    </td>
+</tr>
+
 <tr>	
     <td>
       <b>Joyful Efficient Meetings Workshop </b> <b><font color="darkviolet"> [FULL]</font></b>
@@ -643,8 +654,6 @@ third_nav_title: Learning Sessions (By Our Core Competencies)
     </td>
 </tr>
 </table>
-##### <font color="orange"><b>Don't have a LEARN account?</b></font>
-<font size="4.5">Sign up for a free LEARN account <a href="https://go.gov.sg/lv4xad">here</a>. You will be given access to the full range of LEARN modules curated for this Learning Festival from the period of 12 to 30 October 2020.</font>
 <br>
 
 
