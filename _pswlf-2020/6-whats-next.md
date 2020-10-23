@@ -1,7 +1,7 @@
 ---
 title: What is Next?
 permalink: /pswlf-2020/6-whats-next
-breadcrumb: 'What's Next?'
+breadcrumb: 'What is Next?'
 ---
 ![Hero Image](/images/LINN_Hero.jpg)
 ### <font color="orangered"><b>What's Next?</b></font>
