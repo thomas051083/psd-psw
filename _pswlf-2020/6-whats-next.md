@@ -38,3 +38,7 @@ To sign up for AUPE membership:<br>
 Agencies who are interested to conduct customised re-employment and growth mindset programmes or to curate other suitable programmes can contact AUPE (<a href="mailto:yanli_ng@aupe.org.sg">yanli_ng@aupe.org.sg</a>) too.<br></font>
 
 <br>
+<br>
+<br>
+<br>
+<a href="https://www.csc.gov.sg/"><img src="/images/PSWLF_Microsite_Footer_CSC,MOT&AUPE.jpg"></a>
