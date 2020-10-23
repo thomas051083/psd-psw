@@ -29,7 +29,7 @@ As a union member, you can claim up to $250 or $500 per year with the Union Trai
 
 For more information about UTAP, please visit <a href="https://www.skillsupgrade.ntuc.org.sg">www.skillsupgrade.ntuc.org.sg</a>.<br>
 
-For more information about AUPE and how to apply, please visit <a href"https://www.ntuc.org.sg/wps/portal/aupe/home/beamember/membership/membershipdetails?WCM_GLOBAL_CONTEXT=/unions_content_library/aupe/home/be+a+member/membership/8e581bab-a05c-4d34-a560-d5b4166ecfcb"> AUPE Membership Guide</a>.<br>
+For more information about AUPE and how to apply, please visit <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/beamember/membership/membershipdetails?WCM_GLOBAL_CONTEXT=/unions_content_library/aupe/home/be+a+member/membership/8e581bab-a05c-4d34-a560-d5b4166ecfcb"> AUPE Membership Guide</a>.<br>
 
 To sign up for AUPE membership:
 ∙ Apply <a href="https://www.ntuc.org.sg/wps/portal/aupe/home/signupform"> online</a>; or <br>
