@@ -2,7 +2,6 @@
 title: What's Next?
 permalink: /pswlf-2020/whats-next/
 breadcrumb: 'What's Next?'
-third_nav_title: Learning Sessions (By Our Core Competencies)
 ---
 ![Hero Image](/images/LINN_Hero.jpg)
 
