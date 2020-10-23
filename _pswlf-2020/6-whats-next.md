@@ -1,11 +1,9 @@
 ---
 title: What's Next?
-permalink: /pswlf-2020/6-whats-next/
+permalink: /pswlf-2020/6-whats-next
 breadcrumb: 'What's Next?'
 ---
 ![Hero Image](/images/LINN_Hero.jpg)
-yes
-
 ### <font color="orangered"><b>What's Next?</b></font>
 #### <font color="orange"><b>Deepen your learning!</b></font>
 If you have enjoyed the PSW learning sessions and are keen to explore further, why not visit the <a href="https://www.csc.gov.sg/">CSC
