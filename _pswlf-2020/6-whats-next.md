@@ -13,7 +13,7 @@ If you have enjoyed the PSW learning sessions and are keen to explore further, w
   • <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a><br>
   • <a href="/documents/In-person Programmes for FY20.pdf"> In-person programmes</a><br>
 
-You can also go on <a href="www.learn.gov.sg">LEARN</a>, where there is a wide variety of resources available for you choose from,
+You can also go on <a href="https://www.learn.gov.sg">LEARN</a>, where there is a wide variety of resources available for you choose from,
 to reskill yourself and stay relevant for our future work, workplace and workforce.<br><br>
 
 #### <font color="orange"><b>Stay updated!</b></font><br>
