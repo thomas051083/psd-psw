@@ -3,13 +3,11 @@ title: What's Next?
 permalink: /pswlf-2020/6-whats-next/
 breadcrumb: 'What's Next?'
 ---
-
-
 ![Hero Image](/images/LINN_Hero.jpg)
-
+yes
 
 ### <font color="orangered"><b>What's Next?</b></font>
-##### <font color="orange"><b>Deepen your learning!</b></font><br>
+#### <font color="orange"><b>Deepen your learning!</b></font>
 If you have enjoyed the PSW learning sessions and are keen to explore further, why not visit the <a href="https://www.csc.gov.sg/">CSC
   website</a> to find out our latest offerings? You can also view a list of our upcoming programmes here:<br />
   • <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a><br>
@@ -18,12 +16,12 @@ If you have enjoyed the PSW learning sessions and are keen to explore further, w
 You can also go on <a href="https://www.learn.gov.sg">LEARN</a>, where there is a wide variety of resources available for you choose from,
 to reskill yourself and stay relevant for our future work, workplace and workforce.<br><br>
 
-##### <font color="orange"><b>Stay updated!</b></font><br>
+#### <font color="orange"><b>Stay updated!</b></font><br>
 Follow CSC on our social media channels to gain practical tips and stay updated with the latest CSC offerings.<br>
   • Telegram (<a href="https://t.me/CSCSingapore"> @CSCsingapore</a>)<br>
   • Workplace (<a href="https://onepublicservice.workplace.com/profile.php?id=100014966077110&sk=timeline"> [CSCOLLEGE] Civil Service College</a>)<br><br>
   
-##### <font color="orange"><b>Boost Your Upskilling with Union Membership!</b></font><br>
+#### <font color="orange"><b>Boost Your Upskilling with Union Membership!</b></font><br>
 Get more bang for your buck with the AUPE membership!<br>
 
 AUPE is the largest public sector union in Singapore, representing employees in more than 50 ministries, statutory boards and organs of state. AUPE members enjoy an extensive range of benefits, ranging from training subsidies, welfare benefits to lifestyle privileges.<br><br>
