@@ -5,9 +5,9 @@ breadcrumb: 'What is Next?'
 ---
 ![Hero Image](/images/LINN_Hero.jpg)
 ### <font color="orangered"><b>What's Next?</b></font>
-<font size="6"><font color="darkorange"><b>Deepen your learning!</b></font></font>
+<font size="4.5"><font color="darkorange"><b>Deepen your learning!</b></font></font><br>
 <font size="4">If you have enjoyed the PSW learning sessions and are keen to explore further, why not visit the <a href="https://www.csc.gov.sg/">CSC
-  website</a> to find out our latest offerings? You can also view a list of our upcoming programmes here:<br />
+  website</a> to find out our latest offerings? You can also view a list of our upcoming programmes here:<br>
   • <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a><br>
   • <a href="/documents/In-person Programmes for FY20.pdf"> In-person programmes</a><br>
 
