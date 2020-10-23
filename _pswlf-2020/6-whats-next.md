@@ -1,5 +1,5 @@
 ---
-title: What's Next?
+title: What is Next?
 permalink: /pswlf-2020/6-whats-next
 breadcrumb: 'What's Next?'
 ---
