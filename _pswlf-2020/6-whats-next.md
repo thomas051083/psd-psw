@@ -17,8 +17,8 @@ to reskill yourself and stay relevant for our future work, workplace and workfor
 
 <font size="5"><font color="darkorange"><b>Stay updated!</b></font><br>
 <font size="4">Follow CSC on our social media channels to gain practical tips and stay updated with the latest CSC offerings.<br>
-  • Telegram (<a href="https://t.me/CSCSingapore"> @CSCsingapore</a>)<br>
-  • Workplace (<a href="https://onepublicservice.workplace.com/profile.php?id=100014966077110&sk=timeline"> [CSCOLLEGE] Civil Service College</a>)<br><br></font>
+  • Telegram (<a href="https://t.me/CSCSingapore">@CSCsingapore</a>)<br>
+  • Workplace (<a href="https://onepublicservice.workplace.com/profile.php?id=100014966077110&sk=timeline">[CSCOLLEGE] Civil Service College</a>)<br><br></font>
   
 <font size="5"><font color="darkorange"><b>Boost Your Upskilling with Union Membership!</b></font><br>
 <font size="4">Get more bang for your buck with the AUPE membership!<br><br>
