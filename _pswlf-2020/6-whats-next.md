@@ -10,20 +10,19 @@ breadcrumb: 'What is Next?'
 <font size="4">If you have enjoyed the PSW learning sessions and are keen to explore further, why not visit the <a href="https://www.csc.gov.sg/">CSC
   website</a> to find out our latest offerings? You can also view a list of our upcoming programmes here:<br>
  <table>
+    <col width="10%"> 
     <col width="20%"> 
-    <col width="30%"> 
-    <col width="30%"> 
     <col width="20%"> 
+    <col width="50%"> 
 <tr>
    <td>
   </td>
   <td>
-   <img src="/images/InpersonIcon.png"><br>
-  <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a>
+  <a href="/documents/MYNC_VCL_Listing.pdf"> <img src="/images/VCLIcon.png">Virtual Classroom programmes</a>
    </td>
   <td>
-   <img src="/images/VCLIcon.png"><br>
-  <a href="/documents/In-person Programmes for FY20.pdf"> In-person programmes</a>
+  <td>
+  <a href="/documents/In-person Programmes for FY20.pdf">  <img src="/images/InpersonIcon.png">In-person programmes</a>
   </td>
   <td>
   </td>
