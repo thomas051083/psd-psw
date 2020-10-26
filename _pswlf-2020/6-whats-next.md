@@ -22,7 +22,7 @@ breadcrumb: 'What is Next?'
   <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a>
    </td>
   <td>
-   <img src="/images/InpersonIcon.png"><br>
+   <img src="/images/VCLIcon.png"><br>
   <a href="/documents/In-person Programmes for FY20.pdf"> In-person programmes</a>
   </td>
   <td>
