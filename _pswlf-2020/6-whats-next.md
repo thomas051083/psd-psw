@@ -9,15 +9,24 @@ breadcrumb: 'What is Next?'
 <font size="5"><font color="darkorange"><b>Deepen your learning!</b></font><br>
 <font size="4">If you have enjoyed the PSW learning sessions and are keen to explore further, why not visit the <a href="https://www.csc.gov.sg/">CSC
   website</a> to find out our latest offerings? You can also view a list of our upcoming programmes here:<br>
-  <table>
+ <table>
     <col width="20%"> 
     <col width="30%"> 
     <col width="30%"> 
     <col width="20%"> 
-<tr> </images/InpersonIcon.png><br>
-  <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a><br>
+<tr>
+   <td>
+  </td>
+  <td>
+   </images/InpersonIcon.png><br>
+  <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a>
+   </td>
+  <td>
 </images/InpersonIcon.png><br>
   <a href="/documents/In-person Programmes for FY20.pdf"> In-person programmes</a>
+  </td>
+  <td>
+  </td>
 </tr>
 </table>
 You can also go on <a href="https://www.learn.gov.sg">LEARN</a>, where there is a wide variety of resources available for you choose from,
