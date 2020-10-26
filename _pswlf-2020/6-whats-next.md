@@ -18,11 +18,11 @@ breadcrumb: 'What is Next?'
    <td>
   </td>
   <td>
-   </images/InpersonIcon.png><br>
+   <img src="/images/InpersonIcon.png"><br>
   <a href="/documents/MYNC_VCL_Listing.pdf">Virtual Classroom programmes</a>
    </td>
   <td>
-</images/InpersonIcon.png><br>
+   <img src="/images/InpersonIcon.png"><br>
   <a href="/documents/In-person Programmes for FY20.pdf"> In-person programmes</a>
   </td>
   <td>
