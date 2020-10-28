@@ -8,9 +8,7 @@ breadcrumb: 'What is Next?'
 
 
 <font size="5"><font color="darkorange"><b>Catch up on what you’ve missed!</b></font><br>
-<font size="4">If you didn’t get a chance to attend our PSW learning sessions, don’t miss your chance to catch up them now. We have uploaded selected session recordings on LEARN. Hop on to the PSW Learning Festival tab on your LEARN app or click here <a href="https://www.learn.gov.sg/dlp/student/coursecollection/213691">here</a> to access them.
-
-
+<font size="4">If you didn’t get a chance to attend our PSW learning sessions, don’t miss your chance to catch up them now. We have uploaded selected session recordings on LEARN. Hop on to the PSW Learning Festival tab on your LEARN app or click here <a href="https://www.learn.gov.sg/dlp/student/coursecollection/213691">here</a> to access them.<br><br>
 
 <font size="5"><font color="darkorange"><b>Deepen your learning!</b></font><br>
 <font size="4">If you have enjoyed the PSW learning sessions and are keen to explore further, why not visit the <a href="https://www.csc.gov.sg/">CSC
