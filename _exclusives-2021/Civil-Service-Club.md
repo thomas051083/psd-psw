@@ -1,6 +1,6 @@
 ---
 title: 'Civil Service Club Clubhouse Promotions'
-permalink: /CSC-2021
+permalink: /CSC-clubhouse-2021
 
 
 ---
