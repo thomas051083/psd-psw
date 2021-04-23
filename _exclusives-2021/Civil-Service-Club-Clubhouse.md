@@ -1,10 +1,11 @@
 ---
-title: 'CS Club Clubhouse Promotions'
+title: 'CS Club Facilities & Chalets Promotions'
 permalink: /CSC-clubhouse-2021
 
 
 ---
 
-## Coming Soon!
+## CS Club Facilities & Chalets Promotions
+### Coming Soon!
 
 
