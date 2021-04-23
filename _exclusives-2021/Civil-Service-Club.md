@@ -1,11 +1,11 @@
 ---
 title: 'Civil Service Club Exclusives'
-permalink: /CSC-2021
+permalink: /exclusives-2021/CSC-2021
 
 
 ---
 
-test
+**test**
 
 <table>
 	<tr>
