@@ -12,12 +12,6 @@ permalink: /CSC-Free-Social-Activities/
 
 <table>
 	<tr>
-		<td colspan="2">
-				<br>
-			<b>Free CS Club activities</b>
-		</td>
-	</tr>
-	<tr>
 		<td>
 			<b>FAB Hiit</b> <br>
 			HIIT workout routine combines short bursts if intense exercise with periods of rest or high and low intensity exercise 
