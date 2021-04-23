@@ -1,5 +1,5 @@
 ---
-title: 'Civil Service Club Exclusives'
+title: 'Civil Service Club Clubhouse Promotions'
 permalink: /CSC-2021
 
 
