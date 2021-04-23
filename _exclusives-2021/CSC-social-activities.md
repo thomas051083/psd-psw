@@ -22,6 +22,7 @@ permalink: /CSC-Free-Social-Activities/
 			<b>FAB Hiit</b> <br>
 			HIIT workout routine combines short bursts if intense exercise with periods <br> of rest or high and low intensity exercise 
 			<br>
+			<br>
 			Date: Friday, 23 July '21 <br>
 			Time: 7.30pm - 8.30pm <br>
 			Register: Contact Constance at 63915607 or constancelow@csc.sg <br>
@@ -35,6 +36,7 @@ permalink: /CSC-Free-Social-Activities/
 		<td>
 			<b>Pastel Nagomi Art Demo Workshop</b> <br>
 			Learn the joy of creating gentle, soft and beautiful art form through simple <br> finger techniques using soft pastels
+			<br>
 			<br>
 			<i>Dreamy Garden</i> <br>
 			Date: Saturday, 3 July '21 <br>
