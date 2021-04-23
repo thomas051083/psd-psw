@@ -4,6 +4,9 @@ permalink: /CSC-Free-Social-Activities/
 
 ---
 
+<img src="/images/sa/Tessensohn main facade.jpg"/>
+
+
 CS Club has organised <b>FREE</b> Social Activites for Members and Public Service Officers
 
 
