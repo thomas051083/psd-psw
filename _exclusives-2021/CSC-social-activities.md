@@ -4,21 +4,27 @@ permalink: /CSC-Free-Social-Activities/
 
 ---
 
-**test**
+CS Club has organised <b>FREE</b> Social Activites for Members and Public Service Officers
+
+
 
 <table>
 	<tr>
 		<td colspan="2">
 				<br>
-			<b>CSC test 1</b>
+			<b>Free CS Club activities</b>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			CSC test 2
+			<b>Cake Pops Making</b> <br>
+			Join us on this workshop to make Cake Pops <br>
+			<br>
+			Date: <br>
+			Time: <br>
 		</td>
 		<td>
-			CSC test 3 
+			<img src="/images/sa/cake pops 2021 300.png"/>
 		</td>
 	</tr>
 	<tr>
