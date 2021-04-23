@@ -8,12 +8,10 @@ permalink: /CSC-Free-Social-Activities/
 
 <i>These Online Social Activites are <b>FREE</b> for Members and Public Service Officers</i>
 
-
-
 <table>
 	<tr>
 		<td>
-			<b>FAB Hiit</b> <br>
+			<b>FAB Hiit</b><br>
 			HIIT workout routine combines short bursts if intense exercise with periods of rest or high and low intensity exercise 
 			<br>
 			<br>
