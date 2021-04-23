@@ -17,8 +17,8 @@ permalink: /CSC-Free-Social-Activities/
 			<br>
 			Date: Friday, 23 July '21 <br>
 			Time: 7.30pm - 8.30pm <br>
-			Register: Contact Constance at 63915607 or constancelow@csc.sg <br>
-			To register by: 21 July '21
+			To register: Contact Constance at 63915607 or constancelow@csc.sg <br>
+			Register by: 21 July '21
 		</td>
 		<td>
 			<img src="/images/sa/fab hiit.png"/>
@@ -49,16 +49,18 @@ permalink: /CSC-Free-Social-Activities/
 	</tr>
 	<tr>
 		<td>
-			CSC test 6
+                        <b>Relax and Release with Meridian Self-Therapy</b> <br>
+			Learn the tip on how to relax and release tension with practical <br>techniques to relax and refresh your mind and emotions
+			<br>
+			<br>
+			Date: Saturday, 17 July '21 <br>
+			Time: 2.30pm - 4pm <br>
+			To register: Contact Gek Cheng at 63915624 or kuagekcheng@csc.sg<br>
+			Register by: 9 July '21 <br>
+			<br>
 		</td>
 		<td>
-			CSC test 7
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<br>
-			<b>CSC test 8</b>
+			<img src="/images/sa/relax.png"/>
 		</td>
 	</tr>
 
