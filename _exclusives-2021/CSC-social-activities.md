@@ -1,14 +1,12 @@
 ---
-title: 'CS Club Free Social Activities'
+title: 'CS Club Free Online Social Activities'
 permalink: /CSC-Free-Social-Activities/
 
 ---
 
-<img src="/images/sa/Tessensohn main facade.jpg"/> <br>
-<br>
-<img src="/images/sa/clubhouse banner bigger.png"/>
+## CS Club Free Online Social Activities
 
-CS Club has organised <b>FREE</b> Social Activites for Members and Public Service Officers
+<i>These Online Social Activites are <b>FREE</b> for Members and Public Service Officers</i>
 
 
 
