@@ -22,8 +22,7 @@ CS Club has organised <b>FREE</b> Social Activites for Members and Public Servic
 	<tr>
 		<td>
 			<b>Cake Pops Making</b> <br>
-			Join us on this workshop to make Cake Pops Join us on this workshop to make Cake Pops 
-			Join us on this workshop to make Cake Pops Join us on this workshop to make Cake Pops<br>
+			Join us on this workshop to make Cake Pops <br> 
 			<br>
 			Date: <br>
 			Time: <br>
