@@ -13,19 +13,15 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 
 collections:
-    pswlf-2020:
+    pstc-2021:
         output: true
-    all-workouts:
+    pstac-2021:
         output: true
-    jobspecific-details:
+    psc-2021:
         output: true
-    occ:
+    exclusives-2021:
         output: true
-    pstac-2020:
-        output: true
-    psc-2020:
-        output: true
-    exclusives-2020:
+    pswlf-2021:
         output: true
     
 resources_name: news
