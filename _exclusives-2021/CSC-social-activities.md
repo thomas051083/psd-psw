@@ -20,7 +20,7 @@ permalink: /CSC-Free-Social-Activities/
 	<tr>
 		<td>
 			<b>FAB Hiit</b> <br>
-			HIIT workout routine combines short bursts if intense exercise with periods <br> of rest or high and low intensity exercise 
+			HIIT workout routine combines short bursts if intense exercise with periods of rest or high and low intensity exercise 
 			<br>
 			<br>
 			Date: Friday, 23 July '21 <br>
@@ -35,7 +35,7 @@ permalink: /CSC-Free-Social-Activities/
 	<tr>
 		<td>
 			<b>Pastel Nagomi Art Demo Workshop</b> <br>
-			Learn the joy of creating gentle, soft and beautiful art form through simple <br> finger techniques using soft pastels
+			Learn the joy of creating gentle, soft and beautiful art form through simple finger techniques using soft pastels
 			<br>
 			<br>
 			<i>Dreamy Garden</i> <br>
