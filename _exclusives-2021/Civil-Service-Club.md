@@ -1,6 +1,6 @@
 ---
 title: 'Civil Service Club Exclusives'
-permalink: /exclusives-2021/CSC-2021
+permalink: /CSC-2021
 
 
 ---
