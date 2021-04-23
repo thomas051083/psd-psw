@@ -50,7 +50,7 @@ permalink: /CSC-Free-Social-Activities/
 			<br>
 		</td>
 		<td>
-			 CSC test 5
+			 <img src="/images/sa/pastel nagomi.png"/>
 		</td>
 	</tr>
 	<tr>
