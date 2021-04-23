@@ -2,13 +2,13 @@ logo: /images/PSW_Logo.png
 links:
   - title: What is PSW
     url: /what-is-psw/
-  - title: PSC
-    url: /psc-2020
+  - title: PSTC
+    collection: /pstc-2021
   - title: OPSOC
-    url: /opsoc-2020
+    url: /opsoc-2021
   - title: PSTAC
-    url: /pstac-2020
+    url: /pstac-2021
   - title: Learning Festival
-    collection: pswlf-2020
+    url: pswlf-2021
   - title: Exclusives
-    collection: exclusives-2020
+    collection: exclusives-2021
