@@ -16,10 +16,11 @@ permalink: /CSC-clubhouse-2021
 	</tr>
 	<tr>
 		<td>
-			CSC test 2
+			<b>Cake Pops Making</b> <br>
+			Join us on this workshop to make Cake Pops 
 		</td>
 		<td>
-			CSC test 3 
+			<img src="/images/sa/cake pops 2021 300.png"/>
 		</td>
 	</tr>
 	<tr>
