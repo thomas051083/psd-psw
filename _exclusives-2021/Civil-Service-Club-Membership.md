@@ -1,5 +1,5 @@
 ---
-title: 'Civil Service Club Membership Promotions'
+title: 'CS Club Membership Promotions'
 permalink: /CSC-Membership/
 
 ---
