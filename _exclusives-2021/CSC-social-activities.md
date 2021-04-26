@@ -44,6 +44,7 @@ permalink: /CSC-Free-Social-Activities/
 			<br>
 		</td>
 		<td>
+			 <br>
 			 <img src="/images/sa/pastel nagomi.png"/>
 		</td>
 	</tr>
