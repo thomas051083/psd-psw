@@ -1,7 +1,6 @@
 ---
-title: 'One Public Service Observance Ceremony'
-permalink: /opsoc-2021/programme-2021
-
+title: Programme
+permalink: /opsoc-2021/programme
 ---
 
 
