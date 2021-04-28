@@ -157,7 +157,7 @@ permalink: /CSC-Free-Social-Activities/
 		<td>
                         <b>Managing Pain and Inflammation</b> <br>
 			A talk that addresses the challenges of sticking to a healthy yet <br>
-			yummy dietfor the busy individual
+			yummy diet for the busy individual
 			<br>
 			<br>
 			Date: Saturday, 24 July '21 <br>
