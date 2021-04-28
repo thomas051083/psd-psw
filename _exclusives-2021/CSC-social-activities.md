@@ -24,6 +24,7 @@ permalink: /CSC-Free-Social-Activities/
 		</td>
 		<td>
 			<img src="/images/sa/healthy eating.png"/>
+			<width: 300px>
 		</td>
 	</tr>
 	<tr>
