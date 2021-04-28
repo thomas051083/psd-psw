@@ -15,7 +15,7 @@ This year, we are going fully virtual! Join us in the mega ceremony for all publ
 You will also hear from Prime Minster Lee Hsien Loong and Minister-in-charge of the Public Service, Chan Chun Sing on how we  turned crisis into opportunity.
 <br>
 <br>
-**Time and Date:** 16 October 2020, 10am - 11am<br>
+**Time and Date:** 9 July 2021, 2.00pm - 3.30pm<br>
 **Virtual Platform:** Zoom Webinar <br>
 You may register <a href="https://gems.gevme.com/public-service-week-22695027">here</a>.<br> 
 
