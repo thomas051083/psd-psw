@@ -46,8 +46,8 @@ permalink: /CSC-clubhouse-2021
 			Bookings for chalets must be made in July for <br>
 			use/stay from 1 Aug - 31 Oct '21. <br>
       <br>
-      Email to Rooms@csc.sg for more information or <br>
-      to make a booking.
+      Email to Rooms@csc.sg for more information <br> 
+      or to make a booking.
 			<br>
 			<br>
 		</td>
