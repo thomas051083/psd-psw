@@ -29,8 +29,9 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Members' Rate for Bowling at CSC</b> <br>
       <br>
-			Walk-in or book online at Resort Bowl, Planet Bowl <br>
-			and Westwood Bowl for bowling from 1 to 31 July '21
+			Walk-in or book online at Resort Bowl, Planet <br>
+			Bowl and Westwood Bowl for bowling from <br>
+			1 to 31 July '21
 			<br>
 			<br>
 		</td>
