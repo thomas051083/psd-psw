@@ -54,7 +54,7 @@ permalink: /CSC-clubhouse-2021
 			<img src="/images/sa/Changi chalet.jpg"/>
 		</td>
 	</tr>
-  <tr>
+	<tr>
 		<td>
       <b>Members' Rate for Booking of BBQ Pavilions</b> <br>
       <br>
@@ -70,6 +70,25 @@ permalink: /CSC-clubhouse-2021
 		</td>
 		<td>
 			<img src="/images/sa/BB treehouse.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+      <b>Members' Rate for Booking of Function Rooms</b> <br>
+      <br>
+			Bookings for Function Rooms must be made in July for <br>
+			use/stay from 1 Aug - 31 Oct '21. For Function rooms <br>
+			at CSC @ Changi l and CSC @ Bukit Batok only. <br>
+      <br>
+      Email respectively for more information or to make <br>
+      a booking: <br> 
+      CSC @ Changi - Changi@csc.sg or<br>
+      CSC Bukit Batok - Bukitbatok@csc.sg 
+			<br>
+			<br>
+		</td>
+		<td>
+			<img src="/images/sa/BB room.jpg"/>
 		</td>
 	</tr>
 </table>
