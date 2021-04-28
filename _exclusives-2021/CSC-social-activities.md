@@ -13,7 +13,7 @@ permalink: /CSC-Free-Social-Activities/
 		<td>
                         <b>Healthy Eating for A Busy Lifestyle</b> <br>
 			A talk that addresses the challenges of sticking to a healthy yet 
-			yummy diet for the busy individual test
+			yummy diet for the busy individual.
 			<br>
 			<br>
 			Date: Thursday, 1 July '21 <br>
@@ -23,8 +23,8 @@ permalink: /CSC-Free-Social-Activities/
 			<br>
 		</td>
 		<td>
-			<img src="/images/sa/healthy eating.png"/>
-			<width: 300px>
+			<img src="/images/sa/healthy eating.png"/;
+			width: 300px>
 		</td>
 	</tr>
 	<tr>
