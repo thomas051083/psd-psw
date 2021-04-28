@@ -13,7 +13,7 @@ permalink: /CSC-Free-Social-Activities/
 		<td>
                         <b>Healthy Eating for A Busy Lifestyle</b> <br>
 			A talk that addresses the challenges of sticking to a healthy yet 
-			yummy dietfor the busy individual
+			yummy diet for the busy individual
 			<br>
 			<br>
 			Date: Thursday, 1 July '21 <br>
@@ -156,8 +156,7 @@ permalink: /CSC-Free-Social-Activities/
 	<tr>
 		<td>
                         <b>Managing Pain and Inflammation</b> <br>
-			A talk that addresses the challenges of sticking to a healthy yet <br>
-			yummy diet for the busy individual
+			Understand the symptoms of pain and inflammation and ways to reduce them.
 			<br>
 			<br>
 			Date: Saturday, 24 July '21 <br>
