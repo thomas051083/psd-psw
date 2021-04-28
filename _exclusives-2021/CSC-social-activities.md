@@ -12,7 +12,7 @@ permalink: /CSC-Free-Social-Activities/
 	<tr>
 		<td>
                         <b>Healthy Eating for A Busy Lifestyle</b> <br>
-			A talk that addresses the challenges of sticking to a healthy yet <br>
+			A talk that addresses the challenges of sticking to a healthy yet 
 			yummy dietfor the busy individual
 			<br>
 			<br>
