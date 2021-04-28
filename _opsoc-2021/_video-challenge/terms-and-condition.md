@@ -1,6 +1,6 @@
 ---
 title: “Public Service Appreciation” Video Message Challenge 
-permalink: /opsoc-2021/video-challenge
+permalink: /opsoc-2021/video-challenge/terms-and-challenge
 ---
 ##One Public Service Observance Ceremony 2021 Video Challenge
 Terms and Conditions
