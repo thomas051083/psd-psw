@@ -46,8 +46,8 @@ permalink: /CSC-clubhouse-2021
 			Bookings for chalets must be made in July for <br>
 			use/stay from 1 Aug - 31 Oct '21. <br>
       <br>
-      Email to Rooms@csc.sg for more information or to make <br>
-      a booking.
+      Email to Rooms@csc.sg for more information or <br>
+      to make a booking.
 			<br>
 			<br>
 		</td>
@@ -62,8 +62,8 @@ permalink: /CSC-clubhouse-2021
 			Bookings for BBQ Pavilions must be made in July <br> 
 			for use/stay from 1 Aug - 31 Oct '21. <br>
       <br>
-      Email respectively for more information or to make <br>
-      a booking: <br> 
+      Email respectively for more information or <br>
+      to make a booking: <br>
       CSC @ Changi - Changi@csc.sg or<br>
       CSC Bukit Batok - Bukitbatok@csc.sg 
 			<br>
@@ -82,8 +82,8 @@ permalink: /CSC-clubhouse-2021
 			For Function rooms at CSC @ Changi l and <br>
 			CSC @ Bukit Batok only. <br>
       <br>
-      Email respectively for more information or to make <br>
-      a booking: <br> 
+      Email respectively for more information or <br>
+      to make a booking: <br> 
       CSC @ Changi - Changi@csc.sg or<br>
       CSC Bukit Batok - Bukitbatok@csc.sg 
 			<br>
