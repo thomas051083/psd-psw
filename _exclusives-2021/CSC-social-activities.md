@@ -135,7 +135,6 @@ permalink: /CSC-Free-Social-Activities/
 		</td>
 		<td>
 			<br>
-			<br>
 			<img src="/images/sa/yoga.png"/>
 		</td>
 	</tr>
