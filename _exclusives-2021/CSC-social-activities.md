@@ -22,7 +22,8 @@ permalink: /CSC-Free-Social-Activities/
 			Register by: 30 June '21 <br>
 			<br>
 		</td>
-		<td>
+		<td width: 300px;
+			     max-width: 100%>
 			<img src="/images/sa/healthy eating.png"/>
 		</td>
 	</tr>
