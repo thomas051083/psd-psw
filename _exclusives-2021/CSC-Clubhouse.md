@@ -13,6 +13,8 @@ permalink: /CSC-clubhouse-2021
 <table>
 	<tr>
 		<td>
+			<br>
+			<br>
       <b>Free Entry to CSC Swimming Pools</b> <br>
       <br>
 			Walk-in for pool use between 1 to 31 Jul '21, no<br>  
@@ -27,6 +29,9 @@ permalink: /CSC-clubhouse-2021
 	</tr>
 		<tr>
 		<td>
+			<br>
+			<br>
+			<br>
       <b>Members' Rate for Bowling at CSC</b> <br>
       <br>
 			Walk-in or book online at Resort Bowl, Planet <br>
@@ -41,6 +46,9 @@ permalink: /CSC-clubhouse-2021
 	</tr>
   <tr>
 		<td>
+			<br>
+			<br>
+			<br>
       <b>Members' Rate for Booking of Chalets</b> <br>
       <br>
 			Bookings for chalets must be made in July for <br>
