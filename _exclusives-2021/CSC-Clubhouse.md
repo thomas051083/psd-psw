@@ -15,9 +15,9 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Free Entry to CSC Swimming Pools</b> <br>
       <br>
-			Walk-in for pool use between 1 to 31 Jul '21, no prior <br>
-			booking needed. Public Service Officers can sign in up to <br>
-      2 guests. Prevailing guest fees applies.
+			Walk-in for pool use between 1 to 31 Jul '21, no<br>  
+			prior booking needed. Public Service Officers can <br>
+                        sign in up to 2 guests. Prevailing guest fees applies.
 			<br>
 			<br>
 		</td>
@@ -29,8 +29,8 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Members' Rate for Bowling at CSC</b> <br>
       <br>
-			Walk-in or book online at Resort Bowl, Planet Bowl and <br>
-			Westwood Bowl for bowling from 1 to 31 July '21
+			Walk-in or book online at Resort Bowl, Planet Bowl <br>
+			and Westwood Bowl for bowling from 1 to 31 July '21
 			<br>
 			<br>
 		</td>
@@ -42,8 +42,8 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Members' Rate for Booking of Chalets</b> <br>
       <br>
-			Bookings for chalets must be made in July for use/stay <br>
-			from 1 Aug - 31 Oct '21. <br>
+			Bookings for chalets must be made in July for <br>
+			use/stay from 1 Aug - 31 Oct '21. <br>
       <br>
       Email to Rooms@csc.sg for more information or to make <br>
       a booking.
@@ -58,8 +58,8 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Members' Rate for Booking of BBQ Pavilions</b> <br>
       <br>
-			Bookings for BBQ Pavilions must be made in July for <br>
-			use/stay from 1 Aug - 31 Oct '21. <br>
+			Bookings for BBQ Pavilions must be made in July <br> 
+			for use/stay from 1 Aug - 31 Oct '21. <br>
       <br>
       Email respectively for more information or to make <br>
       a booking: <br> 
@@ -76,9 +76,10 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Members' Rate for Booking of Function Rooms</b> <br>
       <br>
-			Bookings for Function Rooms must be made in July for <br>
-			use/stay from 1 Aug - 31 Oct '21. For Function rooms <br>
-			at CSC @ Changi l and CSC @ Bukit Batok only. <br>
+			Bookings for Function Rooms must be made in <br> 
+			July for use/stay from 1 Aug - 31 Oct '21. <br>
+			For Function rooms at CSC @ Changi l and <br>
+			CSC @ Bukit Batok only. <br>
       <br>
       Email respectively for more information or to make <br>
       a booking: <br> 
