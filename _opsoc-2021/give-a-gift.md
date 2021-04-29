@@ -22,7 +22,7 @@ Each Easy Brew Box ($30) includes:<br>
 •	1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules<br>
 *Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed<br>
 <br>
-Foreword Coffee (www.forewordcoffee.com) is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.<br>
+<a href="https://www.forewordcoffee.com">Foreword Coffee</a> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.<br>
 <br>
 <br>
 ####Bizlink’s Floral & Hamper<br>
@@ -43,13 +43,13 @@ The OPSOC 2021 Appreciation Hamper 2 ($50) includes<br>
 •	Miaow Miaow Prawn Crackers<br>
 •	Win2 Baked Potato Crisp Crackers – Sweet Potato<br>
 <br>
-Bizlink’s Floral & Hamper (F&H) Social Enterprise (www.gift.org.sg) was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons With Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers. <br>
+<a href="https://www.gift.org.sg">Bizlink’s Floral & Hamper (F&H) Social Enterprise</a> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons With Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers. <br>
 <br>
 <br>
 ####Yellow Ribbon Singapor<br>
 <Product details pending><br>
 <br>
-Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), Yellow Ribbon Singapore (YRSG) (www.yellowribbon.gov.sg) is a statutory board under the Ministry of Home Affairs.<br>
+Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), <a href="https://www.yellowribbon.gov.sg">Yellow Ribbon Singapore (YRSG)</a> is a statutory board under the Ministry of Home Affairs.<br>
   <br>
 YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network.<br>
 
