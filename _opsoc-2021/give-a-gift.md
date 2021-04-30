@@ -10,19 +10,47 @@ Ever wanted to send them more than a ‘Thank you’ email? What better way to s
 <br>
 There are gift-giving celebrations such as Mothers’ Day, Christmas Day and Valentines’ Day but have you ever heard of Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Observance Ceremony, we offer you just that – an occasion to “Give a Gift”!<br>
 <br>
-Our selection of gifts are fit for that discerning colleague and at the same time, you get to support a local Social Service Organisation. Look no further for a fine selection of gifting options from social enterprises such as Foreword Coffee, Bizlink Gifts, and the Yellow Ribbon Project!<br>
+Our selection of gifts is fit for that discerning colleague and at the same time, you get to support a local Social Service Organisation. Look no further for a fine selection of gifting options from social enterprises such as Foreword Coffee, Bizlink Gifts, and Yellow Ribbon Industries!<br>
+<br>
+<table width="100%">
+  <tr>
+    <td width="33%">Foreword logo</td>
+    <td width="33%">Bizlink logo</td>
+    <td width="33%">YRI logo</td>
+  </tr> 
+</table>
 <br>
 <br>
 ####Foreword Coffee Roasters<br>
 Looking for a gift for a coffee-lover? With delivery available at a small cost, the Easy Brew Box from Foreword Coffee would be just perfect for him or her!<br>
 <br>
-Each Easy Brew Box ($30) includes:<br>
-•	5 biodegradable brew bags (assorted flavours*)<br>
-•	1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules<br>
-•	1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules<br>
+<table>
+  <tr>
+    <td width="67%">
+      Each Easy Brew Box ($30) includes:<br>
+      <ul>
+        <li>5 biodegradable brew bags (assorted flavours*)
+        <li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules
+        <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
+      </ul>
+    </td>
+    <td width="33%">
+        img
+        img
+    </td>
+  </tr>
+ </table>
 *Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed<br>
 <br>
-<a href="https://www.forewordcoffee.com">Foreword Coffee</a> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.<br>
+<br>
+<table>
+  <tr>
+    <td width="33%">Foreword logo</td>
+    <td width="67%"><a href="https://www.forewordcoffee.com">Foreword Coffee</a> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.
+    </td>
+  </tr>
+ </table>
+<br>
 <br>
 <br>
 ####Bizlink’s Floral & Hamper<br>
