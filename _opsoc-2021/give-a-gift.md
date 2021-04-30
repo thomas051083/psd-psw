@@ -53,32 +53,68 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
 <br>
 <br>
 <br>
-####Bizlink’s Floral & Hamper<br>
+####Bizlink’s Floral & Hamper (F&H Social Enterprise)<br>
 Looking for a suitable gift for a group of colleagues? With free delivery, these halal-certified hamper options are perfect for sharing!<br>
 <br>
-The OPSOC 2021 Appreciation Hamper 1 ($50) includes<br>
-•	Nature’s Wonders Baked Nuts – Pistachios<br>
-•	K. Harrodson Blueberry Butter Cookies <br>
-•	Daiana Coffee Break – Mocha<br>
-•	Sincero Dark Chocolate – Raisins<br>
-•	Yogood Chocolate Coated Muesli Bars – Chocolate & Nuts<br>
+<table>
+  <tr>
+    <td width="67%">
+      The OPSOC 2021 Appreciation Hamper 1 ($50) includes:<br>
+      <ul>
+        <li>Nature’s Wonders Baked Nuts – Pistachios
+        <li>K. Harrodson Blueberry Butter Cookies
+        <li>Daiana Coffee Break – Mocha
+        <li>Sincero Dark Chocolate – Raisins
+        <li>Yogood Chocolate Coated Muesli Bars – Chocolate & Nuts
+      </ul>
+    </td>
+    <td width="33%">
+        image
+    </td>
+  </tr>
+ </table>
 <br>
 <br>
-The OPSOC 2021 Appreciation Hamper 2 ($50) includes<br> 
-•	Nature’s Wonders Baked Nuts – Pistachios<br>
-•	K. Harrodson Choco Chip Butter Cookies <br>
-•	Daiana Coffee Break – Mocha<br>
-•	Miaow Miaow Prawn Crackers<br>
-•	Win2 Baked Potato Crisp Crackers – Sweet Potato<br>
+<table>
+  <tr>
+    <td width="67%">
+      The OPSOC 2021 Appreciation Hamper 2 ($50) includes:<br>
+      <ul>
+        <li>Nature’s Wonders Baked Nuts – Pistachios
+        <li>K. Harrodson Choco Chip Butter Cookies
+        <li>Daiana Coffee Break – Mocha
+        <li>Miaow Miaow Prawn Crackers
+        <li>Win2 Baked Potato Crisp Crackers – Sweet Potat
+      </ul>
+    </td>
+    <td width="33%">
+        image
+    </td>
+  </tr>
+ </table>
 <br>
-<a href="https://www.gift.org.sg">Bizlink’s Floral & Hamper (F&H) Social Enterprise</a> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons With Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers. <br>
+<br>
+<table>
+  <tr>
+    <td width="33%">Bizlink logo</td>
+    <td width="67%"><a href="https://www.gift.org.sg">Bizlink’s Floral & Hamper (F&H) Social Enterprise</a> was launched in 2012 with     the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an         array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged     and Persons With Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.
+    </td>
+  </tr>
+ </table>
 <br>
 <br>
-####Yellow Ribbon Singapor<br>
+####Yellow Ribbon Industries Pte Ltd<br>
 <Product details pending><br>
 <br>
-Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), <a href="https://www.yellowribbon.gov.sg">Yellow Ribbon Singapore (YRSG)</a> is a statutory board under the Ministry of Home Affairs.<br>
-  <br>
-YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network.<br>
+<table>
+  <tr>
+    <td width="33%">YRI logo</td>
+    <td width="67%"><a href="https://www.yri.com.sg">Yellow Ribbon Industries Pte Ltd (YRI)</a> is a wholly-owned subsidiary of Yellow Ribbon Singapore, which is a statutory board under the Ministry of Home Affairs. YRI operates three business units within prisons, namely Business Outsourcing, Kitchen and Bakery, to engage inmates within work programmes to inculcate work ethics and to provide industry-relevant skills and training. The Bakery Unit manufactures sandwich loaves, artisanal products and festive goodies such as pineapple tarts, mooncakes and cookies.
+    </td>
+  </tr>
+ </table>  
+<br>
+<br>
+Ready to “Give a Gift”? Scan the QR code below to reserve your preferred gift options! Hurry, as limited quantities are available!<br>
 
 
