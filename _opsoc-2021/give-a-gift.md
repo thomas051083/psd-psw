@@ -104,7 +104,17 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <br>
 <br>
 ####Yellow Ribbon Industries Pte Ltd<br>
-<Product details pending><br>
+Product pending confirmation<br>
+<br>
+<table>
+  <tr>
+    <td width="67%">
+      YRI Product description<br>
+    </td>
+    <td width="33%"> YRI product image
+    </td>
+  </tr>
+ </table>
 <br>
 <table>
   <tr>
