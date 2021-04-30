@@ -34,9 +34,7 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
         <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
       </ul>
     </td>
-    <td width="33%">
-        img
-        img
+    <td width="33%">product images
     </td>
   </tr>
  </table>
@@ -69,7 +67,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
       </ul>
     </td>
     <td width="33%">
-        image
+        product image
     </td>
   </tr>
  </table>
@@ -88,7 +86,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
       </ul>
     </td>
     <td width="33%">
-        image
+        product image
     </td>
   </tr>
  </table>
@@ -111,7 +109,7 @@ Product pending confirmation<br>
     <td width="67%">
       YRI Product description<br>
     </td>
-    <td width="33%"> YRI product image
+    <td width="33%">product image
     </td>
   </tr>
  </table>
