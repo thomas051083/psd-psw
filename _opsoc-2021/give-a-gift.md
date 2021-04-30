@@ -12,9 +12,9 @@ There are gift-giving celebrations such as Mothers’ Day, Christmas Day and Val
 <br>
 Our selection of gifts is fit for that discerning colleague and at the same time, you get to support a local Social Service Organisation. Look no further for a fine selection of gifting options from social enterprises such as Foreword Coffee, Bizlink Gifts, and Yellow Ribbon Industries!<br>
 <br>
-<table width="100%">
+<table>
   <tr>
-    <td width="33%">Foreword logo</td>
+    <td width="33%"><img src="images/OPSOC_Logo-Foreword.png"></td>
     <td width="33%">Bizlink logo</td>
     <td width="33%">YRI logo</td>
   </tr> 
