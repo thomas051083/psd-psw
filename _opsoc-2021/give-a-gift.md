@@ -69,7 +69,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
       </ul>
     </td>
     <td width="33%">
-        product image
+        <img src="/images/OPSOC_BizlinkHamper1.png">
     </td>
   </tr>
  </table>
@@ -84,11 +84,11 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
         <li>K. Harrodson Choco Chip Butter Cookies
         <li>Daiana Coffee Break – Mocha
         <li>Miaow Miaow Prawn Crackers
-        <li>Win2 Baked Potato Crisp Crackers – Sweet Potat
+        <li>Win2 Baked Potato Crisp Crackers – Sweet Potato
       </ul>
     </td>
     <td width="33%">
-        product image
+         <img src="/images/OPSOC_BizlinkHamper2.png">
     </td>
   </tr>
  </table>
