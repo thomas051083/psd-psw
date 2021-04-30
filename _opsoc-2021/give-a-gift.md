@@ -15,8 +15,8 @@ Our selection of gifts is fit for that discerning colleague and at the same time
 <table>
   <tr>
     <td width="33%"><img src="/images/OPSOC_Logo-Foreword.png"></td>
-    <td width="33%">Bizlink logo</td>
-    <td width="33%">YRI logo</td>
+    <td width="33%"><img src="/images/OPSOC_Logo-Bizlink.jpg"></td>
+    <td width="33%"><img src="/images/OPSOC_Logo-YRI.png"></td>
   </tr> 
 </table>
 <br>
@@ -34,7 +34,9 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
         <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
       </ul>
     </td>
-    <td width="33%">product images
+    <td width="33%">
+      <img src="/images/OPSOC_Logo-EasyBrewBox1.jpg">
+      <img src="/images/OPSOC_Logo-EasyBrewBox2.jpg">
     </td>
   </tr>
  </table>
@@ -43,7 +45,7 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
 <br>
 <table>
   <tr>
-    <td width="33%">Foreword logo</td>
+    <td width="33%"><img src="/images/OPSOC_Logo-Foreword.png"></td>
     <td width="67%"><a href="https://www.forewordcoffee.com">Foreword Coffee</a> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.
     </td>
   </tr>
@@ -94,7 +96,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <br>
 <table>
   <tr>
-    <td width="33%">Bizlink logo</td>
+    <td width="33%"><img src="/images/OPSOC_Logo-Bizlink.jpg"></td>
     <td width="67%"><a href="https://www.gift.org.sg">Bizlink’s Floral & Hamper (F&H) Social Enterprise</a> was launched in 2012 with     the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an         array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged     and Persons With Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.
     </td>
   </tr>
@@ -116,7 +118,7 @@ Product pending confirmation<br>
 <br>
 <table>
   <tr>
-    <td width="33%">YRI logo</td>
+    <td width="33%"><img src="/images/OPSOC_Logo-YRI.png"></td>
     <td width="67%"><a href="https://www.yri.com.sg">Yellow Ribbon Industries Pte Ltd (YRI)</a> is a wholly-owned subsidiary of Yellow Ribbon Singapore, which is a statutory board under the Ministry of Home Affairs. YRI operates three business units within prisons, namely Business Outsourcing, Kitchen and Bakery, to engage inmates within work programmes to inculcate work ethics and to provide industry-relevant skills and training. The Bakery Unit manufactures sandwich loaves, artisanal products and festive goodies such as pineapple tarts, mooncakes and cookies.
     </td>
   </tr>
