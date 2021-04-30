@@ -14,7 +14,7 @@ Our selection of gifts is fit for that discerning colleague and at the same time
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="images/OPSOC_Logo-Foreword.png"></td>
+    <td width="33%"><img src="/images/OPSOC_Logo-Foreword.png"></td>
     <td width="33%">Bizlink logo</td>
     <td width="33%">YRI logo</td>
   </tr> 
