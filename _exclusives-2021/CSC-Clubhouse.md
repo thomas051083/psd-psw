@@ -15,7 +15,7 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Free Entry to CSC Swimming Pools</b> <br>
       <br>
-			Walk-in for pool use between 1 to 31 Jul '21, no<br>  
+			Walk-in for pool use between 1 to 31 Jul '21, <br>no  
 			prior booking needed. Public Service Officers can <br>
                         sign in up to 2 guests. Prevailing guest fees applies.
 			<br>
@@ -59,7 +59,7 @@ permalink: /CSC-clubhouse-2021
 		<td>
       <b>Members' Rate for Booking of BBQ Pavilions</b> <br>
       <br>
-			Bookings for BBQ Pavilions must be made in July <br> 
+			Bookings for BBQ Pavilions must be made in <br>July  
 			for use/stay from 1 Aug - 31 Oct '21. <br>
       <br>
       Email respectively for more information or <br>
