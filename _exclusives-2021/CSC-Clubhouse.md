@@ -16,8 +16,8 @@ permalink: /CSC-clubhouse-2021
       <b>Free Entry to CSC Swimming Pools</b> <br>
       <br>
 			Walk-in for pool use between 1 to 31 Jul '21, <br>no  
-			prior booking needed. Public Service Officers can <br>
-                        sign in up to 2 guests. Prevailing guest fees applies.
+			prior booking needed. Public Service Officers can
+                        sign in up to 2 guests.<br> Prevailing guest fees applies.
 			<br>
 			<br>
 		</td>
