@@ -123,7 +123,7 @@ permalink: /CSC-Free-Social-Activities/
         <tr>
 		<td>
                         <b>Yoga for Runners</b> <br>
-			Yoga that is designed for the runner's body offers both strength-building <br>
+			Yoga that is designed for the runner's body offers both strength- <br>building 
 			and muscle sculpting benefits to enhance one's running performance.
 			<br>
 			<br>
