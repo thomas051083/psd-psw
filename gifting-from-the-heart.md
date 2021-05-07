@@ -1,6 +1,6 @@
 ---
 title: Gifting from the Heart
-permalink: /opsoc-2021/give-a-gift
+permalink: /opsoc-2021/gifting-from-the-heart
 ---
 ###Gifting from the Heart<br>
 <br>
