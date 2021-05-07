@@ -20,77 +20,89 @@ You may register <a href="https://gems.gevme.com/public-service-week-22695027">h
 
 <br>
 <b>What you can look forward to:</b><br>
-<table>
+<table width="100%" border="1">
   <tr>
-    <th>
-      Time
+    <th width="20%">
+      TIME
     </th>
-    <th>
-      Activity
+    <th width="80%">
+      OPSOC PROGRAMME 2021
     </th>
   </tr>
   <tr>
     <td>
-      10.00am
+      2:15pm
     </td>
     <td>
-      Opening by Emcee
+      Pre-event interactive and Engaging Activities:<br>
+      <ul>
+        <li>One Public Service Quiz
+        <li>One Public Service Video Message Challenge
+      </ul>
     </td>
   </tr>
   <tr> 
     <td>
-      10.05am
+      2:30pm
     </td>
     <td>
-      Opening Video - "A Story to Tell" + Opening address by Prime Minister Lee Hsien Loong
-    </td>
-  </tr>
-  <tr>
-    <td>
-      10.10am
-    </td>
-    <td>
-      Address by Minister-in-charge of the Public Service, Mr. Chan Chun Sing
+      Opening by Emcee<br>
+      Welcome by Minister Chan Chun Sing, Minister-in-Charge of Public Service<br>
     </td>
   </tr>
   <tr>
     <td>
-      10.25am
+      2:35pm
     </td>
     <td>
-      Screening of Public Service Week Video
-    </td>
-  </tr>
-  <tr>
-    <td>
-      10.30am
-    </td>
-    <td>
-      Pledge-taking and Singing of the National Anthem
+      Speech by Min Chan<br>
+      Video: Singapore Emerging Stronger Together<br>
     </td>
   </tr>
   <tr>
     <td>
-      10.40am
+      2:55pm
     </td>
     <td>
-      Appreciation Segment for Officers
-    </td>
-  </tr>
-  <tr>
-    <td>
-      10.50sm
-    </td>
-    <td>
-      Screening of Thank You Message from Members of Public
+      Message from Head, Civil Service
     </td>
   </tr>
   <tr>
     <td>
-      10.55am
+      3:00pm
     </td>
     <td>
-      Closing by Emcee
+      Recital of Public Service Pledge (led by Head, Civil Service)<br>
+      Singing of National Anthem<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3:05pm
+    </td>
+    <td>
+      Interactive and Engaging Activities:<br>
+      <ul>
+        <li>Reflections – Being a Public Officer
+        <li>Gifting with a Heart
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3:15pm
+    </td>
+    <td>
+      Video: Thank you, Public Officers<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3:20pm
+    </td>
+    <td>
+      Closing by Emcee<br>
+      A Song Dedicated to Public Officers – Performance by SCDF MPAC<br>
     </td>
   </tr>
 </table>
