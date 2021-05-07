@@ -1,8 +1,8 @@
 ---
-title: Give A Gift
+title: Gifting from the Heart
 permalink: /opsoc-2021/give-a-gift
 ---
-###Give a Gift!<br>
+###Gifting from the Heart<br>
 <br>
 In our eventful journey as Public Officers, our paths tend to cross with colleagues across various public agencies as we engage in meaningful collaborations and work relations to deliver the best outcome to the public.<br>
 <br>
