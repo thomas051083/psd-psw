@@ -35,8 +35,8 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
       </ul>
     </td>
     <td width="33%">
-      <img src="/images/OPSOC2021AppreciationHamper1.jpg">
-      <img src="/images/OPSOC2021AppreciationHamper2.jpg">
+      <img src="/images/OPSOC2021AppreciationHamper1.png">
+      <img src="/images/OPSOC2021AppreciationHamper2.png">
     </td>
   </tr>
  </table>
@@ -152,6 +152,6 @@ YRI supports YRSG’s mission through the operation of three business units with
 <br>
 Ready to “Gift from the Heart”? Scan the QR code below to reserve your preferred gift options! Hurry, as limited quantities are available<br>
 
-<img src="/images/Gift-from-the-Heart QR.png"></td>
+<img align="center" src="/images/Gift-from-the-Heart QR.png"></td>
 
 
