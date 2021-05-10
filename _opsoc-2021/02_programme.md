@@ -11,7 +11,7 @@ permalink: /opsoc-2021/02_programme
       TIME
     </th>
     <th width="80%">
-      OPSOC PROGRAMME 2021
+      OPSOC PROGRAMME 2021 (9 JULY)
     </th>
   </tr>
   <tr>
@@ -19,7 +19,7 @@ permalink: /opsoc-2021/02_programme
       2:15pm
     </td>
     <td>
-      Pre-event interactive and Engaging Activities:<br>
+      Pre-event interactive and engaging activities:<br>
       <ul>
         <li>One Public Service Quiz
         <li>One Public Service Video Message Challenge
@@ -66,9 +66,9 @@ permalink: /opsoc-2021/02_programme
       3:05pm
     </td>
     <td>
-      Interactive and Engaging Activities:<br>
+      Interactive and engaging activities:<br>
       <ul>
-        <li>Reflections – Being a Public Officer
+        <li>Reflections of Being a Public Officer
         <li>Gifting with a Heart
       </ul>
     </td>
@@ -87,7 +87,7 @@ permalink: /opsoc-2021/02_programme
     </td>
     <td>
       Closing by Emcee<br>
-      A Song Dedicated to Public Officers – Performance by SCDF MPAC<br>
+      A Song Dedicated to Public Officers by SCDF's Music and Performing Arts Club<br>
     </td>
   </tr>
 </table>
