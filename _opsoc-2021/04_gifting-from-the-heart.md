@@ -26,18 +26,15 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
 <br>
 <table>
   <tr>
-    <td width="67%">
-      Each <b>Easy Brew Box ($30)</b> includes:<br>
-      <ul>
+	<ul>
         <li>5 biodegradable brew bags (assorted flavours*)
         <li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules
         <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
       </ul>
-    </td>
-    <td width="33%">
-      <img src="/images/EasyBrewBox1.jpg">
-      <img src="/images/EasyBrewBox2.jpg">
-    </td>
+	</tr>
+	<tr>
+    <td width="50%"><img src="/images/EasyBrewBox1.jpg"> </td>
+    <td width="50%"><img src="/images/EasyBrewBox2.jpg"> </td>
   </tr>
  </table>
 *Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed<br>
@@ -77,6 +74,9 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <br>
 <table>
   <tr>
+	      <td width="33%">
+         <img src="/images/OPSOC2021AppreciationHamper2.png">
+    </td>
     <td width="67%">
       The <b>OPSOC 2021 Appreciation Hamper 2 ($50)</b> includes:<br>
       <ul>
@@ -86,9 +86,6 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
         <li>Miaow Miaow Prawn Crackers
         <li>Win2 Baked Potato Crisp Crackers – Sweet Potato
       </ul>
-    </td>
-    <td width="33%">
-         <img src="/images/OPSOC2021AppreciationHamper2.png">
     </td>
   </tr>
  </table>
