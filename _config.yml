@@ -17,6 +17,8 @@ collections:
         output: true
     pstac-2021:
         output: true
+    opsoc-2021:
+        output: true
     psc-2021:
         output: true
     opsoc-2021:
