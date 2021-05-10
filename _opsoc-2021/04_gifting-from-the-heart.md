@@ -14,9 +14,9 @@ Our selection of gifts is fit for that deserving colleague and at the same time,
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Foreword Coffee.png"></td>
-    <td width="33%"><img src="/images/Bizlink Gifts.jpg"></td>
-    <td width="33%"><img src="/images/Yellow Ribbon Industries.png"></td>
+    <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
+    <td width="33%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
+    <td width="33%"><img src="/images/Yellow Ribbon Industries.png" height="200" alt="Yellow Ribbon Industries"></td>
   </tr> 
 </table>
 <br>
@@ -33,8 +33,8 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
       </ul>
 	</tr>
 	<tr>
-    <td width="50%"><img src="/images/EasyBrewBox1.jpg"> </td>
-    <td width="50%"><img src="/images/EasyBrewBox2.jpg"> </td>
+    <td width="50%"><img src="/images/EasyBrewBox1.jpg" height="300" alt="Easy Brew Box_1"> </td>
+    <td width="50%"><img src="/images/EasyBrewBox2.jpg" height="300" alt="Easy Brew Box_2"> </td>
   </tr>
  </table>
 *Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed<br>
@@ -42,7 +42,7 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Foreword Coffee.png"></td>
+    <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
     <td width="67%"><a href="https://www.forewordcoffee.com">Foreword Coffee</a> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.
     </td>
   </tr>
@@ -66,7 +66,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
       </ul>
     </td>
     <td width="33%">
-        <img src="/images/OPSOC2021AppreciationHamper1.png">
+        <img src="/images/OPSOC2021AppreciationHamper1.png" height="200" alt="OPSOC 2021 Appreciation Hamper 1">
     </td>
   </tr>
  </table>
@@ -75,7 +75,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <table>
   <tr>
 	      <td width="33%">
-         <img src="/images/OPSOC2021AppreciationHamper2.png">
+         <img src="/images/OPSOC2021AppreciationHamper2.png" height="200" alt="OPSOC 2021 Appreciation Hamper 2">
     </td>
     <td width="67%">
       The <b>OPSOC 2021 Appreciation Hamper 2 ($50)</b> includes:<br>
@@ -93,7 +93,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Bizlink Gifts.jpg"></td>
+    <td width="33%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
     <td width="67%"><a href="https://www.gift.org.sg">Bizlink’s Floral & Hamper (F&H) Social Enterprise</a> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.
     </td>
   </tr>
@@ -114,25 +114,25 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td><img src="/images/chocolatechipcookies.png"></td>
+		<td><img src="/images/chocolatechipcookies.png"height="150" alt="Chocolate Chip Cookies"></td>
 	</tr>
 		<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/cranberrycookies.png"></td>
+		<td><img src="/images/cranberrycookies.png" height="150" alt="Cranberry Cookies"></td>
 	</tr>
 		<tr>
 		<td>3.</td>
 		<td>Hae Bee Hiam Cookies</td>
 		<td>300g</td>
-		<td><img src="/images/haebeehiamcookies.png"></td>
+		<td><img src="/images/haebeehiamcookies.png" height="250" alt="Hae Bee Hiam Cookies"></td>
 	</tr>
 	<tr>
 		<td>4.</td>
 		<td>Salted Caramel Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/saltedcaramelcookies.png"></td>
+		<td><img src="/images/saltedcaramelcookies.png" height="250" alt="Salted Caramel Cookies"></td>
 	</tr>
 </table>
 <br>
@@ -140,7 +140,7 @@ Suitable for all colleagues, these delicious cookies are available with free del
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Yellow Ribbon Industries.png"></td>
+    <td width="33%"><img src="/images/Yellow Ribbon Industries.png" height="200"></td>
     <td width="67%"><a href="https://www.yri.com.sg">Yellow Ribbon Industries Pte Ltd (YRI)</a> is a wholly-owned subsidiary of Yellow Ribbon Singapore (YRSG), which is a statutory board under the Ministry of Home Affairs. Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network. <br>
 <br>
 YRI supports YRSG’s mission through the operation of three business units within prisons, namely Business Outsourcing, Kitchen and Bakery, to engage inmates within work programmes to inculcate work ethics and to provide industry-relevant skills and training. As a Halal-certified Original Equipment Manufacturer, the Bakery Unit manufactures sandwich loaves, artisanal products and festive goodies such as pineapple tarts, mooncakes and cookies. 
@@ -151,6 +151,6 @@ YRI supports YRSG’s mission through the operation of three business units with
 <br>
 Ready to “Gift from the Heart”? Scan the QR code below to reserve your preferred gift options! Hurry, as limited quantities are available<br>
 
-<img align="center" src="/images/Gift-from-the-Heart QR.png"></td>
+<img align="center" src="/images/Gift-from-the-Heart QR.png" height="300"></td>
 
 
