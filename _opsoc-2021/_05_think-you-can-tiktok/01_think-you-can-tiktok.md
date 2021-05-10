@@ -9,7 +9,6 @@ Show us your creativity! The best submissions depicting how we exhibit strength 
 <br>
 Act, sing, dance or cheer your way to the top 5 prizes. All it takes is a 30-second video submission; it’s that easy to stand a chance to win vouchers worth up to $400. <br>
 <center><img src="/images/TikTok_2.png" alt="TikTok_2" height="500"></center><br>
-<br>
 In the lead up to this year’s One Public Service Observance Ceremony, wow us with your literal take or abstract interpretation of how public officers work together to overcome adversity. <br>
 <center><img src="/images/TikTok_3.jpg" alt="TikTok_3" height="300"></center><br>
 <br>
