@@ -1,6 +1,6 @@
 ---
 title: Programme
-permalink: /opsoc-2021/programme
+permalink: /opsoc-2021/02_programme
 ---
 
 
