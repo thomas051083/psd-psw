@@ -139,6 +139,8 @@ Suitable for all colleagues, these delicious cookies are available with free del
 	</tr>
 </table>
 <br>
+<b>*All cookies do not contain nuts, but share production facilities with nut-related products containing cashews, walnuts and hazelnuts etc.</b><br>
+<br>
 <table>
   <tr>
     <td width="33%"><img src="/images/Yellow Ribbon Industries.png"></td>
