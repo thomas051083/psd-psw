@@ -10,6 +10,6 @@ This year, we are continuing with the successful virtual format! Join us in this
 <br>
 You will also hear from Minister Chan Chun Sing, Minister-in-Charge of Public Service, on how we faced new challenges and seized new opportunities as we rebuild our economy, society and people in the post-COVID-19 world.<br>
 <br>
-Time and Date: 9 July 2021, 2.15pm - 3.30pm<br>
-Virtual Platform: Zoom Webinar<br>
+<b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
+<b>Virtual Platform</b>: Zoom Webinar<br>
 You may register here <i>(registration opens on 31st May 2021)</i><br>
