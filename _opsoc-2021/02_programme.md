@@ -4,22 +4,7 @@ permalink: /opsoc-2021/programme
 ---
 
 
-### One Public Service Observance Ceremony<br>
-<i>The event is open to all public officers </i><br>
-<br>
-The Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation. 
-<br><br>
-This year, we are going fully virtual! Join us in the mega ceremony for all public officers as we come together to reflect on this exceptional year.
-<br><br>
-You will also hear from Prime Minster Lee Hsien Loong and Minister-in-charge of the Public Service, Chan Chun Sing on how we  turned crisis into opportunity.
-<br>
-<br>
-**Time and Date:** 9 July 2021, 2.00pm - 3.30pm<br>
-**Virtual Platform:** Zoom Webinar <br>
-You may register <a href="https://gems.gevme.com/public-service-week-22695027">here</a>.<br> 
-
-<br>
-<b>What you can look forward to:</b><br>
+###What you can look forward to:<br>
 <table width="100%" border="1">
   <tr>
     <th width="20%">
