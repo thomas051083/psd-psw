@@ -14,9 +14,9 @@ Our selection of gifts is fit for that discerning colleague and at the same time
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/OPSOC_Logo-Foreword.png"></td>
-    <td width="33%"><img src="/images/OPSOC_Logo-Bizlink.jpg"></td>
-    <td width="33%"><img src="/images/OPSOC_Logo-YRI.png"></td>
+    <td width="33%"><img src="/images/Foreword Coffee.png"></td>
+    <td width="33%"><img src="/images/Bizlink Gifts.jpg"></td>
+    <td width="33%"><img src="/images/Yellow Ribbon Industries.png"></td>
   </tr> 
 </table>
 <br>
