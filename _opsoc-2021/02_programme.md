@@ -40,7 +40,7 @@ permalink: /opsoc-2021/02_programme
       2:35pm
     </td>
     <td>
-      Speech by Min Chan<br>
+      Speech by Minister Chan Chun Sing<br>
       Video: Singapore Emerging Stronger Together<br>
     </td>
   </tr>
