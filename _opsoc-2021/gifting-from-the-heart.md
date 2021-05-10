@@ -35,8 +35,8 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
       </ul>
     </td>
     <td width="33%">
-      <img src="/images/OPSOC2021AppreciationHamper1.png">
-      <img src="/images/OPSOC2021AppreciationHamper2.png">
+      <img src="/images/EasyBrewBox1.jpg">
+      <img src="/images/EasyBrewBox2.jpg">
     </td>
   </tr>
  </table>
