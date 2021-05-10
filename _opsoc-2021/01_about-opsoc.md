@@ -1,6 +1,6 @@
 ---
 title: About OPSOC
-permalink: opsoc--2021/about-opsoc
+permalink: opsoc--2021/01_about-opsoc
 ---
 <i>The event is open to all public officers</i><br>
 <br>
