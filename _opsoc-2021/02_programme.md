@@ -69,7 +69,7 @@ permalink: /opsoc-2021/02_programme
       Interactive and engaging activities:<br>
       <ul>
         <li>Reflections of Being a Public Officer
-        <li>Gifting with a Heart
+        <li>Gifting from the Heart
       </ul>
     </td>
   </tr>
