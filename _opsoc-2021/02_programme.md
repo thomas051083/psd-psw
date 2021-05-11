@@ -1,7 +1,6 @@
 ---
-title: 'One Public Service Observance Ceremony'
+title: 'Programme'
 permalink: /opsoc-2021/programme
-breadcrumb: 'OPSOC Programme'
 ---
 
 
