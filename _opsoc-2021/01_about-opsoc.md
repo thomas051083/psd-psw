@@ -37,8 +37,8 @@ Watch out for the video soon!<br>
     <td>
       Pre-event interactive and engaging activities:<br>
       <ul>
-        <li>One Public Service Quiz
-        <li>One Public Service Video Message Challenge
+        <li>One Public Service Quiz</li>
+        <li>One Public Service Video Message Challenge</li>
       </ul>
     </td>
   </tr>
@@ -84,8 +84,8 @@ Watch out for the video soon!<br>
     <td>
       Interactive and engaging activities:<br>
       <ul>
-        <li>Reflections of Being a Public Officer
-        <li>Gifting from the Heart
+        <li>Reflections of Being a Public Officer</li>
+        <li>Gifting from the Heart</li>
       </ul>
     </td>
   </tr>
