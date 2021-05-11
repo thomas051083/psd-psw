@@ -1,7 +1,8 @@
 ---
 title: Terms and Conditions
-permalink: /opsoc-2021/05_think-you-can-tiktok/02_terms-and-conditions
+permalink: /opsoc-2021/terms-and-conditions
 ---
+
 ### Terms and Conditions for Video Challenge
 
 <b>1.	Objectives<br></b>
