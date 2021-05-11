@@ -1,7 +1,6 @@
 ---
-title: 'One Public Service Observance Ceremony'
+title: 'How you can contribute'
 permalink: /opsoc-2021/think-you-can-tiktok
-breadcrumb: 'Think you can TikTok'
 ---
 
 ### Think you can TikTok?<br>
