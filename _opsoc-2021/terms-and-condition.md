@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /opsoc-2021/terms-and-conditions
+permalink: /opsoc-terms-and-conditions
 ---
 
 ### Terms and Conditions for Video Challenge
