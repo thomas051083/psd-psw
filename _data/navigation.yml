@@ -2,8 +2,6 @@ logo: /images/PSW_Logo.png
 links:
   - title: What is PSW
     url: /what-is-psw/
-  - title: PSTC
-    collection: pstc-2021
   - title: OPSOC
     collection: opsoc-2021
   - title: PSTAC
