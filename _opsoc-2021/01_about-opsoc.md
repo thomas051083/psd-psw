@@ -1,6 +1,6 @@
 ---
 title: 'One Public Service Observance Ceremony'
-permalink:/opsoc-2021-about
+permalink:/opsoc-2021/about
 ---
 
 <i>The event is open to all public officers</i><br>
