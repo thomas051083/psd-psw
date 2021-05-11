@@ -22,7 +22,7 @@ Our selection of gifts is fit for that deserving colleague and at the same time,
 </table>
 <br>
 <br>
-####Foreword Coffee Roasters<br>
+### Foreword Coffee Roasters<br>
 Looking for a gift for a coffee-lover? With delivery available at a small cost, the <b>Easy Brew Box</b> from Foreword Coffee would be just perfect for him or her!<br>
 <br>
 <table>
@@ -37,7 +37,7 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
     <td width="50%"><img src="/images/EasyBrewBox1.jpg" height="300" alt="Easy Brew Box_1"> </td>
     <td width="50%"><img src="/images/EasyBrewBox2.jpg" height="300" alt="Easy Brew Box_2"> </td>
   </tr>
- </table>
+</table>
 *Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed<br>
 <br>
 <br>
@@ -51,7 +51,7 @@ Looking for a gift for a coffee-lover? With delivery available at a small cost, 
 <br>
 <br>
 <br>
-####Bizlink’s Floral & Hamper (F&H Social Enterprise)<br>
+### Bizlink’s Floral & Hamper (F&H Social Enterprise)<br>
 Looking for a suitable gift for a group of colleagues? With free delivery, these halal-certified <b>hamper</b> options are perfect for sharing!<br>
 <br>
 <table>
@@ -101,7 +101,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
  </table>
 <br>
 <br>
-####Yellow Ribbon Industries Pte Ltd<br>
+### Yellow Ribbon Industries Pte Ltd<br>
 Suitable for all colleagues, these delicious cookies are available with free delivery! All cookies will be packaged in attractive bottles with silver caps, and priced at $12.80 per bottle (inclusive of GST).<br>
 <br>
 <table width=”100%” border=”1”>
@@ -149,8 +149,32 @@ YRI supports YRSG’s mission through the operation of three business units with
   </tr>
  </table>  
 <br>
+### Personalisation of OPSOC 2021 Gifts<br>
+<b>Cookies by Yellow Ribbon Industries (YRI)</b><br>
+<table>
+  <tr>
+    <td width="50%"><img src="/images/PSWSticker1.jpg" height="200"></td>
+<td width="50%"><img src="/images/PSWSticker2.jpg" height="200"></td>
+	</tr>
+</table>
 <br>
-Ready to “Gift from the Heart”? Click <a href="https://go.gov.sg/opsoc2021gifting">here</a> to reserve your preferred gift options! Hurry, as limited quantities are available<br>
-
+<b>Foreword Coffee and Bizlink Gifts</b><br>
+<table>
+  <tr>
+    <td><img src="/images/PSWSticker3.jpg" height="200"></td>
+	</tr>
+</table>
+<br>
+<b>For All Gifts - Postcard</b><br>
+<table>
+  <tr>
+    <td width="50%"><img src="/images/Postcard-Front.jpg" height="200"></td>
+<td width="50%"><img src="/images/Postcard-Back.jpg" height="200"></td>
+	</tr>
+</table>
+<br>
+<br>
+Ready to “Gift from the Heart”? Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021gifting">here</a> to reserve your preferred gift options! Hurry, as limited quantities are available<br>
+<center><a href="https://go.gov.sg/opsoc2021gifting"><img src="/images/Gift-from-the-Heart QR.png" height="200"></a></center>
 
 
