@@ -1,5 +1,5 @@
 ---
-title: 'One Public Service Observance Ceremony'
+title: 'About OPSOC'
 permalink: /opsoc-2021/about
 ---
 
