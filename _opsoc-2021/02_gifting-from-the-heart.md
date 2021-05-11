@@ -22,41 +22,42 @@ Our selection of gifts is fit for that deserving colleague and at the same time,
 </table>
 <br>
 <br>
-### Foreword Coffee Roasters<br>
+<h4>Foreword Coffee Roasters</h4>
 Looking for a gift for a coffee-lover? With delivery available at a small cost, the <b>Easy Brew Box</b> from Foreword Coffee would be just perfect for him or her!<br>
 <br>
 <table>
   <tr>
+	<td colspan="2">  
 	<ul>
         <li>5 biodegradable brew bags (assorted flavours*)
         <li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules
         <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
-      </ul>
-	</tr>
-	<tr>
+      	</ul>
+	  </td>
+</tr>
+<tr>
     <td width="50%"><img src="/images/EasyBrewBox1.jpg" height="300" alt="Easy Brew Box_1"> </td>
     <td width="50%"><img src="/images/EasyBrewBox2.jpg" height="300" alt="Easy Brew Box_2"> </td>
   </tr>
 </table>
-*Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed<br>
+<i>*Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed</i><br>
 <br>
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
-    <td width="67%"><b>Foreword Coffee</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.
-    </td>
+    <td width="40%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
+    <td width="60%"><b>Foreword Coffee</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
   </tr>
  </table>
 <br>
 <br>
 <br>
-### Bizlink’s Floral & Hamper (F&H Social Enterprise)<br>
+<h4>Bizlink’s Floral & Hamper (F&H Social Enterprise)</h4>
 Looking for a suitable gift for a group of colleagues? With free delivery, these halal-certified <b>hamper</b> options are perfect for sharing!<br>
 <br>
 <table>
   <tr>
-    <td width="67%">
+    <td width="60%">
       The <b>OPSOC 2021 Appreciation Hamper 1 ($50)</b> includes:<br>
       <ul>
         <li>Nature’s Wonders Baked Nuts – Pistachios
@@ -66,19 +67,18 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
         <li>Yogood Chocolate Coated Muesli Bars – Chocolate & Nuts
       </ul>
     </td>
-    <td width="33%">
+    <td width="40%">
         <img src="/images/OPSOC2021AppreciationHamper1.png" height="200" alt="OPSOC 2021 Appreciation Hamper 1">
     </td>
   </tr>
  </table>
 <br>
-<br>
 <table>
   <tr>
-	      <td width="33%">
+	      <td width="40%">
          <img src="/images/OPSOC2021AppreciationHamper2.png" height="200" alt="OPSOC 2021 Appreciation Hamper 2">
     </td>
-    <td width="67%">
+    <td width="60%">
       The <b>OPSOC 2021 Appreciation Hamper 2 ($50)</b> includes:<br>
       <ul>
         <li>Nature’s Wonders Baked Nuts – Pistachios
@@ -94,14 +94,13 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
-    <td width="67%"><b>Bizlink’s Floral & Hamper (F&H) Social Enterprise</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.
-    </td>
+    <td width="40%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
+    <td width="60%"><b>Bizlink’s Floral & Hamper (F&H) Social Enterprise</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
   </tr>
  </table>
 <br>
 <br>
-### Yellow Ribbon Industries Pte Ltd<br>
+<h4>Yellow Ribbon Industries Pte Ltd</h4>
 Suitable for all colleagues, these delicious cookies are available with free delivery! All cookies will be packaged in attractive bottles with silver caps, and priced at $12.80 per bottle (inclusive of GST).<br>
 <br>
 <table width=”100%” border=”1”>
@@ -115,25 +114,25 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td><img src="/images/chocolatechipcookies.png"height="150" alt="Chocolate Chip Cookies"></td>
+		<td><img src="/images/chocolatechipcookies.png"height="100" alt="Chocolate Chip Cookies"></td>
 	</tr>
 		<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/cranberrycookies.png" height="150" alt="Cranberry Cookies"></td>
+		<td><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
 	</tr>
 		<tr>
 		<td>3.</td>
 		<td>Hae Bee Hiam Cookies</td>
 		<td>300g</td>
-		<td><img src="/images/haebeehiamcookies.png" height="250" alt="Hae Bee Hiam Cookies"></td>
+		<td><img src="/images/haebeehiamcookies.png" height="150" alt="Hae Bee Hiam Cookies"></td>
 	</tr>
 	<tr>
 		<td>4.</td>
 		<td>Salted Caramel Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/saltedcaramelcookies.png" height="250" alt="Salted Caramel Cookies"></td>
+		<td><img src="/images/saltedcaramelcookies.png" height="150" alt="Salted Caramel Cookies"></td>
 	</tr>
 </table>
 <br>
@@ -141,35 +140,29 @@ Suitable for all colleagues, these delicious cookies are available with free del
 <br>
 <table>
   <tr>
-    <td width="33%"><img src="/images/Yellow Ribbon Industries.png" height="200"></td>
-    <td width="67%"><b>Yellow Ribbon Industries Pte Ltd (YRI)</b> is a wholly-owned subsidiary of Yellow Ribbon Singapore (YRSG), which is a statutory board under the Ministry of Home Affairs. Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network. <br>
+    <td width="40%"><img src="/images/Yellow Ribbon Industries.png" height="200"></td>
+    <td width="60%"><b>Yellow Ribbon Industries Pte Ltd (YRI)</b> is a wholly-owned subsidiary of Yellow Ribbon Singapore (YRSG), which is a statutory board under the Ministry of Home Affairs. Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network. <br>
 <br>
-YRI supports YRSG’s mission through the operation of three business units within prisons, namely Business Outsourcing, Kitchen and Bakery, to engage inmates within work programmes to inculcate work ethics and to provide industry-relevant skills and training. As a Halal-certified Original Equipment Manufacturer, the Bakery Unit manufactures sandwich loaves, artisanal products and festive goodies such as pineapple tarts, mooncakes and cookies. 
-    </td>
+YRI supports YRSG’s mission through the operation of three business units within prisons, namely Business Outsourcing, Kitchen and Bakery, to engage inmates within work programmes to inculcate work ethics and to provide industry-relevant skills and training. As a Halal-certified Original Equipment Manufacturer, the Bakery Unit manufactures sandwich loaves, artisanal products and festive goodies such as pineapple tarts, mooncakes and cookies.</td>
   </tr>
  </table>  
 <br>
-### Personalisation of OPSOC 2021 Gifts<br>
-<b>Cookies by Yellow Ribbon Industries (YRI)</b><br>
-<table>
-  <tr>
-    <td width="50%"><img src="/images/PSWSticker1.jpg" height="200"></td>
-<td width="50%"><img src="/images/PSWSticker2.jpg" height="200"></td>
-	</tr>
-</table>
+<h4>Personalisation of OPSOC 2021 Gifts</h4>
 <br>
-<b>Foreword Coffee and Bizlink Gifts</b><br>
-<table>
-  <tr>
-    <td><img src="/images/PSWSticker3.jpg" height="200"></td>
+<table width="100%" border="1">
+  	<tr>
+	  <td width="40%"><b>Cookies by Yellow Ribbon Industries (YRI)</b></td>
+	  <td width="30%"><img src="/images/PSWSticker1.jpg" height="200"></td>
+	  <td width="30%"><img src="/images/PSWSticker2.jpg" height="200"></td>
 	</tr>
-</table>
-<br>
-<b>For All Gifts - Postcard</b><br>
-<table>
-  <tr>
-    <td width="50%"><img src="/images/Postcard-Front.jpg" height="200"></td>
-<td width="50%"><img src="/images/Postcard-Back.jpg" height="200"></td>
+	<tr>
+		<td><b>Foreword Coffee and Bizlink Gifts</b></td>
+		<td colspan="2"><img src="/images/PSWSticker3.jpg" height="200"></td>
+	</tr>
+	<tr>
+    		<td><b>For All Gifts - Postcard</b></td>
+		<td><img src="/images/Postcard-Front.jpg" height="200"></td>
+		<td><img src="/images/Postcard-Back.jpg" height="180"></td>
 	</tr>
 </table>
 <br>
