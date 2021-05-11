@@ -1,8 +1,10 @@
 ---
-title: Gifting from the Heart
-permalink: /opsoc-2021/04_gifting-from-the-heart
+title: 'One Public Service Observance Ceremony'
+permalink: /opsoc-2021/gifting-from-the-heart
+breadcrumb: 'Gifting from the Heart'
 ---
-###Gifting from the Heart<br>
+
+### Gifting from the Heart<br>
 <br>
 In our journey as Public Officers, our paths tend to cross with colleagues across various public agencies as we engage in meaningful collaborations and friendships to deliver the best outcome to the public.<br>
 <br>
