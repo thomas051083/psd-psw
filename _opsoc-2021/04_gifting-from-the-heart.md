@@ -1,7 +1,6 @@
 ---
-title: 'One Public Service Observance Ceremony'
+title: 'Gifting from the Heart'
 permalink: /opsoc-2021/gifting-from-the-heart
-breadcrumb: 'Gifting from the Heart'
 ---
 
 ### Gifting from the Heart<br>
