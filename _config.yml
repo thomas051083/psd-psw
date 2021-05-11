@@ -14,12 +14,10 @@ custom_print_css_path: /assets/css/print.css
 
 collections:
     pstc-2021:
-        output: true
+        output: false
     pstac-2021:
         output: true
     opsoc-2021:
-        output: true
-    psc-2021:
         output: true
     exclusives-2021:
         output: true
