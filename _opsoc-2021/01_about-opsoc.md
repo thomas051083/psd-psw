@@ -1,7 +1,9 @@
 ---
-title: About OPSOC
-permalink: /opsoc-2021
+title: 'One Public Service Observance Ceremony'
+permalink: /opsoc-2021/about
+breadcrumb: 'About OPSOC'
 ---
+
 <i>The event is open to all public officers</i><br>
 <br>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
