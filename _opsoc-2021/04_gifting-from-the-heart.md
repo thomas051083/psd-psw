@@ -151,8 +151,7 @@ YRI supports YRSG’s mission through the operation of three business units with
  </table>  
 <br>
 <br>
-Ready to “Gift from the Heart”? Scan the QR code below to reserve your preferred gift options! Hurry, as limited quantities are available<br>
+Ready to “Gift from the Heart”? Click <a href="https://go.gov.sg/opsoc2021gifting">here</a> to reserve your preferred gift options! Hurry, as limited quantities are available<br>
 
-<center><a href="https://go.gov.sg/opsoc2021gifting" target="_blank"><img src="/images/Gift-from-the-Heart QR.png" height="300"></a></center></td>
 
 
