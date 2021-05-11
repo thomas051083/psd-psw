@@ -14,9 +14,9 @@ sections:
         - title: 'Be Inspired'
           url: /pstc-2021/about
         - title: 'Pledge as One'
-          url: /opsoc-2021/
+          url: /opsoc-2021/about
         - title: 'Celebrate Together'
-          url: /pstac-2021/
+          url: /pstac-2021
         - title: 'Learn and Grow'
           url: /pswlf-2021
 ---
