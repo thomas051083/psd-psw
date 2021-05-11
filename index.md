@@ -11,8 +11,6 @@ sections:
       button: 'Learn More'
       url: /what-is-psw/
       key_highlights:
-        - title: 'Be Inspired'
-          url: /pstc-2021/about
         - title: 'Pledge as One'
           url: /opsoc-2021/about
         - title: 'Celebrate Together'
