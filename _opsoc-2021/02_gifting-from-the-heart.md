@@ -14,7 +14,7 @@ There are gift-giving special occasions like Mother's Day, Christmas Day and Val
 The best part - you'll be supporting social enterprises such as Foreward Coffee, Bizlink Gifts and Yellow Ribbon Industries at the same time!<br>
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
     <td width="33%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
@@ -26,7 +26,7 @@ The best part - you'll be supporting social enterprises such as Foreward Coffee,
 <h4>Foreword Coffee Roasters</h4>
 Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box ($30)</b> from Foreword Coffee would be just perfect for him or her!<br>
 <br>
-<table>
+<table width="100%">
   <tr>
 	<td colspan="2">  
 	<ul>
@@ -44,10 +44,10 @@ Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box 
 <i>*Java Wanayasa, Java Malabar, NaOr Village, Yunnan Aqi Badu & Pong’s Washed</i><br>
 <br>
 <br>
-<table>
+<table width="100%">
   <tr>
-    <td width="40%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
-    <td width="60%"><b>Foreword Coffee</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
+    <td width="30%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
+    <td width="70%"><b>Foreword Coffee</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
   </tr>
  </table>
 <br>
@@ -56,7 +56,7 @@ Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box 
 <h4>Bizlink’s Floral & Hamper (F&H Social Enterprise)</h4>
 Looking for a suitable gift for a group of colleagues? With free delivery, these halal-certified <b>hamper</b> options are perfect for sharing!<br>
 <br>
-<table>
+<table width="100%">
   <tr>
     <td width="60%">
       The <b>OPSOC 2021 Appreciation Hamper 1 ($50)</b> includes:<br>
@@ -74,7 +74,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
   </tr>
  </table>
 <br>
-<table>
+<table width="100%">
   <tr>
 	      <td width="40%">
          <img src="/images/OPSOC2021AppreciationHamper2.png" height="200" alt="OPSOC 2021 Appreciation Hamper 2">
@@ -93,10 +93,10 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
  </table>
 <br>
 <br>
-<table>
+<table width="100%">
   <tr>
-    <td width="40%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
-    <td width="60%"><b>Bizlink’s Floral & Hamper (F&H) Social Enterprise</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
+    <td width="30%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
+    <td width="70%"><b>Bizlink’s Floral & Hamper (F&H) Social Enterprise</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
   </tr>
  </table>
 <br>
@@ -139,10 +139,10 @@ Suitable for all colleagues, these delicious cookies are available with free del
 <br>
 <b>*All cookies do not contain nuts, but share production facilities with nut-related products containing cashews, walnuts and hazelnuts etc.</b><br>
 <br>
-<table>
+<table width="100%">
   <tr>
-    <td width="40%"><img src="/images/Yellow Ribbon Industries.png" height="200"></td>
-    <td width="60%"><b>Yellow Ribbon Industries Pte Ltd (YRI)</b> is a wholly-owned subsidiary of Yellow Ribbon Singapore (YRSG), which is a statutory board under the Ministry of Home Affairs. Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network. <br>
+    <td width="30%"><img src="/images/Yellow Ribbon Industries.png" height="200"></td>
+    <td width="70%"><b>Yellow Ribbon Industries Pte Ltd (YRI)</b> is a wholly-owned subsidiary of Yellow Ribbon Singapore (YRSG), which is a statutory board under the Ministry of Home Affairs. Formerly known as Singapore Corporation of Rehabilitative Enterprises (SCORE), YRSG’s purpose is to help inmates and ex-offenders rebuild their lives and lower the recidivism rate through skills and long-term career development, with an effective Aftercare support network. <br>
 <br>
 YRI supports YRSG’s mission through the operation of three business units within prisons, namely Business Outsourcing, Kitchen and Bakery, to engage inmates within work programmes to inculcate work ethics and to provide industry-relevant skills and training. As a Halal-certified Original Equipment Manufacturer, the Bakery Unit manufactures sandwich loaves, artisanal products and festive goodies such as pineapple tarts, mooncakes and cookies.</td>
   </tr>
