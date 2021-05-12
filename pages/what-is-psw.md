@@ -1,8 +1,6 @@
 ---
 title: 'What is PSW?'
-permalink: /what-is-psw/
-breadcrumb: 'What is PSW?'
-
+permalink: /what-is-psw
 ---
 
 ### What is Public Service Week
