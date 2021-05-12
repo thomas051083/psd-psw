@@ -11,7 +11,7 @@ Ever wanted to send more than just a thank-you email to officers you work with o
 <br>
 There are gifting special occasions like Mother's Day, Christmas Day and Valentine's Day but how about an Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Week, let's celebrate by sending a "Gift from the Heart" to our colleagues, especially those from another agency. <br> 
 <br>
-The best part - you'll be supporting social enterprises such as Foreward Coffee, Bizlink Gifts and Yellow Ribbon Industries at the same time!<br>
+The best part - you'll be supporting social enterprises such as <b>Foreword Coffee Roasters</b>, <b>Bizlink’s Floral & Hamper (F&H Social Enterprise)</b> and <b>Yellow Ribbon Industries Pte Ltd</b> at the same time!<br>
 <br>
 <br>
 <table width="100%">
