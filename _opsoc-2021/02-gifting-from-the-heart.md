@@ -102,15 +102,23 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
  </table>
 <br>
 <br>
-<h4>Yellow Ribbon Industries Pte Ltd</h4>
+#### Yellow Ribbon Industries Pte Ltd
 Suitable for all colleagues, these delicious cookies are available with free delivery! All cookies will be packaged in attractive bottles with silver caps, and priced at $12.80 per bottle (inclusive of GST).<br>
 <br>
 <table width=”100%” border=”1”>
-  <tr>
-    <th width="10%">No.</th>
-	<th width=”25%”>Cookie type</th>
-	<th width=”25%”>Estimated Weight/Bottle</th>
-	<th width=”40%”>Picture</th>
+	<tr>
+	    <th width="10%">
+		    S/n
+		</th>
+		<th width=”25%”>
+			Cookie type
+		</th>
+		<th width=”25%”>
+			Estimated Weight/Bottle
+		</th>
+		<th width=”40%”>
+			Picture
+		</th>
 	</tr>
 	<tr>
 		<td>1.</td>
@@ -118,13 +126,13 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>250g</td>
 		<td><img src="/images/chocolatechipcookies.png"height="100" alt="Chocolate Chip Cookies"></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
 		<td><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>3.</td>
 		<td>Hae Bee Hiam Cookies</td>
 		<td>300g</td>
