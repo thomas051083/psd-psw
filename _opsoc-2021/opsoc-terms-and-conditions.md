@@ -8,7 +8,7 @@ permalink: /opsoc-terms-and-conditions
 <ol>
   <b><li>Objectives</b>
     <ol>
-      <li>The One Public Service Observance Ceremony (OPSOC) 2021 organising committee (hereafter termed as “the Committee”) is pleased to invite all interested public officers to participate in the OPSOC 2021 Video Contest titled “So you think you can TikTok”. The contest will be held from 21 May 2021 to 9 July 2021. </li>
+      <li>The One Public Service Observance Ceremony (OPSOC) 2021 organising committee (hereafter termed as “the Committee”) is pleased to invite all interested public officers to participate in the OPSOC 2021 Video Contest titled “Think you can TikTok?”. The contest will be held from 21 May 2021 to 9 July 2021. </li>
       <li>The key objectives of OPSOC 2021 are as follows:</li>
         <ol>
           <li>Pay tribute to public officers for their hard work and sacrifices, and motivate all to keep up the fight amidst the COVID-19 pandemic.</li>
@@ -25,7 +25,7 @@ permalink: /opsoc-terms-and-conditions
         <li>All participants must be from Singapore public agencies.</li>
         <li>Only the first 50 registrants will be considered for the contest.</li>
         <li>Each video entry must be between 20 and 30 seconds in duration. Each video entry must not exceed 30 seconds in duration.</li>
-        <li>While the video contest is titled “So you think you can TikTok”, the orientation of videos submitted should be landscape only. Video submissions should aim to emulate the informal and short-format essence of TikTok videos.</li>
+        <li>While the video contest is titled “Think you can TikTok?”, the orientation of videos submitted should be landscape only. Video submissions should aim to emulate the informal and short-format essence of TikTok videos.</li>
         <li>The video resolution for each video submitted must be at least 1080p with a maximum size of 20MB. </li>
         <li>Video entries should be submitted in MPEG, MPG or WMV format.</li>
         <li>Video entries must be recorded from 21 May 2021 to 18 June 2021.</li> 
