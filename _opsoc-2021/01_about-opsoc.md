@@ -16,7 +16,7 @@ This year, we are continuing with the successful virtual format! Join us in this
 You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world.<br>
 <br>
 <br>
-<h3>Here's what you can look forward to</h3>
+<h3>OPSOC Teaser Video</h3>
 <br>
 <b><i>---Watch out for the video soon!---</i></b><br>
 <br>
