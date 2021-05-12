@@ -130,13 +130,13 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>3.</td>
 		<td>Hae Bee Hiam Cookies</td>
 		<td>300g</td>
-		<td><img src="/images/haebeehiamcookies.png" height="150" alt="Hae Bee Hiam Cookies"></td>
+		<td align="center"><img src="/images/haebeehiamcookies.png" height="150" alt="Hae Bee Hiam Cookies"></td>
 	</tr>
 	<tr>
 		<td>4.</td>
 		<td>Salted Caramel Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/saltedcaramelcookies.png" height="150" alt="Salted Caramel Cookies"></td>
+		<td align="center"><img src="/images/saltedcaramelcookies.png" height="150" alt="Salted Caramel Cookies"></td>
 	</tr>
 </table>
 <br>
