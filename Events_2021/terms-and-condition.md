@@ -74,6 +74,7 @@ All participants must be from Singapore public agencies<br>
          <td>S$150</td>
       </tr><tr>
          <td>5th Prize (4th runner up)</td>
+         <td>$100</td>
       </tr>
     </table>
   </li>
