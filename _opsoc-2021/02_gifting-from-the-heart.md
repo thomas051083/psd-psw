@@ -162,7 +162,7 @@ YRI supports YRSG’s mission through the operation of three business units with
 		<td colspan="2"><img src="/images/PSWSticker3.jpg" height="200"></td>
 	</tr>
 	<tr>
-    		<td><b>For All Gifts - Postcard</b></td>
+    		<td><b>For All Gifts - Postcard for your Personalised Message</b></td>
 		<td><img src="/images/Postcard-Front.jpg" height="200"></td>
 		<td><img src="/images/Postcard-Back.jpg" height="180"></td>
 	</tr>
