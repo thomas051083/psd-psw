@@ -124,7 +124,7 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td align="centre"><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
+		<td align="centre"><img src="/images/cranberrycookies.png" alt="Cranberry Cookies"></td>
 	</tr>
 	<tr>
 		<td>3.</td>
