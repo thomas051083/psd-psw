@@ -7,15 +7,11 @@ breadcrumb: 'What is PSW?'
 
 ### What is Public Service Week
 
-The theme for Public Service Week 2021 is <b>Emerging Stronger as One Public Service</b>. <br>
+The theme for Public Service Week 2021 is Emerging Stronger as One Public Service.<br>
 <br>
-2020 had been a trying year for us. Through everyone's effort, sacrifice and perseverance, we have kept the pandemic under control in Singapore. <br>
-<br>
-2021 will be a major turning point for us as we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world. We can stay agile and build on the opportunities for transformation that have arisen due to COVID-19, and continue to improve the lives of Singaporeans.<br>
+Even as we continue the battle to keep the pandemic at bay, we need to also look ahead and seize opportunities to rebuild our economy, society and people for a post-COVID-19 world. While COVID-19 is the challenge of a generation, many opportunities for transformation have also arisen from this crisis that we can take hold of to improve the lives of Singaporeans.<br>
 <br>
 Together, we will emerge stronger as One Public Service.<br>
 <br>
+PSW2021 will be held virtually. <br>
 <br>
-
-PSW2021 will be held virtually via Zoom Webinar. <br>
-
