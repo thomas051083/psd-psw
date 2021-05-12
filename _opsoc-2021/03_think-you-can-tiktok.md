@@ -1,9 +1,9 @@
 ---
 title: 'Think you can TikTok?'
-permalink: /opsoc-2021/think-you-can-tiktok?
+permalink: /opsoc-2021/think-you-can-tiktok
 ---
 
-<h3>Think you can TikTok?</h3>
+### Think you can TikTok
 Show us your creativity! The best submissions depicting how we exhibit strength in character to overcome adversity as One Public Service stand to win vouchers worth up to $400.<br>
 <center><img src="/images/TikTok_1.png" alt="TikTok_1" height="300"></center><br>
 <br>
