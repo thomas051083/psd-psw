@@ -13,9 +13,9 @@ Act, sing, dance or cheer your way to the top 5 prizes. All it takes is a 30-sec
 In the lead up to this year’s One Public Service Observance Ceremony, wow us with your literal take or abstract interpretation of how public officers work together to overcome adversity. <br>
 <center><img src="/images/TikTok_3.jpg" alt="TikTok_3" height="300"></center><br>
 <br>
-Registration opens 11 June 2021. Only the first 50 registrants will be considered. [Terms and Conditions](/opsoc-2021/terms-and-conditions) apply.<br>
+Registration closes 11 June 2021. Only the first 50 registrants will be considered. [Terms and Conditions](/opsoc-2021/terms-and-conditions) apply.<br>
 <br>
-<b>Scan the QR code below or click <a href="https://go.gov.sg/zf6vss" target="_blank">here</a> to enter yourself/your group into the contest by 18 June!</b><br>
+<b>Scan the QR code below or click <a href="https://go.gov.sg/zf6vss" target="_blank">here</a> to enter yourself/your group into the contest by 11 June!</b><br>
 <center><a href="https://go.gov.sg/zf6vss" target="_blank"><img src="/images/TikTok-QR.png" alt="TikTok QR" height="300"></a></center><br>
 
 
