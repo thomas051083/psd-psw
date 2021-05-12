@@ -3,16 +3,17 @@ title: 'Gifting from the Heart'
 permalink: /opsoc-2021/gifting-from-the-heart
 ---
 
-### Gifting from the Heart<br>
+### Gifting from the Heart
+
+In our journey as public officers, our paths frequently cross those of colleagues from other public agencies as we participate in meaningful collaborations in service of Singapore and Singaporeans. <br>
 <br>
-In our journey as Public Officers, our paths tend to cross with colleagues across various public agencies as we engage in meaningful collaborations and friendships to deliver the best outcome to the public.<br>
+Ever wanted to send more than just a Thank You email to officers you work with outside your agency? What better way than to send them something from a curated selection of gifts from Social Service Organisations? <br>
 <br>
-Ever wanted to send them more than thank-you emails? What better way to show your appreciation to colleagues from another public agency than through meaningful gifts! But… when’s the best time?<br>
+There are gift-giving special occasions like Mother's Day, Christmas Day and Valentines Day but how about an Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Week, let's celebrate by sending a "Gift from the Heart" to our colleagues, especially those from another agency. <br> 
 <br>
-There are gift-giving celebrations such as Mothers’ Day, Christmas Day and Valentines’ Day but have you ever heard of Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Observance Ceremony, we offer you just that – an occasion to “Gift from the Heart”!<br>
+The best part - you'll be supporting social enterprises such as Foreward Coffee, Bizlink Gifts and Yellow Ribbon Industries at the same time!<br>
 <br>
-Our selection of gifts is fit for that deserving colleague and at the same time, you get to support a local Social Service Organisation. Look no further for a fine selection of gifting options from social enterprises such as Foreword Coffee, Bizlink Gifts, and Yellow Ribbon Industries!<br>
-<br>
+
 <table>
   <tr>
     <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
