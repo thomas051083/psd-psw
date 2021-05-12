@@ -13,7 +13,7 @@ The One Public Service Observance Ceremony is an annual platform for officers to
 <br>
 This year, we are continuing with the successful virtual format! Join us in this mega ceremony for all public officers as we come together to reflect over the past one year and look ahead to the coming year.<br>
 <br>
-You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world<br>
+You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world.<br>
 <br>
 <br>
 <h3>Here's what you can look forward to</h3>
