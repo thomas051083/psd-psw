@@ -24,7 +24,7 @@ The best part - you'll be supporting social enterprises such as Foreward Coffee,
 <br>
 <br>
 <h4>Foreword Coffee Roasters</h4>
-Looking for a gift for a coffee-lover? With delivery available at a small cost, the <b>Easy Brew Box ($30)</b> from Foreword Coffee would be just perfect for him or her!<br>
+Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box ($30)</b> from Foreword Coffee would be just perfect for him or her!<br>
 <br>
 <table>
   <tr>
