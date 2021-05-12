@@ -8,21 +8,21 @@ permalink: /opsoc-2021/about
 <b>Virtual Platform</b>: Zoom Webinar<br>
 You may register here <i>(registration opens on 31st May 2021)</i><br>
 <br>
-### About
+<h3>About</h3>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
 <br>
 This year, we are continuing with the successful virtual format! Join us in this mega ceremony for all public officers as we come together to reflect over the past one year and look ahead to the coming year.<br>
 <br>
 You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world<br>
 <br>
-
-### Here's what you can look forward to
+<br>
+<h3>Here's what you can look forward to</h3>
 <br>
 <b><i>---Watch out for the video soon!---</i></b><br>
 <br>
 <br>
 <br>
-### Programme
+<h3>Programme</h3>
 <br>
 <table width="100%" border="1">
   <tr>
