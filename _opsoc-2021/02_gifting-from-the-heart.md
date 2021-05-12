@@ -61,11 +61,11 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
     <td width="60%">
       The <b>OPSOC 2021 Appreciation Hamper 1 ($50)</b> includes:<br>
       <ul>
-        <li>Nature’s Wonders Baked Nuts – Pistachios
-        <li>K. Harrodson Blueberry Butter Cookies
-        <li>Daiana Coffee Break – Mocha
-        <li>Sincero Dark Chocolate – Raisins
-        <li>Yogood Chocolate Coated Muesli Bars – Chocolate & Nuts
+	      <li>Nature’s Wonders Baked Nuts – Pistachios</li>
+	      <li>K. Harrodson Blueberry Butter Cookies</li>
+	      <li>Daiana Coffee Break – Mocha</li>
+	      <li>Sincero Dark Chocolate – Raisins</li>
+	      <li>Yogood Chocolate Coated Muesli Bars – Chocolate & Nuts</li>
       </ul>
     </td>
     <td width="40%">
