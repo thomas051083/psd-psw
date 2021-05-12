@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /terms-and-conditions
+permalink: /opsoc-2021/terms-and-conditions
 ---
 
 ### Terms and Conditions for Think you can TikTok?
