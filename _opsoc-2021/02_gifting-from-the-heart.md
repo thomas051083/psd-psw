@@ -82,11 +82,11 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
     <td width="60%">
       The <b>OPSOC 2021 Appreciation Hamper 2 ($50)</b> includes:<br>
       <ul>
-        <li>Nature’s Wonders Baked Nuts – Pistachios
-        <li>K. Harrodson Choco Chip Butter Cookies
-        <li>Daiana Coffee Break – Mocha
-        <li>Miaow Miaow Prawn Crackers
-        <li>Win2 Baked Potato Crisp Crackers – Sweet Potato
+	      <li>Nature’s Wonders Baked Nuts – Pistachios</li>
+        	<li>K. Harrodson Choco Chip Butter Cookies</li> 
+	      <li>Daiana Coffee Break – Mocha</li>
+	      <li>Miaow Miaow Prawn Crackers</li>
+	      <li>Win2 Baked Potato Crisp Crackers – Sweet Potato</li>
       </ul>
     </td>
   </tr>
@@ -170,5 +170,6 @@ YRI supports YRSG’s mission through the operation of three business units with
 <br>
 Ready to “Gift from the Heart”? Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021gifting">here</a> to reserve your preferred gift options! Hurry, as limited quantities are available<br>
 <center><a href="https://go.gov.sg/opsoc2021gifting"><img src="/images/Gift-from-the-Heart QR.png" height="200"></a></center>
+<br>
 
 
