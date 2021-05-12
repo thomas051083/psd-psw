@@ -1,5 +1,5 @@
 ---
-title: 'CS Club Merchant Exclusives'
+title: 'Merchant Exclusives'
 permalink: /CSC-Merchant-Exclusives
 
 ---
