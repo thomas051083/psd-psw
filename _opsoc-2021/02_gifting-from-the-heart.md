@@ -3,7 +3,7 @@ title: 'Gifting from the Heart'
 permalink: /opsoc-2021/gifting-from-the-heart
 ---
 
-<h3>Gifting from the Heart</h3>
+### Gifting from the Heart
 
 In our journey as public officers, our paths frequently cross those of colleagues from other public agencies as we participate in meaningful collaborations in service of Singapore and Singaporeans. <br>
 <br>
@@ -13,7 +13,7 @@ There are gift-giving special occasions like Mother's Day, Christmas Day and Val
 <br>
 The best part - you'll be supporting social enterprises such as Foreward Coffee, Bizlink Gifts and Yellow Ribbon Industries at the same time!<br>
 <br>
-
+<br>
 <table width="100%">
   <tr>
     <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
@@ -23,16 +23,17 @@ The best part - you'll be supporting social enterprises such as Foreward Coffee,
 </table>
 <br>
 <br>
-<h4>Foreword Coffee Roasters</h4>
+
+#### Foreword Coffee Roasters
 Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box ($30)</b> from Foreword Coffee would be just perfect for him or her!<br>
 <br>
 <table width="100%">
   <tr>
 	<td colspan="2">  
 	<ul>
-        <li>5 biodegradable brew bags (assorted flavours*)
-        <li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules
-        <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
+		<li>5 biodegradable brew bags (assorted flavours*)</li>
+		<li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules</li>
+		<li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules</li>
       	</ul>
 	  </td>
 </tr>
@@ -83,7 +84,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
       The <b>OPSOC 2021 Appreciation Hamper 2 ($50)</b> includes:<br>
       <ul>
 	      <li>Nature’s Wonders Baked Nuts – Pistachios</li>
-        	<li>K. Harrodson Choco Chip Butter Cookies</li> 
+	      <li>K. Harrodson Choco Chip Butter Cookies</li> 
 	      <li>Daiana Coffee Break – Mocha</li>
 	      <li>Miaow Miaow Prawn Crackers</li>
 	      <li>Win2 Baked Potato Crisp Crackers – Sweet Potato</li>
