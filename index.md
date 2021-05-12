@@ -1,24 +1,22 @@
 ---
 layout: homepage
-title: 'Public Service Week 2020'
+title: 'Public Service Week 2021'
 permalink: /
 notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
 sections:
   - hero:
-      title: 'Together, we can overcome as One Public Service'
-      subtitle: 'Public Service Week 2020, 8 - 30 October.'
+      title: 'Emerging Stronger as One Public Service'
+      subtitle: 'Public Service Week 2021, July.'
       background: /images/PSWbanner2020.png
       button: 'Learn More'
       url: /what-is-psw/
       key_highlights:
-        - title: 'Be Inspired'
-          url: /psc-2020/
         - title: 'Pledge as One'
-          url: /opsoc-2020/
+          url: /opsoc-2021/about
         - title: 'Celebrate Together'
-          url: /pstac-2020/
+          url: /pstac-2021
         - title: 'Learn and Grow'
-          url: /pswlf-2020/0-mainpage
+          url: https://pswlf2021.squarespace.com/
 ---
 
 
