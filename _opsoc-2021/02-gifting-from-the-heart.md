@@ -48,7 +48,7 @@ Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box 
 <table width="100%">
   <tr>
     <td width="30%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
-    <td width="70%"><b>Foreword Coffee</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
+    <td width="70%"><b>Foreword Coffee Roasters</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
   </tr>
  </table>
 <br>
@@ -97,7 +97,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <table width="100%">
   <tr>
     <td width="30%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
-    <td width="70%"><b>Bizlink’s Floral & Hamper (F&H) Social Enterprise</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
+    <td width="70%"><b>Bizlink’s Floral & Hamper (F&H Social Enterprise)</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
   </tr>
  </table>
 <br>
