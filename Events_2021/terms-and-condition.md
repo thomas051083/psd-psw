@@ -30,7 +30,7 @@ All participants must be from Singapore public agencies<br>
   <li>The video resolution for each video submitted must be at least 1080p with a maximum size of 20MB. </li>
   <li>Video entries should be submitted in MPEG, MPG or WMV format.</li>
   <li>Video entries must be recorded from 21 May 2021 to 18 June 2021.</li> 
-  <li>Participants may choose to work alone or form groups from his/her own public agency or other public agencies. The Committee will liaise with the team leader via official SCDF email  for correspondence.</li>
+  <li>Participants may choose to work alone or form groups from his/her own public agency or other public agencies. The Committee will liaise with the team leader via official SCDF email <i>(as SCDF is the organiser for OPSOC 2021)</i> for correspondence.</li>
   <li>Participants may submit as many video entries as they wish and are not limited to 1 entry per person or group.</li>
   <li>Video entries should contain a “credits” section to recognise all members who have contributed to each video entry. The “credits” section will not be considered in the duration of the video entry.</li>
 </ol><br>
