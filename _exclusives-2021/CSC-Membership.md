@@ -1,6 +1,6 @@
 ---
 title: 'Membership Promotions'
-permalink: /CSC-Membership/
+permalink: /CSC-Membership
 
 ---
 ## CS Club Membership Promotions
