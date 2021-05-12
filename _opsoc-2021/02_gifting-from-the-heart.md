@@ -3,7 +3,7 @@ title: 'Gifting from the Heart'
 permalink: /opsoc-2021/gifting-from-the-heart
 ---
 
-### Gifting from the Heart
+<h3>Gifting from the Heart</h3>
 
 In our journey as public officers, our paths frequently cross those of colleagues from other public agencies as we participate in meaningful collaborations in service of Singapore and Singaporeans. <br>
 <br>
