@@ -118,13 +118,13 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td align="center"><img src="/images/chocolatechipcookies.png" alt="Chocolate Chip Cookies"></td>
+		<td align="center"><img src="/images/chocolatechipcookies.png"height="100"></td>
 	</tr>
 	<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td align="centre"><img src="/images/cranberrycookies.png" alt="Cranberry Cookies"></td>
+		<td align="center"><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
 	</tr>
 	<tr>
 		<td>3.</td>
@@ -165,8 +165,8 @@ YRI supports YRSG’s mission through the operation of three business units with
 	</tr>
 	<tr>
     		<td><b>For All Gifts - Postcard for your Personalised Message</b></td>
-		<td valign="center"><img src="/images/Postcard-Front.jpg" height="200"></td>
-		<td valign="center"><img src="/images/Postcard-Back.jpg" height="200"></td>
+		<td valign="bottom"><img src="/images/Postcard-Front.jpg" height="200"></td>
+		<td valign="bottom"><img src="/images/Postcard-Back.jpg" height="180"></td>
 	</tr>
 </table>
 <br>
@@ -174,5 +174,4 @@ YRI supports YRSG’s mission through the operation of three business units with
 Ready to “Gift from the Heart”? Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021gifting">here</a> to reserve your preferred gift options! Hurry, as limited quantities are available<br>
 <center><a href="https://go.gov.sg/opsoc2021gifting"><img src="/images/Gift-from-the-Heart QR.png" height="200"></a></center>
 <br>
-
 <br>
