@@ -1,11 +1,11 @@
 ---
-title: 'CS Club Facilities & Chalets Promotions'
+title: 'Facilities & Chalets Promotions'
 permalink: /CSC-clubhouse-2021
 ---
 
 ## CS Club Facilities & Chalets Promotions
 
-<i>All promotions are open to all CSC Members and Public Service Officers</i>
+<i>All promotions are open to all CSC Members and public officers</i>
 <br>
 
 <table>
@@ -14,7 +14,7 @@ permalink: /CSC-clubhouse-2021
       <b>Free Entry to CSC Swimming Pools</b> <br>
       <br>
 			Walk-in for pool use between 1 to 31 Jul '21, <br> 
-			no prior booking needed. Public Service Officers <br> 
+			no prior booking needed. Public officers <br> 
 			can sign in up to 2 guests. Prevailing guest fees applies. 
 			<br>
 			<br>
