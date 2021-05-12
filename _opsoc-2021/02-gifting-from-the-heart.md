@@ -102,23 +102,17 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
  </table>
 <br>
 <br>
+
 #### Yellow Ribbon Industries Pte Ltd
 Suitable for all colleagues, these delicious cookies are available with free delivery! All cookies will be packaged in attractive bottles with silver caps, and priced at $12.80 per bottle (inclusive of GST).<br>
 <br>
-<table width=”100%” border=”1”>
+
+<table style="width:100%">
 	<tr>
-	    <th width="10%">
-		    S/n
-		</th>
-		<th width=”25%”>
-			Cookie type
-		</th>
-		<th width=”25%”>
-			Estimated Weight/Bottle
-		</th>
-		<th width=”40%”>
-			Picture
-		</th>
+		<th>S/N</th>
+		<th>Cookie type</th>
+		<th>Estimated Weight/Bottle</th>
+		<th>Picture</th>
 	</tr>
 	<tr>
 		<td>1.</td>
