@@ -7,9 +7,9 @@ permalink: /opsoc-2021/gifting-from-the-heart
 
 In our journey as public officers, our paths frequently cross those of colleagues from other public agencies as we participate in meaningful collaborations in service of Singapore and Singaporeans. <br>
 <br>
-Ever wanted to send more than just a Thank You email to officers you work with outside your agency? What better way than to send them something from a curated selection of gifts from Social Service Organisations? <br>
+Ever wanted to send more than just a thank-you email to officers you work with outside your agency? What better way than to send them something from a curated selection of gifts from Social Service Organisations? <br>
 <br>
-There are gift-giving special occasions like Mother's Day, Christmas Day and Valentines Day but how about an Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Week, let's celebrate by sending a "Gift from the Heart" to our colleagues, especially those from another agency. <br> 
+There are gifting special occasions like Mother's Day, Christmas Day and Valentine's Day but how about an Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Week, let's celebrate by sending a "Gift from the Heart" to our colleagues, especially those from another agency. <br> 
 <br>
 The best part - you'll be supporting social enterprises such as Foreward Coffee, Bizlink Gifts and Yellow Ribbon Industries at the same time!<br>
 <br>
@@ -118,13 +118,13 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td><img src="/images/chocolatechipcookies.png"height="100" alt="Chocolate Chip Cookies"></td>
+		<td align="center"><img src="/images/chocolatechipcookies.png"height="100" alt="Chocolate Chip Cookies"></td>
 	</tr>
 	<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
+		<td align="centre"><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
 	</tr>
 	<tr>
 		<td>3.</td>
@@ -165,8 +165,8 @@ YRI supports YRSG’s mission through the operation of three business units with
 	</tr>
 	<tr>
     		<td><b>For All Gifts - Postcard for your Personalised Message</b></td>
-		<td><img src="/images/Postcard-Front.jpg" height="200"></td>
-		<td><img src="/images/Postcard-Back.jpg" height="180"></td>
+		<td valign="center"><img src="/images/Postcard-Front.jpg" height="200"></td>
+		<td valign="center"><img src="/images/Postcard-Back.jpg" height="200"></td>
 	</tr>
 </table>
 <br>
