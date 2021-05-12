@@ -118,7 +118,7 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td align="center"><img src="/images/chocolatechipcookies.png"height="100"></td>
+		<td align="center"><img src="/images/chocolatechipcookies.png" alt="Chocolate Chip Cookies"></td>
 	</tr>
 	<tr>
 		<td>2.</td>
