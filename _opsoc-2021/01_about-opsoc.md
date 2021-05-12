@@ -11,7 +11,7 @@ You may register here <i>(registration opens on 31st May 2021)</i><br>
 <h3>About</h3>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
 <br>
-This year, we are continuing with the successful virtual format! Join us in this mega ceremony for all public officers as we come together to reflect over the past one year and look ahead to the coming year.<br>
+This year, we are continuing with the successful virtual format that saw over 10,000 of us gather digitally in 2020. Join us in this mega ceremony for all public officers as we come together to reflect over the past one year and look ahead to the coming year.<br>
 <br>
 You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world.<br>
 <br>
