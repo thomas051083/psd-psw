@@ -1,11 +1,11 @@
 ---
-title: 'CS Club Free Online Social Activities'
+title: 'Online Social Activities'
 permalink: /CSC-Free-Social-Activities/
 
 ---
 
 ## CS Club Free Online Social Activities
-<i>These Online Social Activites are <b>FREE</b> for Members and Public Service Officers</i>
+<i>These Online Social Activites are <b>FREE</b> for Members and public officers</i>
 <br>
 
 <table>
