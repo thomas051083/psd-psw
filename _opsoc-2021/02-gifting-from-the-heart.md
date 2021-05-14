@@ -118,25 +118,25 @@ Suitable for all colleagues, these delicious cookies are available with free del
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td align="center"><img src="/images/chocolatechipcookies.png"height="100"></td>
+		<td><img src="/images/chocolatechipcookies.png" alt="Chocolate Chip Cookies"></td>
 	</tr>
 	<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td align="center"><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
+		<td><img src="/images/cranberrycookies.png" alt="Cranberry Cookies"></td>
 	</tr>
 	<tr>
 		<td>3.</td>
 		<td>Hae Bee Hiam Cookies</td>
 		<td>300g</td>
-		<td align="center"><img src="/images/haebeehiamcookies.png" height="150" alt="Hae Bee Hiam Cookies"></td>
+		<td><img src="/images/haebeehiamcookies.png" alt="Hae Bee Hiam Cookies"></td>
 	</tr>
 	<tr>
 		<td>4.</td>
 		<td>Salted Caramel Cookies</td>
 		<td>280g</td>
-		<td align="center"><img src="/images/saltedcaramelcookies.png" height="150" alt="Salted Caramel Cookies"></td>
+		<td><img src="/images/saltedcaramelcookies.png" alt="Salted Caramel Cookies"></td>
 	</tr>
 </table>
 <br>
