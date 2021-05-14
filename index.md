@@ -15,7 +15,7 @@ sections:
         - title: 'Celebrate Together'
           url: /pstac-2021
         - title: 'Learn and Grow'
-          url: pswlf2021.squarespace.com/
+          url: https://pswlf2021.squarespace.com/
 ---
 
 
