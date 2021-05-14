@@ -2,7 +2,6 @@
 layout: homepage
 title: 'Public Service Week 2021'
 permalink: /
-<!-- notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'-->
 sections:
   - hero:
       title: 'Emerging Stronger as One Public Service'
