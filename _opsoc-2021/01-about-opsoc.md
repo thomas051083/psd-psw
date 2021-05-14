@@ -37,10 +37,8 @@ You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun 
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-      <ul>
-        <li>One Public Service Quiz</li>
-        <li>One Public Service Video Message Challenge</li>
-      </ul>
+        • One Public Service Quiz<br>
+        • One Public Service Video Message Challenge<br>
     </td>
   </tr>
   <tr> 
@@ -84,10 +82,8 @@ You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun 
     </td>
     <td>
       Interactive and engaging activities:<br>
-      <ul>
-        <li>Reflections of Being a Public Officer</li>
-        <li>Gifting from the Heart</li>
-      </ul>
+        • Reflections of Being a Public Officer<br>
+        • Gifting from the Heart<br>
     </td>
   </tr>
   <tr>
