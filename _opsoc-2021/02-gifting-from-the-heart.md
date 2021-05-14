@@ -3,17 +3,17 @@ title: 'Gifting from the Heart'
 permalink: /opsoc-2021/gifting-from-the-heart
 ---
 
-<h3>Gifting from the Heart</h3>
+### Gifting from the Heart
 
 In our journey as public officers, our paths frequently cross those of colleagues from other public agencies as we participate in meaningful collaborations in service of Singapore and Singaporeans. <br>
 <br>
-Ever wanted to send more than just a Thank You email to officers you work with outside your agency? What better way than to send them something from a curated selection of gifts from Social Service Organisations? <br>
+Ever wanted to send more than just a thank-you email to officers you work with outside your agency? What better way than to send them something from a curated selection of gifts from Social Service Organisations? <br>
 <br>
-There are gift-giving special occasions like Mother's Day, Christmas Day and Valentines Day but how about an Inter-Agency Gifting Day? This Public Service Week, as part of the One Public Service Week, let's celebrate by sending a "Gift from the Heart" to our colleagues, especially those from another agency. <br> 
+There are special gifting  occasions like Mother's Day, Christmas Day and Valentine's Day, but how about an Inter-Agency Gifting Day? This Public Service Week, in the lead up to the One Public Service Observance Ceremony, let's celebrate by sending a "Gift from the Heart" to our colleagues, especially those from another agency. <br> 
 <br>
-The best part - you'll be supporting social enterprises such as Foreward Coffee, Bizlink Gifts and Yellow Ribbon Industries at the same time!<br>
+The best part - you'll be supporting social enterprises such as <b>Foreword Coffee Roasters</b>, <b>Bizlink’s Floral & Hamper (F&H Social Enterprise)</b> and <b>Yellow Ribbon Industries Pte Ltd</b> at the same time!<br>
 <br>
-
+<br>
 <table width="100%">
   <tr>
     <td width="33%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
@@ -23,16 +23,17 @@ The best part - you'll be supporting social enterprises such as Foreward Coffee,
 </table>
 <br>
 <br>
-<h4>Foreword Coffee Roasters</h4>
+
+#### Foreword Coffee Roasters
 Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box ($30)</b> from Foreword Coffee would be just perfect for him or her!<br>
 <br>
 <table width="100%">
   <tr>
 	<td colspan="2">  
 	<ul>
-        <li>5 biodegradable brew bags (assorted flavours*)
-        <li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules
-        <li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules
+		<li>5 biodegradable brew bags (assorted flavours*)</li>
+		<li>1 pack of 8 compostable Yunnan Ou Yang Nespresso-compatible Capsules</li>
+		<li>1 pack of 8 compostable Java Malabar Nespresso-compatible Capsules</li>
       	</ul>
 	  </td>
 </tr>
@@ -47,7 +48,7 @@ Looking for a gift for a coffee-lover? With free delivery, the <b>Easy Brew Box 
 <table width="100%">
   <tr>
     <td width="30%"><img src="/images/Foreword Coffee.png" height="200" alt="Foreword Coffee"></td>
-    <td width="70%"><b>Foreword Coffee</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
+    <td width="70%"><b>Foreword Coffee Roasters</b> is a social enterprise member of Singapore Centre for Social Enterprise (raiSE), providing an inclusive work environment for persons with disabilities, special needs and mental health conditions. Using business as a force for good, the social enterprise aspires to create an equitable and sustainable value chain from farmers to consumers.</td>
   </tr>
  </table>
 <br>
@@ -83,7 +84,7 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
       The <b>OPSOC 2021 Appreciation Hamper 2 ($50)</b> includes:<br>
       <ul>
 	      <li>Nature’s Wonders Baked Nuts – Pistachios</li>
-        	<li>K. Harrodson Choco Chip Butter Cookies</li> 
+	      <li>K. Harrodson Choco Chip Butter Cookies</li> 
 	      <li>Daiana Coffee Break – Mocha</li>
 	      <li>Miaow Miaow Prawn Crackers</li>
 	      <li>Win2 Baked Potato Crisp Crackers – Sweet Potato</li>
@@ -96,44 +97,46 @@ Looking for a suitable gift for a group of colleagues? With free delivery, these
 <table width="100%">
   <tr>
     <td width="30%"><img src="/images/Bizlink Gifts.jpg" height="200" alt="Bizlink Gifts"></td>
-    <td width="70%"><b>Bizlink’s Floral & Hamper (F&H) Social Enterprise</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
+    <td width="70%"><b>Bizlink’s Floral & Hamper (F&H Social Enterprise)</b> was launched in 2012 with the aim of training and placing the disadvantaged in jobs relating to floristry. Today, the F&H Social Enterprise provides an array of floral gift services and hampers for all occasions. Products are specially designed and handcrafted by the disadvantaged and Persons with Disabilities (PWDs) working in Bizlink, catering to both individuals and corporate consumers.</td>
   </tr>
  </table>
 <br>
 <br>
-<h4>Yellow Ribbon Industries Pte Ltd</h4>
+
+#### Yellow Ribbon Industries Pte Ltd
 Suitable for all colleagues, these delicious cookies are available with free delivery! All cookies will be packaged in attractive bottles with silver caps, and priced at $12.80 per bottle (inclusive of GST).<br>
 <br>
-<table width=”100%” border=”1”>
-  <tr>
-    <th width="10%">No.</th>
-	<th width=”25%”>Cookie type</th>
-	<th width=”25%”>Estimated Weight/Bottle</th>
-	<th width=”40%”>Picture</th>
+
+<table style="width:100%">
+	<tr>
+		<th>S/N</th>
+		<th>Cookie type</th>
+		<th>Estimated Weight/Bottle</th>
+		<th>Picture</th>
 	</tr>
 	<tr>
 		<td>1.</td>
 		<td>Chocolate Chip Cookies</td>
 		<td>250g</td>
-		<td><img src="/images/chocolatechipcookies.png"height="100" alt="Chocolate Chip Cookies"></td>
+		<td align="center"><img src="/images/chocolatechipcookies.png"height="100"></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>2.</td>
 		<td>Cranberry Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
+		<td align="center"><img src="/images/cranberrycookies.png" height="100" alt="Cranberry Cookies"></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>3.</td>
 		<td>Hae Bee Hiam Cookies</td>
 		<td>300g</td>
-		<td><img src="/images/haebeehiamcookies.png" height="150" alt="Hae Bee Hiam Cookies"></td>
+		<td align="center"><img src="/images/haebeehiamcookies.png" height="150" alt="Hae Bee Hiam Cookies"></td>
 	</tr>
 	<tr>
 		<td>4.</td>
 		<td>Salted Caramel Cookies</td>
 		<td>280g</td>
-		<td><img src="/images/saltedcaramelcookies.png" height="150" alt="Salted Caramel Cookies"></td>
+		<td align="center"><img src="/images/saltedcaramelcookies.png" height="150" alt="Salted Caramel Cookies"></td>
 	</tr>
 </table>
 <br>
@@ -161,9 +164,9 @@ YRI supports YRSG’s mission through the operation of three business units with
 		<td colspan="2"><img src="/images/PSWSticker3.jpg" height="200"></td>
 	</tr>
 	<tr>
-    		<td><b>For All Gifts - Postcard</b></td>
-		<td><img src="/images/Postcard-Front.jpg" height="200"></td>
-		<td><img src="/images/Postcard-Back.jpg" height="180"></td>
+    		<td><b>For All Gifts - Postcard for your Personalised Message</b></td>
+		<td valign="bottom"><img src="/images/Postcard-Front.jpg" height="200"></td>
+		<td valign="bottom"><img src="/images/Postcard-Back.jpg" height="180"></td>
 	</tr>
 </table>
 <br>
@@ -171,5 +174,4 @@ YRI supports YRSG’s mission through the operation of three business units with
 Ready to “Gift from the Heart”? Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021gifting">here</a> to reserve your preferred gift options! Hurry, as limited quantities are available<br>
 <center><a href="https://go.gov.sg/opsoc2021gifting"><img src="/images/Gift-from-the-Heart QR.png" height="200"></a></center>
 <br>
-
-
+<br>
