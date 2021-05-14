@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Public Service Week 2021'
 permalink: /
-notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
+<!-- notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'-->
 sections:
   - hero:
       title: 'Emerging Stronger as One Public Service'
@@ -16,7 +16,7 @@ sections:
         - title: 'Celebrate Together'
           url: /pstac-2021
         - title: 'Learn and Grow'
-          url: https://pswlf2021.squarespace.com/
+          url: pswlf2021.squarespace.com/
 ---
 
 
