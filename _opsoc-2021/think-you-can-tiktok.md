@@ -1,7 +1,7 @@
----
+<!-- ---
 title: 'Think you can TikTok?'
 permalink: /opsoc-2021/think-you-can-tiktok
----
+--- -->
 
 ### Think you can TikTok?
 Show us your creativity! The best submissions depicting how we exhibit strength in character to overcome adversity as One Public Service stand to win vouchers worth up to $400.<br>
