@@ -8,7 +8,7 @@ permalink: /CSC-clubhouse-2021
 Public Service Officers can enjoy free swimming pool usage, as well as members’ rate for facilities and chalets in July! It’s our way to show our appreciation and encourage you to experience the social club for Public Service Officers.
 <br>
 <br>
-<i>All promotions are open to all CSC Members and Public Service Officers, and subjected to availability. Public Service Officers must present their staff pass in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit www.csc.sg/covid19 to view the latest measures.</i>
+<i>All promotions are open to all CSC Members and Public Service Officers, and subjected to availability. Public Service Officers must present their staff pass in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.</i>
 <br>
 <br>
 
