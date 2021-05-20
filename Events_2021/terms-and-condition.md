@@ -56,11 +56,11 @@ All participants must be from Singapore public agencies<br>
 
 ### Prizes
  <ol>
-  <li>The respective team leaders of the top 5 entries will be notified via email during the OPSOC event on 9 July 2021. The winning entries will entitle the team to receive the All-Brands Mooments e-vouchers as follows: 
-    <table>
+  <li>The respective team leaders of the top 5 entries will be notified via email during the OPSOC event on 9 July 2021. The winning entries will entitle the team to receive e-vouchers as follows: 
+    <table width="80%" border="1">
       <tr>
-        <td>1st Prize (Winner)</td>	
-        <td>S$400</td>
+        <td width="60%">1st Prize (Winner)</td>	
+        <td width="20%">S$400</td>
       </tr>
       <tr>
          <td>2nd Prize (1st runner up)</td>
@@ -78,16 +78,19 @@ All participants must be from Singapore public agencies<br>
       </tr>
     </table>
   </li>
-  <li>Team leaders must reply to the email to acknowledge receipt of their prize by 14 July 2021, 12pm. If they do not, the prize will be forfeited.    </li>
+  <li>Team leaders must reply to the email to acknowledge receipt of their prize by 14 July 2021, 12pm. If they do not, the prize will be forfeited.</li>
       </ol><br>
   <br>
 
 ### Acknowledgement and Responsibilities of Participants
 <ol>
-  <li>Only the top 5 entries will be notified via email. </li>
-  <li>By submitting their entries, participants grant the OPSOC 2021 Committee the rights to use the video entries for any promotional purposes without prior consent or remuneration to the participants or team leaders. The OPSOC 2021 Committee reserves the right to crop or edit the video entries for such usage. Credits will be attributed to the participants in such cases. </li>
-  <li>It is the responsibility of the participants to ensure that the video entries are their original work and no copyright and/or trademark infringement rights have been violated. </li>
-  <li>Participants accept all risks of personal injury, property damage or loss of any nature whatsoever that may arise from his/her participation in the video contest and will not in any way hold the OPSOC 2021 Committee responsible for any loss, liability, damage, expense and cost which he/she may sustain or incur as a result of his/her participation, except for liability which cannot be excluded by the laws. </li> 
-  <li>The OPSOC 2021 Committee reserves the right to change, amend or remove any of the Terms and Conditions of the video contest without prior notice. </li>
+  	<li> Only the top 5 entries will be notified via email.</li>
+    <li> By submitting their entries, participants grant the OPSOC 2021 Committee the rights to use the video entries for any promotional purposes without prior consent or remuneration to the participants or team leaders. The OPSOC 2021 Committee reserves the right to crop or edit the video entries for such usage. Credits will be attributed to the participants in such cases.</li>
+    <li> It is the responsibility of the participants to ensure that the video entries are their original work and no copyright and/or trademark infringement rights have been violated.</li>
+    <li> Participants are required to adhere to the prevailing SMM measures by the MTF during all stages of planning, production and editing of the video entries. Any entries found in contravention of the MTF’s rules will be disqualified from the video challenge.</li> 
+    <li> It is the responsibility of participants to seek internal clearance with their respective agencies for the video content, if there is a need, prior to the submission of the videos.</li>
+    <li> Participants accept all risks of personal injury, property damage or loss of any nature whatsoever that may arise from his/her participation in the video challenge and will not in any way hold the OPSOC 2021 Committee responsible for any loss, liability, damage, expense and cost which he/she may sustain or incur as a result of his/her participation, except for liability which cannot be excluded by the laws.</li>
+     <li> The OPSOC 2021 Committee reserves the right to change, amend or remove any of the Terms and Conditions of the video challenge without prior notice. </li>
 </ol>
+
 
