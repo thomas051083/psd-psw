@@ -5,7 +5,7 @@ permalink: /opsoc-2021/terms-and-conditions
 
 ### Terms and Conditions for “We Stand as One” – OPSOC 2021 Video Challenge
 
-### Objectives
+<h4>Objectives</h4>
 <ol>
 <li>The One Public Service Observance Ceremony (OPSOC) 2021 organising committee (hereafter termed as “the Committee”) is pleased to invite all interested public officers to participate in the OPSOC 2021 Video Challenge titled “We Stand as One”. The challenge will be held from 21 May 2021 to 9 July 2021. </li>
 <li>The key objectives of OPSOC 2021 are as follows: </li>
@@ -19,7 +19,7 @@ permalink: /opsoc-2021/terms-and-conditions
 </ol>
 <br>
 <br>
-### Criteria
+<h4>Criteria</h4>
 <ol>
 	<li>All participants must be from Singapore public agencies. </li>
 <li>Only the first 50 registrants will be considered for the challenge. </li>
@@ -35,7 +35,7 @@ permalink: /opsoc-2021/terms-and-conditions
 </ol>
 <br>
 <br>
-### Comply with the Latest Safe Management Measures
+<h4>Comply with the Latest Safe Management Measures</h4>
 <ol>
 <li>Participants are required to comply with the prevailing SMM at all stages of filming, production and editing of the videos. The Phase 2 (Heightened Alert) measures and restrictions were announced on 14 May 2021 by the MTF and will take effect from 16 May 2021 to 13 June 2021. As a result, participants are required to adhere to the guidelines of Phase 2 (Heightened Alert) measures, including but not limited to: </li>
 <ol>
@@ -47,7 +47,7 @@ permalink: /opsoc-2021/terms-and-conditions
 </ol>
 <br>
 <br>
-### How to Participate
+<h4>How to Participate</h4>
 <ol>
   <li>Participants must complete an online registration form on Forms.sg by 11 June 2021, 6.00pm to indicate their interest in participating in the video challenge. The link for the registration form will be sent to all public officers on 21 May 2021 in an official publicity email from PSD. </li>
   <li>Only the first 50 registrants will be eligible to enter the challenge. Any registration of an individual or team after the first 50 may not be eligible to be included in the challenge. </li>
@@ -57,7 +57,7 @@ permalink: /opsoc-2021/terms-and-conditions
 </ol>
 <br>
 <br>
-### Voting Process
+<h4>Voting Process</h4>
 <ol>
   <li>On 24 June 2021, the Committee will upload the submitted video entries onto the “[WOG] FYI” Workplace by Facebook page for voting.</li>
   <li>Public officers can then vote for their favorite video entry by “liking” the entry. Only “likes” on the posts uploaded onto the “[WOG] FYI” Workplace by Facebook page will be counted. </li>
@@ -65,7 +65,7 @@ permalink: /opsoc-2021/terms-and-conditions
 </ol>
 <br>
 <br>
-### Prizes
+<h4>Prizes</h4>
  <ol>
   <li>The respective team leaders of the top 5 entries will be notified via email during the OPSOC event on 9 July 2021. The winning entries will entitle the team to receive e-vouchers as follows: 
     <table width="80%" border="1">
@@ -93,7 +93,7 @@ permalink: /opsoc-2021/terms-and-conditions
       </ol>
 <br>
 <br>
-### Acknowledgement and Responsibilities of Participants
+<h4>Acknowledgement and Responsibilities of Participants</h4>
 <ol>
   	<li> Only the top 5 entries will be notified via email.</li>
     <li> By submitting their entries, participants grant the OPSOC 2021 Committee the rights to use the video entries for any promotional purposes without prior consent or remuneration to the participants or team leaders. The OPSOC 2021 Committee reserves the right to crop or edit the video entries for such usage. Credits will be attributed to the participants in such cases.</li>
