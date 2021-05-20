@@ -17,9 +17,7 @@ Public Service Officers can enjoy free swimming pool usage, as well as membersâ€
 		<td>
       <b>Free Entry to CSC Swimming Pools</b> <br>
       <br>
-			Walk-in for pool use between 1 to 31 Jul '21, 
-			no prior booking needed. Public Service Officers 
-			can sign in up to 2 guests. Prevailing guest fees applies. 
+			Walk-in for pool use between 1 to 31 Jul '21, no prior booking needed. Public Service Officers can sign in up to 2 guests. Prevailing guest fees applies. 
 			<br>
 			<br>
 			For details on pool facilities and timing, please visit: <br> 
