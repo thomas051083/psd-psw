@@ -3,45 +3,43 @@ title: Terms and Conditions
 permalink: /opsoc-2021/terms-and-conditions
 ---
 
-### Terms and Conditions for Think you can TikTok?
-
-
+### Terms and Conditions for “We Stand as One” – OPSOC 2021 Video Challenge
 
 ### Objectives
 <ol>
-  <li>The One Public Service Observance Ceremony (OPSOC) 2021 organising committee (hereafter termed as “the Committee”) is pleased to invite all interested public officers to participate in the OPSOC 2021 Video Contest titled “Think you can TikTok?”. The contest will be held from 21 May 2021 to 9 July 2021. </li>
-  <li>The key objectives of OPSOC 2021 are as follows:</li>
-        <ol>
-          <li>Pay tribute to public officers for their hard work and sacrifices, and motivate all to keep up the fight amidst the COVID-19 pandemic.</li>
-          <li>Reinforce pride in public officers and emphasise the importance of their work to Singapore.</li>
-          <li>Promote building our Future Public Service, despite the ongoing pandemic. </li>
-        </ol>
-  <li>In line with Public Service Week (PSW) 2021’s theme of “Emerging Stronger as One Public Service”, the video contest seeks participants to submit video entries which showcase how their public agencies work together with other public agencies to contribute to the success of Singapore. In the video entries, participants should showcase the cooperation, cohesion and unity of public officers.</li>
-  <li>Participants are encouraged to be creative in their video entries. The concept of the video entries can be (but are not limited to) in the form of a song, dance, cheer, drama sketch, etc. Entries may be a literal representation or could show the nuances/characteristics of public officers exhibiting resilience to overcome adversity.</li>
-</ol><br>
-<br>
-
-### Criteria
-All participants must be from Singapore public agencies<br>
-<ol>
-  <li>Only the first 50 registrants will be considered for the contest.</li>
-  <li>Each video entry must be between 20 and 30 seconds in duration. Each video entry must not exceed 30 seconds in duration.</li>
-  <li>While the video contest is titled “Think you can TikTok?”, the orientation of videos submitted should be landscape only. Video submissions should aim to emulate the informal and short-format essence of TikTok videos.</li>
-  <li>The video resolution for each video submitted must be at least 1080p with a maximum size of 20MB. </li>
-  <li>Video entries should be submitted in MPEG, MPG or WMV format.</li>
-  <li>Video entries must be recorded from 21 May 2021 to 18 June 2021.</li> 
-  <li>Participants may choose to work alone or form groups from his/her own public agency or other public agencies. The Committee will liaise with the team leader via official SCDF email <i>(as SCDF is the organiser for OPSOC 2021)</i> for correspondence.</li>
-  <li>Participants may submit as many video entries as they wish and are not limited to 1 entry per person or group.</li>
-  <li>Video entries should contain a “credits” section to recognise all members who have contributed to each video entry. The “credits” section will not be considered in the duration of the video entry.</li>
+<li>The One Public Service Observance Ceremony (OPSOC) 2021 organising committee (hereafter termed as “the Committee”) is pleased to invite all interested public officers to participate in the OPSOC 2021 Video Challenge titled “We Stand as One”. The challenge will be held from 21 May 2021 to 9 July 2021. </li>
+<li>The key objectives of OPSOC 2021 are as follows: </li>
+	<ol>
+<li>Pay tribute to public officers for their hard work and sacrifices, and motivate all to keep up the fight amidst the COVID-19 pandemic. </li>
+<li>Reinforce pride in public officers and emphasize the importance of their work to Singapore. </li>
+<li>Promote building our Future Public Service, despite the ongoing pandemic. 
+	</ol>
+<li>In line with Public Service Week (PSW) 2021’s theme of “Emerging Stronger as One Public Service”, the video challenge seeks participants to submit video entries which rally public officers to stand in solidarity as One. Video entries can showcase the cooperation, cohesion and unity of public officers, or encourage public officers to be resilient and steadfast despite the changing operational landscape.</li>
+<li>Participants are encouraged to be creative in their video entries. The concept of the video entries can be in the form of (but not limited to) a song, dance, cheer, drama sketch, etc.</li>
 </ol>
 <br>
 <br>
-
+### Criteria
+<ol>
+	<li>All participants must be from Singapore public agencies. </li>
+<li>Only the first 50 registrants will be considered for the challenge. </li>
+<li>Participants must adhere to the latest Safe Management Measures (SMM) and restrictions announced by the Multi-Ministry Taskforce (MTF) (see section 3). </li>
+<li>Each video entry must be between 20 and 30 seconds in duration. Each video entry must not exceed 30 seconds in duration. </li>
+<li>The orientation of videos submitted should be <b>landscape</b> only. </li>
+<li>The video resolution for each video submitted must be at least 1080p with a maximum size of 20MB. </li>
+<li>Video entries should be submitted in MPEG, MPG, MOV, MP4 or WMV format. </li>
+<li>Video entries must be recorded from 21 May 2021 to 18 June 2021. </li>
+<li>Participants may choose to work alone or form groups from his/her own public agency or other public agencies. </li>
+<li>Participants may submit as many video entries as they wish and are not limited to 1 entry per person or group. </li>
+<li>Video entries should contain a “credits” section to recognize all members who have contributed to each video entry. The “credits” section will not be considered in the duration of the video entry. </li>
+</ol>
+<br>
+<br>
 ### Comply with the Latest Safe Management Measures
 <ol>
 <li>Participants are required to comply with the prevailing SMM at all stages of filming, production and editing of the videos. The Phase 2 (Heightened Alert) measures and restrictions were announced on 14 May 2021 by the MTF and will take effect from 16 May 2021 to 13 June 2021. As a result, participants are required to adhere to the guidelines of Phase 2 (Heightened Alert) measures, including but not limited to: </li>
 <ol>
-<li>Participants from the same work segregation unit should be masked at all times and keep to a group of maximum 2 persons with safe distancing measures in place. </li>
+  <li>Participants from the same work segregation unit should be <b>masked at all times</b> and keep to a group of maximum 2 persons with safe distancing measures in place. </li>
 <li>Participants from different work segregation units or agencies could employ alternative filming methods that do not require members to meet physically e.g. virtual filming, in line with the prevailing safe management measures. </li>
 <li>Only participants from the same household may be unmasked if they are filming at home. </li>
 </ol>
@@ -49,7 +47,6 @@ All participants must be from Singapore public agencies<br>
 </ol>
 <br>
 <br>
-
 ### How to Participate
 <ol>
   <li>Participants must complete an online registration form on Forms.sg by 11 June 2021, 6.00pm to indicate their interest in participating in the video challenge. The link for the registration form will be sent to all public officers on 21 May 2021 in an official publicity email from PSD. </li>
