@@ -5,10 +5,10 @@ permalink: /CSC-clubhouse-2021
 
 ## CS Club Facilities & Chalet Promotions
 
-Public Service Officers can enjoy free swimming pool usage, as well as members’ rate for facilities and chalets in July! It’s our way to show our appreciation and encourage you to experience the social club for Public Service Officers.
+Public Service Officers can enjoy free swimming pool usage, as well as members’ rate for facilities and chalets in July! It’s the Club's way to show our appreciation and encourage you to experience the social club for Public Service Officers.
 <br>
 <br>
-<i>All promotions are open to all CSC Members and Public Service Officers, and subjected to availability. Public Service Officers must present their staff pass in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.</i>
+<i>The promotions are open to all Public Service Officers, and subjected to availability. Public Service Officers must present their staff pass in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.</i>
 <br>
 <br>
 
@@ -37,9 +37,9 @@ Public Service Officers can enjoy free swimming pool usage, as well as members�
 			Walk-in or book online at Resort Bowl, Planet Bowl and Westwood Bowl for bowling from 1 to 31 July '21 
 			<br><br>
 			For details on bowling centres and timing, please visit: <br> 
-			•	<a href="https://www.csc.sg/resortbowl/Changi-Resort-Bowl-Home-Page-Civil-Service-Club">Resort Bowl @ Changi</a> <br>
-			•	<a href="https://www.csc.sg/planetbowl/">Planet Bowl @ Tessensohn</a> <br>
-			•	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl @ Bukit Batok</a> <br>
+			•	<a href="https://www.csc.sg/resortbowl/Changi-Resort-Bowl-Home-Page-Civil-Service-Club">Resort Bowl (CSC @ Changi l)</a> <br>
+			•	<a href="https://www.csc.sg/planetbowl/">Planet Bowl (CSC @ Tessensohn)</a> <br>
+			•	<a href="https://www.csc.sg/westwoodbowl/">Westwood Bowl (CSC @ Bukit Batok)</a> <br>
 			<br>
 			<br>
 		</td>
@@ -51,7 +51,7 @@ Public Service Officers can enjoy free swimming pool usage, as well as members�
 		<td>
       <b>Members' Rate for Booking of Chalets</b> <br>
       <br>
-			Bookings for chalets must be made in July for stay from 1 Aug - 31 Oct '21. 
+			Bookings for any CSC @ Changi l chalets or CSC @ Changi ll Fairy Point Chalet 6 & 7 must be made in July for stay from 1 Aug - 31 Oct '21. 
 		      	<br><br>
 			For specifications and details, please visit: <br>
 			•	<a href="https://www.cscchangi.sg/">CSC @ Changi</a><br><br>
@@ -68,14 +68,14 @@ Public Service Officers can enjoy free swimming pool usage, as well as members�
 	</tr>
 	<tr>
 		<td>
-      <b>Members' Rate for Booking of BBQ Pavilions</b> <br>
+      <b>Members' Rate for Booking of BBQ Facilities</b> <br>
       <br>
-			Bookings for BBQ pits and pavilions must be made in July for use from 1 Aug - 31 Oct '21. 
+			Bookings for any CSC @ Changi l BBQ Pavilion and CSC @ Bukit Batok Treehouse BBQ must be made in July for use from 1 Aug - 31 Oct '21. 
 			<br>
       			<br>
       			For specifications and details, please visit: <br>
-			•	<a href="https://www.cscchangi.sg/Fun_BBQ.aspx">CSC @ Changi l (BBQ Pits)</a><br>
-			•	<a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation">CSC @ Bukit Batok (BBQ Pavilions)</a>
+			•	<a href="https://www.cscchangi.sg/Fun_BBQ.aspx">BBQ Pavilions (CSC @ Changi l)</a><br>
+			•	<a href="https://www.cscbukitbatok.sg/CSC-Bukit-Batok-Club-House-Treehouse-BBQ-pavilions-Family-Recreation">Treehouse BBQ (CSC @ Bukit Batok)</a>
 			<br><br>
 			For inquiries or to make a booking, please contact:<br>
 			•	changi@csc.sg<br>
@@ -93,7 +93,7 @@ Public Service Officers can enjoy free swimming pool usage, as well as members�
 			Bookings for function room at CSC @ Changi l and CSC @ Bukit Batok must be made in July for use from 1 Aug - 31 Oct '21. <br>
       <br>
       			For specifications and details, please visit: <br>
-			•	<a href="https://www.cscchangi.sg/">CSC @ Changi</a><br>
+			•	<a href="https://www.cscchangi.sg/">CSC @ Changi l</a><br>
 			•	<a href="https://www.cscbukitbatok.sg/">CSC @ Bukit Batok</a><br>
 			<br>
 			For inquiries or to make a booking, please contact:<br>
