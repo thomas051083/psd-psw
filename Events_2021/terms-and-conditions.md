@@ -12,7 +12,7 @@ permalink: /opsoc-2021/terms-and-conditions
 	<ul>
 <li>Pay tribute to public officers for their hard work and sacrifices, and motivate all to keep up the fight amidst the COVID-19 pandemic. </li>
 <li>Reinforce pride in public officers and emphasize the importance of their work to Singapore. </li>
-<li>Promote building our Future Public Service, despite the ongoing pandemic. 
+<li>Promote building our Future Public Service, despite the ongoing pandemic. </li>
 	</ul>
 <li>In line with Public Service Week (PSW) 2021’s theme of “Emerging Stronger as One Public Service”, the video challenge seeks participants to submit video entries which rally public officers to stand in solidarity as One. Video entries can showcase the cooperation, cohesion and unity of public officers, or encourage public officers to be resilient and steadfast despite the challenging times.</li>
 <li>Participants are encouraged to be creative in their video entries. The concept of the video entries can be in the form of (but not limited to) a song, dance, cheer, drama sketch, etc.</li>
