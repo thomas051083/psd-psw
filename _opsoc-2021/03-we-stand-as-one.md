@@ -1,7 +1,7 @@
-<!-- ---
+---
 title: 'We Stand as One'
 permalink: /opsoc-2021/we-stand-as-one
---- -->
+---
 
 ### We Stand as One
 <br>
