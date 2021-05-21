@@ -23,10 +23,10 @@ permalink: /opsoc-2021/terms-and-conditions
 <ol>
 	<li>All participants must be from Singapore public agencies. </li>
 <li>Only the first 50 registrants will be considered for the challenge. </li>
-<li>Participants must adhere to the latest Safe Management Measures (SMM) and restrictions announced by the Multi-Ministry Taskforce (MTF) (see section 3). </li>
+<li>Participants must adhere to the latest Safe Management Measures (SMM) and restrictions announced by the Multi-Ministry Taskforce (MTF) (see next section). </li>
 <li>Each video entry must be between 20 and 30 seconds in duration. Each video entry must not exceed 30 seconds in duration. </li>
 <li>The orientation of videos submitted should be <b>landscape</b> only. </li>
-<li>The video resolution for each video submitted must be at least 1080p with a maximum size of 20MB. </li>
+<li>The video resolution for each video submitted must be at least 1080p (most smartphones will suffice) with a maximum size of 20MB. </li>
 <li>Video entries should be submitted in MPEG, MPG, MOV, MP4 or WMV format. </li>
 <li>Video entries must be recorded from 21 May 2021 to 18 June 2021. </li>
 <li>Participants may choose to work alone or form groups from his/her own public agency or other public agencies. </li>
@@ -42,8 +42,8 @@ permalink: /opsoc-2021/terms-and-conditions
   <li>Participants from the same work segregation unit should be <b>masked at all times</b> and keep to a group of maximum 2 persons with safe distancing measures in place. </li>
 <li>Participants from different work segregation units or agencies could employ alternative filming methods that do not require members to meet physically e.g. virtual filming, in line with the prevailing safe management measures. </li>
 <li>Only participants from the same household may be unmasked if they are filming at home. </li>
-</ol>
-<li>Where there are further updates on the Safe Management Measures, section 3 will be updated accordingly. Where participants have already registered for the challenge, the committee will reach out to the team leader via email for further clarification of SMM if required. </li>
+	</ol>
+<li>Where there are further updates on the Safe Management Measures, this section will be updated accordingly. Where participants have already registered for the challenge, the committee will reach out to the team leader via email for further clarification of SMM if required. </li>
 </ol>
 <br>
 <br>
