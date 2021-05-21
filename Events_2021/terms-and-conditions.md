@@ -42,8 +42,8 @@ permalink: /opsoc-2021/terms-and-conditions
   <li>Participants from the same work segregation unit should be <b>masked at all times</b> and keep to a group of maximum 2 persons with safe distancing measures in place. </li>
 <li>Participants from different work segregation units or agencies could employ alternative filming methods that do not require members to meet physically e.g. virtual filming, in line with the prevailing safe management measures. </li>
 <li>Only participants from the same household may be unmasked if they are filming at home. </li>
-</ol
-<li>Where there are further updates on the Safe Management Measures,this section will be updated accordingly. Where participants have already registered for the challenge, the committee will reach out to the team leader via email for further clarification of SMM if required. </li>
+	</ol>
+<li>Where there are further updates on the Safe Management Measures, this section will be updated accordingly. Where participants have already registered for the challenge, the committee will reach out to the team leader via email for further clarification of SMM if required. </li>
 </ol>
 <br>
 <br>
