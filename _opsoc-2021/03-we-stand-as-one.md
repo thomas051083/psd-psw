@@ -17,8 +17,7 @@ Have words of encouragement for them? Submit a video rallying public officers to
 Get creative! Present your video entries virtually as a song, dance, cheer or drama sketch. The best submissions stand to win vouchers worth up to $400.<br>
 <table width="100%">
   <tr>
-    <td width="50%" align="center"><img src="/images/Video Challenge1.JPG" alt="Contest Prizes" height="250px"></td>
-    <td width="50%" align="center"><img src="/images/Video Challenge2.JPG" alt="Video Challenge" height="250px"></td>
+    <td align="center"><img src="/images/We Stand as One.png" alt="We Stand As One" height="300px"></td>
   </tr>
  </table>
 <br>
