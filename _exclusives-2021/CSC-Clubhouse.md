@@ -53,6 +53,9 @@ Public Service Officers can enjoy free swimming pool usage, as well as members�
       <br>
 			Bookings for any CSC @ Changi l chalets or CSC @ Changi ll Fairy Point Chalet 6 & 7 must be made in July for stay from 1 Aug - 31 Oct '21. 
 		      	<br><br>
+			OR <br><br>
+			Enjoy 50% OFF a second night stay when you book the Superior and Deluxe suites at CSC @ Changi l*. <br>
+			<i>*Not applicable with members’ rates promotion<i><br><br>
 			For specifications and details, please visit: <br>
 			•	<a href="https://www.cscchangi.sg/">CSC @ Changi</a><br><br>
 			For chalet availability and rates, please visit:<br>
