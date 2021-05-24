@@ -11,6 +11,7 @@ Public Service Officers can enjoy free swimming pool usage, as well as membersâ€
 <i>The promotions are open to all Public Service Officers, and subjected to availability. Public Service Officers must present their staff pass in person, and complete a short form before usage of the facilities. Facilities and chalets are subject to prevailing Safe Management Measures. Visit <a href="www.csc.sg/covid19">www.csc.sg/covid19 </a> to view the latest measures.</i>
 <br>
 <br>
+
 <table width="100%">
 	<tr>
 		<td>
