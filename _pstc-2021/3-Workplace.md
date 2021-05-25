@@ -1,11 +1,11 @@
 ---
-title: 'Future of Workplace'
-permalink: /pstc-2021/future-of-workplace
-breadcrumb: 'Future of Workplace'
+title: 'Future Workplace'
+permalink: /pstc-2021/future-workplace
+breadcrumb: 'Future Workplace'
 
 ---
 
-### Future of Workplace (Webinar 1): Stronger Teams
+### Future Workplace (Webinar 1): Stronger Teams
 #### Addressing the impact of hybrid work environments on teamwork, this webinar will focus on how organisations can overcome challenges to strengthen organisational culture, as well as how technology can be leveraged to build stronger teams.
 
 #### Date:
@@ -21,7 +21,7 @@ Mr Kiren Kumar, Deputy Chief Executive, IMDA <i> [Moderator]</i>
 <br>
 <br>
 <br>
-### Future of Workplace (Webinar 2): Stronger Individuals
+### Future Workplace (Webinar 2): Stronger Individuals
 #### Addressing the impact of hybrid work environments on individuals, this webinar will focus on how public officers can sustain their mental well-being and cope with changes in their work environments, as well as create awareness of initiatives geared to support officers’ mental health.
 
 #### Date:
