@@ -14,7 +14,7 @@ custom_print_css_path: /assets/css/print.css
 
 collections:
     pstc-2021:
-        output: false
+        output: true
     pstac-2021:
         output: true
     opsoc-2021:
