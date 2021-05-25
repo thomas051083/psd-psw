@@ -1,5 +1,5 @@
 ---
-title: 'Public Sector Transformation Convention'
+title: 'About'
 permalink: /pstc-2021/about
 ---
 
