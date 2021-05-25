@@ -1,7 +1,7 @@
 ---
-title: 'Future of Workforce'
-permalink: /pstc-2021/future-of-workforce
-breadcrumb: 'Future of Workforce'
+title: 'Future Workforce'
+permalink: /pstc-2021/future-workforce
+breadcrumb: 'Future Workforce'
 
 ---
 
