@@ -1,8 +1,6 @@
 ---
 title: 'Future Workplace'
 permalink: /pstc-2021/future-workplace
-breadcrumb: 'Future Workplace'
-
 ---
 
 ### Future Workplace (Webinar 1): Stronger Teams
