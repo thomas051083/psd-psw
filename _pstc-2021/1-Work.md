@@ -1,8 +1,6 @@
 ---
 title: 'Future of Work'
 permalink: /pstc-2021/future-of-work
-breadcrumb: 'Future of Work'
-
 ---
 
 With a focus on innovation and change, this webinar will explore how forward-looking organisations promote innovation, reimagine their work and transform themselves even amidst COVID-19 to navigate the waves of change and emerge stronger.
