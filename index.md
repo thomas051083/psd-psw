@@ -14,6 +14,8 @@ sections:
           url: /opsoc-2021/about
         - title: 'Celebrate Together'
           url: /pstac-2021
+        - title: 'Be Inspired'
+          url: /pstc-2021/about
         - title: 'Learn and Grow'
           url: https://pswlf2021.squarespace.com/
 ---
