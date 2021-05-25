@@ -16,4 +16,7 @@ Hear from our line-up of speakers on the following topics:<br>
   <li>[Future Workplace](/pstc-2021/future-workplace/) (2/2), 2 Aug 2.30pm - 4pm</li>
 </ul>
 
-
+<br>
+<br>
+<i>Registration link coming soon</i>
+<br>
