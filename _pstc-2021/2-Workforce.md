@@ -1,8 +1,6 @@
 ---
 title: 'Future Workforce'
 permalink: /pstc-2021/future-workforce
-breadcrumb: 'Future Workforce'
-
 ---
 
 #### With an emphasis on career agility, this webinar will focus on the progressive approaches in building a future-ready workforce and how public officers can shape their own values and mindsets to be agile and take charge of their career development.
