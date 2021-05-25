@@ -13,7 +13,7 @@ Hear from our line-up of speakers on the following topics:<br>
   <li>[Future of Work](/pstc-2021/future-of-work/), 12 Jul 4pm - 5.30pm</li>
   <li>[Future Workplace](/pstc-2021/future-workplace/) (1/2), 19 Jul 2.30pm - 4pm</li>
   <li>[Future Workforce](/pstc-2021/future-workforce/), 26 Jul 3pm - 4.30pm</li>
-  <li>Future Workplace](/pstc-2021/future-workplace/) (2/2), 2 Aug 2.30pm - 4pm</li>
+  <li>[Future Workplace](/pstc-2021/future-workplace/) (2/2), 2 Aug 2.30pm - 4pm</li>
 </ul>
 
 
