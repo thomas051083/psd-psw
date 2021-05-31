@@ -7,7 +7,7 @@ permalink: /opsoc-2021/about
 <b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <b>Registration</b>: Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021registration">here</a> to register for OPSOC.<br>
-<center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="300"></a></center>
+<center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="300"></a></center><br>
 <br>
 ### About
 <br>
