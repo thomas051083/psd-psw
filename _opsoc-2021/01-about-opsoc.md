@@ -10,6 +10,7 @@ permalink: /opsoc-2021/about
 <center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="300"></a></center>
 <br>
 ### About
+<br>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
 <br>
 This year, we are continuing with the successful virtual format that saw over 10,000 of us gather digitally in 2020. Join us in this mega ceremony for all public officers as we come together to reflect over the past one year and look ahead to the coming year.<br>
@@ -19,6 +20,7 @@ You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun 
 <br>
 
 ### OPSOC Teaser Video
+<br>
 <b><i>---Watch out for the video soon!---</i></b><br>
 <br>
 ### Programme
