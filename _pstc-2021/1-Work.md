@@ -11,7 +11,7 @@ With a focus on innovation and change, this webinar will explore how forward-loo
 <b>Time:</b> 4pm – 5.30pm <br>
 <br>
 <b>Speakers</b><br>
-Mr. Oliver Tonby, Chairman, Asia, McKinsey & Company<br>
-Ms. Dione Song, Chief Executive Officer, Love, Bonito <br>
-Mr. Kok Ping Soon, Chief Executive, GovTech <br>
-Ms. Dawn Lim, Vice President & Head of Commercial and Professional Services, EDB <i> [Moderator] </i> <br>  
+• Mr. Oliver Tonby, Chairman, Asia, McKinsey & Company<br>
+• Ms. Dione Song, Chief Executive Officer, Love, Bonito <br>
+• Mr. Kok Ping Soon, Chief Executive, GovTech <br>
+• Ms. Dawn Lim, Vice President & Head of Commercial and Professional Services, EDB <i> [Moderator] </i> <br>  
