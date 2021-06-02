@@ -3,14 +3,15 @@ title: 'About OPSOC'
 permalink: /opsoc-2021/about
 ---
 
+<h3 style="color:red;">OPSOC Teaser Video</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0v3IMgaP4O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<br>
+<br>
 <i>The event is open to all public officers</i><br>
 <b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <b>Registration</b>: Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021registration">here</a> to register for OPSOC.<br>
 <center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="200"></a></center><br>
-<br>
-<h3 style="color:red;">OPSOC Teaser Video</h3>
-<b><i>---Watch out for the video soon!---</i></b><br>
 <br>
 <h3>About</h3>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
@@ -19,7 +20,7 @@ This year, we are continuing with the successful virtual format that saw over 10
 <br>
 You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world.<br>
 <br>
-### Programme
+<h3>Programme</h3>
 <table width="100%" border="1">
   <tr>
     <th width="20%">
