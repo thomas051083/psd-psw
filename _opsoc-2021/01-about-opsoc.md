@@ -8,8 +8,6 @@ permalink: /opsoc-2021/about
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0v3IMgaP4O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<br>
 <br>
 <i>The event is open to all public officers</i><br>
 <b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
