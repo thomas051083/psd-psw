@@ -4,7 +4,11 @@ permalink: /opsoc-2021/about
 ---
 
 <h3 style="color:red;">OPSOC Teaser Video</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0v3IMgaP4O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0v3IMgaP4O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <br>
 <br>
 <i>The event is open to all public officers</i><br>
