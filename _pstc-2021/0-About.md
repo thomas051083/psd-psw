@@ -15,5 +15,5 @@ Hear from our line-up of speakers on the following topics:<br>
   * [Future Workplace](/pstc-2021/future-workplace/) (2/2), 2 Aug 2.30pm - 4pm
 <br>
 <br>
-<i>Registration link coming soon</i>
+<b>Register for the webinars here: go.gov.sg/pstc2021-register</b>
 <br>
